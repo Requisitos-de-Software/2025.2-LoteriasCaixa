@@ -47,6 +47,27 @@ Através de **missões, desafios e quizzes**, os usuários podem aprender de for
         <sub><b>João Pedro</b></sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/H3ytt0r62">
+        <img src="https://github.com/H3ytt0r62.png" width="100px" alt="Heyttor Augusto"/>
+        <br />
+        <sub><b>Heyttor Augusto</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/NayraNery127">
+        <img src="https://github.com/NayraNery127.png" width="100px" alt="Nayra Silva"/>
+        <br />
+        <sub><b>Nayra Silva</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/RivaFilho">
+        <img src="https://github.com/RivaFilho.png" width="100px" alt="Rivadalvio Joaquim"/>
+        <br />
+        <sub><b>Rivadalvio Joaquim</b></sub>
+      </a>
+    </td>
   </tr>
 </table>
 
