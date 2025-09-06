@@ -70,14 +70,3 @@ Através de **missões, desafios e quizzes**, os usuários podem aprender de for
     </td>
   </tr>
 </table>
-
----
-
-## 🛠️ Tecnologias e Ferramentas  
-
----
-
-## 📂 Estrutura do Repositório
-```bash
-
-└── README.md             # Este arquivo
