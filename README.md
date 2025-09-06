@@ -35,9 +35,9 @@ Através de **missões, desafios e quizzes**, os usuários podem aprender de for
     </td>
     <td align="center">
       <a href="https://github.com/TerminaKng05">
-        <img src="https://github.com/TerminaKng05.png" width="100px" alt="Samuel"/>
+        <img src="https://github.com/TerminaKng05.png" width="100px" alt="Samuel Felipe"/>
         <br />
-        <sub><b>Samuel</b></sub>
+        <sub><b>Samuel Felipe</b></sub>
       </a>
     </td>
     <td align="center">
