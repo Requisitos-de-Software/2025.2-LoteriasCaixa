@@ -41,10 +41,10 @@ Através de **missões, desafios e quizzes**, os usuários podem aprender de for
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/integrante4">
-        <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="100px" alt="Integrante 4"/>
+      <a href="https://github.com/Jadequilin">
+        <img src="https://github.com/Jadequilin.png" width="100px" alt="João Pedro"/>
         <br />
-        <sub><b>Integrante 4</b></sub>
+        <sub><b>João Pedro</b></sub>
       </a>
     </td>
   </tr>
