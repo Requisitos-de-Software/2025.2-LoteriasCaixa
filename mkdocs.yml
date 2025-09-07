@@ -1,0 +1,13 @@
+site_name: Requisitos de Software - Game da Cidadania
+theme:
+  name: material
+
+nav:
+  - Início: index.md
+  - Análise: Análise.md
+  - Elicitação: Elicitação.md
+  - Modelagem: Modelagem.md
+  - Apresentações: Apresentações.md
+  - Planejamento: Planejamento.md
+  - Pré-rastreabilidade: Pré-rastreabilidade.md
+  - Pós-rastreabilidade: Pós-rastreabilidade.md
