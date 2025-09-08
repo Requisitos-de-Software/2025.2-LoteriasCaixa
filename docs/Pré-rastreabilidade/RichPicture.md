@@ -10,7 +10,7 @@
 ---
 
 
-**rich picture** é uma ilustração simples das funções e comportamentos que o software deve executar durante o uso dos usarios. Os elementos basicos de um rich picture são:
+**Rich picture** é uma ilustração simples das funções e comportamentos que o software deve executar durante o uso dos usarios. Os elementos basicos de um rich picture são:
 
 - **Usuário**, representado por um boneco palito, representando as ações que um usuário pode ter usando o software.
 
@@ -23,9 +23,11 @@
 ---
 
 # Rich picture do programa escolhido pelo grupo
+<p style="text-align: center;">Imagem 1: Rich Picture do Game da Cidadania</p>
 
 ![Rich picture do sistema](../images/grupo7-richpicture.jpg)
 
+<p style="text-align: center;">Fonte: Heyttor Augusto</p>
 
 ## 3. Referências
 

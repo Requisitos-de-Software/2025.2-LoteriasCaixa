@@ -36,7 +36,20 @@ nav:
   - Modelagem: Modelagem.md
   - Apresentações: Apresentações.md
   - Planejamento: Planejamento.md
-  - Pre-Rastreabilidade:
-    - Pre-rastreabilidade/AppsAnalisados.md
-    - Pre-rastreabilidade/RichPicture.md
+  - Pré-Rastreabilidade:
+    - Pré-rastreabilidade/AppsAnalisados.md
+    - Pré-rastreabilidade/RichPicture.md
   - Pós-Rastreabilidade: Pós-rastreabilidade.md
+  - Termos de Uso: TermosDeUso.md
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: false
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.inlinehilite
+  - pymdownx.mark
+
