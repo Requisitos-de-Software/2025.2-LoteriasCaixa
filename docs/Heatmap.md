@@ -7,7 +7,7 @@ Um **heatmap**, ou mapa de calor, é uma representação visual de dados que uti
 
 <p style="text-align: center;">Imagem 1: Heatmap do grupo</p>
 
-![heatmap do grupo](../images/heatmap-grupo7.png)
+![heatmap do grupo](./images/heatmap-grupo7.png)
 
 <p style="text-align: center;">Fonte: Heyttor Augusto</p>
 
