@@ -26,8 +26,8 @@ theme:
     - search.suggest
     - search.highlight
     - content.code.copy
-    - content.action.edit
-    - content.action.view
+    #- content.action.edit
+    #- content.action.view
 
 nav:
   - Início: index.md
