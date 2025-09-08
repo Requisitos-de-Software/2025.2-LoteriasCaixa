@@ -1,0 +1,14 @@
+# Ignorar ambiente virtual
+.venv/
+venv/
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Build do MkDocs
+site/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
