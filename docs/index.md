@@ -3,16 +3,6 @@
 
 ---
 
-##  Tabela de Versionamento
-
-| Versão | Data       | Descrição                                       | Autor               | Revisor              |
-|--------|------------|-----------------------------------------------|----------------------|----------------------|
-| 1.0    | 06-09-2025 | Criação inicial do documento                  | Luan                 | Nome do Revisor      |
-| 1.1    | DD-MM-AAAA | ...                                           | Nome do Autor        | Nome do Revisor      |
-| 1.2    | DD-MM-AAAA | ...                                           | Nome do Autor        | Nome do Revisor      |
-
----
-
 ##  Introdução  
 Este repositório contém os materiais e estudos desenvolvidos na disciplina de **Requisitos de Software** do curso de **Engenharia de Software da Universidade de Brasília (FCTE/UnB)**.  
 O objetivo é aprofundar conceitos, métodos e técnicas de Engenharia de Requisitos aplicados ao **Game da Cidadania**, um aplicativo do Governo Federal que promove a educação fiscal e cidadania de forma interativa e gamificada.

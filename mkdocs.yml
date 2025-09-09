@@ -32,9 +32,9 @@ theme:
 nav:
   - Início: index.md
   - Análise: Análise.md
-  - Elicitação: Elicitação.md
+  - Elicitação: 
+    - Elicitação/Brainstorming.md
   - Modelagem: Modelagem.md
-  - Apresentações: Apresentações.md
   - Planejamento: 
     - Planejamento/Cronogramas.md
     - Planejamento/Heatmap.md
@@ -44,6 +44,10 @@ nav:
     - Pré-rastreabilidade/RichPicture.md
   - Pós-Rastreabilidade: Pós-rastreabilidade.md
   - Termos de Uso: TermosDeUso.md
+  - Apresentações: Apresentações.md
+  - Atas:
+    - Atas/Ata de reunião 1.md
+    - Atas/Ata de reunião 2.md
   
 
 markdown_extensions:

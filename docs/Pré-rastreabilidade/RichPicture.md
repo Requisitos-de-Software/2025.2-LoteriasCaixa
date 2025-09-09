@@ -1,17 +1,15 @@
-# Rich picture
-
----
-# Versionamento 
+# Rich Picture
+## 1. Versionamento 
 
 | Versão | Data       | Autor               | Descrição                                    | Revisor |
 |--------|------------|---------------------|----------------------------------------------|---------|
-| 1.0    | 08/09/2025 | Heyttor Augusto     | Abertura do richpicture | luan vinicius |
-| 1.1    | 08/09/2025 | luan vinicius       | Modificações do richpicture| heyttor augusto|
+| 1.0    | 08/09/2025 | Heyttor Augusto     | Abertura do richpicture | Luan Vinícius |
+| 1.1    | 08/09/2025 | Luan Vinícius       | Modificações do richpicture| Heyttor Augusto|
 
 ---
 
 
-**Rich picture** é uma ilustração simples das funções e comportamentos que o software deve executar durante o uso dos usarios. Os elementos basicos de um rich picture são:
+**Rich Picture** é uma ilustração simples das funções e comportamentos que o software deve executar durante o uso dos usarios. Os elementos basicos de um rich picture são:
 
 - **Usuário**, representado por um boneco palito, representando as ações que um usuário pode ter usando o software.
 
@@ -23,7 +21,7 @@
 
 ---
 
-# Rich picture do programa escolhido pelo grupo
+## 2. Rich Picture do programa escolhido pelo grupo
 <p style="text-align: center;">Imagem 1: Rich Picture do Game da Cidadania</p>
 
 ![Rich picture do sistema](../images/grupo7-richpicture.jpg)
