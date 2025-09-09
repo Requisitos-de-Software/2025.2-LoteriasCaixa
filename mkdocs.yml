@@ -31,24 +31,39 @@ theme:
 
 nav:
   - Início: index.md
-  - Análise: Análise.md
-  - Elicitação: 
-    - Elicitação/Brainstorming.md
-  - Modelagem: Modelagem.md
   - Planejamento: 
     - Planejamento/Cronogramas.md
     - Planejamento/Heatmap.md
     - Planejamento/Ferramentas.md
+    - Planejamento/Metodologia.md
   - Pré-Rastreabilidade:
     - Pré-rastreabilidade/AppsAnalisados.md
-    - Pré-rastreabilidade/RichPicture.md
-  - Pós-Rastreabilidade: Pós-rastreabilidade.md
-  - Termos de Uso: TermosDeUso.md
+    - Pré-rastreabilidade/RichPicture.md    
+  - Elicitação: 
+    - Elicitação/Brainstorm.md
+    - Elicitação/Entrevista.md
+    - Elicitação/Questionário.md
+    - Elicitação/Personas.md
+    - Elicitação/Storytelling.md
+    - Elicitação/Introspecção.md
+  - Modelagem: 
+    - Modelagem/Casos de uso.md
+    - Modelagem/Cenários.md
+    - Modelagem/Especificação.md
+    - Modelagem/História de usuário.md
+    - Modelagem/Léxicos.md
+    - Modelagem/NFR.md 
+  - Análise: 
+    - Análise/Verificação.md
+    - Análise/Validação.md
+  - Pós-Rastreabilidade: 
+    - Pós-rastreabilidade/Forward from.md
+    - Pós-rastreabilidade/Backward from.md
   - Apresentações: Apresentações.md
   - Atas:
     - Atas/Ata de reunião 1.md
     - Atas/Ata de reunião 2.md
-  
+  - Termos de Uso: TermosDeUso.md
 
 markdown_extensions:
   - admonition
