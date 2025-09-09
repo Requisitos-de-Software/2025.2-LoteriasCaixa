@@ -35,13 +35,16 @@ nav:
   - Elicitação: Elicitação.md
   - Modelagem: Modelagem.md
   - Apresentações: Apresentações.md
-  - Planejamento: Planejamento.md
+  - Planejamento: 
+    - Planejamento/Cronogramas.md
+    - Planejamento/Heatmap.md
+    - Planejamento/Ferramentas.md
   - Pré-Rastreabilidade:
     - Pré-rastreabilidade/AppsAnalisados.md
     - Pré-rastreabilidade/RichPicture.md
   - Pós-Rastreabilidade: Pós-rastreabilidade.md
   - Termos de Uso: TermosDeUso.md
-  - Heatmap: Heatmap.md
+  
 
 markdown_extensions:
   - admonition
