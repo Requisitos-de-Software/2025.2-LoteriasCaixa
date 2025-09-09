@@ -5,7 +5,8 @@
 
 | Versão | Data       | Autor               | Descrição                                    | Revisor |
 |--------|------------|---------------------|----------------------------------------------|---------|
-| 1.0    | 08/09/2025 | Heyttor Augusto     | Abertura do richpicture | - |
+| 1.0    | 08/09/2025 | Heyttor Augusto     | Abertura do richpicture | luan vinicius |
+| 1.1    | 08/09/2025 | luan vinicius       | Modificações do richpicture| heyttor augusto|
 
 ---
 
