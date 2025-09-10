@@ -5,6 +5,7 @@
 |--------|------------|---------------------|----------------------------------------------|---------|
 | 1.0    | 08/09/2025 | Heyttor Augusto     | Abertura do richpicture | Luan Vinícius |
 | 1.1    | 08/09/2025 | Luan Vinícius       | Modificações do richpicture| Heyttor Augusto|
+| 1.1    | 09/09/2025 | Heyttor Augusto     | Adição de conteudo         | Luan vinícuis   |
 
 ---
 
@@ -18,6 +19,8 @@
 - **Base de dados**, representadas por um retangulo com o tipo de dado no centro, representando os bancos de dados que o software tem.
 
 - **setas**, representando as interações dos usuarios com as funções do software e tambem as respostas do software ao usario, tendo tambem uma descrição breve junto a seta.
+
+- **Limites**, representado tudo que é de reponsabilidade do software/desenvolvedores, sendo representando por um circulo que cerca todas as funções e base de dados.
 
 ---
 
