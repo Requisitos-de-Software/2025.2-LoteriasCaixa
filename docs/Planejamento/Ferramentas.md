@@ -14,6 +14,8 @@
 Os softwares escolhidos servirão como ferramentas de apoio para a equipe do projeto, auxiliando no gerenciamento, na comunicação e na elaboração da documentação necessária para o tema abordado na disciplina, cujo foco será a análise de requisitos do aplicativo Game da Cidadania.
 </p>
 
+---
+
 ## 3. Ferramentas utilizadas 
 <p style="text-align: center;">
 Tabela 1: Ferramentas utilizadas no projeto
