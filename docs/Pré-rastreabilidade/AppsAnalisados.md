@@ -1,12 +1,10 @@
 # Aplicativos Analisados
 
----
-
 ## 1. Versionamento
 
 | Versão | Data       | Autor               | Descrição                                    | Revisor |
 |--------|------------|---------------------|----------------------------------------------|---------|
-| 1.0    | 07/09/2025 | Miquéias Ezequiel   | Abertura do documento de aplicativos analisados | - |
+| 1.0    | 07/09/2025 | Miquéias Ezequiel   | Abertura do documento de aplicativos analisados | Luan Vinícius|
 
 ---
 

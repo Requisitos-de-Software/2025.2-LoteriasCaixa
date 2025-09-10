@@ -75,4 +75,3 @@ markdown_extensions:
       custom_checkbox: true
   - pymdownx.inlinehilite
   - pymdownx.mark
-
