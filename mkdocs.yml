@@ -54,9 +54,10 @@ nav:
     - Modelagem/História de usuário.md
     - Modelagem/Léxicos.md
     - Modelagem/NFR.md 
-  - Análise: 
-    - Análise/Verificação.md
-    - Análise/Validação.md
+  - Análise:    
+  
+    - Análise/grupo+1RP.md
+
   - Pós-Rastreabilidade: 
     - Pós-rastreabilidade/Forward from.md
     - Pós-rastreabilidade/Backward from.md
