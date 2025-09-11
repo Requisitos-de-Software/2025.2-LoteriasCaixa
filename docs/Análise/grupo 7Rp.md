@@ -70,3 +70,8 @@ Fonte: Material do Aprender3
 |:--------:|:------------:|:---------------------:|:----------------------------------------------:|:---------:|
 | 1.0    | 09/09/2025 | Heyttor Augusto     | Criação do documento | Luan Vinícius |
 | 1.1    | 10/09/2025 | Luan Vinícius, Heyttor Augusto     | Adição das checklists | Luan Vinícius, Miqueias Ezequiel |
+
+## Referências
+
+1. Introducing Rich Pictures - Rich Picture Drawing Guidelines. Disponível em: <https://aprender3.unb.br/pluginfile.php/3210571/mod_resource/content/2/1_5145791542719414573.pdf> Acesso em: 10/09/2025. 
+2. Lista de Verifificação - Plano_de_Ensino RE 022025 Turma 03 v2. Disponível em: <https://aprender3.unb.br/pluginfile.php/3210495/mod_resource/content/59/Lista%20de%20Verifificac%CC%A7a%CC%83o%20-%20Plano_de_Ensino%20RE%20022025%20Turma%2003%20v2.pdf> Acesso em: 10/09/2025.
