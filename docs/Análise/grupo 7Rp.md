@@ -30,3 +30,5 @@ Baseado na lista de verificação feita pelos membros do grupo, fizemos uma chec
 | 18 | Foram incluídos apenas elementos relevantes para o domínio?               |     Sim      |          |
 | 19 | O Rich Picture inclui exemplos de dados que fluem entre componentes?      |     Sim     |          |
 |20| As setas são orientadas por apenas uma cabeça? |   Sim  |      |
+
+Fonte: Os autores 
