@@ -5,7 +5,7 @@
 |--------|------------|---------------------|----------------------------------------------|---------|
 | 1.0    | 08/09/2025 | Heyttor Augusto     | Abertura do richpicture | Luan Vinícius |
 | 1.1    | 08/09/2025 | Luan Vinícius       | Modificações do richpicture| Heyttor Augusto|
-| 1.1    | 09/09/2025 | Heyttor Augusto     | Adição de conteudo         | Luan vinícuis   |
+| 1.1    | 09/09/2025 | Heyttor Augusto     | Adição de conteúdo         | Luan Vinícius   |
 
 ---
 
