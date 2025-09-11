@@ -1,4 +1,4 @@
-## Análise do richpicture do grupo+1 
+## Análise do richpicture do grupo 1
 
 
 ## Introdução
