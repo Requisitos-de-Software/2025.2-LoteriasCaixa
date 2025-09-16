@@ -1,4 +1,4 @@
-## Video e Ata da primeira reunião gravada ##
+## Video e Ata da terceira reunião gravada ##
 
 
 [link do video](ainda por fazer reunião formal)
