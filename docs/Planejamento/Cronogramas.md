@@ -30,7 +30,7 @@ A Tabelas mostram as atividades planejadas para as apresentações do projeto e 
 
 | Atividade | Início | Fim | Data limite |Autores | Revisores |
 |-----------|--------|-----|---------|---------|-----------|
-| Entrevista | 10/09 | 20/09 | 29/09 | [Heyttor](https://github.com/H3ytt0r62) e [Nayra Nery]|
+| Entrevista | 10/09 | 20/09 | 29/09 | [Heyttor](https://github.com/H3ytt0r62) | [Nayra Nery](https://github.com/NayraNery127) |
 | Personas | 10/09 | 20/09 | 29/09 | [Nayra Nery](https://github.com/NayraNery127) | [João Pedro](https://github.com/Jadequilin)  |
 | Storytelling | 10/09 | 21/09 | 29/09 |[João Pedro](https://github.com/Jadequilin)| [Nayra Nery](https://github.com/NayraNery127) |
 | Perfil - Brainstorming | 10/09 | 22/09 | 29/09 | [Rivadalvo Filho](https://github.com/RivaFilho) e [Miquéias Ezequiel](https://github.com/Kael-web7)| [Heyttor](https://github.com/H3ytt0r62) |
