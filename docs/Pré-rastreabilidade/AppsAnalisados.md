@@ -2,27 +2,32 @@
 
 ## 1. Versionamento
 
-| Versão | Data       | Autor               | Descrição                                    | Revisor |
+| Versão | Data       | Autor               | Descrição                                        | Revisor |
 |--------|------------|---------------------|----------------------------------------------|---------|
 | 1.0    | 07/09/2025 | Miquéias Ezequiel   | Abertura do documento de aplicativos analisados | Luan Vinícius|
-
+| 1.1    | 17/09/2025 | Nayra Nery          | Atualização do aplicativo selecionado |              |
 ---
 
 ## 2. Aplicativos
 
-### **Nosso App Principal - Game da Cidadania**
-O **Game da Cidadania** é o aplicativo que está sendo analisado pelo grupo.  
-Seu objetivo é **promover a educação cidadã** por meio de gamificação, incentivando os usuários a aprenderem sobre seus direitos, deveres e participação social de forma divertida e interativa.
+### **Nosso App Principal - Loterias Caixa**
+O **Loterias Caixa** é o aplicativo que está sendo analisado pelo grupo.  
+Seu objetivo é **o acesso às loterias de forma prática e segura** permitindo que os usuários realizem apostas, confiram resultados e acompanhem os sorteios diretamente pelo celular. Além disso, o app busca incentivar o engajamento dos usuários com as modalidades de jogos de maneira simples, confiável e acessível.
 
 Principais características:
-- Sistema de **missões e desafios** relacionados a cidadania;
-- **Pontuação e recompensas** para aumentar o engajamento dos usuários;
-- Interface amigável e acessível, visando um público diverso;
-- Conteúdos educativos em formato de **mini-jogos** e **quiz**.
+- Sistema de apostas online para modalidades como Mega-Sena, Lotofácil, Quina, Lotomania, entre outras;
+- Consulta de resultados e conferência de bilhetes de forma rápida e prática;
+- Interface simples, segura e acessível, com autenticação para garantir a proteção dos dados do usuário;
+- Possibilidade de receber notificações sobre sorteios, resultados e prêmios.
 
 Esse aplicativo será utilizado como **base para a definição dos requisitos**, sendo o foco principal da análise e desenvolvimento do projeto.
 
 ---
+
+## Aplicativos avaliados
+
+
+A lista abaixo apresenta os aplicativos avaliados pelo grupo anteriormente, e uma breve introdução:
 
 ### 1. ID Jovem  
 O aplicativo ID Jovem garante que jovens de baixa renda tenham acesso aos benefícios previstos em lei, como meia-entrada em eventos culturais e esportivos e gratuidade em viagens interestaduais.
@@ -64,3 +69,4 @@ Seu propósito é otimizar o uso de ambientes de trabalho compartilhados, promov
 - Google Play Store - Terracap: Disponível em: <https://www.terracap.df.gov.br>. Acesso em: 07/09/2025.  
 - Google Play Store - GameDaCidadania: Disponível em: <https://play.google.com/store/apps/details?id=br.gov.cgu.cidadania&hl=pt_BR&gl=US&pli=1>. Acesso em: 07/09/2025.  
 - Google Play Store - Sala360: Disponível em: <https://play.google.com/store/search?q=sala%20360&c=apps&hl=pt_BR>. Acesso em: 07/09/2025.
+
