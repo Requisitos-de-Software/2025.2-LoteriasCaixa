@@ -1,24 +1,21 @@
-site_name: Game da Cidadania
+site_name: Loterias Caixa
 site_url: https://requisitos-de-software.github.io/2025.2-Grupo07/
 repo_url: https://github.com/Requisitos-de-Software/2025.2-Grupo07
 repo_name: GitHub
+
 theme:
   name: material
   palette:
     - scheme: default
-      primary: blue
-      accent: amber
       toggle:
         icon: material/weather-night
         name: Mudar para modo escuro
     - scheme: slate
-      primary: blue
-      accent: amber
       toggle:
         icon: material/weather-sunny
         name: Mudar para modo claro
-  logo: images/icon.png
-  favicon: images/icon.png
+  logo: images/icon2.1.png
+  favicon: images/icon2.png
   features:
     - navigation.tabs
     - navigation.sections
@@ -28,6 +25,9 @@ theme:
     - content.code.copy
     #- content.action.edit
     #- content.action.view
+
+extra_css:
+  - stylesheets/extra.css
 
 nav:
   - Início: index.md

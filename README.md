@@ -1,17 +1,19 @@
-# **Game da Cidadania**
+# **Loterias Caixa**
 ---
 
 ## 📝 Introdução  
 Este repositório contém os materiais e estudos desenvolvidos na disciplina de **Requisitos de Software** do curso de **Engenharia de Software da Universidade de Brasília (FCTE/UnB)**.  
-O objetivo é aprofundar conceitos, métodos e técnicas de Engenharia de Requisitos aplicados ao **Game da Cidadania**, um aplicativo do Governo Federal que promove a educação fiscal e cidadania de forma interativa e gamificada.
+O objetivo é aprofundar conceitos, métodos e técnicas de Engenharia de Requisitos aplicados ao **Loterias Caixa**, o aplicativo oficial da Caixa Econômica Federal que possibilita aos usuários apostar, acompanhar resultados e gerenciar seus jogos de forma prática e segura.
 
 ---
 
-## 🎮 Sobre o Game da Cidadania 
-<img width="570" height="372" alt="image" src="https://github.com/user-attachments/assets/19de0269-c703-411c-96b1-837183c017c4" />
+## 🎯 Sobre o Loterias Caixa 
+<img width="570" height="372" alt="image" src="https://play-lh.googleusercontent.com/i9d0rNavkNmb3MiobUMDZlptQsa7Ghygow2Z0vQtFyK_SQ1Ek9draSJEVytdNBww70FT=w240-h480-rw" />
 
-O **Game da Cidadania** é uma iniciativa governamental que busca conscientizar jovens e adultos sobre a importância do exercício da cidadania, direitos e deveres, além de estimular o aprendizado sobre temas como finanças públicas, tributos e participação social.  
-Através de **missões, desafios e quizzes**, os usuários podem aprender de forma lúdica enquanto acumulam pontos e evoluem dentro do jogo.
+O **Loterias Caixa** é uma plataforma digital desenvolvida para facilitar o acesso às loterias administradas pela Caixa Econômica Federal, como **Mega-Sena, Lotofácil, Quina, entre outras**.  
+Por meio do aplicativo, os usuários podem **registrar apostas, verificar resultados em tempo real, conferir bilhetes premiados** e acessar informações detalhadas sobre sorteios e prêmios.  
+Além de promover praticidade e segurança, o app contribui para ampliar a acessibilidade às loterias oficiais, cuja arrecadação é destinada a áreas sociais como **saúde, educação, esporte e segurança pública**.
+
 
 ---
 

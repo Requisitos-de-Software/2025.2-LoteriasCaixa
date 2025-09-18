@@ -1,0 +1,13 @@
+/* Cores para o modo claro (default) */
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color: #005da9; /* azul escuro */
+  --md-primary-fg-color--light: #005da9;
+  --md-primary-fg-color--dark: #005da9;
+}
+
+/* Cores para o modo escuro (slate) */
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #005da9; /* azul escuro */
+  --md-primary-fg-color--light: #005da9;
+  --md-primary-fg-color--dark: #005da9;
+}
