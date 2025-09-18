@@ -1,14 +1,13 @@
 # **Loterias Caixa**
----
 
 ## 📝 Introdução  
 Este repositório contém os materiais e estudos desenvolvidos na disciplina de **Requisitos de Software** do curso de **Engenharia de Software da Universidade de Brasília (FCTE/UnB)**.  
 O objetivo é aprofundar conceitos, métodos e técnicas de Engenharia de Requisitos aplicados ao **Loterias Caixa**, o aplicativo oficial da Caixa Econômica Federal que possibilita aos usuários apostar, acompanhar resultados e gerenciar seus jogos de forma prática e segura.
 
----
-
 ## 🎯 Sobre o Loterias Caixa 
-<img width="570" height="372" alt="image" src="./docs/images/icon2.png" />
+
+<div align="center"> <img alt="image" width="30%" src="./docs/images/icon2.png" /> </div>
+&nbsp
 
 O **Loterias Caixa** é uma plataforma digital desenvolvida para facilitar o acesso às loterias administradas pela Caixa Econômica Federal, como **Mega-Sena, Lotofácil, Quina, entre outras**.  
 Por meio do aplicativo, os usuários podem **registrar apostas, verificar resultados em tempo real, conferir bilhetes premiados** e acessar informações detalhadas sobre sorteios e prêmios.  
