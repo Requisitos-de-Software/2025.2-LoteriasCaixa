@@ -8,7 +8,7 @@ O objetivo é aprofundar conceitos, métodos e técnicas de Engenharia de Requis
 ---
 
 ## 🎯 Sobre o Loterias Caixa 
-<img width="570" height="372" alt="image" src="https://play-lh.googleusercontent.com/i9d0rNavkNmb3MiobUMDZlptQsa7Ghygow2Z0vQtFyK_SQ1Ek9draSJEVytdNBww70FT=w240-h480-rw" />
+<img width="570" height="372" alt="image" src="./docs/images/icon2.png" />
 
 O **Loterias Caixa** é uma plataforma digital desenvolvida para facilitar o acesso às loterias administradas pela Caixa Econômica Federal, como **Mega-Sena, Lotofácil, Quina, entre outras**.  
 Por meio do aplicativo, os usuários podem **registrar apostas, verificar resultados em tempo real, conferir bilhetes premiados** e acessar informações detalhadas sobre sorteios e prêmios.  
