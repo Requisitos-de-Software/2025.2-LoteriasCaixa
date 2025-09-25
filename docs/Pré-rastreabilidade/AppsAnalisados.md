@@ -1,11 +1,6 @@
 # Aplicativos Analisados
 
-## 1. Versionamento
 
-| Versão | Data       | Autor               | Descrição                                        | Revisor |
-|--------|------------|---------------------|----------------------------------------------|---------|
-| 1.0    | 07/09/2025 | Miquéias Ezequiel   | Abertura do documento de aplicativos analisados | Luan Vinícius|
-| 1.1    | 17/09/2025 | Nayra Nery          | Atualização do aplicativo selecionado |              |
 ---
 
 ## 2. Aplicativos
@@ -24,7 +19,7 @@ Esse aplicativo será utilizado como **base para a definição dos requisitos**,
 
 ---
 
-## Aplicativos avaliados
+## 1 Aplicativos avaliados
 
 
 A lista abaixo apresenta os aplicativos avaliados pelo grupo anteriormente, e uma breve introdução:
@@ -61,7 +56,7 @@ Seu propósito é otimizar o uso de ambientes de trabalho compartilhados, promov
 
 ---
 
-## 3. Referências
+## 2. Referências
 
 - Google Play Store - ID Jovem: Disponível em: <https://idjovem.juventude.gov.br>. Acesso em: 07/09/2025.  
 - Google Play Store - Museu da vida FioCruz: Disponível em: <https://play.google.com/store/search?q=museo%20da%20vida%20fiocruz&c=apps&hl=pt_BR>. Acesso em: 07/09/2025.  
@@ -69,4 +64,11 @@ Seu propósito é otimizar o uso de ambientes de trabalho compartilhados, promov
 - Google Play Store - Terracap: Disponível em: <https://www.terracap.df.gov.br>. Acesso em: 07/09/2025.  
 - Google Play Store - GameDaCidadania: Disponível em: <https://play.google.com/store/apps/details?id=br.gov.cgu.cidadania&hl=pt_BR&gl=US&pli=1>. Acesso em: 07/09/2025.  
 - Google Play Store - Sala360: Disponível em: <https://play.google.com/store/search?q=sala%20360&c=apps&hl=pt_BR>. Acesso em: 07/09/2025.
+
+## 3. Versionamento
+
+| Versão | Data       | Autor               | Descrição                                        | Revisor |
+|--------|------------|---------------------|----------------------------------------------|---------|
+| 1.0    | 07/09/2025 | Miquéias Ezequiel   | Abertura do documento de aplicativos analisados | Luan Vinícius|
+| 1.1    | 17/09/2025 | Nayra Nery          | Atualização do aplicativo selecionado |              |
 

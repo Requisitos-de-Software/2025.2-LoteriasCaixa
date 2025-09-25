@@ -1,13 +1,8 @@
 # Tabela de contribuição 
-## 1. Versionamento 
-
-| Versão | Data       | Autor               | Descrição                                    | Revisor |
-|--------|------------|---------------------|----------------------------------------------|---------|
-| 1.0    | 07/09/2025 | Rivadalvio Joaquim   | Adição da tabela de contribuição | Heyttor Augusto|
 
 ---
 
-## 2. Introdução
+## 1. Introdução
  A tabela de contribuição é um recurso fundamental para trabalhos em grupo, especialmente em projetos de desenvolvimento de software e pesquisas acadêmicas. Mais do que um simples registro de atividades, ela funciona como um documento estratégico para planejar, distribuir responsabilidades e monitorar o desempenho de cada integrante, conforme ilustrado na Tabela 1.
 
 ---
@@ -27,3 +22,10 @@ Tabela 1: Tabela de contribuição de cada membro
 | ATA                                        | João               | 12,5%       |
 
 **Total: 100%**
+
+
+## 2. Versionamento 
+
+| Versão | Data       | Autor               | Descrição                                    | Revisor |
+|--------|------------|---------------------|----------------------------------------------|---------|
+| 1.0    | 07/09/2025 | Rivadalvio Joaquim   | Adição da tabela de contribuição | Heyttor Augusto|
