@@ -11,7 +11,7 @@ Um **heatmap**, ou mapa de calor, é uma representação visual de dados que uti
 
 <p style="text-align: center;">Fonte: Heyttor Augusto</p>
 
-# 2. Vercionamento 
+## 2. Versionamento 
 
 | Versão | Data       | Autor               | Descrição                                    | Revisor |
 |--------|------------|---------------------|----------------------------------------------|---------|

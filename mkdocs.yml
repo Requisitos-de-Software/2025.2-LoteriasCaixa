@@ -5,6 +5,10 @@ repo_name: GitHub
 
 theme:
   name: material
+  language: pt
+  features:
+    - navigation.tabs
+    - navigation.top
   palette:
     - scheme: default
       toggle:
@@ -16,57 +20,9 @@ theme:
         name: Mudar para modo claro
   logo: images/icon2.1.png
   favicon: images/icon2.png
-  features:
-    - navigation.tabs
-    - navigation.sections
-    - navigation.expand
-    - search.suggest
-    - search.highlight
-    - content.code.copy
-    #- content.action.edit
-    #- content.action.view
 
 extra_css:
   - stylesheets/extra.css
-
-nav:
-  - Início: index.md
-  - Planejamento: 
-    - Planejamento/Cronogramas.md
-    - Planejamento/Tabela de contribuição.md
-    - Planejamento/Heatmap.md
-    - Planejamento/Ferramentas.md
-    - Planejamento/Metodologia.md
-  - Pré-Rastreabilidade:
-    - Pré-rastreabilidade/AppsAnalisados.md
-    - Pré-rastreabilidade/RichPicture.md    
-  - Elicitação: 
-    - Elicitação/Brainstorm.md
-    - Elicitação/Entrevista.md
-    - Elicitação/Questionário.md
-    - Elicitação/Personas.md
-    - Elicitação/Storytelling.md
-    - Elicitação/Introspecção.md
-  - Modelagem: 
-    - Modelagem/Casos de uso.md
-    - Modelagem/Cenários.md
-    - Modelagem/Especificação.md
-    - Modelagem/História de usuário.md
-    - Modelagem/Léxicos.md
-    - Modelagem/NFR.md 
-  - Análise:    
-  
-    - Análise/grupo 1RP.md
-    - Análise/grupo 7RP.md
-
-  - Pós-Rastreabilidade: 
-    - Pós-rastreabilidade/Forward from.md
-    - Pós-rastreabilidade/Backward from.md
-  - Apresentações: Apresentações.md
-  - Atas:
-    - Atas/Ata de reunião 1.md
-    - Atas/Ata de reunião 2.md
-  - Termos de Uso: TermosDeUso.md
 
 markdown_extensions:
   - admonition
@@ -78,3 +34,55 @@ markdown_extensions:
       custom_checkbox: true
   - pymdownx.inlinehilite
   - pymdownx.mark
+
+nav:
+  - Início: index.md
+
+  - Planejamento: 
+    - Planejamento/Cronogramas.md
+    - Planejamento/Tabela de contribuição.md
+    - Planejamento/Heatmap.md
+    - Planejamento/Ferramentas.md
+    - Planejamento/Metodologia.md
+  
+  - Pré-Rastreabilidade:
+    - Pré-rastreabilidade/AppsAnalisados.md
+    - Pré-rastreabilidade/RichPicture.md    
+  
+  - Elicitação: 
+    - Perfil de Usuário: Elicitação/Perfil de Usuário.md
+    - Personas: Elicitação/Personas.md
+    - Técnicas:
+      - Entrevista: Elicitação/Técnicas/Entrevista.md
+      - Observação: Elicitação/Técnicas/Observação.md
+      - Glossário: Elicitação/Técnicas/Glossário.md
+    - Priorização:
+      - MoSCoW: Elicitação/MoSCoW.md
+      - $100: Elicitação/$100.md
+      - Three level scale: Elicitação/Three level scale.md
+      - Value, Cost and Risk: Elicitação/Value, Cost and Risk.md
+
+  - Modelagem: 
+    - Modelagem/Casos de uso.md
+    - Modelagem/Cenários.md
+    - Modelagem/Especificação.md
+    - Modelagem/História de usuário.md
+    - Modelagem/Léxicos.md
+    - Modelagem/NFR.md 
+  
+  - Análise:   
+    - Análise/grupo 1RP.md
+    - Análise/grupo 7RP.md
+
+  - Pós-Rastreabilidade: 
+    - Pós-rastreabilidade/Forward from.md
+    - Pós-rastreabilidade/Backward from.md
+  
+  - Apresentações: Apresentações.md
+  
+  - Atas:
+    - Atas/Ata de reunião 1.md
+    - Atas/Ata de reunião 2.md
+  
+  - Termos de Uso: TermosDeUso.md
+
