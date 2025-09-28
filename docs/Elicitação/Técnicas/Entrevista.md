@@ -9,7 +9,7 @@ A entrevista é uma das técnicas mais fundamentais e amplamente utilizadas para
 
 | Nome | Função | 
 |------|--------|
-| Heyttor Augusto | Entrevistador|
+| [Heyttor Augusto](https://github.com/H3ytt0r62) | Entrevistador|
 | Marcio Junio | Usuário |
 
 ## Metodologia 
@@ -38,12 +38,31 @@ O usuário foi submetido a uma serié de perguntas que se relacionavam ao aplica
 
 ## video da entrevista
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bgRhywuzgiA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**Link direto**: [Assistir no YouTube](https://youtu.be/bgRhyvwzgjA?si=pm29yfpfTD3W2lM9)
 
-**Link direto**: [Assistir no YouTube](https://youtu.be/bgRhywuzgiA?si=coz-nOT4-kktfMLg)
+## Requisitos Elicitados
 
+Após a entrevista foi possivel elecitar os seguintes requistos:
 
+1. O software deve ter telas simples com poucos textos
+2. O usuário deve receber Comprovantes de seus ganhos e apostas
+3. O usuário deve ter mais de uma opção de aposta
+4. O usuário deve poder acompanhar jogos pelo software
+5. O software deve ter poucas telas
+6. O usuário deve poder consultar seus ganhos
+7. O softeare deve ter opções de cores escuras e claras
+8. O software deve ter imagens explicativas
+9. O usuario deve receber o resultado das apostas
 
+## Bibliografia 
+
+Vazque, Carlos engenharia de requisitos.Rio de janeiro:Brasport.2016
+
+## Versionamento 
+
+| Versão | Data       | Autor               | Descrição                                    | Revisor |
+|:--------:|:------------:|:---------------------:|:----------------------------------------------:|:---------:|
+| ``1.0``    | 27/09/2025 | [Heyttor Augusto](https://github.com/H3ytt0r62)     | Entrevista 1 | [Samuel Felipe](https://github.com/TerminaKng05) |
 
 
 
