@@ -38,7 +38,11 @@ O usuário foi submetido a uma serié de perguntas que se relacionavam ao aplica
 
 ## video da entrevista
 
-https://youtu.be/bgRhyvwzgjA?si=coz-nOT4-KkIfM_g
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bgRhywuzgiA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Link direto**: [Assistir no YouTube](https://youtu.be/bgRhywuzgiA?si=coz-nOT4-kktfMLg)
+
+
 
 
 
