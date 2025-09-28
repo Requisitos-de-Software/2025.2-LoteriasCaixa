@@ -8,6 +8,7 @@ A entrevista é uma das técnicas mais fundamentais e amplamente utilizadas para
 ## participantes
 
 | Nome | Função | 
+|------|--------|
 | Heyttor Augusto | Entrevistador|
 | Marcio Junio | Usuário |
 
@@ -15,6 +16,7 @@ A entrevista é uma das técnicas mais fundamentais e amplamente utilizadas para
 
 A entrevista foi feita pelo integrante Heyttor Augusto, na data 25/09/2025 as 20:30 ás 21:30 com o usuário Marcio Junio. Nesta reunião houve a gravação da mesma com o consentimento do usuário.
 O usuário foi submetido a uma serié de perguntas que se relacionavam ao aplicativo usado pelo grupo, na qual podia usar o tempo que desejasse para responder a perguntas das entrevistas estão listadas abaixo.
+
 
 
 
