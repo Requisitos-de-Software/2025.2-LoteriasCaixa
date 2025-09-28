@@ -39,10 +39,11 @@ Durante a entrevista esses requisitos foram tidos como média prioridade:
 4. O usuário deve poder consultar seus ganhos
 
 ## Requisitos Classificados como baixa prioridade
+Durante a entrevista esses requisitos foram tidos como baixa prioridade:
 
 1. O softeare deve ter opções de cores escuras e claras
 
-Durante a entrevista esses requisitos foram tidos como baixa prioridade:
+
 
 ## Bibliografia 
 
