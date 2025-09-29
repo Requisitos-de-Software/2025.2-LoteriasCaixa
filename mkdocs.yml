@@ -58,10 +58,10 @@ nav:
       - Observação: Elicitação/Técnicas/Observação.md
       - Glossário: Elicitação/Técnicas/Glossário.md
     - Priorização:
-      - MoSCoW: Elicitação/MoSCoW.md
-      - $100: Elicitação/$100.md
-      - Three level scale: Elicitação/Three level scale.md
-      - Value, Cost and Risk: Elicitação/Value, Cost and Risk.md
+      - MoSCoW: Elicitação/Priorização/MoSCoW.md
+      - $100: Elicitação/Priorização/$100.md
+      - Three level scale: Elicitação/Priorização/Three level scale.md
+      - Value, Cost and Risk: Elicitação/Priorização/Value, Cost and Risk.md
 
   - Modelagem: 
     - Modelagem/Casos de uso.md

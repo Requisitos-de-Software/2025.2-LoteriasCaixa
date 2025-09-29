@@ -8,14 +8,14 @@
 
 ![Rich picture do sistema](../images/grupo7-richpicture.jpg)
 
-<p align="center">Fonte: <a href="https://github.com/H3ytt0r62">Heyttor Augusto</a></p>
+<p style="text-align: center;">Fonte: <a href="https://github.com/H3ytt0r62">Heyttor Augusto</a></p>
 
 ## *Segunda versão*
 <p style="text-align: center;">Imagem 2: Rich Picture do app Loterias Caixa</p>
 
 ![Rich picture do sistema](../images/grupo7-richpicture.png)
 
-<p align="center">Fonte: <a href="https://github.com/luannvi">Luan Vinícius</a></p>
+<p style="text-align: center;">Fonte: <a href="https://github.com/luannvi">Luan Vinícius</a></p>
 
 ## *Legenda*
 Os cinco elementos básicos que estão presentes nas RichPictures:

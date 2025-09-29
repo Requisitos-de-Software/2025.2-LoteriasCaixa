@@ -2,11 +2,9 @@
 
 ## 1. Glossário
 
-O glossário a seguir reúne os principais termos utilizados no **Aplicativo Loterias Caixa**,  
-com o objetivo de facilitar a compreensão dos conceitos mais comuns relacionados às apostas, sorteios e funcionalidades do sistema.  
+O glossário a seguir reúne os principais termos utilizados no **Aplicativo Loterias Caixa**, com o objetivo de facilitar a compreensão dos conceitos mais comuns relacionados às apostas, sorteios e funcionalidades do sistema.  
 
-Essas definições ajudam o usuário a entender como o aplicativo organiza informações, apresenta resultados e gerencia serviços digitais como apostas online, bilhetes eletrônicos e premiações.  
-A consulta ao glossário é recomendada sempre que houver dúvidas sobre a terminologia utilizada na documentação ou no próprio aplicativo.  
+Essas definições ajudam o usuário a entender como o aplicativo organiza informações, apresenta resultados e gerencia serviços digitais como apostas online, bilhetes eletrônicos e premiações. A consulta ao glossário é recomendada sempre que houver dúvidas sobre a terminologia utilizada na documentação ou no próprio aplicativo.  
 
 ### Aposta
 - **Significado:** Registro oficial de um jogo realizado pelo usuário em uma das modalidades de loteria disponíveis.  
