@@ -1,7 +1,7 @@
 ## Introdução
 
 
-Priorização é muito importante para a organização de empresas e trabalhos, e em elicitação de requisitos não é diferente, pode-se usar varias formas de priorização de requistos, a forma escolhida pelo estudante [Heyttor Augusto](https://github.com/H3ytt0r62) Foi a de léveis de escala, onde junto com o usuario, os requisitos são colocados como alta,média e baixa importancia, ajudando assim a equepi responsavel pelo software a se orientar e saber quais funcionalidades deve ser priorizadas.
+Priorização é muito importante para a organização de empresas e trabalhos, e em elicitação de requisitos não é diferente, pode-se usar varias formas de priorização de requistos, a forma escolhida pelo estudante [Heyttor Augusto](https://github.com/H3ytt0r62) Foi a de léveis de escala, onde junto com o usuario, os requisitos são colocados como alta,média e baixa importancia, ajudando assim a equipe responsavel pelo software a se orientar e saber quais funcionalidades deve ser priorizadas.
 
 
 ## participantes
