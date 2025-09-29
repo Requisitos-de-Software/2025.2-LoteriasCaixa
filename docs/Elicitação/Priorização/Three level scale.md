@@ -41,7 +41,7 @@ Durante a entrevista esses requisitos foram tidos como média prioridade:
 ## Requisitos Classificados como baixa prioridade
 Durante a entrevista esses requisitos foram tidos como baixa prioridade:
 
-1. O softeare deve ter opções de cores escuras e claras
+1. O software deve ter opções de cores escuras e claras
 
 
 
