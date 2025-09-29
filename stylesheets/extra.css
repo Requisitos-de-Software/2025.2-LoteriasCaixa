@@ -11,3 +11,9 @@
   --md-primary-fg-color--light: #005da9;
   --md-primary-fg-color--dark: #005da9;
 }
+
+.md-typeset p {
+  text-align: justify;
+  text-indent: 2em;
+}
+
