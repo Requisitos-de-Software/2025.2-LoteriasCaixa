@@ -1,5 +1,5 @@
 # Loterias Caixa
-<p align="center"><img width="50%" alt="image" src="images/icon2.png" /></p>
+<p style="text-align: center;"><img width="50%" alt="image" src="images/icon2.png"></p>
 
 ## Introdução  
 Este repositório contém os materiais e estudos desenvolvidos na disciplina de **Requisitos de Software** do curso de **Engenharia de Software da Universidade de Brasília (FCTE/UnB)**.  

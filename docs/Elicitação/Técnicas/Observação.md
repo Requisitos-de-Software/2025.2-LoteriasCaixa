@@ -19,7 +19,7 @@ Para realizar essa técnica, foi convocado uma pessoa do sexo masculino que entr
 
 ## Gravação da tela
 O link da gravação da tela de onde foi extraída os requisitos da observação se encontra aqui: 
-[Gravação (observação).]()
+[Gravação (observação).](https://www.youtube.com/watch?v=XA2A58uY8ks)
 
 ## Requisitos elicitados
 
