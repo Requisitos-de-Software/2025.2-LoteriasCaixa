@@ -2,8 +2,7 @@
 
 
 [link do video](ainda por fazer reunião formal)
-
-
+a
 # Ata de Reunião - Grupo 7
 
 **Disciplina:** Requisitos de Software  

@@ -17,7 +17,7 @@ A análise foi conduzida pelos integrantes:
 - [João Pedro](https://github.com/Jadequilin)   
 
 ## Resultados da análise  
-
+a
 - **Materiais promocionais** → foco em sorte, mudança de vida e praticidade de apostar online; 
 - **Estatísticas demográficas** (CNN e Estadão 150):
 - A maioria dos jogadores de loteria pertence à faixa de **25 a 55 anos**, mas há forte presença de usuários **acima de 40 anos**;
