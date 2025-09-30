@@ -7,9 +7,10 @@ A entrevista é uma das técnicas mais fundamentais e amplamente utilizadas para
 
 ## participantes
 
-tabela 1
-| Nome | Função | 
-|------|--------|
+**tabela 1**
+
+| Nome           | Função | 
+|----------------|--------|
 | [Heyttor Augusto](https://github.com/H3ytt0r62) | Entrevistador|
 | Marcio Junio | Usuário |
 
@@ -49,9 +50,10 @@ O usuário foi submetido a uma serié de perguntas que se relacionavam ao aplica
 - **OBS**: Requisito elicitado pela entrevista.
 Após a entrevista foi possivel elecitar os seguintes requistos:
 
-tabela 2
+**tabela 2**
+
 | Tipo  | Requisito                                                                 |   ID   |
-|:-----:|--------------------------------------------------------------------------- |:------:|
+|:-----:|---------------------------------------------------------------------------|:------:|
 |RF | O software deve ter telas simples com poucos textos| ENT01|
 |RF | O usuário deve receber Comprovantes de seus ganhos e apostas| ENT02|
 |RF | O usuário deve ter mais de uma opção de aposta| ENT03|
@@ -65,7 +67,7 @@ tabela 2
 |RF | Deve Haver uma verificação de indentidade para longin no aplicativo |ENT11|
 |RF | O usuario deve poder acessar o propio perfil |ENT12|
 |RF| O usuario deve poder fazer logout no aplicativo| ENT13|
-a
+
 ## Bibliografia 
 
 Vazque, Carlos engenharia de requisitos.Rio de janeiro:Brasport.2016

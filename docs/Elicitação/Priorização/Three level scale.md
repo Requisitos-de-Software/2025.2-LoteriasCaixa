@@ -6,6 +6,8 @@ Priorização é muito importante para a organização de empresas e trabalhos, 
 
 ## participantes
 
+**tabela 1**
+
 | Nome | Função | 
 |------|--------|
 | [Heyttor Augusto](https://github.com/H3ytt0r62) | Entrevistador|
@@ -20,7 +22,7 @@ A entrevista foi feita pelo integrante Heyttor Augusto, na data 26/09/2025 as 20
 
 **Link direto**: [Assistir no YouTube](https://youtu.be/nHej5ejaIK8?si=Ty05vTkvikcR1g4v)
 
-### *Legenda (Tabelas 2 )*
+### *Legenda (Tabelas 2,3,4 )*
 - **RF**: Requisito funcional.
 - **RNF**: Requisito não-funcional.
 - **ENT**: Requisito priorizado pela entrevista.
@@ -29,6 +31,8 @@ Após a entrevista foi possivel elecitar os seguintes requistos:
 ## Requisitos Classificados como alta prioridade
 
 Durante a entrevista esses requisitos foram tidos como alta prioridade:
+
+**tabela 2**
 
 | Tipo  | Requisito                                                                 |   ID   |
 |:-----:|--------------------------------------------------------------------------- |:------:|
@@ -45,6 +49,8 @@ Durante a entrevista esses requisitos foram tidos como alta prioridade:
 
 Durante a entrevista esses requisitos foram tidos como média prioridade:
 
+**tabela 3**
+
 | Tipo  | Requisito                                                                 |   ID   |
 |:-----:|--------------------------------------------------------------------------- |:------:|
  |RF | O Usario deve receber os resultados das apostas | ENT01|
@@ -55,6 +61,8 @@ Durante a entrevista esses requisitos foram tidos como média prioridade:
 
 ## Requisitos Classificados como baixa prioridade
 Durante a entrevista esses requisitos foram tidos como baixa prioridade:
+
+**tabela 4**
 
 | Tipo  | Requisito                                                                 |   ID   |
 |:-----:|--------------------------------------------------------------------------- |:------:|
