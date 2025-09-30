@@ -39,6 +39,7 @@ Link direto:[Assistir no YouTube](https://youtu.be/rEuk4FJvrqM)
 - **RF**: Requisito funcional.
 - **RNF**: Requisito não-funcional.
 - **OBS**: Requisito elicitado pela entrevista.
+- **ENT**: Requisito priorizado pela entrevista.
 
 Após a entrevista foi possível elicitar os seguintes requisitos:
 
@@ -123,6 +124,7 @@ SERRANO, Milene; SERRANO, Maurício. **Requisitos (Aula 07): Elicitação, Model
 | Versão | Data | Autor | Descrição | Revisor |
 |--------|------|-------|------------|---------|
 | ``1.0`` | 30/09/2025 |  [João Pedro Araújo](https://github.com/Jadequilin) | Priorização com base em valor, risco e custo |[Rivadalvio Joaquim](https://github.com/RivaFilho) |
+
 
 
 
