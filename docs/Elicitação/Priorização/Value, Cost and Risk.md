@@ -116,12 +116,13 @@ A utilização de uma técnica de priorização baseada em valor, risco e custo 
 
 ## Bibliografia
 
-SERRANO, Milene; SERRANO, Maurício. **Requisitos (Aula 07): Elicitação, Modelagem e Análise**. UnB Gama, Brasília, 2025. Disponível em: [link]. Acesso em: [data].
+SERRANO, Milene; SERRANO, Maurício. **Requisitos (Aula 07): Elicitação, Modelagem e Análise**. UnB Gama, Brasília, 2025. Disponível em: [link]. Acesso em: 29/09/2025.
 
 ## Versionamento
 
 | Versão | Data | Autor | Descrição | Revisor |
 |--------|------|-------|------------|---------|
-| 1.0 | [data] | [Seu Nome] | Priorização com base em valor, risco e custo |[Rivadalvio Joaquim](https://github.com/RivaFilho) |
+| 1.0 | 30/09/2025 |  [João Pedro Araújo](https://github.com/Jadequilin) | Priorização com base em valor, risco e custo |[Rivadalvio Joaquim](https://github.com/RivaFilho) |
+
 
 
