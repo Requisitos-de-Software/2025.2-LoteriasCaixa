@@ -1,16 +1,12 @@
 # Ferramentas 
 
----
-
-## 2. Introdução 
+## Introdução 
 
 <p style="text-align: justify;">
 Os softwares escolhidos servirão como ferramentas de apoio para a equipe do projeto, auxiliando no gerenciamento, na comunicação e na elaboração da documentação necessária para o tema abordado na disciplina, cujo foco será a análise de requisitos do aplicativo Game da Cidadania.
 </p>
 
----
-
-## 3. Ferramentas utilizadas 
+## Ferramentas utilizadas 
 <p style="text-align: center;">
 Tabela 1: Ferramentas utilizadas no projeto
 </p>
@@ -24,9 +20,9 @@ Tabela 1: Ferramentas utilizadas no projeto
 | ![Logo OBS Studio](../images/obsLogo.jpg)   | **OBS Studio** | Utilizado para realizar as gravações das reuniões do grupo. |
 | ![Logo WhatsApp](../images/zap_logo.jpg)     | **WhatsApp** | Software de comunicação ágil escolhido para troca de informações e salvamento de informações sobre o andamento do projeto. |
 
-## 1. Versionamento 
+## Versionamento 
 
 | Versão | Data       | Autor               | Descrição                                    | Revisor |
-|--------|------------|---------------------|----------------------------------------------|---------|
-| 1.0    | 09/09/2025 | João Pedro   | Adição das ferramentas do projeto | Luan Vinícius |
+|:--------:|:------------:|:---------------------:|:----------------------------------------------:|:---------:|
+| ``1.0``    | 09/09/2025 | [João Pedro](https://github.com/Jadequilin)   | Adição das ferramentas do projeto | [Luan Vinícius](https://github.com/luannvi) |
 

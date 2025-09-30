@@ -7,15 +7,15 @@ Um **heatmap**, ou mapa de calor, é uma representação visual de dados que uti
 
 <p style="text-align: center;">Imagem 1: Heatmap do grupo</p>
 
-![heatmap do grupo](../images/Heatmap-grupo%207.jpeg)
+![heatmap do grupo](../images/Heatmap-grupo%207.jpeg){.center}
 
-<p style="text-align: center;">Fonte: Heyttor Augusto</p>
+<p style="text-align: center;">Fonte: <a href="https://github.com/H3ytt0r62">Heyttor Augusto</a></p>
 
 ## 2. Versionamento 
 
 | Versão | Data       | Autor               | Descrição                                    | Revisor |
-|--------|------------|---------------------|----------------------------------------------|---------|
-| 1.0    | 07/09/2025 | Heyttor augusto   | Primeiro heatmap feito | Luan Vinícius|
-| 2.0    | 15/09/2025| Heyttor augusto | Segundo heatmap feito, apos sugestões do professor| Luan Vinícius|
+|:--------:|:------------:|:---------------------:|:---------------------------------------------:|:---------:|
+| ``1.0``    | 07/09/2025 | [Heyttor Augusto](https://github.com/H3ytt0r62)   | Primeiro heatmap feito | [Luan Vinícius](https://github.com/luannvi)|
+| ``2.0``    | 15/09/2025| [Heyttor Augusto](https://github.com/H3ytt0r62) | Segundo heatmap feito, apos sugestões do professor| [Luan Vinícius](https://github.com/luannvi)|
 
 
