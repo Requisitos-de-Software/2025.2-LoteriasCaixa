@@ -61,7 +61,7 @@ O usuário foi submetido a uma serie de perguntas que se relacionavam ao aplicat
 ### *Legenda (Tabelas 2 )*
 - **RF**: Requisito funcional.
 - **RNF**: Requisito não-funcional.
-- **OBS**: Requisito elicitado pela entrevista.
+- **ENT**: Requisito elicitado pela entrevista.
 Após a entrevista foi possivel elicitar os seguintes requistos:
 
 ## Pela Entrevista 1 foi identificado:

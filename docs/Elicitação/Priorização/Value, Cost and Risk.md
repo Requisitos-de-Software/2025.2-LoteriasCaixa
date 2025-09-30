@@ -1,5 +1,5 @@
 # Técnicas de Priorização: Valor, Risco e Custo
-
+a
 ## Introdução
 
 A priorização de requisitos é uma etapa crucial no desenvolvimento de software, pois permite que a equipe identifique quais funcionalidades devem ser implementadas primeiro, considerando critérios como valor agregado, risco envolvido e custo de desenvolvimento. Diferentes técnicas podem ser utilizadas para essa finalidade, sendo a tecnica utilizada pelo integrante João Pedro uma das mais comuns baseadas em valor, risco e custo.
