@@ -20,28 +20,45 @@ A entrevista foi feita pelo integrante Heyttor Augusto, na data 26/09/2025 as 20
 
 **Link direto**: [Assistir no YouTube](https://youtu.be/nHej5ejaIK8?si=Ty05vTkvikcR1g4v)
 
+### *Legenda (Tabelas 2 )*
+- **RF**: Requisito funcional.
+- **RNF**: Requisito não-funcional.
+- **ENT**: Requisito priorizado pela entrevista.
+Após a entrevista foi possivel elecitar os seguintes requistos:
+
 ## Requisitos Classificados como alta prioridade
 
 Durante a entrevista esses requisitos foram tidos como alta prioridade:
 
-1. O software deve ter telas simples com poucos textos
-2. O usuário deve receber Comprovantes de seus ganhos e apostas
-3. O software deve ter poucas telas
-4. O software deve ter imagens explicativas
+| Tipo  | Requisito                                                                 |   ID   |
+|:-----:|--------------------------------------------------------------------------- |:------:|
+|RF | O software deve ter telas simples com poucos textos | ENT01|
+|RF | O usuário deve receber Comprovantes de seus ganhos e apostas| ENT02|
+|RF | O software deve ter poucas telas | ENT03|
+|RF | O software deve ter imagens explicativas| ENT04|
+|RF | O usuario deve poder fazer login no aplicativo | ENT05|
+|RF | Deve Haver uma verificação de indentidade para longin no aplicativo |ENT06|
+|RF| O usuario deve poder fazer logout no aplicativo| ENT07|
+
 
 ## Requisitos Classificados como média prioridade
 
 Durante a entrevista esses requisitos foram tidos como média prioridade:
 
-1. O Usario deve receber os resultados das apostas
-2. O usuário deve ter mais de uma opção de aposta
-3. O usuário deve poder acompanhar jogos pelo software
-4. O usuário deve poder consultar seus ganhos
+| Tipo  | Requisito                                                                 |   ID   |
+|:-----:|--------------------------------------------------------------------------- |:------:|
+ |RF | O Usario deve receber os resultados das apostas | ENT01|
+ |RF | O usuário deve ter mais de uma opção de aposta| ENT02|
+ |RF | O usuário deve poder acompanhar jogos pelo software| ENT03|
+ |RF | O usuário deve poder consultar seus ganhos| ENT04|
+ |RF | O usuario deve poder acessar o propio perfil |ENT05|
 
 ## Requisitos Classificados como baixa prioridade
 Durante a entrevista esses requisitos foram tidos como baixa prioridade:
 
-1. O software deve ter opções de cores escuras e claras
+| Tipo  | Requisito                                                                 |   ID   |
+|:-----:|--------------------------------------------------------------------------- |:------:|
+|RF | O software deve ter opções de cores escuras e claras| ENT05|
 
 
 
