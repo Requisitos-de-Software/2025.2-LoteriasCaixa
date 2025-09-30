@@ -92,7 +92,7 @@ Após a entrevista foi possivel elicitar os seguintes requistos:
 |RNF | O aplicativo é de fácil acesso ao usuário| ENT14|
 |RF | O aplicativo apresenta funções de acessibilidade aos idosos e deficientes| ENT15|
 |RF | As opções de ações dentro do aplicativo estão facilmente disponíveis| ENT16|
-|OBS| O aplicativos é de uma fonte confiável para o usuário| ENT17|
+|RNF| O aplicativos é de uma fonte confiável para o usuário| ENT17|
 |RF | Os dados do usuário são mantidos em sigilo e protegidos| ENT18|
 |RNF | Há um termo de uso| ENT19|
 |RNF | O termo de uso especifica os riscos para o usuário| ENT20|
@@ -112,6 +112,7 @@ Vazque, Carlos engenharia de requisitos.Rio de janeiro:Brasport.2016
 |:--------:|:------------:|:---------------------:|:----------------------------------------------:|:---------:|
 | ``1.0``    | 27/09/2025 | [Heyttor Augusto](https://github.com/H3ytt0r62)     | Entrevista 1 | [Samuel Felipe](https://github.com/TerminaKng05) |
 | ``2.0``    | 30/09/2025 | [João Pedro Araújo](https://github.com/Jadequilin)  | Entrevista 2 | [Rivadalvio Joaquim](https://github.com/RivaFilho)|
+
 
 
 
