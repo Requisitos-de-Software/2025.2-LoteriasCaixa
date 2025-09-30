@@ -5,19 +5,32 @@ A entrevista é uma das técnicas mais fundamentais e amplamente utilizadas para
 
 ## **Entrevista 1**
 
-## participantes
+## Participantes
 
-**tabela 1**
+**Tabela 1**
 
 | Nome           | Função | 
 |----------------|--------|
 | [Heyttor Augusto](https://github.com/H3ytt0r62) | Entrevistador|
 | Marcio Junio | Usuário |
 
+## **Entrevista 2**
+
+## Participantes
+
+**Tabela 2**
+
+| Nome           | Função | 
+|----------------|--------|
+| [João Pedro Araújo](https://github.com/Jadequilin) | Entrevistador|
+| [Rivadalvio Joaquim](https://github.com/RivaFilho) | Entrevistador|
+| Rivadalvio Joaquim da Silva | Usuário |
+
 ## Metodologia 
 
-A entrevista foi feita pelo integrante Heyttor Augusto, na data 25/09/2025 as 20:30 ás 21:30 com o usuário Marcio Junio. Nesta reunião houve a gravação da mesma com o consentimento do usuário.
-O usuário foi submetido a uma serié de perguntas que se relacionavam ao aplicativo usado pelo grupo, na qual podia usar o tempo que desejasse para responder a perguntas das entrevistas estão listadas abaixo.
+A entrevista 1 foi feita pelo integrante Heyttor Augusto, na data 25/09/2025 das 20:30 às 21:30 com o usuário Marcio Junio. Nesta reunião houve a gravação da mesma com o consentimento do usuário.
+A entrevista 2 foi feita pelos integrantes João Pedro Araújo e Rivadalvio Joaquim, na data 29/09/2025 das 6:45 às 7:00 com o usuário Rivadalvio Joaquim da Silva. Nesta reunião houve a gravação da mesma com consentimento expresso do usuário.
+O usuário foi submetido a uma serie de perguntas que se relacionavam ao aplicativo usado pelo grupo, na qual podia usar o tempo que desejasse para responder a perguntas das entrevistas estão listadas abaixo.
 
 ## Perguntas da entrevista
 
@@ -38,9 +51,10 @@ O usuário foi submetido a uma serié de perguntas que se relacionavam ao aplica
 15. Você prefere um app com mais textos ou mais imagens?
 16. Se Você ganhasse na loteria qual seria a primeira coisa que você iria querer fazer?
 
-## video da entrevista
+## Vídeo das entrevistas
 
-**Link direto**: [Assistir no YouTube](https://youtu.be/bgRhyvwzgjA?si=pm29yfpfTD3W2lM9)
+**Link direto**: [Assistir no YouTube - Entrevista 1](https://youtu.be/bgRhyvwzgjA?si=pm29yfpfTD3W2lM9)
+**Link direto**: [Assitir no Youtube - Entrevista 2](https://youtu.be/PR2knBOYVz8)
 
 ## Requisitos Elicitados
 
@@ -48,9 +62,10 @@ O usuário foi submetido a uma serié de perguntas que se relacionavam ao aplica
 - **RF**: Requisito funcional.
 - **RNF**: Requisito não-funcional.
 - **OBS**: Requisito elicitado pela entrevista.
-Após a entrevista foi possivel elecitar os seguintes requistos:
+Após a entrevista foi possivel elicitar os seguintes requistos:
 
-**tabela 2**
+## Pela Entrevista 1 foi identificado:
+**Tabela 3**
 
 | Tipo  | Requisito                                                                 |   ID   |
 |:-----:|---------------------------------------------------------------------------|:------:|
@@ -60,13 +75,32 @@ Após a entrevista foi possivel elecitar os seguintes requistos:
 |RF | O usuário deve poder acompanhar jogos pelo software| ENT04|
 |RF | O software deve ter poucas telas| ENT05|
 |RF | O usuário deve poder consultar seus ganhos| ENT06|
-|RF | O softeare deve ter opções de cores escuras e claras| ENT07|
+|RF | O software deve ter opções de cores escuras e claras| ENT07|
 |RF | O software deve ter imagens explicativas| ENT08|
-|RF | O usuario deve receber o resultado das apostas| ENT09|
-|RF | O usuario deve poder fazer login no aplicativo | ENT10|
-|RF | Deve Haver uma verificação de indentidade para longin no aplicativo |ENT11|
-|RF | O usuario deve poder acessar o propio perfil |ENT12|
-|RF| O usuario deve poder fazer logout no aplicativo| ENT13|
+|RF | O usuário deve receber o resultado das apostas| ENT09|
+|RF | O usuário deve poder fazer login no aplicativo | ENT10|
+|RF | Deve haver uma verificação de identidade para login no aplicativo |ENT11|
+|RF | O usuário deve poder acessar o próprio perfil |ENT12|
+|RF| O usuário deve poder fazer logout no aplicativo| ENT13|
+
+## Pela Entrevista 2 foi identificado:
+
+**Tabela 4**
+
+| Tipo  | Requisito                                                                 |   ID   |
+|:-----:|---------------------------------------------------------------------------|:------:|
+|RNF | O aplicativo é de fácil acesso ao usuário| ENT14|
+|RF | O aplicativo apresenta funções de acessibilidade aos idosos e deficientes| ENT15|
+|RF | As opções de ações dentro do aplicativo estão facilmente disponíveis| ENT16|
+|OBS| O aplicativos é de uma fonte confiável para o usuário| ENT17|
+|RF | Os dados do usuário são mantidos em sigilo e protegidos| ENT18|
+|RNF | Há um termo de uso| ENT19|
+|RNF | O termo de uso especifica os riscos para o usuário| ENT20|
+|RNF | O termo de uso especifica a classificação indicativa para o usuário| ENT21|
+|RNF | O termo de uso especifica o acesso aos dados do aplicativo para o usuário| ENT22|
+|RF | As páginas do aplicativo mais usadas estão em destaque na tela| ENT23|
+|RNF | O usuário consegue achar com facilidade o que procura no aplicativo| ENT24|
+
 
 ## Bibliografia 
 
@@ -77,6 +111,7 @@ Vazque, Carlos engenharia de requisitos.Rio de janeiro:Brasport.2016
 | Versão | Data       | Autor               | Descrição                                    | Revisor |
 |:--------:|:------------:|:---------------------:|:----------------------------------------------:|:---------:|
 | ``1.0``    | 27/09/2025 | [Heyttor Augusto](https://github.com/H3ytt0r62)     | Entrevista 1 | [Samuel Felipe](https://github.com/TerminaKng05) |
+| ``2.0``    | 30/09/2025 | [João Pedro Araújo](https://github.com/Jadequilin)  | Entrevista 2 | [Rivadalvio Joaquim](https://github.com/RivaFilho)|
 
 
 
