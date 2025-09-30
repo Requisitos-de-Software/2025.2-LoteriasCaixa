@@ -11,7 +11,7 @@ A priorização de requisitos é uma etapa crucial no desenvolvimento de softwar
 | Nome | Função |
 |------|--------|
 | [João Pedro Araújo](https://github.com/Jadequilin) | Entrevistador | 
-| [Janice José Araújo] | Usuária |
+| Janice José Araújo | Usuária |
 
 ## Metodologia
 
@@ -32,7 +32,7 @@ Cada requisito foi avaliado em uma escala de 1 a 5 para cada dimensão, e a prio
 Quanto maior o resultado, maior a prioridade.
 
 ## Link do vídeo
-Link direto do vídeo: https://youtu.be/rEuk4FJvrqM
+Link direto:[Assistir no YouTube](https://youtu.be/rEuk4FJvrqM)
 ## Requisitos Priorizados
 
 ### *Legenda (Tabelas 2,3 e 4)*
@@ -116,13 +116,14 @@ A utilização de uma técnica de priorização baseada em valor, risco e custo 
 
 ## Bibliografia
 
-SERRANO, Milene; SERRANO, Maurício. **Requisitos (Aula 07): Elicitação, Modelagem e Análise**. UnB Gama, Brasília, 2025. Disponível em: [link]. Acesso em: 29/09/2025.
+SERRANO, Milene; SERRANO, Maurício. **Requisitos (Aula 07): Elicitação, Modelagem e Análise**. UnB Gama, Brasília, 2025. Disponível em:  <https://aprender3.unb.br/pluginfile.php/3210604/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf>. Acesso em: 29/09/2025.
 
 ## Versionamento
 
 | Versão | Data | Autor | Descrição | Revisor |
 |--------|------|-------|------------|---------|
-| 1.0 | 30/09/2025 |  [João Pedro Araújo](https://github.com/Jadequilin) | Priorização com base em valor, risco e custo |[Rivadalvio Joaquim](https://github.com/RivaFilho) |
+| ``1.0`` | 30/09/2025 |  [João Pedro Araújo](https://github.com/Jadequilin) | Priorização com base em valor, risco e custo |[Rivadalvio Joaquim](https://github.com/RivaFilho) |
+
 
 
 
