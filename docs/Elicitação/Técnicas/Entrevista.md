@@ -7,6 +7,7 @@ A entrevista é uma das técnicas mais fundamentais e amplamente utilizadas para
 
 ## participantes
 
+tabela 1
 | Nome | Função | 
 |------|--------|
 | [Heyttor Augusto](https://github.com/H3ytt0r62) | Entrevistador|
@@ -42,17 +43,28 @@ O usuário foi submetido a uma serié de perguntas que se relacionavam ao aplica
 
 ## Requisitos Elicitados
 
+### *Legenda (Tabelas 2 e 3)*
+- **RF**: Requisito funcional.
+- **RNF**: Requisito não-funcional.
+- **OBS**: Requisito elicitado pela observação.
 Após a entrevista foi possivel elecitar os seguintes requistos:
 
-1. O software deve ter telas simples com poucos textos
-2. O usuário deve receber Comprovantes de seus ganhos e apostas
-3. O usuário deve ter mais de uma opção de aposta
-4. O usuário deve poder acompanhar jogos pelo software
-5. O software deve ter poucas telas
-6. O usuário deve poder consultar seus ganhos
-7. O softeare deve ter opções de cores escuras e claras
-8. O software deve ter imagens explicativas
-9. O usuario deve receber o resultado das apostas
+tabela 2
+| Tipo  | Requisito                                                                 |   ID   |
+|:-----:|--------------------------------------------------------------------------- |:------:|
+|RF | O software deve ter telas simples com poucos textos| ENT01|
+|RF | O usuário deve receber Comprovantes de seus ganhos e apostas| ENT02|
+|RF | O usuário deve ter mais de uma opção de aposta| ENT03|
+|RF | O usuário deve poder acompanhar jogos pelo software| ENT04|
+|RF | O software deve ter poucas telas| ENT05|
+|RF | O usuário deve poder consultar seus ganhos| ENT06|
+|RF | O softeare deve ter opções de cores escuras e claras| ENT07|
+|RF | O software deve ter imagens explicativas| ENT08|
+|RF | O usuario deve receber o resultado das apostas| ENT09|
+|RF | O usuario deve poder fazer login no aplicativo | ENT10|
+|RF | Deve Haver uma verificação de indentidade para longin no aplicativo |ENT11|
+|RF | O usuario deve poder acessar o propio perfil |ENT12|
+|RF| O usuario deve poder fazer logout no aplicativo| ENT13|
 
 ## Bibliografia 
 
@@ -63,6 +75,7 @@ Vazque, Carlos engenharia de requisitos.Rio de janeiro:Brasport.2016
 | Versão | Data       | Autor               | Descrição                                    | Revisor |
 |:--------:|:------------:|:---------------------:|:----------------------------------------------:|:---------:|
 | ``1.0``    | 27/09/2025 | [Heyttor Augusto](https://github.com/H3ytt0r62)     | Entrevista 1 | [Samuel Felipe](https://github.com/TerminaKng05) |
+
 
 
 
