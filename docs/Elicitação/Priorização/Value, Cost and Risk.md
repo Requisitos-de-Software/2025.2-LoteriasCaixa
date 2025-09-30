@@ -2,7 +2,7 @@
 
 ## Introdução
 
-A priorização de requisitos é uma etapa crucial no desenvolvimento de software, pois permite que a equipe identifique quais funcionalidades devem ser implementadas primeiro, considerando critérios como valor agregado, risco envolvido e custo de desenvolvimento. Diferentes técnicas podem ser utilizadas para essa finalidade, sendo as mais comuns baseadas em valor, risco e custo.
+A priorização de requisitos é uma etapa crucial no desenvolvimento de software, pois permite que a equipe identifique quais funcionalidades devem ser implementadas primeiro, considerando critérios como valor agregado, risco envolvido e custo de desenvolvimento. Diferentes técnicas podem ser utilizadas para essa finalidade, sendo a tecnica utilizada pelo integrante João Pedro uma das mais comuns baseadas em valor, risco e custo.
 
 ## Participantes
 
@@ -10,12 +10,12 @@ A priorização de requisitos é uma etapa crucial no desenvolvimento de softwar
 
 | Nome | Função |
 |------|--------|
-| [Seu Nome] | Entrevistador |
-| [Nome do Usuário] | Usuário |
+| [João Pedro Araújo](https://github.com/Jadequilin) | Entrevistador | 
+| [Janice José Araújo] | Usuária |
 
 ## Metodologia
 
-A entrevista foi conduzida por [Seu Nome] no dia [data], no horário [horário], com o usuário [Nome do Usuário]. Durante a reunião, foram apresentados os conceitos de priorização baseada em valor, risco e custo, e o usuário colaborou na classificação dos requisitos com base nesses critérios.
+A entrevista foi conduzida por João Pedro Araújo no dia 30/09/2025, no horário 11:40 às 12:10, com a usuária Janice José Araújo. Durante a reunião, foram apresentados os conceitos de priorização baseada em valor, risco e custo, e o usuário colaborou na classificação dos requisitos com base nesses critérios, também permitindo a filmagem durante o processo.
 
 ## Técnica Utilizada
 
@@ -32,7 +32,7 @@ Cada requisito foi avaliado em uma escala de 1 a 5 para cada dimensão, e a prio
 Quanto maior o resultado, maior a prioridade.
 
 ## Link do vídeo
-
+Link direto do vídeo: https://youtu.be/rEuk4FJvrqM
 ## Requisitos Priorizados
 
 ### *Legenda (Tabelas 2,3 e 4)*
@@ -122,5 +122,6 @@ SERRANO, Milene; SERRANO, Maurício. **Requisitos (Aula 07): Elicitação, Model
 
 | Versão | Data | Autor | Descrição | Revisor |
 |--------|------|-------|------------|---------|
-| 1.0 | [data] | [Seu Nome] | Priorização com base em valor, risco e custo | [Nome do Revisor] |
+| 1.0 | [data] | [Seu Nome] | Priorização com base em valor, risco e custo |[Rivadalvio Joaquim](https://github.com/RivaFilho) |
+
 
