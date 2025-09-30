@@ -65,7 +65,7 @@ tabela 2
 |RF | Deve Haver uma verificação de indentidade para longin no aplicativo |ENT11|
 |RF | O usuario deve poder acessar o propio perfil |ENT12|
 |RF| O usuario deve poder fazer logout no aplicativo| ENT13|
-
+a
 ## Bibliografia 
 
 Vazque, Carlos engenharia de requisitos.Rio de janeiro:Brasport.2016
