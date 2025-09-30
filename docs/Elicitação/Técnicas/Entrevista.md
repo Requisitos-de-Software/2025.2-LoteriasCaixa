@@ -43,10 +43,10 @@ O usuário foi submetido a uma serié de perguntas que se relacionavam ao aplica
 
 ## Requisitos Elicitados
 
-### *Legenda (Tabelas 2 e 3)*
+### *Legenda (Tabelas 2 )*
 - **RF**: Requisito funcional.
 - **RNF**: Requisito não-funcional.
-- **OBS**: Requisito elicitado pela observação.
+- **OBS**: Requisito elicitado pela entrevista.
 Após a entrevista foi possivel elecitar os seguintes requistos:
 
 tabela 2
@@ -75,6 +75,7 @@ Vazque, Carlos engenharia de requisitos.Rio de janeiro:Brasport.2016
 | Versão | Data       | Autor               | Descrição                                    | Revisor |
 |:--------:|:------------:|:---------------------:|:----------------------------------------------:|:---------:|
 | ``1.0``    | 27/09/2025 | [Heyttor Augusto](https://github.com/H3ytt0r62)     | Entrevista 1 | [Samuel Felipe](https://github.com/TerminaKng05) |
+
 
 
 
