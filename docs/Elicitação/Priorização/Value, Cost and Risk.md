@@ -31,17 +31,15 @@ Cada requisito foi avaliado em uma escala de 1 a 5 para cada dimensão, e a prio
 
 Quanto maior o resultado, maior a prioridade.
 
-##Link do vídeo
+## Link do vídeo
 
-## Requisitos Elicitados
+## Requisitos Priorizados
 
-### *Legenda (Tabelas 2 )*
+### *Legenda (Tabelas 2,3 e 4 )*
 - **RF**: Requisito funcional.
 - **RNF**: Requisito não-funcional.
 - **OBS**: Requisito elicitado pela entrevista.
 Após a entrevista foi possivel elicitar os seguintes requistos:
-
-## Requisitos Priorizados
 
 ### Requisitos de Alta Prioridade
 
@@ -84,4 +82,5 @@ SERRANO, Milene; SERRANO, Maurício. **Requisitos (Aula 07): Elicitação, Model
 | Versão | Data | Autor | Descrição | Revisor |
 |--------|------|-------|------------|---------|
 | 1.0 | [data] | [Seu Nome] | Priorização com base em valor, risco e custo | [Nome do Revisor] |
+
 
