@@ -60,10 +60,11 @@ nav:
       - Observação: Elicitação/Técnicas/Observação.md
       - Glossário: Elicitação/Técnicas/Glossário.md
     - Priorização:
-      - MoSCoW: Elicitação/Priorização/MoSCoW.md
-      - $100: Elicitação/Priorização/$100.md
       - Three level scale: Elicitação/Priorização/Three level scale.md
       - Value, Cost and Risk: Elicitação/Priorização/Value, Cost and Risk.md
+      - $100: Elicitação/Priorização/$100.md
+      - MoSCoW: Elicitação/Priorização/MoSCoW.md
+
 
   - Modelagem: 
     - Modelagem/Casos de uso.md
@@ -74,8 +75,36 @@ nav:
     - Modelagem/NFR.md 
   
   - Verificação:   
-    - Verificação/Inspeção Grupo 1 - Etapa 1.md
-    - Verificação/Inspeção Grupo 7 - Etapa 1.md
+    - Etapa 1:
+      - Verificação/Inspeção Grupo 1 - Etapa 1.md
+      - Verificação/Inspeção Grupo 7 - Etapa 1.md
+    - Etapa 2:
+      - Grupo + 1:
+        - Verificação/Etapa 2/Grupo + 1/Listas de Verificações.md
+        - Inspeção:
+          - Verificação/Etapa 2/Grupo + 1/Inspeção/Perfil de Usuário.md
+          - Verificação/Etapa 2/Grupo + 1/Inspeção/Personas.md
+          - Verificação/Etapa 2/Grupo + 1/Inspeção/Análise de Documentos.md
+          - Verificação/Etapa 2/Grupo + 1/Inspeção/Entrevista.md
+          - Verificação/Etapa 2/Grupo + 1/Inspeção/Brainstorming.md
+          - Verificação/Etapa 2/Grupo + 1/Inspeção/MoSCoW.md
+          - Verificação/Etapa 2/Grupo + 1/Inspeção/$100.md
+          - Verificação/Etapa 2/Grupo + 1/Inspeção/Spreadsheet.md
+          - Verificação/Etapa 2/Grupo + 1/Inspeção/In or Out.md
+      - Grupo 7:
+        - Verificação/Etapa 2/Grupo 7/Listas de Verificações.md
+        - Inspeção:
+          - Verificação/Etapa 2/Grupo 7/Inspeção/Perfil de Usuário.md
+          - Verificação/Etapa 2/Grupo 7/Inspeção/Personas.md
+          - Verificação/Etapa 2/Grupo 7/Inspeção/Análise de Documentos.md
+          - Verificação/Etapa 2/Grupo 7/Inspeção/Entrevista.md
+          - Verificação/Etapa 2/Grupo 7/Inspeção/Observação.md
+          - Verificação/Etapa 2/Grupo 7/Inspeção/Glossário.md
+          - Verificação/Etapa 2/Grupo 7/Inspeção/Three level scale.md
+          - Verificação/Etapa 2/Grupo 7/Inspeção/Value, Cost and Risk.md
+          - Verificação/Etapa 2/Grupo 7/Inspeção/$100.md
+          - Verificação/Etapa 2/Grupo 7/Inspeção/MoSCoW.md
+        
 
   - Validação: Validação.md
 
