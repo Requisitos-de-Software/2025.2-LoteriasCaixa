@@ -1,6 +1,6 @@
 ## Técnica de Priorização - Value, Cost and Risk
 
-*<p style="text-align: center;">Tabela 8: Checklist Value, Cost and Risk do grupo 7</p>*
+*<p style="text-align: center;">Tabela 1: Checklist preenchido - Value, Cost and Risk do grupo 7</p>*
 
 | ID  | Descrição                                                                                                                                      | Cumpriu? |
 |:---:|:-----------------------------------------------------------------------------------------------------------------------------------------------|:--------:|
@@ -16,3 +16,16 @@
 | 10  | A lista final foi ordenada em ordem decrescente de prioridade calculada, destacando os itens com melhor relação valor/custo/risco?              |   Sim       |
 | 11  | Foram considerados ajustes de pesos (benefício, penalidade, custo, risco) de acordo com a realidade do projeto?                                |    Não      |
 | 12  | Os stakeholders revisaram e validaram os resultados da priorização, discutindo divergências e chegando a consenso?                             |    Incompleto      |
+
+*<p style="text-align: center;">Fonte: [Luan Vinícius](https://github.com/luannvi) </p>*
+
+## Bibliografia 
+
+> - WIEGERS, Karl; BEATTY, Joy. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013. Disponível em: <https://aprender3.unb.br/pluginfile.php/3210609/mod_resource/content/3/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf>. Acesso em: 1 out. 2025.
+
+## Versionamento
+
+| Versão | Data       | Autor               | Descrição                       | Revisor |
+|:--------:|:------------:|:---------------:|:-------------------------------:|:---------:|
+| ``1.0``    | 24/09/2025 | [Luan Vinícius](https://github.com/luannvi) | Abertura da documentação | [Heyttor Augusto](https://github.com/H3ytt0r62)  |
+|  ``1.1``   | 01/10/2025 | [Heyttor Augusto](https://github.com/H3ytt0r62)  | Adição das checklists   | [Luan Vinícius](https://github.com/luannvi) | 

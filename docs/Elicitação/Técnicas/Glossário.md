@@ -1,6 +1,6 @@
 # Glossário – Aplicativo Loterias Caixa
 
-## 1. Glossário
+## Glossário
 
 O glossário a seguir reúne os principais termos utilizados no **Aplicativo Loterias Caixa**, com o objetivo de facilitar a compreensão dos conceitos mais comuns relacionados às apostas, sorteios e funcionalidades do sistema.  
 
@@ -56,7 +56,7 @@ Essas definições ajudam o usuário a entender como o aplicativo organiza infor
 
 ---
 
-## 2. Bibliografia
+## Bibliografia
 
 > 1. **LOTERIAS CAIXA.** Página oficial de loterias. Disponível em:  
 >    [https://loterias.caixa.gov.br/Paginas/default.aspx](https://loterias.caixa.gov.br/Paginas/default.aspx).  
@@ -64,11 +64,11 @@ Essas definições ajudam o usuário a entender como o aplicativo organiza infor
 
 ---
 
-## 3. Versionamento
+## Versionamento
 
 | Versão | Data       | Autor             | Descrição                                           | Revisor        |
 |--------|------------|-------------------|-----------------------------------------------------|----------------|
-| 1.0    | 26/09/2025 | Miquéias Ezequiel | Criação do glossário                                | Luan Vinícius  |
-| 1.1    | 27/09/2025 | Miquéias Ezequiel | Adição do versionamento e referências bibliográficas | Luan Vinícius |
+| 1.0    | 26/09/2025 | [Miquéias Ezequiel](https://github.com/Kael-web7) | Criação do glossário                                | [Luan Vinícius](https://github.com/luannvi)  |
+| 1.1    | 27/09/2025 | [Miquéias Ezequiel](https://github.com/Kael-web7) | Adição do versionamento e referências bibliográficas | [Luan Vinícius](https://github.com/luannvi) |
 
 

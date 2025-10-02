@@ -1,6 +1,6 @@
 ## Lista de Verificação - Perfil de Usuário 
 
-*<p style="text-align: center;">Tabela 1: Checklist Perfil de Usuário do grupo 7</p>*
+*<p style="text-align: center;">Tabela 1: Checklist preenchido - Perfil de Usuário grupo 7</p>*
 
 | ID  | Descrição | Cumpriu? |
 |-----|-----------|----------|
@@ -14,3 +14,16 @@
 | 8   | Foram consideradas múltiplas dimensões do usuário (dados pessoais, relação com tecnologia, conhecimento do domínio, tarefas)? | Incompleto |
 | 9   | Os usuários foram categorizados em grupos significativos (idade, experiência, atitudes, tarefas primárias)? | Sim |
 | 10  | O perfil de usuário cobre a maioria dos grupos, evitando deixar uma porcentagem significativa de usuários sem representação? | Não |
+
+*<p style="text-align: center;">Fonte: [Miquéias Ezequiel](https://github.com/Kael-web7) </p>*
+
+## Bibliografia 
+
+> - BARBOSA, Simone Diniz Junqueira et al. Identificação de Necessidades dos Usuários e Definição dos Requisitos de IHC. In: BARBOSA, Simone Diniz Junqueira et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Rio de Janeiro: Autopublicação, 2021. Cap. 7. Disponível em: <https://aprender3.unb.br/pluginfile.php/3210605/mod_resource/content/4/ihc-ux%20cap%207.pdf>. Acesso em: 1 out. 2025.
+
+## Versionamento
+
+| Versão | Data       | Autor               | Descrição                       | Revisor |
+|:--------:|:------------:|:---------------:|:-------------------------------:|:---------:|
+| ``1.0``    | 24/09/2025 | [Luan Vinícius](https://github.com/luannvi) | Abertura da documentação | [Heyttor Augusto](https://github.com/H3ytt0r62)  |
+|  ``1.1``   | 01/10/2025 | [Heyttor Augusto](https://github.com/H3ytt0r62)  | Adição das checklists   | [Luan Vinícius](https://github.com/luannvi) | 

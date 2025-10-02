@@ -85,5 +85,5 @@ Depois das anotações do observador e com as ações do usuário dentro do apli
 
 | Versão | Data       | Autor               | Descrição                       | Revisor |
 |:--------:|:------------:|:---------------:|:-------------------------------:|:---------:|
-| ``1.0``    | 24/09/2025 | [Luan Vinícius](https://github.com/luannvi)  | Abertura da documentação |  |
-| ``1.1``    | 29/09/2025 | [Luan Vinícius](https://github.com/luannvi)  | Adição de conteúdo       |  |
+| ``1.0``    | 24/09/2025 | [Luan Vinícius](https://github.com/luannvi)  | Abertura da documentação | [Miquéias Ezequiel](https://github.com/Kael-web7) |
+| ``1.1``    | 29/09/2025 | [Luan Vinícius](https://github.com/luannvi)  | Adição de conteúdo       | [Miquéias Ezequiel](https://github.com/Kael-web7) |
