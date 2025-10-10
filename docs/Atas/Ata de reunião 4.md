@@ -1,14 +1,14 @@
-## Video e Ata da terceira reunião gravada ##
+## Video e Ata da quarta reunião gravada ##
 
 
-[link do video](ainda por fazer reunião formal)
+[link do video](Reunião presencial, falta ainda gravarmos )
 
 
 # Ata de Reunião - Grupo 7
 
 **Disciplina:** Requisitos de Software  
 **Professor:** André – UnB / Campus Gama  
-**Projeto:** Game da Cidadania (Requisitos)  - mudança para Loterica
+**Projeto:** Loterica
 **Modelo:** Pauta utilizada pelo Ministério  
 
 ---
@@ -17,11 +17,11 @@
 
 | Item        | Previsto | Realizado |
 |-------------|----------|-----------|
-| Data        | 11/09/2025 | - |
-| Hora Início | 20:00   | 20:20 |
-| Hora Término| 21:00   | 21:00 |
+| Data        | 23/09/2025 | - |
+| Hora Início | 8:00   | 8:10 |
+| Hora Término| 9:00   | 9:10 |
 
-**Local:** Plataforma Discord  
+**Local:** UnB campus- Gama  
 **Redator:** João Pedro Araújo  
 
 ---
@@ -44,8 +44,9 @@
 
 | Nº | Descrição                          |
 |----|------------------------------------|
-| 1  | Acatando o pedido de mudança do app, realizamos discussões entre qual dos demais candidatos escolher. |
-| 2  | Após debate escolhemos o aplicativo da loterica|
+| 1  | Realizamos um brainstorm sobre as ideias e formas de elicitação de requisitos e priorização.|
+| 2  | Foi decidido pelos elementos de compisição da elicitação: perfil de usuário e personas; as tecnicas de elicitação: análise de documentos,
+glossário, entrevista e observação; as tecnicas de priorização: 3 levels de importância, MOSCOW, $100 e valor,custo e risco|
 
 
 ---
@@ -60,8 +61,8 @@ Não há.
 
 | Nº | Descrição                          | Tipo |
 |----|------------------------------------|------|
-| 1  | Acatando o pedido de mudança do app, realizamos discussões entre qual dos demais candidatos escolher.  | Apresentação |
-| 2  | Após debate escolhemos o aplicativo da loterica | Apresentação |
+| 1  |Debate tecnicas de elicitação e priorização.  | Apresentação |
+| 2  | Após debate decidimos as tecnicas | Apresentação |
 
 
 ### Tipos de Assunto
@@ -75,7 +76,7 @@ Não há.
 
 ## 5. Próxima Reunião
 
-**Data:** 16/09/2025  
+**Data:** 30/09/2025  
 
 ---
 
@@ -83,9 +84,10 @@ Não há.
 
 | Nº | Compromisso                          | Responsável    | Data       |
 |----|--------------------------------------|----------------|------------|
-| 1  | Ataulização da equipe e disponibilidade dos integrantes (mapa de calor) | Heyttor     | 16/09/2025 |
-| 2  | Nova cópia do termo de uso                | Miqueias          | 16/09/2025 |
-| 3  | Atualização das ferramentas do projeto               | Samuel   | 16/09/2025 |
-| 4  | Atualização do Cronograma do projeto | Rivadalvio | 16/09/2025 |
-| 5  | Rich Picture                         | Luan       | 16/09/2025 |
-| 6  | Ata                                  | João Pedro     | 16/09/2025 |
+| 1  | Perfil de usuário, entrevista, 3 niveis de importância| Heyttor     | 02/10/2025 |
+| 2  | Glossário                | Miqueias          | 02/10/2025 |
+| 3  | Analise de documentos, glossário              | Samuel   | 02/10/2025 |
+| 4  | Personas, entrevista | Rivadalvio | 02/10/2025 |
+| 5  | Observação, $100                 | Luan       | 02/10/2025 |
+| 6  | Ata, entrevista, valor,custo e risco          | João Pedro     | 02/10/2025 |
+| 7  | MOSCOW, entrevista                            | Nayra | 02/10/2025 |

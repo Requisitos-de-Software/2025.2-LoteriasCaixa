@@ -20,8 +20,8 @@ A Tabelas mostram as atividades planejadas para as apresentações do projeto e 
 | Gravação da apresentação | 09/09 | 09/09 | 09/09 | [Heyttor](https://github.com/H3ytt0r62), [João Pedro](https://github.com/Jadequilin), [Miquéias Ezequiel](https://github.com/Kael-web7), [Nayra Nery](https://github.com/NayraNery127), [Rivadalvo Filho](https://github.com/RivaFilho) e [Samuel Felipe](https://github.com/TerminaKng05) | [Heyttor](https://github.com/H3ytt0r62), [João Pedro](https://github.com/Jadequilin), [Miquéias Ezequiel](https://github.com/Kael-web7), [Nayra Nery](https://github.com/NayraNery127), [Rivadalvo Filho](https://github.com/RivaFilho) e [Samuel Felipe](https://github.com/TerminaKng05) |
 |Correções apontadas | 07/09 | 09/09 | 09/09 |  [Heyttor](https://github.com/H3ytt0r62), [João Pedro](https://github.com/Jadequilin), [Miquéias Ezequiel](https://github.com/Kael-web7), [Nayra Nery](https://github.com/NayraNery127), [Rivadalvo Filho](https://github.com/RivaFilho) e [Samuel Felipe](https://github.com/TerminaKng05) | [Heyttor](https://github.com/H3ytt0r62), [João Pedro](https://github.com/Jadequilin), [Miquéias Ezequiel](https://github.com/Kael-web7), [Nayra Nery](https://github.com/NayraNery127), [Rivadalvo Filho](https://github.com/RivaFilho) e [Samuel Felipe](https://github.com/TerminaKng05)|
 
-<p align="center">
-  Fonte: <a href="https://github.com/NayraNery127" target="_blank">Autoria própria</a>, 2025
+<p style="text-align: center;">
+  Fonte: <a href="https://github.com/NayraNery127" target="_blank">Nayra Nery</a>, 2025
 </p>
 
 ### Etapa 2
@@ -51,8 +51,8 @@ A Tabelas mostram as atividades planejadas para as apresentações do projeto e 
 
 
 
-<p align="center">
-  Fonte: <a href="https://github.com/NayraNery127" target="_blank">Autoria própria</a>, 2025
+<p style="text-align: center;">
+  Fonte: <a href="https://github.com/NayraNery127" target="_blank">Nayra Nery</a>, 2025
 </p>
 
 
@@ -78,8 +78,8 @@ A Tabelas mostram as atividades planejadas para as apresentações do projeto e 
 
 
 
-<p align="center">
-  Fonte: <a href="https://github.com/NayraNery127" target="_blank">Autoria própria</a>, 2025
+<p style="text-align: center;">
+  Fonte: <a href="https://github.com/NayraNery127" target="_blank">Nayra Nery</a>, 2025
 </p>
 
 
@@ -97,8 +97,8 @@ A Tabelas mostram as atividades planejadas para as apresentações do projeto e 
 | Gravação da apresentação | 21/10 | 21/10 | 21/10 | [Heyttor](https://github.com/H3ytt0r62), [João Pedro](https://github.com/Jadequilin), [Miquéias Ezequiel](https://github.com/Kael-web7), [Nayra Nery](https://github.com/NayraNery127), [Rivadalvo Filho](https://github.com/RivaFilho) e [Samuel Felipe](https://github.com/TerminaKng05) | [Heyttor](https://github.com/H3ytt0r62), [João Pedro](https://github.com/Jadequilin), [Miquéias Ezequiel](https://github.com/Kael-web7), [Nayra Nery](https://github.com/NayraNery127), [Rivadalvo Filho](https://github.com/RivaFilho) e [Samuel Felipe](https://github.com/TerminaKng05) |
 | Correções apontadas | 21/10 | 21/10 | 21/10 | [Heyttor](https://github.com/H3ytt0r62), [João Pedro](https://github.com/Jadequilin), [Miquéias Ezequiel](https://github.com/Kael-web7), [Nayra Nery](https://github.com/NayraNery127), [Rivadalvo Filho](https://github.com/RivaFilho) e [Samuel Felipe](https://github.com/TerminaKng05) | [Heyttor](https://github.com/H3ytt0r62), [João Pedro](https://github.com/Jadequilin), [Miquéias Ezequiel](https://github.com/Kael-web7), [Nayra Nery](https://github.com/NayraNery127), [Rivadalvo Filho](https://github.com/RivaFilho) e [Samuel Felipe](https://github.com/TerminaKng05) |
 
-<p align="center">
-  Fonte: <a href="https://github.com/NayraNery127" target="_blank">Autoria própria</a>, 2025
+<p style="text-align: center;">
+  Fonte: <a href="https://github.com/NayraNery127" target="_blank">Nayra Nery</a>, 2025
 </p>
 
 ### Etapa 5
@@ -114,8 +114,8 @@ A Tabelas mostram as atividades planejadas para as apresentações do projeto e 
 | Correções | 26/10 | 26/10 | 26/10 |  [Heyttor](https://github.com/H3ytt0r62), [João Pedro](https://github.com/Jadequilin), [Miquéias Ezequiel](https://github.com/Kael-web7), [Nayra Nery](https://github.com/NayraNery127), [Rivadalvo Filho](https://github.com/RivaFilho) e [Samuel Felipe](https://github.com/TerminaKng05)|  [Heyttor](https://github.com/H3ytt0r62), [João Pedro](https://github.com/Jadequilin), [Miquéias Ezequiel](https://github.com/Kael-web7), [Nayra Nery](https://github.com/NayraNery127), [Rivadalvo Filho](https://github.com/RivaFilho) e [Samuel Felipe](https://github.com/TerminaKng05) |
 
 
-<p align="center">
-  Fonte: <a href="https://github.com/NayraNery127" target="_blank">Autoria própria</a>, 2025
+<p style="text-align: center;">
+  Fonte: <a href="https://github.com/NayraNery127" target="_blank">Nayra Nery</a>, 2025
 </p>
 
 
@@ -131,20 +131,19 @@ A Tabelas mostram as atividades planejadas para as apresentações do projeto e 
 | Checkup da entrega | 29/10 | 22/11 | 24/11 |[Heyttor](https://github.com/H3ytt0r62), [João Pedro](https://github.com/Jadequilin), [Miquéias Ezequiel](https://github.com/Kael-web7), [Nayra Nery](https://github.com/NayraNery127), [Rivadalvo Filho](https://github.com/RivaFilho) e [Samuel Felipe](https://github.com/TerminaKng05)  | [Heyttor](https://github.com/H3ytt0r62), [João Pedro](https://github.com/Jadequilin), [Miquéias Ezequiel](https://github.com/Kael-web7), [Nayra Nery](https://github.com/NayraNery127), [Rivadalvo Filho](https://github.com/RivaFilho) e [Samuel Felipe](https://github.com/TerminaKng05) |
 | Gravação da apresentação | 23/11 | 23/11 |23/11| [Heyttor](https://github.com/H3ytt0r62), [João Pedro](https://github.com/Jadequilin), [Miquéias Ezequiel](https://github.com/Kael-web7), [Nayra Nery](https://github.com/NayraNery127), [Rivadalvo Filho](https://github.com/RivaFilho) e [Samuel Felipe](https://github.com/TerminaKng05)  | [Heyttor](https://github.com/H3ytt0r62), [João Pedro](https://github.com/Jadequilin), [Miquéias Ezequiel](https://github.com/Kael-web7), [Nayra Nery](https://github.com/NayraNery127), [Rivadalvo Filho](https://github.com/RivaFilho) e [Samuel Felipe](https://github.com/TerminaKng05) |
 
-<p align="center">
-  Fonte: <a href="https://github.com/NayraNery127" target="_blank">Autoria própria</a>, 2025
+<p style="text-align: center;">
+  Fonte: <a href="https://github.com/NayraNery127" target="_blank">Nayra Nery</a>, 2025
 </p>
 ---
 
 ### Bibliografia e Referências
 
 > <a>1.</a> SALES, André Barros de. - Plano de ensino - Requisitos de Software (2025.1). Disponivel em: [https://aprender3.unb.br/pluginfile.php/3106711/mod_resource/content/55/Lista%20de%20Verifificac%CC%A7a%CC%83o%20-%20Plano_de_Ensino%20RE%20012025%20Turma%2003%20v1.pdf](https://aprender3.unb.br/pluginfile.php/3106711/mod_resource/content/55/Lista%20de%20Verifificac%CC%A7a%CC%83o%20-%20Plano_de_Ensino%20RE%20012025%20Turma%2003%20v1.pdf)
->
 
-### Histórico de versão
+### Versionamento
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :------: | :--------: | :-----------: | :-------: | :---------: |
-| `1.0` | 08/09/2025 | Criação do documento | [Nayra Nery](https://github.com/NayraNery127) |[Miquéias Ezequiel](https://github.com/Kael-web7)|
-| `1.1`  |  15/09/2025 | Atribuição de tarefas | [Nayra Nery](https://github.com/NayraNery127) |[Rivadalvo Filho](https://github.com/RivaFilho)|
+| `1.0` | 12/09/2025 | Criação do documento | [Nayra Nery](https://github.com/NayraNery127) |[Miquéias Ezequiel](https://github.com/Kael-web7)|
+| `1.1`  |  12/09/2025 | Atribuição de tarefas | [Nayra Nery](https://github.com/NayraNery127) |[Rivadalvo Filho](https://github.com/RivaFilho)|
 | `1.2`  | 19/09/2025 | Correções apontadas no cronograma | [João Pedro](https://github.com/Jadequilin) |[Samuel Felipe](https://github.com/TerminaKng05)|
 | `1.3` | 10/10/2025 | Correções apontadas no cronograma | [Nayra Nery](https://github.com/NayraNery127) |[Miquéias Ezequiel](https://github.com/Kael-web7)|

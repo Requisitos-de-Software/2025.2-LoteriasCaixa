@@ -1,11 +1,8 @@
 # Tabela de contribuição 
 
----
-
-## 1. Introdução
+## Introdução
  A tabela de contribuição é um recurso fundamental para trabalhos em grupo, especialmente em projetos de desenvolvimento de software e pesquisas acadêmicas. Mais do que um simples registro de atividades, ela funciona como um documento estratégico para planejar, distribuir responsabilidades e monitorar o desempenho de cada integrante, conforme ilustrado na Tabela 1.
 
----
 <p style="text-align: center;">
 Tabela 1: Tabela de contribuição de cada membro
 </p>
@@ -24,8 +21,8 @@ Tabela 1: Tabela de contribuição de cada membro
 **Total: 100%**
 
 
-## 2. Versionamento 
+## Versionamento 
 
 | Versão | Data       | Autor               | Descrição                                    | Revisor |
-|--------|------------|---------------------|----------------------------------------------|---------|
-| 1.0    | 07/09/2025 | Rivadalvio Joaquim   | Adição da tabela de contribuição | Heyttor Augusto|
+|:--------:|:------------:|:---------------------:|:----------------------------------------------:|:---------:|
+| ``1.0``    | 07/09/2025 | [Rivadalvio Joaquim](https://github.com/RivaFilho)  | Adição da tabela de contribuição | [Heyttor Augusto](https://github.com/H3ytt0r62)|
