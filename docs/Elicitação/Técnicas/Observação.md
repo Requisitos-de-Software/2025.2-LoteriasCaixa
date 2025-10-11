@@ -49,8 +49,9 @@ Depois das anotações do observador e com as ações do usuário dentro do apli
 | RF11  | O aplicativo deve possibilitar pagamento via cartão de crédito ou PIX.        | OBS11 |
 | RF12  | O aplicativo deve mostrar se o pagamento foi confirmado.                      | OBS12 |
 | RF13  | O aplicativo deve permitir visualizar sua aposta.                             | OBS13 |
-| RF14  | O aplicativo deve permitir gerar o comprovante da aposta em "minhas apostas".                                                                               | OBS14 |
+| RF14  | O aplicativo deve permitir gerar o comprovante da aposta em "minhas apostas". | OBS14 |
 | RF15  | O aplicativo deve possibilitar logout do usuário.                             | OBS15 |
+| RF16  | O aplicativo deve permitir o cancelamento de apostas antes do sorteio.        | OBS16 |
 
 *<p style="text-align: center;">Fonte: <a href="https://github.com/luannvi">Luan Vinícius.</a></p>*
 
