@@ -67,7 +67,7 @@ Após a entrevista foi possivel elicitar os seguintes requistos:
 ## Pela Entrevista 1 foi identificado:
 **Tabela 3**
 
-| Tipo  | Requisito                                                                 |   ID   |
+| Tipo  | Requisito                                                                 |  <a id="anchor_ENT" style="visibility: hidden;"></a> ID   |
 |:-----:|---------------------------------------------------------------------------|:------:|
 |RF | O software deve ter telas simples com poucos textos| ENT01|
 |RF | O usuário deve receber Comprovantes de seus ganhos e apostas| ENT02|
