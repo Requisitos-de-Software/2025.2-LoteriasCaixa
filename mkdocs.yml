@@ -53,7 +53,6 @@ nav:
   
   - Elicitação: 
     - Perfil de Usuário: Elicitação/Perfil de Usuário.md
-    - Personas: Elicitação/Personas.md
     - Técnicas:
       - Análise de Documentos: Elicitação/Técnicas/Análise de Documentos.md
       - Entrevista: Elicitação/Técnicas/Entrevista.md
@@ -64,15 +63,16 @@ nav:
       - Value, Cost and Risk: Elicitação/Priorização/Value, Cost and Risk.md
       - $100: Elicitação/Priorização/$100.md
       - MoSCoW: Elicitação/Priorização/MoSCoW.md
-
+    - Requisitos Elicitados: Elicitação/Requisitos Elicitados.md
 
   - Modelagem: 
     - Modelagem/Casos de uso.md
     - Modelagem/Cenários.md
-    - Modelagem/Especificação.md
-    - Modelagem/História de usuário.md
+    - Modelagem/Especificação Suplementar.md
     - Modelagem/Léxicos.md
-    - Modelagem/NFR.md 
+    - Ágil:
+      - NFR: Modelagem/Ágil/NFR.md
+      - Histórias de usuário: Modelagem/Ágil/História de usuário.md
   
   - Verificação:   
     - Etapa 1:
