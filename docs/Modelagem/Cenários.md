@@ -31,6 +31,7 @@ tabela 2 - contribuição
 |Aluno | Cenarios Criados |
 |-----| -----------------|
 | Heyttor|   CN01, CN02 e CN03 |
+| Nayra Nery|   CN04, CN05  |
 
 
 
@@ -95,6 +96,46 @@ tabela 5 - CN03
 |Eventos | -O sistema ira reconhecer a aposta e ira guardar o valor apostado |
 |Avaliações | Cristina gostou da facilidade de conseguir achar outras apostas e da diversificação do aplicativo |
 
+## CN04 – O usuário deve poder visualizar suas apostas mesmo sem conexão com a internet
+
+Autor: [Nayra Nery](https://github.com/NayraNery127)
+
+tabela 6 - CN04
+
+| item | Descrição |
+|------|------------|
+| **Título** | Visualização de Apostas em Modo Offline |
+| **Código** | CN04 |
+| **Requisito trabalhado** | RNF02 – O sistema deve permitir que o usuário visualize suas apostas já carregadas anteriormente mesmo sem conexão com a internet. |
+| **Atores** | Marcelo, 40 anos, é um apostador regular das Loterias Caixa. Ele costuma fazer apostas pelo aplicativo durante suas viagens a trabalho e, por isso, enfrenta situações frequentes em que fica sem sinal de internet, especialmente em rodovias ou cidades do interior. |
+| **Ambiente (Contexto)** | Marcelo está em um voo e deseja conferir as apostas realizadas na noite anterior. Ao abrir o aplicativo Loterias Caixa, percebe que não há como visualizar suas apostas sem estar conectado à internet, o que o impede de verificar seus números e resultados durante o trajeto. |
+| **Objetivos** | - Permitir que o usuário acesse suas apostas mesmo sem estar conectado à internet.<br>- Garantir maior disponibilidade do sistema e melhorar a experiência do usuário em locais com pouca conectividade.<br>- Reduzir o tempo de carregamento das apostas já visualizadas. |
+| **Planejamento** | O sistema deve armazenar localmente em cache as apostas que foram carregadas quando o usuário estava online. Em caso de falta de conexão, o aplicativo deve exibir esses dados do cache, indicando visualmente que está em “modo offline”. Assim que houver reconexão, as informações devem ser sincronizadas automaticamente com o servidor. |
+| **Ações** | 1. O usuário acessa o aplicativo em um local sem internet.<br>2. O app detecta a ausência de conexão.<br>3. O sistema exibe as apostas mais recentes armazenadas localmente.<br>4. Quando a conexão é restabelecida, o aplicativo atualiza os dados automaticamente. |
+| **Eventos** | - O aplicativo identifica a falta de rede e ativa o modo offline.<br>- As informações exibidas vêm do cache local (últimas apostas carregadas).<br>- Um ícone ou aviso indica que o app está em modo offline.<br>- Quando reconectado, o sistema atualiza as informações e remove o indicador de modo offline. |
+| **Avaliações** | Marcelo aprova a funcionalidade, pois consegue visualizar suas apostas mesmo em locais sem acesso à internet. A experiência se torna mais prática, fluida e compatível com o padrão de outros aplicativos modernos que funcionam parcialmente offline. |
+
+
+## CN05 – O usuário deve poder filtrar suas apostas por data ou período específico
+
+Autor: [Nayra Nery](https://github.com/NayraNery127)
+
+tabela 7 - CN05
+
+| item | Descrição |
+|------|------------|
+| **Título** | Filtro por Data/Período nas Apostas |
+| **Código** | CN04 |
+| **Requisito trabalhado** | RF01 – O sistema deve permitir que o usuário filtre suas apostas por data específica ou por um período definido (ex: últimos 30 dias, mês específico ou intervalo personalizado). |
+| **Atores** | Artur, 25 anos, é um apostador regular das Loterias Caixa e realiza diversas apostas ao longo do mês. Ele gosta de acompanhar seus gastos e resultados, mas encontra dificuldade em localizar apostas antigas no histórico. |
+| **Ambiente (Contexto)** | Artur acessa o aplicativo Loterias Caixa para revisar suas apostas e conferir os resultados do último mês. No entanto, percebe que o aplicativo só exibe uma lista contínua de apostas, sem opção de filtragem por data, o que dificulta a busca por informações específicas. |
+| **Objetivos** | - Facilitar a navegação no histórico de apostas, permitindo buscas rápidas por data ou intervalo de tempo.<br>- Reduzir o tempo necessário para localizar apostas específicas.<br>- Tornar o controle do histórico mais organizado e acessível. |
+| **Planejamento** | O sistema deve incluir um filtro de data no histórico de apostas, com opções de seleção rápida (ex: “Últimos 7 dias”, “Últimos 30 dias”, “Este mês”, “Escolher intervalo personalizado”). O usuário pode combinar o filtro de data com outros filtros, como “Situação” ou “Modalidade de jogo”. |
+| **Ações** | 1. O usuário acessa a aba “Minhas Apostas”.<br>2. Seleciona o novo filtro “Data/Período”.<br>3. Escolhe uma das opções de período ou define manualmente um intervalo de datas.<br>4. O sistema atualiza a tela, exibindo apenas as apostas feitas no período selecionado. |
+| **Eventos** | - O sistema aplica o filtro e exibe apenas as apostas que se enquadram no intervalo definido.<br>- O usuário pode limpar o filtro para retornar à visualização completa.<br>- O histórico pode ser combinado com outros filtros existentes, como “Pagas” ou “Premiadas/Não Pagas”. |
+| **Avaliações** | Artur aprova a funcionalidade, pois agora consegue visualizar facilmente apenas as apostas de um determinado período. Isso torna o acompanhamento dos resultados e o controle financeiro muito mais prático e eficiente. |
+
+
 
 
 
@@ -111,3 +152,4 @@ tabela 5 - CN03
 | Versão | Data       | Autor               | Descrição                                    | Revisor |
 |:--------:|:------------:|:---------------------:|:----------------------------------------------:|:---------:|
 | ``1.0``    | 10/10/2025 | [Heyttor Augusto](https://github.com/H3ytt0r62)     | Cenarios iniciais | [Samuel Felipe](https://github.com/TerminaKng05) |
+| ``1.1``    | 10/10/2025 | [Nayra Nery](https://github.com/NayraNery127)     | Cenarios  | [Samuel Felipe](https://github.com/TerminaKng05) |
