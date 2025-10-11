@@ -26,4 +26,4 @@ Em síntese, a escolha do **Loterias Caixa** reflete uma decisão estratégica e
 
 | Versão | Data       | Autor             | Descrição                                        | Revisor       |
 |--------|------------|-------------------|--------------------------------------------------|----------------|
-| 1.0    | 11/10/2025 | Miquéias Ezequiel | Abertura do documento de aplicativos analisados  | Luan Vinícius  |
+| ``1.0``    | 11/10/2025 | [Miquéias Ezequiel](https://github.com/Kael-web7) | Abertura do documento de aplicativo escolhido  | [Luan Vinícius](https://github.com/luannvi)  |
