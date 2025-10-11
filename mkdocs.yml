@@ -26,8 +26,6 @@ extra_css:
 
 markdown_extensions:
   - admonition
-  - attr_list
-  - md_in_html
   - toc:
       permalink: false
   - pymdownx.superfences
@@ -50,63 +48,32 @@ nav:
   - Pré-Rastreabilidade:
     - Pré-rastreabilidade/AppsAnalisados.md
     - Pré-rastreabilidade/RichPicture.md    
+    - Pré-rastreabilidade/Aplicativo Escolhido.md    
   
   - Elicitação: 
     - Perfil de Usuário: Elicitação/Perfil de Usuário.md
+    - Personas: Elicitação/Personas.md
     - Técnicas:
-      - Análise de Documentos: Elicitação/Técnicas/Análise de Documentos.md
       - Entrevista: Elicitação/Técnicas/Entrevista.md
       - Observação: Elicitação/Técnicas/Observação.md
       - Glossário: Elicitação/Técnicas/Glossário.md
     - Priorização:
-      - Three level scale: Elicitação/Priorização/Three level scale.md
-      - Value, Cost and Risk: Elicitação/Priorização/Value, Cost and Risk.md
-      - $100: Elicitação/Priorização/$100.md
-      - MoSCoW: Elicitação/Priorização/MoSCoW.md
-    - Requisitos Elicitados: Elicitação/Requisitos Elicitados.md
+      - MoSCoW: Elicitação/MoSCoW.md
+      - $100: Elicitação/$100.md
+      - Three level scale: Elicitação/Three level scale.md
+      - Value, Cost and Risk: Elicitação/Value, Cost and Risk.md
 
   - Modelagem: 
     - Modelagem/Casos de uso.md
     - Modelagem/Cenários.md
-    - Modelagem/Especificação Suplementar.md
+    - Modelagem/Especificação.md
+    - Modelagem/História de usuário.md
     - Modelagem/Léxicos.md
-    - Ágil:
-      - NFR: Modelagem/Ágil/NFR.md
-      - Histórias de usuário: Modelagem/Ágil/História de usuário.md
+    - Modelagem/NFR.md 
   
-  - Verificação:   
-    - Etapa 1:
-      - Verificação/Inspeção Grupo 1 - Etapa 1.md
-      - Verificação/Inspeção Grupo 7 - Etapa 1.md
-    - Etapa 2:
-      - Grupo + 1:
-        - Verificação/Etapa 2/Grupo + 1/Listas de Verificações.md
-        - Inspeção:
-          - Verificação/Etapa 2/Grupo + 1/Inspeção/Perfil de Usuário.md
-          - Verificação/Etapa 2/Grupo + 1/Inspeção/Personas.md
-          - Verificação/Etapa 2/Grupo + 1/Inspeção/Análise de Documentos.md
-          - Verificação/Etapa 2/Grupo + 1/Inspeção/Entrevista.md
-          - Verificação/Etapa 2/Grupo + 1/Inspeção/Brainstorming.md
-          - Verificação/Etapa 2/Grupo + 1/Inspeção/MoSCoW.md
-          - Verificação/Etapa 2/Grupo + 1/Inspeção/$100.md
-          - Verificação/Etapa 2/Grupo + 1/Inspeção/Spreadsheet.md
-          - Verificação/Etapa 2/Grupo + 1/Inspeção/In or Out.md
-      - Grupo 7:
-        - Verificação/Etapa 2/Grupo 7/Listas de Verificações.md
-        - Inspeção:
-          - Verificação/Etapa 2/Grupo 7/Inspeção/Perfil de Usuário.md
-          - Verificação/Etapa 2/Grupo 7/Inspeção/Personas.md
-          - Verificação/Etapa 2/Grupo 7/Inspeção/Análise de Documentos.md
-          - Verificação/Etapa 2/Grupo 7/Inspeção/Entrevista.md
-          - Verificação/Etapa 2/Grupo 7/Inspeção/Observação.md
-          - Verificação/Etapa 2/Grupo 7/Inspeção/Glossário.md
-          - Verificação/Etapa 2/Grupo 7/Inspeção/Three level scale.md
-          - Verificação/Etapa 2/Grupo 7/Inspeção/Value, Cost and Risk.md
-          - Verificação/Etapa 2/Grupo 7/Inspeção/$100.md
-          - Verificação/Etapa 2/Grupo 7/Inspeção/MoSCoW.md
-        
-
-  - Validação: Validação.md
+  - Análise:   
+    - Análise/grupo 1RP.md
+    - Análise/grupo 7RP.md
 
   - Pós-Rastreabilidade: 
     - Pós-rastreabilidade/Forward from.md
@@ -117,8 +84,6 @@ nav:
   - Atas:
     - Atas/Ata de reunião 1.md
     - Atas/Ata de reunião 2.md
-    - Atas/Ata de reunião 3 (mudança de app).md
-    - Atas/Ata de reunião 4.md
   
   - Termos de Uso: TermosDeUso.md
 
