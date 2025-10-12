@@ -35,8 +35,8 @@ A especificação foi elaborada utilizando o **modelo FURPS+** adaptado, incluin
 ##  Especificação de Requisitos
 
 ###  Funcionalidade (Requisitos Funcionais Complementares)
-
-*Requisitos funcionais que complementam os casos de uso principais*
+Autor: João Pedro
+tabela 1: Requisitos funcionais que complementam os casos de uso principais*
 
 | ID | Descrição | Status | Rastreabilidade |
 |:---:|-----------|:--------:|:---------------|
@@ -46,8 +46,8 @@ A especificação foi elaborada utilizando o **modelo FURPS+** adaptado, incluin
 | **RF27** | O aplicativo deve permitir o cancelamento de apostas antes do sorteio | Não Implementado | **OBS16** |
 
 ###  Implementação
-
-*Requisitos não funcionais relacionados a tecnologias e arquitetura*
+Autor: Rivadalvio Joaquim 
+tabela 2: Requisitos não funcionais relacionados a tecnologias e arquitetura*
 
 | ID | Descrição | Status | Rastreabilidade |
 |:---:|-----------|:--------:|:---------------|
@@ -92,3 +92,4 @@ A especificação foi elaborada utilizando o **modelo FURPS+** adaptado, incluin
 | `1.0` | 11/10/2025 | [Rivadalvio Joaquim](https://github.com/RivaFilho) | Criação inicial da especificação suplementar | [João Pedro](https://github.com/Jadequilin) |
 
 | `1.1` | 12/10/2025 | [João Pedro](https://github.com/Jadequilin) | Adaptação para modelo FURPS+ completo | [Rivadalvio Joaquim](https://github.com/RivaFilho) |
+
