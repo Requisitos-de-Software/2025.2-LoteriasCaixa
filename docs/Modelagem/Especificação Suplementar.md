@@ -135,6 +135,15 @@ Para essa categoria os requisitos identificados estão representados na tabela 8
 |  RNF11 | O aplicativo ainda apresenta lentidão em aparelhos de smartphones antigos                                                | Não Implementado | [AD15](../Elicitação/Técnicas/Análise%20de%20Documentos.md) |
 |  RNF12 | O aplicativo ainda apresenta problemas de desconexão ao se conectar em internet 4G/5G                                    | Não Implementado | [AD16](../Elicitação/Técnicas/Análise%20de%20Documentos.md) |
 
+#### Validação com o Usuário (Desempenho)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NDX3I737f9A?si=Te-NUZP4LyVt0lRG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+| Participante | Função | Data | Horário | Local |
+| ------------ | ----- | ----- | ------ | -------|
+| [Luan Vinícius](https://github.com/luannvi) | Integrante do grupo, responsável por coordenar a validação com o usuário. | 12/10/2025 | 17:24 | Online(Discord)
+| Matheus Queiroz | 20 anos, estudante de engenharia de software e usuário do app Loterias Caixa, responsável por validar os cenários desenvolvidos para o artefato. | 12/10/2025 | 17:24 | Online(Discord) |
+
 ###  Suportabilidade
 *A ser desenvolvido*
 

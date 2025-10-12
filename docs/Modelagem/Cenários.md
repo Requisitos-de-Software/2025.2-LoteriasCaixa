@@ -177,10 +177,12 @@ Autor: [Luan Vinícius](https://github.com/luannvi)
 
 ### Validação com o Usuário (CN06 - CN07)
 
-| Participante | Função |
-| ------------ | ----- |
-| [Luan Vinícius](https://github.com/luannvi) | Integrante do grupo, responsável por coordenar a validação com o usuário. |
-|  | e usuário do app Loterias Caixa, responsável por validar os cenários desenvolvidos para o artefato. |
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zTfi51A8RKY?si=a4AbUbR_G5IKcRxg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+| Participante | Função | Data | Horário | Local |
+| ------------ | ----- | ----- | ------ | -------|
+| [Luan Vinícius](https://github.com/luannvi) | Integrante do grupo, responsável por coordenar a validação com o usuário. | 12/10/2025 | 17:11 | Online(Discord)
+| Matheus Queiroz | 20 anos, estudante de engenharia de software e usuário do app Loterias Caixa, responsável por validar os cenários desenvolvidos para o artefato. | 12/10/2025 | 17:11 | Online(Discord) |
 
 ### CN08 – Avisos sobre Limite Diário de Apostas
 
