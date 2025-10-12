@@ -31,6 +31,7 @@ A especificação foi elaborada utilizando o **modelo FURPS+** adaptado, incluin
 |-------|---------------------|
 | [Rivadalvio Joaquim](https://github.com/RivaFilho) | Especificação suplementar inicial e implementação |
 | [João Pedro](https://github.com/Jadequilin) | Organização especificação inicial e funcionalidade | 
+| [Luan Vinícius](https://github.com/luannvi) | Classificação dos requisitos de desempenho |
 
 ##  Especificação de Requisitos
 
@@ -67,7 +68,22 @@ tabela 4: Requisitos não funcionais relacionados a tecnologias e arquitetura*
 *A ser desenvolvido*
 
 ###  Desempenho
-*A ser desenvolvido*
+
+Autor: [Luan Vinícius](https://github.com/luannvi)
+
+Diz respeito às condições que os requisitos devem operar. A velocidade, limites superiores e inferiores, tempo de resposta, restrições de interface e de funções, etc.
+
+Para essa categoria os requisitos identificados estão representados na tabela 8 a seguir.
+
+*<p style="text-align: center;">Tabela 8: Requisitos de desempenho.</p>*
+
+| **ID** | **Descrição**                                                                                                            | **Status**           | **Rastreabilidade**                                                        |
+| :----: | :----------------------------------------------------------------------------------------------------------------------- | :------------------- | :------------------------------------------------------------------------- |
+|  RNF04 | O resultado de uma loteria deve ser carregado e exibido na tela em menos de 3 segundos sob uma conexão 4G/5G padrão      | Implementado     | [OBS17](../Elicitação/Técnicas/Observação.md/#requisitos-não-funcionais)               |
+|  RNF07 | O aplicativo não deve apresentar erros ou fechar inesperadamente durante o processo de criação e pagamento de uma aposta | Implementado    | [OBS20](../Elicitação/Técnicas/Observação.md/#requisitos-não-funcionais)               |
+|  RNF08 | A transição de telas durante o fluxo de aposta deve ser fluida e sem travamentos perceptíveis                            | Implementado     | [OBS21](../Elicitação/Técnicas/Observação.md/#requisitos-não-funcionais)               |
+|  RNF11 | O aplicativo ainda apresenta lentidão em aparelhos de smartphones antigos                                                | Não Implementado | [AD15](../Elicitação/Técnicas/Análise%20de%20Documentos.md) |
+|  RNF12 | O aplicativo ainda apresenta problemas de desconexão ao se conectar em internet 4G/5G                                    | Não Implementado | [AD16](../Elicitação/Técnicas/Análise%20de%20Documentos.md) |
 
 ###  Suportabilidade
 *A ser desenvolvido*
@@ -78,6 +94,8 @@ tabela 4: Requisitos não funcionais relacionados a tecnologias e arquitetura*
 ##  Referências Bibliográficas
 
 > SERRANO, Milene; SERRANO, Maurício. **Requisitos - Aula 10**. Disponível em: <https://aprender3.unb.br/pluginfile.php/3210627/mod_resource/content/1/Aula%2010.pdf>. Acesso em: 11/10/2025.
+
+> ESPECIFICAÇÃO SUPLEMENTAR. [S. l.], 2023. Disponível em: <https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/especificacao-suplementar/>. Acesso em: 12 out. 2025.
 
 ##  Bibliografia
 
@@ -90,11 +108,6 @@ tabela 4: Requisitos não funcionais relacionados a tecnologias e arquitetura*
 | `1.0` | 11/10/2025 | [Rivadalvio Joaquim](https://github.com/RivaFilho) | Criação inicial da especificação suplementar | [João Pedro](https://github.com/Jadequilin) |
 | `1.1` | 12/10/2025 | [João Pedro](https://github.com/Jadequilin) | Adição de 2 requisitos não implementados na implementação | [Rivadalvio Joaquim](https://github.com/RivaFilho) |
 | `1.2` | 12/10/2025 | [Rivadalvio Joaquim](https://github.com/RivaFilho) | Adição de coluna de status e seleção de requisitos não implementados | [João Pedro](https://github.com/Jadequilin) |
+| `1.3` | 12/10/2025 | [Luan Vinícius](https://github.com/luannvi) | Adição da especificação de performance | [Miquéias Ezequiel](https://github.com/Kael-web7) |
 
-## Versionamento
-
-| Versão | Data | Autor | Descrição | Revisor |
-|--------|------|--------|-----------|---------|
-| `1.0` | 11/10/2025 | [Rivadalvio Joaquim](https://github.com/RivaFilho) | Criação inicial da especificação suplementar | [João Pedro](https://github.com/Jadequilin) |
-| `1.1` | 12/10/2025 | [João Pedro](https://github.com/Jadequilin) | Adaptação para modelo FURPS+ completo | [Rivadalvio Joaquim](https://github.com/RivaFilho) |
 
