@@ -1,10 +1,8 @@
-# 📚 Documento de Especificação - Léxicos
-
-## 1. Introdução
+## Introdução
 
 Este documento apresenta a especificação dos léxicos do sistema Loterias Caixa utilizando a técnica **LAL (Léxico Ampliado da Linguagem)**. Os léxicos têm como objetivo definir de forma precisa e não ambígua os termos e conceitos do domínio do aplicativo, garantindo um vocabulário comum entre desenvolvedores, stakeholders e usuários finais, seguindo a metodologia apresentada no material da disciplina.
 
-## 2. Metodologia
+## Metodologia
 
 Foi utilizada a técnica **LAL (Léxico Ampliado da Linguagem)** conforme apresentado por Serrano e Serrano (2010) para especificação dos símbolos do domínio. Cada léxico é composto pelos seguintes elementos:
 
@@ -13,7 +11,7 @@ Foi utilizada a técnica **LAL (Léxico Ampliado da Linguagem)** conforme aprese
 - **Noção**: Definição denotativa do termo
 - **Impacto**: Descrição conotativa dos efeitos no sistema
 
-## 3. Modelo Usado
+## Modelo Usado
 
 ### Tabela 1 - Modelo de Léxico LAL
 
@@ -24,7 +22,7 @@ Foi utilizada a técnica **LAL (Léxico Ampliado da Linguagem)** conforme aprese
 | **Noção** | Definição e significado do termo no contexto do sistema |
 | **Impacto** | Efeitos, comportamentos e consequências do termo no sistema |
 
-## 4. Tabela de Contribuição
+## Tabela de Contribuição
 
 ### Tabela 2 - Contribuição nos Léxicos
 
@@ -33,7 +31,7 @@ Foi utilizada a técnica **LAL (Léxico Ampliado da Linguagem)** conforme aprese
 | [João Pedro](https://github.com/Jadequilin) | L01 e L02 |
 | [Rivadalvio Joaquim](https://github.com/RivaFilho) | L03 e L04 |
 
-## 5. Léxicos
+## Léxicos
 
 ### L01 – Aviso de Limite Diário
 
@@ -88,15 +86,15 @@ Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 | **Noção** | Configuração especial da interface que amplia elementos visuais, aumenta contraste e simplifica a navegação para usuários idosos ou com deficiência visual |
 | **Impacto** | - Aumenta significativamente o tamanho de fontes e botões<br>- Ativa esquema de cores de alto contraste<br>- Simplifica a estrutura de menus e navegação<br>- Oferece suporte a leitores de tela e navegação por voz |
 
-## 6. Referências Bibliográficas
+## Referências Bibliográficas
 
 > SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 10. Disponível em: <https://aprender3.unb.br/pluginfile.php/3210627/mod_resource/content/1/Aula%2010.pdf>. Acesso em: 11/10/2025.
 
-## 7. Bibliografia
+## Bibliografia
 
 > SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 10. Disponível em: <https://aprender3.unb.br/pluginfile.php/3210627/mod_resource/content/1/Aula%2010.pdf>. Acesso em: 11/10/2025.
 
-## 8. Versionamento
+## Versionamento
 
 | Versão | Data | Autor | Descrição | Revisor |
 |--------|------|--------|-----------|---------|
