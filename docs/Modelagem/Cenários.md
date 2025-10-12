@@ -29,18 +29,9 @@ Os cenários se apresentam como descrições detalhadas, geralmente em linguagem
 | Heyttor| CN01, CN02 e CN03|
 | Nayra Nery|   CN04 e CN05  |
 | Luan Vinícius | CN06 e CN07 |
-| João Pedro | CN 08 e CN 09|
-| Rivadalvio | CN 10 e CN 11|
-| Miqueias Ezequiel | CN 12 e CN 13|
-
-## Validação com o Usuário
-
-*<p style="text-align: center;">Tabela 3: Participantes e funções.</p>*
-
-| Participante | Função |
-| ------------ | ----- |
-| Fulano | Integrante do grupo, responsável por coordenar a validação com o usuário. |
-| Ciclano | ,responsável por validar os cenários desenvolvidos para o artefato. |
+| João Pedro | CN08 e CN09|
+| Rivadalvio | CN10 e CN11|
+| Miqueias Ezequiel | CN12 e CN13|
 
 ## Cenários feitos
 ## CN01 - Opção de modo claro e escuro
@@ -152,13 +143,13 @@ Autor: [Luan Vinícius](https://github.com/luannvi)
 | **Título**  | Cancelamento de apostas antes do sorteio     |
 | **Código** | CN06  |
 | **Requisito trabalhado** | [RF16 - OBS16](../Elicitação/Técnicas/Observação.md/#requisitos-funcionais)    |
-| **Ator(es)**   | Carlos Eduardo, 29 anos, analista de dados. Aposta ocasionalmente por diversão, gosta de observar estatísticas e padrões numéricos. Costuma fazer suas apostas pelo celular durante o intervalo do trabalho.    |
-| **Ambiente (Contexto)**  | Carlos utiliza o aplicativo de loteria em seu smartphone Android. Após realizar o pagamento via PIX, o sistema registra automaticamente sua aposta. Ele está em casa revisando suas apostas antes do encerramento das apostas do dia.    |
+| **Ator(es)**   | Ribamar da Silva, 29 anos, analista de dados. Aposta ocasionalmente por diversão, gosta de observar estatísticas e padrões numéricos. Costuma fazer suas apostas pelo celular durante o intervalo do trabalho.    |
+| **Ambiente (Contexto)**  | Ribamar utiliza o aplicativo de loteria em seu smartphone Android. Após realizar o pagamento via PIX, o sistema registra automaticamente sua aposta. Ele está em casa revisando suas apostas antes do encerramento das apostas do dia.    |
 | **Objetivos**   | Cancelar completamente a aposta que acabou de realizar, pois decidiu não participar mais do sorteio daquela rodada. Ele acredita que o cancelamento devolveria o valor pago.    |
 | **Planejamento**    | Acessar a aba “Minhas Apostas”, selecionar a aposta recém-criada e procurar uma opção de “Cancelar”. Caso encontre dificuldades, ele pretende buscar ajuda no suporte dentro do próprio aplicativo.   |
-| **Ações**            | 1. Carlos abre o aplicativo. <br> 2. Acessa o menu lateral e entra em “Minhas Apostas”. <br> 3. Seleciona a aposta paga via PIX. <br> 4. Procura um botão ou opção de cancelamento. <br> 5. Percebe que só há a opção “Editar números”. <br> 6. Tenta entrar em contato com o suporte. |
-| **Eventos**      | O sistema não possui função de cancelamento nem de reembolso automático. O suporte informa que apenas a edição dos números é permitida antes do encerramento das apostas. Carlos se frustra por não conseguir cancelar e entende que o valor pago será mantido como aposta válida até o sorteio.    |
-| **Avaliação**      | <ul><li>Carlos se sente frustrado e inseguro em apostar novamente, temendo repetir o erro.</li><li>Percebe que uma funcionalidade simples de cancelamento traria mais confiança e praticidade ao aplicativo.</li><li>Conclui que o app carece de recursos de controle que deem ao usuário mais autonomia sobre suas ações.</li></ul>        |
+| **Ações**            | 1. Ribamar abre o aplicativo. <br> 2. Acessa o menu lateral e entra em “Minhas Apostas”. <br> 3. Seleciona a aposta paga via PIX. <br> 4. Procura um botão ou opção de cancelamento. <br> 5. Percebe que só há a opção “Editar números”. <br> 6. Tenta entrar em contato com o suporte. |
+| **Eventos**      | O sistema não possui função de cancelamento nem de reembolso automático. O suporte informa que apenas a edição dos números é permitida antes do encerramento das apostas. Ribamar se frustra por não conseguir cancelar e entende que o valor pago será mantido como aposta válida até o sorteio.    |
+| **Avaliação**      | <ul><li>Ribamar se sente frustrado e inseguro em apostar novamente, temendo repetir o erro.</li><li>Percebe que uma funcionalidade simples de cancelamento traria mais confiança e praticidade ao aplicativo.</li><li>Conclui que o app carece de recursos de controle que deem ao usuário mais autonomia sobre suas ações.</li></ul>        |
 
 
 ## CN07 - Ícone de menu com rótulo textual 
@@ -179,6 +170,13 @@ Autor: [Luan Vinícius](https://github.com/luannvi)
 | **Ações**    | <ol><li>Antônio abre o app e observa a tela inicial com o ícone de três barras no canto.</li><li>Por não haver nenhuma indicação textual, ele não reconhece que aquele ícone é o menu principal.</li><li>Tenta clicar em outras áreas da tela, como o logotipo e a parte inferior, sem sucesso.</li><li>Após vários toques aleatórios, descobre por acaso que o ícone abre o menu de opções.</li><li>Fica confuso, pois considera que o aplicativo deveria mostrar o rótulo “Menu” abaixo do ícone.</li><li>Consegue acessar os resultados, mas decide que a navegação é pouco intuitiva e desiste de apostar pelo celular.</li></ol> |
 | **Eventos**      | <ul><li>O aplicativo exibe apenas o ícone “☰”, sem rótulo textual.</li><li>Antônio tem dificuldade para entender a função do ícone.</li><li>Ao descobrir o menu, ele percebe que outras opções também não possuem rótulos descritivos.</li><li>Isso reforça a sensação de que o aplicativo não é feito para usuários menos experientes.</li></ul>   |
 | **Avaliação**      | <ul><li>Antônio avalia que o app é funcional, mas mal explicado visualmente.</li><li>Conclui que um simples rótulo “Menu” tornaria a navegação muito mais clara e intuitiva.</li><li>Reforça que ícones com texto são essenciais para inclusão de públicos mais velhos e menos acostumados com tecnologia.</li></ul>   |
+
+### Validação com o Usuário (CN06 - CN07)
+
+| Participante | Função |
+| ------------ | ----- |
+| [Luan Vinícius](https://github.com/luannvi) | Integrante do grupo, responsável por coordenar a validação com o usuário. |
+|  | e usuário do app Loterias Caixa, responsável por validar os cenários desenvolvidos para o artefato. |
 
 ### CN08 – Avisos sobre Limite Diário de Apostas
 
@@ -247,7 +245,7 @@ Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 | Item | Descrição |
 |------|-----------|
 | **Título** | Modo Acessibilidade para Usuários idosos e/ou pessoa com deficiência|
-| **Código** | CN09 |
+| **Código** | CN11 |
 | **Requisito Trabalhado** | RF12 – O sistema deve ter funções de acessibilidade |
 | **Atores** | **Perfil 2** - Seu Antônio, 64 anos, usuário idoso |
 | **Ambiente** | Em casa, com familiares por perto |
@@ -259,37 +257,39 @@ Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 
 ### CN12 – Conferência de apostas via leitura de QR Code
 
+Autor: [Miquéias Ezequiel](https://github.com/Kael-web7)
+
 *<p style="text-align: center;">Tabela 15: Conferência de apostas via leitura de QR Code .</p>*
 
 | Item | Descrição |
 | --- | --- |
 | **Título** | Conferência de apostas via leitura de QR Code |
-| **Código** | #CN12 |
+| **Código** | CN12 |
 | **Caso de uso trabalhado** | #UC01 |
-| **Autor** | Miquéias Ezequiel |
-| **Atores** | **Carlos Eduardo**, 37 anos, analista financeiro. Joga ocasionalmente em loterias, especialmente Mega-Sena e Lotofácil. Costuma guardar os comprovantes físicos, mas prefere soluções práticas e digitais. Utiliza o Loterias Caixa App para registrar e acompanhar suas apostas. |
+| **Atores** | Carlos Eduardo, 37 anos, analista financeiro. Joga ocasionalmente em loterias, especialmente Mega-Sena e Lotofácil. Costuma guardar os comprovantes físicos, mas prefere soluções práticas e digitais. Utiliza o Loterias Caixa App para registrar e acompanhar suas apostas. |
 | **Ambiente (Contexto)** | Carlos está em casa após o trabalho, usando seu smartphone. Ele quer conferir rapidamente o resultado da última aposta feita em uma lotérica próxima, mas não deseja digitar manualmente todos os números do bilhete. |
 | **Objetivos** | - Conferir apostas com agilidade por meio da leitura do QR Code impresso no bilhete.- Evitar erros de digitação manual.- Ter uma experiência integrada e moderna no aplicativo. |
 | **Planejamento** | Carlos sabe que o aplicativo agora possui o recurso de leitura automática de QR Code. Ele planeja utilizá-lo para verificar o resultado do seu bilhete de forma instantânea e armazenar o histórico de conferências. |
-| **Ações** | 1. Carlos abre o **Loterias Caixa App**.2. Acessa a aba **“Conferir Aposta”**.3. Seleciona a opção **“Ler QR Code”**.4. Aponta a câmera do celular para o QR Code impresso no bilhete.5. O app reconhece automaticamente o concurso, as dezenas apostadas e realiza a conferência com o último sorteio. |
-| **Eventos** | O app exibe a mensagem **“Aposta conferida com sucesso!”** junto do resultado detalhado: números sorteados, acertos e informações sobre prêmios. Caso haja premiação, aparece a opção **“Ver como resgatar”**. Carlos pode salvar o resultado no histórico e compartilhar com amigos. |
+| **Ações** | 1. Carlos abre o Loterias Caixa App.2. Acessa a aba “Conferir Aposta”.3. Seleciona a opção “Ler QR Code”.4. Aponta a câmera do celular para o QR Code impresso no bilhete.5. O app reconhece automaticamente o concurso, as dezenas apostadas e realiza a conferência com o último sorteio. |
+| **Eventos** | O app exibe a mensagem “Aposta conferida com sucesso!” junto do resultado detalhado: números sorteados, acertos e informações sobre prêmios. Caso haja premiação, aparece a opção “Ver como resgatar”. Carlos pode salvar o resultado no histórico e compartilhar com amigos. |
 | **Avaliação** | Carlos fica impressionado com a praticidade do recurso. A leitura é rápida, precisa e elimina a necessidade de digitação. Ele avalia que o recurso de QR Code tornou o processo de conferência mais confiável e moderno, aumentando sua confiança e satisfação com o app. |
 
-### CN12 – Notificação de prêmios e prazos de validade de apostas
+### CN13 – Notificação de prêmios e prazos de validade de apostas
+
+Autor: [Miquéias Ezequiel](https://github.com/Kael-web7)
 
 *<p style="text-align: center;">Tabela 16: Notificação de prêmios e prazos de validade de apostas .</p>*
 
 | Item | Descrição |
 | --- | --- |
 | **Título** | Notificação de prêmios e prazos de validade de apostas |
-| **Código** | #CN13 |
+| **Código** | CN13 |
 | **Caso de uso trabalhado** | #UC02 |
-| **Autor** | Miquéias Ezequiel |
-| **Atores** | **Patrícia Gomes**, 42 anos, microempreendedora. Costuma apostar semanalmente com colegas e utiliza o Loterias Caixa App para acompanhar resultados. É usuária ativa de aplicativos de produtividade e valoriza notificações que a ajudam a se organizar. |
-| **Ambiente (Contexto)** | Patrícia está em seu escritório, revisando contas mensais. O celular vibra com uma notificação do **Loterias Caixa App**, informando que um de seus bilhetes foi premiado e que o prazo de resgate vence em 85 dias. |
+| **Atores** | Patrícia Gomes, 42 anos, microempreendedora. Costuma apostar semanalmente com colegas e utiliza o Loterias Caixa App para acompanhar resultados. É usuária ativa de aplicativos de produtividade e valoriza notificações que a ajudam a se organizar. |
+| **Ambiente (Contexto)** | Patrícia está em seu escritório, revisando contas mensais. O celular vibra com uma notificação do Loterias Caixa App, informando que um de seus bilhetes foi premiado e que o prazo de resgate vence em 85 dias. |
 | **Objetivos** | - Receber notificações automáticas sobre prêmios e prazos de validade.- Manter controle total sobre suas apostas sem precisar consultar manualmente.- Garantir que não perca prêmios por esquecimento. |
 | **Planejamento** | Patrícia ativou o recurso de notificações no app para ser avisada sempre que houver sorteios relevantes ou prêmios pendentes. Ela deseja manter o acompanhamento automatizado de todas as suas apostas registradas. |
-| **Ações** | 1. O app envia uma notificação push com o título **“Você foi premiada!”**.2. Patrícia abre o aplicativo e visualiza os detalhes da aposta premiada.3. O sistema exibe o valor do prêmio, o local de retirada e o prazo limite de resgate.4. Ela marca a opção **“Lembrar-me antes do vencimento”**, garantindo um alerta adicional próximo ao prazo final.5. O app atualiza automaticamente o status da aposta para **“Prêmio pendente”**. |
+| **Ações** | 1. O app envia uma notificação push com o título “Você foi premiada!”.2. Patrícia abre o aplicativo e visualiza os detalhes da aposta premiada.3. O sistema exibe o valor do prêmio, o local de retirada e o prazo limite de resgate.4. Ela marca a opção “Lembrar-me antes do vencimento”, garantindo um alerta adicional próximo ao prazo final.5. O app atualiza automaticamente o status da aposta para “Prêmio pendente”. |
 | **Eventos** | O sistema de notificações do app monitora continuamente as apostas associadas à conta da usuária. Ao detectar um prêmio, envia o alerta personalizado. Além disso, gera lembretes automáticos quando um bilhete está próximo de expirar. |
 | **Avaliação** | Patrícia considera o recurso extremamente útil. Agora ela se sente segura sabendo que não perderá prazos e será avisada sobre qualquer premiação. Avalia que as notificações automatizadas transformaram o Loterias Caixa App em uma ferramenta confiável e indispensável no seu dia a dia. |
 
