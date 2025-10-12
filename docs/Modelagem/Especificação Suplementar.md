@@ -36,7 +36,7 @@ A especificação foi elaborada utilizando o **modelo FURPS+** adaptado, incluin
 
 ###  Funcionalidade (Requisitos Funcionais Complementares)
 Autor: João Pedro
-tabela 1: Requisitos funcionais que complementam os casos de uso principais*
+tabela 3: Requisitos funcionais que complementam os casos de uso principais*
 
 | ID | Descrição | Status | Rastreabilidade |
 |:---:|-----------|:--------:|:---------------|
@@ -47,7 +47,7 @@ tabela 1: Requisitos funcionais que complementam os casos de uso principais*
 
 ###  Implementação
 Autor: Rivadalvio Joaquim 
-tabela 2: Requisitos não funcionais relacionados a tecnologias e arquitetura*
+tabela 4: Requisitos não funcionais relacionados a tecnologias e arquitetura*
 
 | ID | Descrição | Status | Rastreabilidade |
 |:---:|-----------|:--------:|:---------------|
@@ -56,6 +56,9 @@ tabela 2: Requisitos não funcionais relacionados a tecnologias e arquitetura*
 | **RF01** | O aplicativo segue a questão de disponibilidade em plataformas que os usuários tem acesso (IOS/Apple Store, Android/Play Store) | Implementado | **AD01** |
 | **RF02** | O aplicativo utiliza tanto o sistema da própria empresa para que o usuário consiga acessar os seus dados no sistema | Implementado | **AD02** |
 | **RF03** | O aplicativo entrega as facilidades para realizar as mesmas funções que o site ou ir pessoalmente a uma lotérica | Implementado | **AD03** |
+
+### Design
+*A ser desenvolvido*
 
 ###  Usabilidade
 *A ser desenvolvido*
@@ -67,6 +70,9 @@ tabela 2: Requisitos não funcionais relacionados a tecnologias e arquitetura*
 *A ser desenvolvido*
 
 ###  Suportabilidade
+*A ser desenvolvido*
+
+### Sistema de ajuda 
 *A ser desenvolvido*
 
 ##  Referências Bibliográficas
@@ -82,14 +88,13 @@ tabela 2: Requisitos não funcionais relacionados a tecnologias e arquitetura*
 | Versão | Data | Autor | Descrição | Revisor |
 |--------|------|--------|-----------|---------|
 | `1.0` | 11/10/2025 | [Rivadalvio Joaquim](https://github.com/RivaFilho) | Criação inicial da especificação suplementar | [João Pedro](https://github.com/Jadequilin) |
-| `1.6` | 12/10/2025 | [João Pedro](https://github.com/Jadequilin) | Adição de 2 requisitos não implementados na implementação | [Rivadalvio Joaquim](https://github.com/RivaFilho) |
-| `1.7` | 12/10/2025 | [Rivadalvio Joaquim](https://github.com/RivaFilho) | Adição de coluna de status e seleção de requisitos não implementados | [João Pedro](https://github.com/Jadequilin) |
+| `1.1` | 12/10/2025 | [João Pedro](https://github.com/Jadequilin) | Adição de 2 requisitos não implementados na implementação | [Rivadalvio Joaquim](https://github.com/RivaFilho) |
+| `1.2` | 12/10/2025 | [Rivadalvio Joaquim](https://github.com/RivaFilho) | Adição de coluna de status e seleção de requisitos não implementados | [João Pedro](https://github.com/Jadequilin) |
 
 ## Versionamento
 
 | Versão | Data | Autor | Descrição | Revisor |
 |--------|------|--------|-----------|---------|
 | `1.0` | 11/10/2025 | [Rivadalvio Joaquim](https://github.com/RivaFilho) | Criação inicial da especificação suplementar | [João Pedro](https://github.com/Jadequilin) |
-
 | `1.1` | 12/10/2025 | [João Pedro](https://github.com/Jadequilin) | Adaptação para modelo FURPS+ completo | [Rivadalvio Joaquim](https://github.com/RivaFilho) |
 
