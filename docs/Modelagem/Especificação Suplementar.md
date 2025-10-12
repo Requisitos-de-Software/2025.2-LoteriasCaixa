@@ -82,7 +82,33 @@ tabela 5: Restrições de design e padrões de interface
 *A ser desenvolvido*
 
 ###  Confiabilidade  
-*A ser desenvolvido*
+
+Autor: [Samuel Felipe]()
+
+Diz respeito ao quão confiável é o sistema, ou seja, qual é a frequência de falhas, possibilidade de recuperação e prevenção e tempo entre as falhas.
+
+Para essa categoria, os requisitos identificados estão representados na tabela 7 a seguir.
+
+*<p style="text-align: center;">Tabela 7: Requisitos de confiabilidade.</p>*
+
+| **ID** | **Descrição** | **Status** | Rastreabilidade** |
+| :----: | :-----------: | :--------: | :---------------: |
+|RF09| Deve haver uma verificação de identidade para login no aplicativo | Implementado | [ENT11](./Técnicas/Entrevista.md/#pela-entrevista-1-foi-identificado) |
+|RF12| O aplicativo deve permitir que o usuário realize o cadastro com dados pessoais | Implementado | [OBS01](./Técnicas/Observação.md/#requisitos-funcionais) |
+|RF14| O aplicativo deve permitir login com CPF e senha ou com biometria | Implementado | [OBS03](./Técnicas/Observação.md/#requisitos-funcionais) |
+|RF23| O aplicativo deve mostrar se o pagamento foi confirmado | Implementado | [OBS12](./Técnicas/Observação.md/#requisitos-funcionais) |
+|RF25| O aplicativo deve permitir gerar o comprovante da aposta em "minhas apostas" | Implementado | [OBS14](./Técnicas/Observação.md/#requisitos-funcionais) |
+|RF27| O aplicativo deve permitir o cancelamento de apostas antes do sorteio. | Não Implementado | [OBS16](./Técnicas/Observação.md/#requisitos-funcionais) |
+| RNF05 | O sistema deve proteger o acesso às funcionalidades transacionais exigindo a autenticação do usuário no início da sessão | Implementado | [OBS18](./Técnicas/Observação.md/#requisitos-não-funcionais) |
+| RNF10 | A sessão do usuário deve expirar automaticamente após 15 minutos de inatividade para proteger a conta | Implementado | [OBS23](./Técnicas/Observação.md/#requisitos-não-funcionais) |
+| RNF02 | O aplicativo utiliza o sistema da própria empresa para que o usuário consiga acessar os seus dados no sistema; | Implementado | [AD06](./Técnicas/Análise%20de%20Documentos.md/#requisitos-não-funcionais) |
+| RNF06 | O resgate dos prêmios são apenas disponibilizados nos canais oficiais da empresa, como uma Unidade Lotérica ou Agência Caixa, e no Mercado Pago (Sendo o valor disponível na conta do usuário e ser transferido conforme as regras próprias do meio de pagamento); | Implementado | [AD10](./Técnicas/Análise%20de%20Documentos.md/#requisitos-não-funcionais) |
+|RNF04| O aplicativos é de uma fonte confiável para o usuário| Implementado | [ENT17](./Técnicas/Entrevista.md/#pela-entrevista-2-foi-identificado) |
+|RF14 | Os dados do usuário são mantidos em sigilo e protegidos| Implementado | [ENT18](./Técnicas/Entrevista.md/#pela-entrevista-2-foi-identificado) |
+|RNF05 | Há um termo de uso| Implementado |[ENT19](./Técnicas/Entrevista.md/#pela-entrevista-2-foi-identificado)|
+|RNF06 | O termo de uso especifica os riscos para o usuário| Não Implementado | [ENT20](./Técnicas/Entrevista.md/#pela-entrevista-2-foi-identificado)|
+|RNF07 | O termo de uso especifica a classificação indicativa para o usuário| Implementado | [ENT21](./Técnicas/Entrevista.md/#pela-entrevista-2-foi-identificado)|
+|RNF08 | O termo de uso especifica o acesso aos dados do aplicativo para o usuário| Implementado | [ENT22](./Técnicas/Entrevista.md/#pela-entrevista-2-foi-identificado)|
 
 ###  Desempenho
 
@@ -127,5 +153,6 @@ Para essa categoria os requisitos identificados estão representados na tabela 8
 | `1.2` | 12/10/2025 | [Rivadalvio Joaquim](https://github.com/RivaFilho) | Adição de coluna de status e seleção de requisitos não implementados | [João Pedro](https://github.com/Jadequilin) |
 | `1.3` | 12/10/2025 | [Luan Vinícius](https://github.com/luannvi) | Adição da especificação de performance | [Miquéias Ezequiel](https://github.com/Kael-web7) |
 | ``1.5``    | 12/10/2025 | [Miquéias Ezequiel](https://github.com/Kael-web7) | Adição da especificação de design| [Luan Vinícius](https://github.com/luannvi) |
+| ``1.6`` | 12/10/2025 | [Samuel Felipe](https://github.com/TerminaKng05) | Adição da especificação de confiabilidade | [Heyttor Augusto](https://github.com/H3ytt0r62) |
 
 

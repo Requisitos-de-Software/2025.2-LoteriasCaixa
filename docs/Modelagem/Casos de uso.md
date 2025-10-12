@@ -26,9 +26,9 @@ A figura 1 demonstra o diagrama dos casos de uso.
 
 ## Especialização dos Casos de Uso
 
-As tabelas de 2 a 6 apresentam as especializações dos casos de uso mostrados no diagrama.
+As tabelas de 2 a 6 apresentam as especializações dos casos de uso mostrados no diagrama. As tabelas 2 a 4 são requisitos implementados, as 5 e 6 são requisitos não implementados.
 
-### *<p style="test-align: center;"> Tabela 2: Login no app </p>*
+### *<p style="test-align: center;"> Tabela 2: Login no app (Implementado) </p>*
 
 | UC01 | Informações | Rastreabilidade |
 | :--: | :---------: | :-------------: |
@@ -43,7 +43,7 @@ As tabelas de 2 a 6 apresentam as especializações dos casos de uso mostrados n
 
 *<p style= "text-align: center;"> Fonte: <a href= "https://github.com/TerminaKng05">Samuel Felipe</a> </p>*
 
-### *<p style="test-align: center;"> Tabela 3: Busca de jogos de aposta </p>*
+### *<p style="test-align: center;"> Tabela 3: Busca de jogos de aposta (Implementado) </p>*
 
 | UC02 | Informações | Rastreabilidade |
 | :--: | :---------: | :-------------: |
@@ -58,7 +58,7 @@ As tabelas de 2 a 6 apresentam as especializações dos casos de uso mostrados n
 
 *<p style= "text-align: center;"> Fonte: <a href= "https://github.com/TerminaKng05">Samuel Felipe</a> </p>*
 
-### *<p style="test-align: center;"> Tabela 4:Pagamento dos jogos </p>*
+### *<p style="test-align: center;"> Tabela 4:Pagamento dos jogos (Implementado) </p>*
 
 | UC03 | Informações | Rastreabilidade |
 | :--: | :---------: | :-------------: |
@@ -73,7 +73,7 @@ As tabelas de 2 a 6 apresentam as especializações dos casos de uso mostrados n
 
 *<p style= "text-align: center;"> Fonte: <a href= "https://github.com/TerminaKng05">Samuel Felipe</a> </p>*
 
-### *<p style="test-align: center;"> Tabela 5: Acompanhar os resultados em tempo real </p>*
+### *<p style="test-align: center;"> Tabela 5: Acompanhar os resultados em tempo real (Não Implementado) </p>*
 
 | UC04 | Informações | Rastreabilidade |
 | :--: | :---------: | :-------------: |
@@ -88,7 +88,7 @@ As tabelas de 2 a 6 apresentam as especializações dos casos de uso mostrados n
 
 *<p style= "text-align: center;"> Fonte: <a href= "https://github.com/TerminaKng05">Samuel Felipe</a> </p>*
 
-### *<p style="test-align: center;"> Tabela 6: Ver comprovante dos jogos cadastrados </p>*
+### *<p style="test-align: center;"> Tabela 6: Ver comprovante dos jogos cadastrados (Não Implementado) </p>*
 
 | UC05 | Informações | Rastreabilidade |
 | :--: | :---------: | :-------------: |
@@ -119,3 +119,4 @@ As tabelas de 2 a 6 apresentam as especializações dos casos de uso mostrados n
 |:------:|:----:|:-----:|:---------:|:-------:|
 | ``1.0`` | 11/10/2025 | [Samuel Felipe](https://github.com/TerminaKng05) | Adição inicial das informações e legenda do diagrama. | [Heyttor Augusto](https://github.com/H3ytt0r62) |
 | ``1.1`` | 11/10/2025 | [Samuel Felipe](https://github.com/TerminaKng05) | Adição da Introdução, Metodologia, Diagrama de caso de uso, Especialização, Referências Bibliográficas e Bibliografia. Alteração na legenda do diagrama | [Luan Vinícius](https://github.com/luannvi) |
+| ``1.2`` | 12/10/2025 | [Samuel Felipe](https://github.com/TerminaKng05) | Adição de informação nas tabelas de especialização dos casos de uso | [Heyttor Augusto](https://github.com/H3ytt0r62) |
