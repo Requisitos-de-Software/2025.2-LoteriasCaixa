@@ -1,26 +1,27 @@
 # Especificação Suplementar
 
-## 1. Introdução
+##  Introdução
 
 Este documento apresenta a **Especificação Suplementar** do sistema **Loterias Caixa** seguindo o modelo FURPS+, abordando **requisitos não funcionais** e **requisitos funcionais complementares** que não foram adequadamente representados nos casos de uso.
 
-## 2. Metodologia
+##  Metodologia
 
 A especificação foi elaborada utilizando o **modelo FURPS+** adaptado, incluindo requisitos elicitados através de entrevistas, observações e análise de documentos.
 
-## 3. Modelo Usado
+##  Modelo Usado
 
-### Tabela 1 - Categorias do Modelo FURPS+ para Especificação Suplementar
+### Tabela 1 - Categorias do Modelo FURPS+
 
-| Categoria | Tipo | Descrição |
-|-----------|------|-----------|
-| **Funcionalidade** | Funcional | Requisitos funcionais não capturados nos casos de uso |
-| **Implementação** | Não Funcional | Linguagens, ferramentas e restrições de construção |
-| **Usabilidade** | Não Funcional | *A ser desenvolvido* |
-| **Confiabilidade** | Não Funcional | *A ser desenvolvido* |
-| **Desempenho** | Não Funcional | *A ser desenvolvido* |
-| **Suportabilidade** | Não Funcional | *A ser desenvolvido* |
-
+| Categoria | Descrição |
+|-----------|-----------|
+| **Design** | Restrições de design e padrões de interface |
+| **Implementação** | Linguagens, ferramentas e restrições de construção |
+| **Funcionalidade** | Características funcionais e capacidades do sistema |
+| **Usabilidade** | Facilidade de uso, aprendizado e acessibilidade |
+| **Confiabilidade** | Disponibilidade, tolerância a falhas e recuperação |
+| **Desempenho** | Tempo de resposta, throughput e eficiência |
+| **Suportabilidade** | Adaptabilidade, manutenibilidade e internacionalização |
+| **Sistema de Ajuda** | Documentação online e suporte ao usuário |
 ## 4. Tabela de Contribuição
 
 ### Tabela 2 - Contribuição na Especificação Suplementar
@@ -30,9 +31,9 @@ A especificação foi elaborada utilizando o **modelo FURPS+** adaptado, incluin
 | [Rivadalvio Joaquim](https://github.com/RivaFilho) | Especificação suplementar inicial e implementação |
 | [João Pedro](https://github.com/Jadequilin) | Organização especificação inicial e funcionalidade | 
 
-## 5. Especificação de Requisitos
+##  Especificação de Requisitos
 
-### 5.1 Funcionalidade (Requisitos Funcionais Complementares)
+###  Funcionalidade (Requisitos Funcionais Complementares)
 
 *Requisitos funcionais que complementam os casos de uso principais*
 
@@ -43,7 +44,7 @@ A especificação foi elaborada utilizando o **modelo FURPS+** adaptado, incluin
 | **RF16** | O sistema fornece avisos ao usuário sobre seu limite diário de apostas | Não Implementado | **ENT25** |
 | **RF27** | O aplicativo deve permitir o cancelamento de apostas antes do sorteio | Não Implementado | **OBS16** |
 
-### 5.2 Implementação
+###  Implementação
 
 *Requisitos não funcionais relacionados a tecnologias e arquitetura*
 
@@ -55,27 +56,27 @@ A especificação foi elaborada utilizando o **modelo FURPS+** adaptado, incluin
 | **RF02** | O aplicativo utiliza tanto o sistema da própria empresa para que o usuário consiga acessar os seus dados no sistema | Implementado | **AD02** |
 | **RF03** | O aplicativo entrega as facilidades para realizar as mesmas funções que o site ou ir pessoalmente a uma lotérica | Implementado | **AD03** |
 
-### 5.3 Usabilidade
+###  Usabilidade
 *A ser desenvolvido*
 
-### 5.4 Confiabilidade  
+###  Confiabilidade  
 *A ser desenvolvido*
 
-### 5.5 Desempenho
+###  Desempenho
 *A ser desenvolvido*
 
-### 5.6 Suportabilidade
+###  Suportabilidade
 *A ser desenvolvido*
 
-## 6. Referências Bibliográficas
+##  Referências Bibliográficas
 
 > SERRANO, Milene; SERRANO, Maurício. **Requisitos - Aula 10**. Disponível em: <https://aprender3.unb.br/pluginfile.php/3210627/mod_resource/content/1/Aula%2010.pdf>. Acesso em: 11/10/2025.
 
-## 7. Bibliografia
+##  Bibliografia
 
 > SERRANO, Milene; SERRANO, Maurício. **Requisitos - Aula 10**. Disponível em: <https://aprender3.unb.br/pluginfile.php/3210627/mod_resource/content/1/Aula%2010.pdf>. Acesso em: 11/10/2025.
 
-## 8. Versionamento
+##  Versionamento
 
 | Versão | Data | Autor | Descrição | Revisor |
 |--------|------|--------|-----------|---------|
@@ -88,4 +89,5 @@ A especificação foi elaborada utilizando o **modelo FURPS+** adaptado, incluin
 | Versão | Data | Autor | Descrição | Revisor |
 |--------|------|--------|-----------|---------|
 | `1.0` | 11/10/2025 | [Rivadalvio Joaquim](https://github.com/RivaFilho) | Criação inicial da especificação suplementar | [João Pedro](https://github.com/Jadequilin) |
+
 | `1.1` | 12/10/2025 | [João Pedro](https://github.com/Jadequilin) | Adaptação para modelo FURPS+ completo | [Rivadalvio Joaquim](https://github.com/RivaFilho) |
