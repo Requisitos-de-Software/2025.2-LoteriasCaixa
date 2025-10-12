@@ -59,22 +59,22 @@ A legenda para cada sigla:
 | RNF09 | O sistema deve fornecer feedback visual imediato quando o usuário adiciona uma aposta ao carrinho | Implementado | [OBS22](./Técnicas/Observação.md/#requisitos-não-funcionais) |
 | RNF10 | A sessão do usuário deve expirar automaticamente após 15 minutos de inatividade para proteger a conta | Implementado | [OBS23](./Técnicas/Observação.md/#requisitos-não-funcionais) |
 | RNF11 | O sistema deve garantir que o acesso a funcionalidades primárias seja feito através de componentes de interface autoexplicativos. Ícones de navegação, como o menu principal, devem ser acompanhados por um rótulo textual (ex: "Menu"). | Não Implementado | [OBS24](./Técnicas/Observação.md/#requisitos-não-funcionais) |
-| RF01 | O aplicativo segue a questão de disponibilidade em plataformas que os usuários tem acesso (IOS/Apple Store, Android/Play Store); |  | [AD01](./Técnicas/Análise%20de%20Documentos.md/#requisitos-funcionais) |
-| RF02 | O aplicativo utiliza tanto o sistema da própria empresa para que o usuário consiga acessar os seus dados no sistema; |  | [AD02](./Técnicas/Análise%20de%20Documentos.md/#requisitos-funcionais) |
-| RF03 | O aplicativo entrega as facilidades para realizar as mesmas funções que o site ou ir pessoalmente a uma lotérica; |  | [AD03](./Técnicas/Análise%20de%20Documentos.md/#requisitos-funcionais) |
-| RF04 | A realização de pagamento das apostas são acessíveis a quem usa o aplicativo, sendo cartão de crédito e débito ou Pix; |  | [AD04](./Técnicas/Análise%20de%20Documentos.md/#requisitos-funcionais) |
-| RF05 | As apostas são registradas dentro do app com base no CPF do usuário; |  | [AD05](./Técnicas/Análise%20de%20Documentos.md/#requisitos-funcionais) |
-| RF06 | O aplicativo apresenta todos os resultados e as arrecadações dos concursos, como também estimativa para os próximos sorteios; |  | [AD06](./Técnicas/Análise%20de%20Documentos.md/#requisitos-funcionais) |
-| RF07 | O aplicativo apresenta uma aba de trasparência e prestação de contas a sociedade chamada de "Repasses Sociais", onde há os valores repassados pelas Loterias CAIXA em àreas de desenvolvimento social; |  | [AD07](./Técnicas/Análise%20de%20Documentos.md/#requisitos-funcionais) |
-| RNF01 | O aplicativo segue a lei federal onde apenas maiores de 18 anos podem utilizar as funções que o mesmo oferece; |  | [AD08](./Técnicas/Análise%20de%20Documentos.md/#requisitos-não-funcionais) |
-| RNF02 | O aplicativo apresenta uma funcionalidade chamada "rapidão", onde é montada uma aposta com base nas preferências do usuário; |  | [AD09](./Técnicas/Análise%20de%20Documentos.md/#requisitos-não-funcionais) |
-| RNF03 | O resgate dos prêmios são apenas disponibilizados nos canais oficiais da empresa, como uma Unidade Lotérica ou Agência Caixa, e no Mercado Pago (Sendo o valor disponível na conta do usuário e ser transferido conforme as regras próprias do meio de pagamento); |  | [AD10](./Técnicas/Análise%20de%20Documentos.md/#requisitos-não-funcionais) |
-| RNF04 | O aplicativo apresenta uma falta de opção de filtro para consulta de apostas premiadas ou concursos não realizados; |  | [AD1](./Técnicas/Análise%20de%20Documentos.md/#requisitos-não-funcionais) |
-| RNF05 | O aplicativo apresenta uma falta de alerta para o usuário sobre uma aposta premiada que ainda não foi resgatada; |  | [AD12](./Técnicas/Análise%20de%20Documentos.md/#requisitos-não-funcionais) |
-| RNF06 | O aplicativo poderia apresentar uma forma de baixar o comprovante da compra dos jogos cadastrados; |  | [AD13](./Técnicas/Análise%20de%20Documentos.md/#requisitos-não-funcionais) |
-| RNF07 | O aplicativo não apresenta uma forma de mostrar os resultado em tempo real; |  | [AD14](./Técnicas/Análise%20de%20Documentos.md/#requisitos-não-funcionais) |
-| RNF08 | O aplicativo ainda apresenta lentidão em aparelhos de smartphones antigos; |  | [AD15](./Técnicas/Análise%20de%20Documentos.md/#requisitos-não-funcionais) |
-| RNF09 | O aplicativo ainda apresenta problemas de desconexão ao se conectar em internet 4G/5G; |  | [AD16](./Técnicas/Análise%20de%20Documentos.md/#requisitos-não-funcionais) |
+| RF01| A realização de pagamento das apostas são acessíveis a quem usa o aplicativo, sendo cartão de crédito e débito ou Pix; | [AD01](./Técnicas/Análise%20de%20Documentos.md/#requisitos-não-funcionais)|
+| RF02 | As apostas são registradas dentro do app com base no CPF do usuário; | [AD02](./Técnicas/Análise%20de%20Documentos.md/#requisitos-não-funcionais)|
+| RF03 | O aplicativo apresenta todos os resultados e as arrecadações dos concursos, como também estimativa para os próximos sorteios; | [AD03](./Técnicas/Análise%20de%20Documentos.md/#requisitos-não-funcionais)|
+| RF04 | O aplicativo apresenta uma aba de trasparência e prestação de contas a sociedade chamada de "Repasses Sociais", onde há os valores repassados pelas Loterias CAIXA em àreas de desenvolvimento social; | [AD04](./Técnicas/Análise%20de%20Documentos.md/#requisitos-não-funcionais) |
+| RNF01 | O aplicativo segue a questão de disponibilidade em plataformas que os usuários tem acesso (IOS/Apple Store, Android/Play Store); | [AD05](./Técnicas/Análise%20de%20Documentos.md/#requisitos-não-funcionais)|
+| RNF02 | O aplicativo utiliza tanto o sistema da própria empresa para que o usuário consiga acessar os seus dados no sistema; | [AD06](./Técnicas/Análise%20de%20Documentos.md/#requisitos-não-funcionais) |
+| RNF03 | O aplicativo entrega as facilidades para realizar as mesmas funções que o site ou ir pessoalmente a uma lotérica; | [AD07](./Técnicas/Análise%20de%20Documentos.md/#requisitos-não-funcionais) |
+| RNF04 | O aplicativo segue a lei federal onde apenas maiores de 18 anos podem utilizar as funções que o mesmo oferece; | [AD08](./Técnicas/Análise%20de%20Documentos.md/#requisitos-não-funcionais) |
+| RNF05 | O aplicativo apresenta uma funcionalidade chamada "rapidão", onde é montada uma aposta com base nas preferências do usuário; | [AD09](./Técnicas/Análise%20de%20Documentos.md/#requisitos-não-funcionais) |
+| RNF06 | O resgate dos prêmios são apenas disponibilizados nos canais oficiais da empresa, como uma Unidade Lotérica ou Agência Caixa, e no Mercado Pago (Sendo o valor disponível na conta do usuário e ser transferido conforme as regras próprias do meio de pagamento); | [AD10](./Técnicas/Análise%20de%20Documentos.md/#requisitos-não-funcionais) |
+| RNF07 | O aplicativo apresenta uma falta de opção de filtro para consulta de apostas premiadas ou concursos não realizados; | [AD11](./Técnicas/Análise%20de%20Documentos.md/#requisitos-não-funcionais) |
+| RNF08 | O aplicativo apresenta uma falta de alerta para o usuário sobre uma aposta premiada que ainda não foi resgatada; | [AD12](./Técnicas/Análise%20de%20Documentos.md/#requisitos-não-funcionais) |
+| RNF09 | O aplicativo poderia apresentar uma forma de baixar o comprovante da compra dos jogos cadastrados; | [AD13](./Técnicas/Análise%20de%20Documentos.md/#requisitos-não-funcionais) |
+| RNF10 | O aplicativo não apresenta uma forma de mostrar os resultado em tempo real; | [AD14](./Técnicas/Análise%20de%20Documentos.md/#requisitos-não-funcionais) |
+| RNF11 | O aplicativo ainda apresenta lentidão em aparelhos de smartphones antigos; | [AD15](./Técnicas/Análise%20de%20Documentos.md/#requisitos-não-funcionais) |
+| RNF12 | O aplicativo ainda apresenta problemas de desconexão ao se conectar em internet 4G/5G; | [AD16](./Técnicas/Análise%20de%20Documentos.md/#requisitos-não-funcionais) |
 |RNF03 | O aplicativo é de fácil acesso ao usuário| Implementado | [ENT14](./Técnicas/Entrevista.md/#pela-entrevista-2-foi-identificado)|
 |RF12 | O aplicativo apresenta funções de acessibilidade aos idosos e deficientes| Não Implementado | [ENT15](./Técnicas/Entrevista.md/#pela-entrevista-2-foi-identificado)|
 |RF13 | As opções de ações dentro do aplicativo estão facilmente disponíveis| Implementado | [ENT16](./Técnicas/Entrevista.md/#pela-entrevista-2-foi-identificado) |
@@ -97,3 +97,4 @@ A legenda para cada sigla:
 | ``1.1``     | 11/10/2025 | [Luan Vinícius](https://github.com/luannvi)    | Adição dos requisitos de Observação | |
 | ``1.2``     | 11/10/2025 | [Samuel Felipe]() | Adição dos requisitos de Análise de Documentos |  |
 | ``1.3``    | 11/10/2025 |  [João Pedro](https://github.com/Jadequilin) | Requisitos Entrevista 2| [Rivadalvio Joaquim](https://github.com/RivaFilho)
+| ``1.4``    | 12/10/2025 |  [João Pedro](https://github.com/Jadequilin) | Correção de errata Analise de documentos | [Rivadalvio Joaquim](https://github.com/RivaFilho)
