@@ -38,6 +38,8 @@ Link da Gravação de Especificação Suplementar do João Pedro e Rivadalvio se
 | [Luan Vinícius](https://github.com/luannvi) | Classificação dos requisitos de desempenho |
 | [Miqueias Ezequiel](https://github.com/Kael-web7) | Classificação dos requisitos de design |
 | [Samuel Felipe](https://github.com/TerminaKng05) | Classificação dos requisitos de confiabilidade |
+| [Nayra Nery](https://github.com/NayraNery127) | Classificação dos requisitos de usuabilidade |
+
 
 
 
@@ -86,7 +88,31 @@ tabela 5: Restrições de design e padrões de interface
 
 
 ###  Usabilidade
-*A ser desenvolvido*
+
+Autor: [Nayra Nery](https://github.com/NayraNery127)
+
+Nessa seção são apresentados os requisitos que influenciam a usabilidade do sistema, isto é, aqueles relacionados à forma como o usuário interage com o aplicativo e à facilidade de utilização de suas funcionalidades.
+
+<p style="text-align: center;">Tabela 6: Requisitos de Usabilidade.</p>
+
+| **ID** | **Descrição** | **Status** | **Rastreabilidade** |
+| :----: | :------------- | :---------- | :------------------- |
+| RNF01 | O software deve ter telas simples, com poucos textos. | Implementado | [ENT01](../Elicitação/Técnicas/Entrevista.md/#requisitos-não-funcionais) |
+| RNF02 | O software deve ter imagens explicativas. | Não Implementado | [ENT08](../Elicitação/Técnicas/Entrevista.md/#requisitos-não-funcionais) |
+| RF06 | O software deve ter opções de cores escuras e claras. | Não Implementado | [ENT07](../Elicitação/Técnicas/Entrevista.md/#requisitos-funcionais) |
+| RNF04 | O software deve ter poucas telas. | Implementado | [ENT05](../Elicitação/Técnicas/Entrevista.md/#requisitos-não-funcionais) |
+| RNF03 | A navegação entre a seleção de jogos, o preenchimento do volante e o carrinho de compras deve ser intuitiva, exigindo no máximo três toques. | Implementado | [OBS16](../Elicitação/Técnicas/Observação.md/#requisitos-não-funcionais) |
+| RNF06 | Os números selecionados no volante digital devem ser claramente diferenciados dos não selecionados, através de cor e contraste. | Implementado | [OBS19](../Elicitação/Técnicas/Observação.md/#requisitos-não-funcionais) |
+| RNF07 | O aplicativo não deve apresentar erros ou fechar inesperadamente durante o processo de criação e pagamento de apostas. | Implementado | [OBS20](../Elicitação/Técnicas/Observação.md/#requisitos-não-funcionais) |
+| RNF08 | A transição de telas durante o fluxo de aposta deve ser fluida e sem travamentos perceptíveis. | Implementado | [OBS21](../Elicitação/Técnicas/Observação.md/#requisitos-não-funcionais) |
+| RNF09 | O sistema deve fornecer feedback visual imediato quando o usuário adiciona uma aposta ao carrinho. | Implementado | [OBS22](../Elicitação/Técnicas/Observação.md/#requisitos-não-funcionais) |
+| RNF11 | O sistema deve garantir que o acesso às funcionalidades primárias seja feito através de componentes de interface autoexplicativos. Ícones de navegação, como o menu principal, devem ser acompanhados por um rótulo textual (ex.: “Menu”). | Não Implementado | [OBS24](../Elicitação/Técnicas/Observação.md/#requisitos-não-funcionais) |
+| RNF03 | O aplicativo é de fácil acesso ao usuário. | Implementado | [ENT14](../Elicitação/Técnicas/Entrevista.md/#requisitos-não-funcionais) |
+| RF12 | O aplicativo deve apresentar funções de acessibilidade voltadas a idosos e pessoas com deficiência. | Não Implementado | [ENT15](../Elicitação/Técnicas/Entrevista.md/#requisitos-funcionais) |
+| RF13 | As opções de ações dentro do aplicativo devem estar facilmente disponíveis. | Implementado | [ENT16](../Elicitação/Técnicas/Entrevista.md/#requisitos-funcionais) |
+| RF15 | As páginas do aplicativo mais usadas pelo usuário devem estar em destaque na tela. | Não Implementado | [ENT23](../Elicitação/Técnicas/Entrevista.md/#requisitos-funcionais) |
+| RNF09 | O usuário consegue achar com facilidade o que procura no aplicativo. | Implementado | [ENT24](../Elicitação/Técnicas/Entrevista.md/#requisitos-não-funcionais) |
+
 
 ###  Confiabilidade  
 
@@ -171,6 +197,8 @@ Para essa categoria os requisitos identificados estão representados na tabela 8
 | ``1.5``    | 12/10/2025 | [Miquéias Ezequiel](https://github.com/Kael-web7) | Adição da especificação de design| [Luan Vinícius](https://github.com/luannvi) |
 | ``1.6`` | 12/10/2025 | [Samuel Felipe](https://github.com/TerminaKng05) | Adição da especificação de confiabilidade | [Heyttor Augusto](https://github.com/H3ytt0r62) |
 | ``1.7`` |  12/10/2025 | [Luan Vinícius](https://github.com/luannvi) | Adiciona validação com o usuario (desempenho) |  | 
+| ``1.8`` | 12/10/2025 | [Nayra Nery](https://github.com/NayraNery127) | Adição da usuabilidade | [Heyttor Augusto](https://github.com/H3ytt0r62) |
+
 
 
 
