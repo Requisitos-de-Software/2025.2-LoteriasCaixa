@@ -117,24 +117,24 @@ tabela 6 - CN04
 | **Avaliações** | Marcelo aprova a funcionalidade, pois consegue visualizar suas apostas mesmo em locais sem acesso à internet. A experiência se torna mais prática, fluida e compatível com o padrão de outros aplicativos modernos que funcionam parcialmente offline. |
 
 
-## CN05 – O usuário deve poder filtrar suas apostas por data ou período específico
+## CN05 – O usuário deve poder realizar o pagamento de apostas utilizando carteiras digitais
 
-Autor: [Nayra Nery](https://github.com/NayraNery127)
+utor: [Nayra Nery](https://github.com/NayraNery127)
 
 tabela 7 - CN05
 
 | item | Descrição |
 |------|------------|
-| **Título** | Filtro por Data/Período nas Apostas |
-| **Código** | CN04 |
-| **Requisito trabalhado** | RF01 – O sistema deve permitir que o usuário filtre suas apostas por data específica ou por um período definido (ex: últimos 30 dias, mês específico ou intervalo personalizado). |
-| **Atores** | Artur, 25 anos, é um apostador regular das Loterias Caixa e realiza diversas apostas ao longo do mês. Ele gosta de acompanhar seus gastos e resultados, mas encontra dificuldade em localizar apostas antigas no histórico. |
-| **Ambiente (Contexto)** | Artur acessa o aplicativo Loterias Caixa para revisar suas apostas e conferir os resultados do último mês. No entanto, percebe que o aplicativo só exibe uma lista contínua de apostas, sem opção de filtragem por data, o que dificulta a busca por informações específicas. |
-| **Objetivos** | - Facilitar a navegação no histórico de apostas, permitindo buscas rápidas por data ou intervalo de tempo.<br>- Reduzir o tempo necessário para localizar apostas específicas.<br>- Tornar o controle do histórico mais organizado e acessível. |
-| **Planejamento** | O sistema deve incluir um filtro de data no histórico de apostas, com opções de seleção rápida (ex: “Últimos 7 dias”, “Últimos 30 dias”, “Este mês”, “Escolher intervalo personalizado”). O usuário pode combinar o filtro de data com outros filtros, como “Situação” ou “Modalidade de jogo”. |
-| **Ações** | 1. O usuário acessa a aba “Minhas Apostas”.<br>2. Seleciona o novo filtro “Data/Período”.<br>3. Escolhe uma das opções de período ou define manualmente um intervalo de datas.<br>4. O sistema atualiza a tela, exibindo apenas as apostas feitas no período selecionado. |
-| **Eventos** | - O sistema aplica o filtro e exibe apenas as apostas que se enquadram no intervalo definido.<br>- O usuário pode limpar o filtro para retornar à visualização completa.<br>- O histórico pode ser combinado com outros filtros existentes, como “Pagas” ou “Premiadas/Não Pagas”. |
-| **Avaliações** | Artur aprova a funcionalidade, pois agora consegue visualizar facilmente apenas as apostas de um determinado período. Isso torna o acompanhamento dos resultados e o controle financeiro muito mais prático e eficiente. |
+| **Título** | Integração com Carteiras Digitais para Pagamento |
+| **Código** | CN05 |
+| **Requisito trabalhado** | RF03 – O sistema deve permitir que o usuário realize o pagamento de suas apostas utilizando carteiras digitais como Google Pay, Apple Pay, Mercado Pago e similares. |
+| **Atores** | Daniela, 32 anos, utiliza o aplicativo Loterias Caixa com frequência, mas prefere usar carteiras digitais para realizar pagamentos em vez de inserir os dados do cartão manualmente. Ela valoriza a praticidade e a segurança oferecidas por esses meios modernos. |
+| **Ambiente (Contexto)** | Daniela está tentando realizar uma nova aposta pelo aplicativo Loterias Caixa, mas percebe que o sistema só aceita cartão de crédito ou débito. Como está acostumada a pagar outras compras com Google Pay, sente falta dessa opção e considera o processo atual pouco prático e desatualizado. |
+| **Objetivos** | - Permitir que o usuário efetue o pagamento de suas apostas utilizando carteiras digitais populares (Google Pay, Apple Pay, Mercado Pago etc.).<br>- Melhorar a conveniência e segurança durante o processo de pagamento.<br>- Modernizar o sistema, alinhando-o às práticas atuais de mercado em aplicativos de compra e pagamento. |
+| **Planejamento** | O sistema deve integrar APIs de carteiras digitais, permitindo que o usuário escolha entre os métodos de pagamento disponíveis. A autenticação deve seguir o fluxo de segurança nativo de cada carteira (ex: tokenização e biometria). O pagamento deve ser processado sem exigir o preenchimento manual de dados de cartão. |
+| **Ações** | 1. O usuário acessa o aplicativo Loterias Caixa e seleciona suas apostas.<br>2. Na tela de pagamento, escolhe a opção “Pagar com Carteira Digital”.<br>3. O sistema exibe as opções compatíveis com o dispositivo (ex: Google Pay ou Apple Pay).<br>4. O usuário confirma a transação utilizando autenticação biométrica ou senha da carteira.<br>5. O pagamento é concluído automaticamente. |
+| **Eventos** | - O sistema exibe as carteiras digitais disponíveis.<br>- A autenticação é realizada via biometria ou token seguro.<br>- O pagamento é processado e confirmado em poucos segundos.<br>- O usuário recebe a confirmação dentro do aplicativo. |
+| **Avaliações** | Daniela considera a nova funcionalidade mais moderna e prática, pois elimina a necessidade de digitar os dados do cartão a cada aposta. O aplicativo se torna mais competitivo e alinhado às tendências de segurança e experiência de usuário adotadas em outros aplicativos de pagamento. |
 
 
 
