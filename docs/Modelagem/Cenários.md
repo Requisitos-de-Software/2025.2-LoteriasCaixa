@@ -33,6 +33,10 @@ Os cenários se apresentam como descrições detalhadas, geralmente em linguagem
 | Rivadalvio | CN10 e CN11|
 | Miqueias Ezequiel | CN12 e CN13|
 
+## Vídeo da validação 
+Link da Gravação de Cenários do João Pedro e Rivadalvio se encontra em:
+[Gravação Cenários.](https://youtu.be/RBeWhwtlLVQ)
+
 ## Cenários feitos
 ## CN01 - Opção de modo claro e escuro
 

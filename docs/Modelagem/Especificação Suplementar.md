@@ -23,6 +23,10 @@ A especificação foi elaborada utilizando o **modelo FURPS+** adaptado, incluin
 | *Suportabilidade* | Adaptabilidade, manutenibilidade e internacionalização |
 | *Sistema de Ajuda* | Documentação online e suporte ao usuário |
 
+## Vídeo da validação 
+Link da Gravação de Especificação Suplementar do João Pedro e Rivadalvio se encontra em:
+[Gravação Especificação Suplementar.](https://youtu.be/RBeWhwtlLVQ)
+
 ##  Tabela de Contribuição
 
 ### Tabela 2 - Contribuição na Especificação Suplementar
@@ -34,6 +38,8 @@ A especificação foi elaborada utilizando o **modelo FURPS+** adaptado, incluin
 | [Luan Vinícius](https://github.com/luannvi) | Classificação dos requisitos de desempenho |
 | [Miqueias Ezequiel](https://github.com/Kael-web7) | Classificação dos requisitos de design |
 | [Samuel Felipe](https://github.com/TerminaKng05) | Classificação dos requisitos de confiabilidade |
+
+
 
 ##  Especificação de Requisitos
 
