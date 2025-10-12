@@ -31,6 +31,7 @@ Os cenários se apresentam como descrições detalhadas, geralmente em linguagem
 | Luan Vinícius | CN06 e CN07 |
 | João Pedro | CN 08 e CN 09|
 | Rivadalvio | CN 10 e CN 11|
+| Miqueias Ezequiel | CN 12 e CN 13|
 
 ## Validação com o Usuário
 
@@ -256,6 +257,42 @@ Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 | **Eventos** | - Interface com elementos ampliados<br>- Cores de alto contraste<br>- Menus simplificados e diretos |
 | **Avaliações** | Antônio consegue usar o app sem ajuda da família |
 
+### CN12 – Conferência de apostas via leitura de QR Code
+
+*<p style="text-align: center;">Tabela 15: Conferência de apostas via leitura de QR Code .</p>*
+
+| Item | Descrição |
+| --- | --- |
+| **Título** | Conferência de apostas via leitura de QR Code |
+| **Código** | #CN12 |
+| **Caso de uso trabalhado** | #UC01 |
+| **Autor** | Miquéias Ezequiel |
+| **Atores** | **Carlos Eduardo**, 37 anos, analista financeiro. Joga ocasionalmente em loterias, especialmente Mega-Sena e Lotofácil. Costuma guardar os comprovantes físicos, mas prefere soluções práticas e digitais. Utiliza o Loterias Caixa App para registrar e acompanhar suas apostas. |
+| **Ambiente (Contexto)** | Carlos está em casa após o trabalho, usando seu smartphone. Ele quer conferir rapidamente o resultado da última aposta feita em uma lotérica próxima, mas não deseja digitar manualmente todos os números do bilhete. |
+| **Objetivos** | - Conferir apostas com agilidade por meio da leitura do QR Code impresso no bilhete.- Evitar erros de digitação manual.- Ter uma experiência integrada e moderna no aplicativo. |
+| **Planejamento** | Carlos sabe que o aplicativo agora possui o recurso de leitura automática de QR Code. Ele planeja utilizá-lo para verificar o resultado do seu bilhete de forma instantânea e armazenar o histórico de conferências. |
+| **Ações** | 1. Carlos abre o **Loterias Caixa App**.2. Acessa a aba **“Conferir Aposta”**.3. Seleciona a opção **“Ler QR Code”**.4. Aponta a câmera do celular para o QR Code impresso no bilhete.5. O app reconhece automaticamente o concurso, as dezenas apostadas e realiza a conferência com o último sorteio. |
+| **Eventos** | O app exibe a mensagem **“Aposta conferida com sucesso!”** junto do resultado detalhado: números sorteados, acertos e informações sobre prêmios. Caso haja premiação, aparece a opção **“Ver como resgatar”**. Carlos pode salvar o resultado no histórico e compartilhar com amigos. |
+| **Avaliação** | Carlos fica impressionado com a praticidade do recurso. A leitura é rápida, precisa e elimina a necessidade de digitação. Ele avalia que o recurso de QR Code tornou o processo de conferência mais confiável e moderno, aumentando sua confiança e satisfação com o app. |
+
+### CN12 – Notificação de prêmios e prazos de validade de apostas
+
+*<p style="text-align: center;">Tabela 16: Notificação de prêmios e prazos de validade de apostas .</p>*
+
+| Item | Descrição |
+| --- | --- |
+| **Título** | Notificação de prêmios e prazos de validade de apostas |
+| **Código** | #CN13 |
+| **Caso de uso trabalhado** | #UC02 |
+| **Autor** | Miquéias Ezequiel |
+| **Atores** | **Patrícia Gomes**, 42 anos, microempreendedora. Costuma apostar semanalmente com colegas e utiliza o Loterias Caixa App para acompanhar resultados. É usuária ativa de aplicativos de produtividade e valoriza notificações que a ajudam a se organizar. |
+| **Ambiente (Contexto)** | Patrícia está em seu escritório, revisando contas mensais. O celular vibra com uma notificação do **Loterias Caixa App**, informando que um de seus bilhetes foi premiado e que o prazo de resgate vence em 85 dias. |
+| **Objetivos** | - Receber notificações automáticas sobre prêmios e prazos de validade.- Manter controle total sobre suas apostas sem precisar consultar manualmente.- Garantir que não perca prêmios por esquecimento. |
+| **Planejamento** | Patrícia ativou o recurso de notificações no app para ser avisada sempre que houver sorteios relevantes ou prêmios pendentes. Ela deseja manter o acompanhamento automatizado de todas as suas apostas registradas. |
+| **Ações** | 1. O app envia uma notificação push com o título **“Você foi premiada!”**.2. Patrícia abre o aplicativo e visualiza os detalhes da aposta premiada.3. O sistema exibe o valor do prêmio, o local de retirada e o prazo limite de resgate.4. Ela marca a opção **“Lembrar-me antes do vencimento”**, garantindo um alerta adicional próximo ao prazo final.5. O app atualiza automaticamente o status da aposta para **“Prêmio pendente”**. |
+| **Eventos** | O sistema de notificações do app monitora continuamente as apostas associadas à conta da usuária. Ao detectar um prêmio, envia o alerta personalizado. Além disso, gera lembretes automáticos quando um bilhete está próximo de expirar. |
+| **Avaliação** | Patrícia considera o recurso extremamente útil. Agora ela se sente segura sabendo que não perderá prazos e será avisada sobre qualquer premiação. Avalia que as notificações automatizadas transformaram o Loterias Caixa App em uma ferramenta confiável e indispensável no seu dia a dia. |
+
 ## Referências Bibliográficas
 
 > SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 10. Disponível em: <https://aprender3.unb.br/pluginfile.php/3210627/mod_resource/content/1/Aula%2010.pdf>. Acesso em: 10/10/2025.
@@ -275,3 +312,4 @@ Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 | ``1.2`` |  11/10/2025 | [Luan Vinícius](https://github.com/luannvi) | Adiciona cenários 6 e 7 | [João Pedro](https://github.com/Jadequilin) | 
 | ``1.3``    | 11/10/2025 | [João Pedro](https://github.com/Jadequilin) | Cenários 8 e 9 | [Rivadalvio Joaquim](https://github.com/RivaFilho) |
 | ``1.4``    | 11/10/2025 | [Rivadalvio Joaquim](https://github.com/RivaFilho) | Cenários 10 e 11| [João Pedro](https://github.com/Jadequilin) |
+| ``1.5``    | 12/10/2025 | [Miquéias Ezequiel](https://github.com/Kael-web7) | Cenários 12 e 13| [Luan Vinícius](https://github.com/luannvi) |

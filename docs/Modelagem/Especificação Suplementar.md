@@ -32,6 +32,7 @@ A especificação foi elaborada utilizando o **modelo FURPS+** adaptado, incluin
 | [Rivadalvio Joaquim](https://github.com/RivaFilho) | Especificação suplementar inicial e implementação |
 | [João Pedro](https://github.com/Jadequilin) | Organização especificação inicial e funcionalidade | 
 | [Luan Vinícius](https://github.com/luannvi) | Classificação dos requisitos de desempenho |
+| [Miqueias Ezequiel](https://github.com/Kael-web7) | Classificação dos requisitos de design |
 
 ##  Especificação de Requisitos
 
@@ -59,7 +60,23 @@ tabela 4: Requisitos não funcionais relacionados a tecnologias e arquitetura*
 | **RF03** | O aplicativo entrega as facilidades para realizar as mesmas funções que o site ou ir pessoalmente a uma lotérica | Implementado | **AD03** |
 
 ### Design
-*A ser desenvolvido*
+Autor: Miqéias Ezequiel Gonçalves Carvalho
+
+tabela 5: Restrições de design e padrões de interface
+
+| **ID**   | **Descrição**                                                                                                                                  | **Rastreamento**              |
+| -------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
+| **RN01** | A interface deve seguir as diretrizes de design da Caixa Econômica Federal, utilizando paleta de cores e tipografia padronizadas.              | **Implementado**              |
+| **RN02** | O sistema deve ser compatível com dispositivos móveis Android e iOS, mantendo o mesmo layout e desempenho.                                     | **Implementado**              |
+| **RN03** | A interface deve garantir usabilidade e acessibilidade: botões bem visíveis, texto legível e opção de ajuste de fonte e contraste.             | **Parcialmente implementado** |
+| **RN04** | O aplicativo deve oferecer modo claro e modo escuro, ajustável manualmente e sincronizado com o sistema operacional do usuário.                | **Não implementado**          |
+| **RN07** | O aplicativo deve incluir um tutorial interativo na primeira execução, explicando as principais funções (login, busca, pagamento, resultados). | **Não implementado**          |
+| **RN08** | O tempo de resposta entre ação do usuário e retorno visual deve ser inferior a 2 segundos em condições normais de rede.                        | **Parcialmente implementado** |
+| **RN12** | O design deve permitir futuras expansões (ex: novos tipos de jogos ou formas de pagamento) sem necessidade de reestruturação completa.         | **Parcialmente implementado** |
+| **RN13** | O aplicativo deve alcançar ≥ 90% de avaliações positivas quanto à clareza e facilidade de uso nas pesquisas de satisfação.                     | **Não implementado**          |
+| **RN14** | Deve reduzir para ≤ 5% os usuários que relatam dificuldade em encontrar funções como busca, pagamento e resultados.                            | **Não implementado**          |
+| **RN15** | Todos os ícones e elementos visuais devem possuir rótulos alternativos (alt text) para compatibilidade com leitores de tela.                   | **Parcialmente implementado** |
+
 
 ###  Usabilidade
 *A ser desenvolvido*
@@ -109,5 +126,6 @@ Para essa categoria os requisitos identificados estão representados na tabela 8
 | `1.1` | 12/10/2025 | [João Pedro](https://github.com/Jadequilin) | Adição de 2 requisitos não implementados na implementação | [Rivadalvio Joaquim](https://github.com/RivaFilho) |
 | `1.2` | 12/10/2025 | [Rivadalvio Joaquim](https://github.com/RivaFilho) | Adição de coluna de status e seleção de requisitos não implementados | [João Pedro](https://github.com/Jadequilin) |
 | `1.3` | 12/10/2025 | [Luan Vinícius](https://github.com/luannvi) | Adição da especificação de performance | [Miquéias Ezequiel](https://github.com/Kael-web7) |
+| ``1.5``    | 12/10/2025 | [Miquéias Ezequiel](https://github.com/Kael-web7) | Adição da especificação de design| [Luan Vinícius](https://github.com/luannvi) |
 
 
