@@ -17,3 +17,15 @@
   text-indent: 2em;
 }
 
+.md-typeset__table {
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+}
