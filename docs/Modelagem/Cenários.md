@@ -37,6 +37,10 @@ Os cenários se apresentam como descrições detalhadas, geralmente em linguagem
 Link da Gravação de Cenários do João Pedro e Rivadalvio se encontra em:
 [Gravação Cenários.](https://youtu.be/RBeWhwtlLVQ)
 
+Link da Gravação de Cenários Nayra Nery em: 
+[Gravação.](https://youtu.be/4nf_8Knog60)
+
+
 ## Cenários feitos
 ## CN01 - Opção de modo claro e escuro
 
@@ -106,7 +110,8 @@ Autor: [Nayra Nery](https://github.com/NayraNery127)
 |------|------------|
 | **Título** | Visualização de Apostas em Modo Offline |
 | **Código** | CN04 |
-| **Requisito trabalhado** | RNF02 – O sistema deve permitir que o usuário visualize suas apostas já carregadas anteriormente mesmo sem conexão com a internet. |
+| **Requisito trabalhado** |RNF04 - OBS17|
+  O sistema deve permitir que o usuário visualize suas apostas já carregadas anteriormente mesmo sem conexão com a internet. |
 | **Atores** | Marcelo, 40 anos, é um apostador regular das Loterias Caixa. Ele costuma fazer apostas pelo aplicativo durante suas viagens a trabalho e, por isso, enfrenta situações frequentes em que fica sem sinal de internet, especialmente em rodovias ou cidades do interior. |
 | **Ambiente (Contexto)** | Marcelo está em um voo e deseja conferir as apostas realizadas na noite anterior. Ao abrir o aplicativo Loterias Caixa, percebe que não há como visualizar suas apostas sem estar conectado à internet, o que o impede de verificar seus números e resultados durante o trajeto. |
 | **Objetivos** | - Permitir que o usuário acesse suas apostas mesmo sem estar conectado à internet.<br>- Garantir maior disponibilidade do sistema e melhorar a experiência do usuário em locais com pouca conectividade.<br>- Reduzir o tempo de carregamento das apostas já visualizadas. |
@@ -126,7 +131,7 @@ Autor: [Nayra Nery](https://github.com/NayraNery127)
 |------|------------|
 | **Título** | Integração com Carteiras Digitais para Pagamento |
 | **Código** | CN05 |
-| **Requisito trabalhado** | RF03 – O sistema deve permitir que o usuário realize o pagamento de suas apostas utilizando carteiras digitais como Google Pay, Apple Pay, Mercado Pago e similares. |
+| **Requisito trabalhado** |RF23 – OBS12|O sistema deve permitir que o usuário realize o pagamento de suas apostas utilizando carteiras digitais como Google Pay, Apple Pay, Mercado Pago e similares. |
 | **Atores** | Daniela, 32 anos, utiliza o aplicativo Loterias Caixa com frequência, mas prefere usar carteiras digitais para realizar pagamentos em vez de inserir os dados do cartão manualmente. Ela valoriza a praticidade e a segurança oferecidas por esses meios modernos. |
 | **Ambiente (Contexto)** | Daniela está tentando realizar uma nova aposta pelo aplicativo Loterias Caixa, mas percebe que o sistema só aceita cartão de crédito ou débito. Como está acostumada a pagar outras compras com Google Pay, sente falta dessa opção e considera o processo atual pouco prático e desatualizado. |
 | **Objetivos** | - Permitir que o usuário efetue o pagamento de suas apostas utilizando carteiras digitais populares (Google Pay, Apple Pay, Mercado Pago etc.).<br>- Melhorar a conveniência e segurança durante o processo de pagamento.<br>- Modernizar o sistema, alinhando-o às práticas atuais de mercado em aplicativos de compra e pagamento. |
