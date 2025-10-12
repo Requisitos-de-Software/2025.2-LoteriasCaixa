@@ -39,7 +39,7 @@ Link da Gravação de Especificação Suplementar do João Pedro e Rivadalvio se
 | [Miqueias Ezequiel](https://github.com/Kael-web7) | Classificação dos requisitos de design |
 | [Samuel Felipe](https://github.com/TerminaKng05) | Classificação dos requisitos de confiabilidade |
 | [Nayra Nery](https://github.com/NayraNery127) | Classificação dos requisitos de usuabilidade |
-
+| [Heyttor Augusto](https://github.com/H3ytt0r62) | Classificação dos requisitos de suportabilidade |
 
 
 
@@ -171,7 +171,16 @@ Para essa categoria os requisitos identificados estão representados na tabela 8
 | Matheus Queiroz | 20 anos, estudante de engenharia de software e usuário do app Loterias Caixa, responsável por validar os cenários desenvolvidos para o artefato. | 12/10/2025 | 17:24 | Online(Discord) |
 
 ###  Suportabilidade
-*A ser desenvolvido*
+
+Autor:[Heyttor Augusto](https://github.com/H3ytt0r62) 
+
+Diz a respeito da acessibilidade e suporte que os usuarios podem ter usando o aplicativo.
+
+| **ID** | **Descrição** | **Status** | Rastreabilidade** |
+| :----: | :-----------: | :--------: | :---------------: |
+| RFN01  | O software deve ter telas simples com poucos textos | Implementado | [ENT01](../Elicitação/Requisitos%20Elicitados.md) |
+| RF06  | O software deve ter opções de cores escuras e claras | Não implementado | [ENT07](../Elicitação/Técnicas/Entrevista.md) |
+| RFN01 | O aplicativo segue a questão de disponibilidade em plataformas que os usuários tem acesso (IOS/Apple Store, Android/Play Store) | Não implementado | [AD05](../Elicitação/Técnicas/Análise%20de%20Documentos.md) |
 
 ### Sistema de ajuda 
 *A ser desenvolvido*
@@ -198,6 +207,7 @@ Para essa categoria os requisitos identificados estão representados na tabela 8
 | ``1.6`` | 12/10/2025 | [Samuel Felipe](https://github.com/TerminaKng05) | Adição da especificação de confiabilidade | [Heyttor Augusto](https://github.com/H3ytt0r62) |
 | ``1.7`` |  12/10/2025 | [Luan Vinícius](https://github.com/luannvi) | Adiciona validação com o usuario (desempenho) |  | 
 | ``1.8`` | 12/10/2025 | [Nayra Nery](https://github.com/NayraNery127) | Adição da usuabilidade | [Heyttor Augusto](https://github.com/H3ytt0r62) |
+| ``1.8`` | 12/10/2025 | [Heyttor Augusto](https://github.com/H3ytt0r62) | Adição da suportabilidade | [Nayra Nery](https://github.com/NayraNery127) |
 
 
 
