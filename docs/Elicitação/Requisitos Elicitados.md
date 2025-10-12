@@ -100,4 +100,5 @@ A legenda para cada sigla:
 | ``1.3``    | 11/10/2025 |  [João Pedro](https://github.com/Jadequilin) | Requisitos Entrevista 2| [Rivadalvio Joaquim](https://github.com/RivaFilho)
 | ``1.4``    | 12/10/2025 |  [João Pedro](https://github.com/Jadequilin) | Correção de errata Analise de documentos | [Rivadalvio Joaquim](https://github.com/RivaFilho)
 | ``1.5`` | 12/10/2025 | [Samuel Felipe](https://github.com/TerminaKng05) | Correção de status na Análise de Documentos | [Heyttor Augusto](https://github.com/H3ytt0r62) |
-| ``1.6`` | 12/10/2025 | [https://github.com/NayraNery127) | Correção de status na Análise de Documentos | [Heyttor Augusto](https://github.com/H3ytt0r62) |
+| ``1.6`` | 12/10/2025 | [Nayra Nery](https://github.com/NayraNery127) | Correção de status na Análise de Documentos | [Heyttor Augusto](https://github.com/H3ytt0r62) |
+
