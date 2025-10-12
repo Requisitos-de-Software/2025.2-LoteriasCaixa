@@ -45,11 +45,12 @@ A legenda para cada sigla:
 |RF20| O aplicativo deve permitir adicionar o jogo ao carrinho de apostas | Implementado | [OBS09](./Técnicas/Observação.md/#requisitos-funcionais) |
 |RF21| O aplicativo deve calcular automaticamente o valor da aposta | Implementado | [OBS10](./Técnicas/Observação.md/#requisitos-funcionais) |
 |RF22| O aplicativo deve possibilitar pagamento via cartão de crédito ou PIX | Implementado | [OBS11](./Técnicas/Observação.md/#requisitos-funcionais) |
-|RF23| O aplicativo deve mostrar se o pagamento foi confirmado | Implementado | [OBS12](./Técnicas/Observação.md/#requisitos-funcionais) |
-|RF24| O aplicativo deve permitir visualizar sua aposta | Implementado | [OBS13](./Técnicas/Observação.md/#requisitos-funcionais) |
-|RF25| O aplicativo deve permitir gerar o comprovante da aposta em "minhas apostas" | Implementado | [OBS14](./Técnicas/Observação.md/#requisitos-funcionais) |
-|RF26| O aplicativo deve possibilitar logout do usuário | Implementado | [OBS15](./Técnicas/Observação.md/#requisitos-funcionais) |
-|RF27| O aplicativo deve permitir o cancelamento de apostas antes do sorteio. | Não Implementado | [OBS16](./Técnicas/Observação.md/#requisitos-funcionais) |
+|RF23| O aplicativo deve permitir pagamento de apostas utilizando carteiras digitais como Google Pay, Apple Pay e Mercado Pago | Não Implementado | [OBS12](./Técnicas/Observação.md/#requisitos-funcionais) |
+|RF24| O aplicativo deve mostrar se o pagamento foi confirmado | Implementado | [OBS12](./Técnicas/Observação.md/#requisitos-funcionais) |
+|RF25| O aplicativo deve permitir visualizar sua aposta | Implementado | [OBS13](./Técnicas/Observação.md/#requisitos-funcionais) |
+|RF26| O aplicativo deve permitir gerar o comprovante da aposta em "minhas apostas" | Implementado | [OBS14](./Técnicas/Observação.md/#requisitos-funcionais) |
+|RF27| O aplicativo deve possibilitar logout do usuário | Implementado | [OBS15](./Técnicas/Observação.md/#requisitos-funcionais) |
+|RF28| O aplicativo deve permitir o cancelamento de apostas antes do sorteio. | Não Implementado | [OBS16](./Técnicas/Observação.md/#requisitos-funcionais) |
 | RNF03 | A navegação entre a seleção de jogos, o preenchimento do volante e o carrinho de compras deve ser intuitiva, exigindo no máximo 3 toques | Implementado | [OBS16](./Técnicas/Observação.md/#requisitos-não-funcionais) |
 | RNF04 | O resultado de uma loteria deve ser carregado e exibido na tela em menos de 3 segundos sob uma conexão 4G/5G padrão | Implementado | [OBS17](./Técnicas/Observação.md/#requisitos-não-funcionais) |
 | RNF05 | O sistema deve proteger o acesso às funcionalidades transacionais exigindo a autenticação do usuário no início da sessão | Implementado | [OBS18](./Técnicas/Observação.md/#requisitos-não-funcionais) |
@@ -99,3 +100,4 @@ A legenda para cada sigla:
 | ``1.3``    | 11/10/2025 |  [João Pedro](https://github.com/Jadequilin) | Requisitos Entrevista 2| [Rivadalvio Joaquim](https://github.com/RivaFilho)
 | ``1.4``    | 12/10/2025 |  [João Pedro](https://github.com/Jadequilin) | Correção de errata Analise de documentos | [Rivadalvio Joaquim](https://github.com/RivaFilho)
 | ``1.5`` | 12/10/2025 | [Samuel Felipe](https://github.com/TerminaKng05) | Correção de status na Análise de Documentos | [Heyttor Augusto](https://github.com/H3ytt0r62) |
+| ``1.6`` | 12/10/2025 | [https://github.com/NayraNery127) | Correção de status na Análise de Documentos | [Heyttor Augusto](https://github.com/H3ytt0r62) |
