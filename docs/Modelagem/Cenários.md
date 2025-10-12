@@ -6,18 +6,18 @@ Os cenários se apresentam como descrições detalhadas, geralmente em linguagem
 
 *<p style="text-align: center;">Tabela 1: Template dos cenários.</p>*
 
-|Item | Descrição |
-|-----|----------|
-|Titulo | -  |
-|Código| -  |
-|Requisito trabalhado | -  |
-|Atores | -  |
-|Ambiente(Contexto) | -  |
-|Objetivos | -  |
-|Planejamento | -  |
-|Ações | -  |
-|Eventos | -  |
-|Avaliações | -  |
+| Item | Descrição |
+|------|-----------|
+| **Título** | Nome descritivo e objetivo do cenário |
+| **Código** | Identificador único do cenário (ex: CN10, CN11) |
+| **Requisito Trabalhado** | Requisito funcional ou não-funcional abordado no cenário |
+| **Atores** | Personas ou usuários envolvidos na interação |
+| **Ambiente (Contexto)** | Local, situação e condições onde o cenário ocorre |
+| **Objetivos** | Metas que o usuário deseja alcançar com a interação |
+| **Planejamento** | Sequência mental ou estratégia que o usuário elabora |
+| **Ações** | Passos concretos executados pelo usuário no sistema |
+| **Eventos** | Respostas, feedbacks e comportamentos do sistema |
+| **Avaliações** | Percepção e feedback do usuário sobre a experiência |
 
 ## Tabela de contribuição
 
@@ -27,8 +27,10 @@ Os cenários se apresentam como descrições detalhadas, geralmente em linguagem
 |Contribuinte | Cenários Criados |
 |-----| -----------------|
 | Heyttor| CN01, CN02 e CN03|
-| Nayra Nery|   CN04, CN05  |
-| Luan Vinícius | CN06, CN07 |
+| Nayra Nery|   CN04 e CN05  |
+| Luan Vinícius | CN06 e CN07 |
+| João Pedro | CN 08 e CN 09|
+| Rivadalvio | CN 10 e CN 11|
 
 ## Validação com o Usuário
 
@@ -177,7 +179,90 @@ Autor: [Luan Vinícius](https://github.com/luannvi)
 | **Eventos**      | <ul><li>O aplicativo exibe apenas o ícone “☰”, sem rótulo textual.</li><li>Antônio tem dificuldade para entender a função do ícone.</li><li>Ao descobrir o menu, ele percebe que outras opções também não possuem rótulos descritivos.</li><li>Isso reforça a sensação de que o aplicativo não é feito para usuários menos experientes.</li></ul>   |
 | **Avaliação**      | <ul><li>Antônio avalia que o app é funcional, mas mal explicado visualmente.</li><li>Conclui que um simples rótulo “Menu” tornaria a navegação muito mais clara e intuitiva.</li><li>Reforça que ícones com texto são essenciais para inclusão de públicos mais velhos e menos acostumados com tecnologia.</li></ul>   |
 
+### CN08 – Avisos sobre Limite Diário de Apostas
+
+Autor: [João Pedro](https://github.com/Jadequilin)
+ 
+
+*<p style="text-align: center;">Tabela 11: Controle de Limite Diário de Apostas .</p>*
+
+| Item | Descrição |
+|------|-----------|
+| **Título** | Controle de Limite Diário de Apostas |
+| **Código** | CN08 |
+| **Requisito Trabalhado** | RF16 – O sistema deve alertar sobre limite diário de apostas |
+| **Atores** | **Perfil 3** - Ricardo, 32 anos, apostador ocasional |
+| **Ambiente** | Em casa, após o trabalho, usando o aplicativo |
+| **Objetivos** | Controlar gastos e promover jogo responsável |
+| **Planejamento** | Sistema monitora valor total apostado no dia e alerta ao atingir 80% do limite |
+| **Ações** | 1. Ricardo faz aposta na mega-sena<br>2. Sistema verifica valor acumulado<br>3. Exibe pop-up: "Você atingiu 80% do seu limite diário"<br>4. Oferece opções: "Continuar" ou "Parar por hoje" |
+| **Eventos** | - Notificação visual com cor amarela<br>- Alerta sonoro opcional<br>- Registro no histórico de controle |
+| **Avaliações** | Ricardo sente maior controle sobre seus gastos |
+
+### CN09 – Telas Mais Usadas pelo Usuário
+
+Autor: [João Pedro](https://github.com/Jadequilin)
+
+*<p style="text-align: center;">Tabela 12: Personalização da Tela Inicial (telas mais usadas) .</p>*
+
+| Item | Descrição |
+|------|-----------|
+| **Título** | Personalização da Tela Inicial (telas mais usadas)|
+| **Código** | CN09 |
+| **Requisito Trabalhado** | RF15 – O sistema deve priorizar telas mais usadas pelo usuário |
+| **Atores** | **Perfil 1** - João, 40 anos, acompanha esportes |
+| **Ambiente** | No bar com amigos, durante jogo importante |
+| **Objetivos** | Acesso rápido às apostas esportivas e resultados |
+| **Planejamento** | Sistema aprende padrão de uso e reorganiza interface |
+| **Ações** | 1. João acessa o app durante o jogo<br>2. Sistema exibe "Apostas Esportivas" como primeiro item<br>3. Mostra resultados ao vivo destacados<br>4. Acesso rápido ao seu time favorito |
+| **Eventos** | - Interface prioriza apostas esportivas<br>- Resultados em tempo real em destaque<br>- Atalhos para esportes favoritos |
+| **Avaliações** | João acessa rapidamente as informações do jogo |
+
+### CN10 – Termo de Responsabilidade
+
+Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
+
+*<p style="text-align: center;">Tabela 13: Termo de Esclarecimento sobre Riscos .</p>*
+
+| Item | Descrição |
+|------|-----------|
+| **Título** | Termo de Esclarecimento sobre Riscos |
+| **Código** | CN10|
+| **Requisito Trabalhado** | RNF06 – Os termos de usuário do sistema deve explicar riscos de forma clara |
+| **Atores** | **Perfil 2** - Carlos, 55 anos, joga na mega-sena |
+| **Ambiente** | Em casa, final de ano, fazendo apostas especiais |
+| **Objetivos** | Informar sobre riscos e promover jogo consciente |
+| **Planejamento** | Exibir termo simplificado antes de apostas de alto valor |
+| **Ações** | 1. Carlos seleciona números da mega da virada<br>2. Sistema exibe termo em linguagem clara<br>3. Mostra probabilidades reais de ganho<br>4. Exige confirmação explícita |
+| **Eventos** | - Termo com linguagem acessível para todas as idades<br>- Explicação visual das probabilidades<br>- Confirmação obrigatória |
+| **Avaliações** | Carlos compreende melhor os riscos antes de apostar valores altos |
+
+### CN11 – Funções de Acessibilidade
+
+Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
+
+*<p style="text-align: center;">Tabela 14: Modo Acessibilidade para Usuários idosos e/ou pessoa com deficiências .</p>*
+
+| Item | Descrição |
+|------|-----------|
+| **Título** | Modo Acessibilidade para Usuários idosos e/ou pessoa com deficiência|
+| **Código** | CN09 |
+| **Requisito Trabalhado** | RF12 – O sistema deve ter funções de acessibilidade |
+| **Atores** | **Perfil 2** - Seu Antônio, 64 anos, usuário idoso |
+| **Ambiente** | Em casa, com familiares por perto |
+| **Objetivos** | Garantir usabilidade para usuários mais velhos |
+| **Planejamento** | Oferecer modo acessível com configurações adaptadas |
+| **Ações** | 1. Antônio ativa "Modo Sênior"<br>2. Aumenta tamanho da fonte e botões<br>3. Ativa alto contraste<br>4. Simplifica navegação |
+| **Eventos** | - Interface com elementos ampliados<br>- Cores de alto contraste<br>- Menus simplificados e diretos |
+| **Avaliações** | Antônio consegue usar o app sem ajuda da família |
+
+## Referências Bibliográficas
+
+> SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 10. Disponível em: <https://aprender3.unb.br/pluginfile.php/3210627/mod_resource/content/1/Aula%2010.pdf>. Acesso em: 10/10/2025.
+
 ## Bibliografia
+
+> SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 10. Disponível em: <https://aprender3.unb.br/pluginfile.php/3210627/mod_resource/content/1/Aula%2010.pdf>. Acesso em: 10/10/2025.
 
 > CENÁRIOS. [S. l.], 2023. Disponível em: <https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/cenarios/>. Acesso em: 11 out. 2025.
 
@@ -187,4 +272,6 @@ Autor: [Luan Vinícius](https://github.com/luannvi)
 |:--------:|:------------:|:---------------------:|:----------------------------------------------:|:---------:|
 | ``1.0``    | 10/10/2025 | [Heyttor Augusto](https://github.com/H3ytt0r62)     | Cenarios iniciais | [Samuel Felipe](https://github.com/TerminaKng05) |
 | ``1.1``    | 10/10/2025 | [Nayra Nery](https://github.com/NayraNery127)     | Cenarios | [Samuel Felipe](https://github.com/TerminaKng05) |
-| ``1.2`` |  11/10/2025 | [Luan Vinícius](https://github.com/luannvi) | Adiciona cenários 6 e 7 | 
+| ``1.2`` |  11/10/2025 | [Luan Vinícius](https://github.com/luannvi) | Adiciona cenários 6 e 7 | [João Pedro](https://github.com/Jadequilin) | 
+| ``1.3``    | 11/10/2025 | [João Pedro](https://github.com/Jadequilin) | Cenários 8 e 9 | [Rivadalvio Joaquim](https://github.com/RivaFilho) |
+| ``1.4``    | 11/10/2025 | [Rivadalvio Joaquim](https://github.com/RivaFilho) | Cenários 10 e 11| [João Pedro](https://github.com/Jadequilin) |

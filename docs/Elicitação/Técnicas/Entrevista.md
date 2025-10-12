@@ -98,8 +98,9 @@ Após a entrevista foi possivel elicitar os seguintes requistos:
 |RNF06 | O termo de uso especifica os riscos para o usuário| ENT20|
 |RNF07 | O termo de uso especifica a classificação indicativa para o usuário| ENT21|
 |RNF08 | O termo de uso especifica o acesso aos dados do aplicativo para o usuário| ENT22|
-|RF15 | As páginas do aplicativo mais usadas estão em destaque na tela| ENT23|
+|RF15 | As páginas do aplicativo mais usadas pelo usuário estão em destaque na tela| ENT23|
 |RNF09 | O usuário consegue achar com facilidade o que procura no aplicativo| ENT24|
+|RF16 | O sistema fornece avisos ao usuário sobre seu limite diário de apostas|ENT25|
 
 
 ## Bibliografia 
@@ -112,7 +113,7 @@ Vazque, Carlos engenharia de requisitos.Rio de janeiro:Brasport.2016
 |:--------:|:------------:|:---------------------:|:----------------------------------------------:|:---------:|
 | ``1.0``    | 27/09/2025 | [Heyttor Augusto](https://github.com/H3ytt0r62)     | Entrevista 1 | [Samuel Felipe](https://github.com/TerminaKng05) |
 | ``2.0``    | 30/09/2025 | [João Pedro Araújo](https://github.com/Jadequilin)  | Entrevista 2 | [Rivadalvio Joaquim](https://github.com/RivaFilho)|
-
+| ``2.1``    | 11/10/2025 | [João Pedro Araújo](https://github.com/Jadequilin)  | Entrevista 2 | [Rivadalvio Joaquim](https://github.com/RivaFilho)|
 
 
 

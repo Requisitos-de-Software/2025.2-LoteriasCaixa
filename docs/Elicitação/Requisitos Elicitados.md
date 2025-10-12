@@ -75,7 +75,18 @@ A legenda para cada sigla:
 | RNF07 | O aplicativo não apresenta uma forma de mostrar os resultado em tempo real; |  | [AD14](./Técnicas/Análise%20de%20Documentos.md/#requisitos-não-funcionais) |
 | RNF08 | O aplicativo ainda apresenta lentidão em aparelhos de smartphones antigos; |  | [AD15](./Técnicas/Análise%20de%20Documentos.md/#requisitos-não-funcionais) |
 | RNF09 | O aplicativo ainda apresenta problemas de desconexão ao se conectar em internet 4G/5G; |  | [AD16](./Técnicas/Análise%20de%20Documentos.md/#requisitos-não-funcionais) |
-
+|RNF03 | O aplicativo é de fácil acesso ao usuário| Implementado | [ENT14](./Técnicas/Entrevista.md/#pela-entrevista-2-foi-identificado)|
+|RF12 | O aplicativo apresenta funções de acessibilidade aos idosos e deficientes| Não Implementado | [ENT15](./Técnicas/Entrevista.md/#pela-entrevista-2-foi-identificado)|
+|RF13 | As opções de ações dentro do aplicativo estão facilmente disponíveis| Implementado | [ENT16](./Técnicas/Entrevista.md/#pela-entrevista-2-foi-identificado) |
+|RNF04| O aplicativos é de uma fonte confiável para o usuário| Implementado | [ENT17](./Técnicas/Entrevista.md/#pela-entrevista-2-foi-identificado) |
+|RF14 | Os dados do usuário são mantidos em sigilo e protegidos| Implementado | [ENT18](./Técnicas/Entrevista.md/#pela-entrevista-2-foi-identificado) |
+|RNF05 | Há um termo de uso| Implementado |[ENT19](./Técnicas/Entrevista.md/#pela-entrevista-2-foi-identificado)|
+|RNF06 | O termo de uso especifica os riscos para o usuário| Não Implementado | [ENT20](./Técnicas/Entrevista.md/#pela-entrevista-2-foi-identificado)|
+|RNF07 | O termo de uso especifica a classificação indicativa para o usuário| Implementado | [ENT21](./Técnicas/Entrevista.md/#pela-entrevista-2-foi-identificado)|
+|RNF08 | O termo de uso especifica o acesso aos dados do aplicativo para o usuário| Implementado | [ENT22](./Técnicas/Entrevista.md/#pela-entrevista-2-foi-identificado)|
+|RF15 | As páginas do aplicativo mais usadas pelo usuário estão em destaque na tela| Não implementado | [ENT23](./Técnicas/Entrevista.md/#pela-entrevista-2-foi-identificado)|
+|RNF09 | O usuário consegue achar com facilidade o que procura no aplicativo| Implementado |[ENT24](./Técnicas/Entrevista.md/#pela-entrevista-2-foi-identificado)|
+|RF16 | O sistema fornece avisos ao usuário sobre seu limite diário de apostas| Não Implementado | [ENT25](./Técnicas/Entrevista.md/#pela-entrevista-2-foi-identificado)|
 
 
 ## Versionamento 
@@ -85,3 +96,4 @@ A legenda para cada sigla:
 | ``1.0``    | 10/10/2025 | [Heyttor Augusto](https://github.com/H3ytt0r62)   | Criação da página com os requisitos de Entrevista | [Samuel Felipe](https://github.com/TerminaKng05) |
 | ``1.1``     | 11/10/2025 | [Luan Vinícius](https://github.com/luannvi)    | Adição dos requisitos de Observação | |
 | ``1.2``     | 11/10/2025 | [Samuel Felipe]() | Adição dos requisitos de Análise de Documentos |  |
+| ``1.3``    | 11/10/2025 |  [João Pedro](https://github.com/Jadequilin) | Requisitos Entrevista 2| [Rivadalvio Joaquim](https://github.com/RivaFilho)
