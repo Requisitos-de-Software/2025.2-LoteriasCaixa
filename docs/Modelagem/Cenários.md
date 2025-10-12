@@ -1,16 +1,12 @@
 ## Introdução
 
-
-
-## Metodologia
-
+Os cenários se apresentam como descrições detalhadas, geralmente em linguagem natural, de situações ou eventos que envolvem determinados atores. São úteis para entender como os ambientes, sistemas e atores interagem entre si, além de fornecer uma visão de como o sistema deve funcionar em diversas situações, seus comportamentos e fluxo. Os cenários produzidos estão listados nas tabelas.
 
 ## Modelo usado
 
+*<p style="text-align: center;">Tabela 1: Template dos cenários.</p>*
 
-tabela 1 - modelo
-
-|item | Descrição |
+|Item | Descrição |
 |-----|----------|
 |Titulo | -  |
 |Código| -  |
@@ -23,85 +19,90 @@ tabela 1 - modelo
 |Eventos | -  |
 |Avaliações | -  |
 
-
 ## Tabela de contribuição
 
-tabela 2 - contribuição
+*<p style="text-align: center;">Tabela 2: Contribuições no documento de cenários.</p>*
 
-|Aluno | Cenarios Criados |
+
+|Contribuinte | Cenários Criados |
 |-----| -----------------|
-| Heyttor|   CN01, CN02 e CN03 |
+| Heyttor| CN01, CN02 e CN03|
 | Nayra Nery|   CN04, CN05  |
+| Luan Vinícius | CN06, CN07 |
 
+## Validação com o Usuário
 
+*<p style="text-align: center;">Tabela 3: Participantes e funções.</p>*
 
-## Cenarios
+| Participante | Função |
+| ------------ | ----- |
+| Fulano | Integrante do grupo, responsável por coordenar a validação com o usuário. |
+| Ciclano | ,responsável por validar os cenários desenvolvidos para o artefato. |
 
-
+## Cenários feitos
 ## CN01 - Opção de modo claro e escuro
 
 Autor:  [Heyttor Augusto](https://github.com/H3ytt0r62)
 
-tabela 4 - CN01
+*<p style="text-align: center;">Tabela 4: Opção de modo claro e escuro.</p>*
 
-|item | Descrição |
+|Item | Descrição |
 |-----|----------|
-|Titulo | Opção de modo claro e escuro |
-|Código| CN01 |
-|Requisito trabalhado | ENT7 - O software deve ter opções de cores escuras e claras |
-|Atores | Renato, 28 anos, é um entusiasta de apostas esportivas que utiliza o Loterias Caixa diariamente para acompanhar resultados, conferir bilhetes e analisar estatísticas de seus jogos. Costuma registrar manualmente suas apostas e comparar tendências de desempenho de times e jogadores. Tem interesse por esportes e probabilidade, e gosta de testar diferentes estratégias de apostas com base em dados passados. |
-|Ambiente(Contexto) | Renato esta em casa, ja esta bem tarde no periodo noturno, Renato quer consultar o site da loterias caixa, mas, se imcomoda com as cores claras do aplicativo e o seu brilho. |
-|Objetivos | - adaptar o aplicativo para um uso mais noturno.<br> - Diminuir o imcodo do brilho na tela para os olhos. |
-|Planejamento | Renato decide trocar o tipo de cor usado no aplicativo para um modo escuro, então ele clica no botão com um sinal de sol, para representar o modo claro, ele espera que isso troque o modo de do aplicativo  |
-|Ações | 1. Acessar a pagina inicial loterias Caixa<br> 2.Clicar no botão representado por um sol.<br> 3. o botão fica representado por uma lua e o modo do aplicativo é representado por um modo escuro  |
-|Eventos | - O sistema decteta o desejo de mudar o modo do aplicativo.<br> - os planos de fundo brancos se tornam pretos. <br> - As letras pretas se tornam brancas. <br> - O simbolo de modo claro se torna o simbolo de modo escuro |
-|Avaliações | Renato aprova essa funcionalidade, pois acha bastante util quando se usa o aplicativo durante a noite ou no escuro. |
+|**Titulo** | Opção de modo claro e escuro |
+|**Código**| CN01 |
+|**Requisito trabalhado** | ENT7 |
+|**Atores** | Renato, 28 anos, é um entusiasta de apostas esportivas que utiliza o Loterias Caixa diariamente para acompanhar resultados, conferir bilhetes e analisar estatísticas de seus jogos. Costuma registrar manualmente suas apostas e comparar tendências de desempenho de times e jogadores. Tem interesse por esportes e probabilidade, e gosta de testar diferentes estratégias de apostas com base em dados passados. |
+|**Ambiente(Contexto)** | Renato esta em casa, ja esta bem tarde no periodo noturno, Renato quer consultar o site da loterias caixa, mas, se imcomoda com as cores claras do aplicativo e o seu brilho. |
+|**Objetivos** | - adaptar o aplicativo para um uso mais noturno.<br> - Diminuir o imcodo do brilho na tela para os olhos. |
+|**Planejamento** | Renato decide trocar o tipo de cor usado no aplicativo para um modo escuro, então ele clica no botão com um sinal de sol, para representar o modo claro, ele espera que isso troque o modo de do aplicativo  |
+|**Ações** | 1. Acessar a pagina inicial loterias Caixa<br> 2.Clicar no botão representado por um sol.<br> 3. o botão fica representado por uma lua e o modo do aplicativo é representado por um modo escuro  |
+|**Eventos** | - O sistema decteta o desejo de mudar o modo do aplicativo.<br> - os planos de fundo brancos se tornam pretos. <br> - As letras pretas se tornam brancas. <br> - O simbolo de modo claro se torna o simbolo de modo escuro |
+|**Avaliações** | Renato aprova essa funcionalidade, pois acha bastante util quando se usa o aplicativo durante a noite ou no escuro. |
 
 ## CN02 - O software deve ter imagens explicativas
 
 Autor:  [Heyttor Augusto](https://github.com/H3ytt0r62)
 
-tabela 5 - CN02
+*<p style="text-align: center;">Tabela 5: O software deve ter imagens explicativas.</p>*
 
 |item | Descrição |
 |-----|----------|
-|Titulo | O software deve ter imagens explicativas  |
-|Código| CN02  |
-|Requisito trabalhado | ENT08 - O software deve ter imagens explicativas  |
-|Atores | Seu Eustácio, 65 anos, é um aposentado que sempre gostou de apostas como a Mega-Sena e a Quina. Apesar de ter pouca familiaridade com tecnologia, recentemente decidiu testar o aplicativo da Caixa para acompanhar os resultados e realizar suas apostas de forma mais prática, sem precisar sair de casa. |
-|Ambiente(Contexto) | Em sua casa, Eustácio esta no aplicativo da caixa, ainda tentando se intregar melhor ao aplicativo, por ser uma pessoa bastante visual, ele deseja que o aplicativo tenha telas explicativas com prints de telas demonstrando ações dentro do aplicativo  |
-|Objetivos | -Entender com mais clarezas as funcionalidades do aplicativo<br> -Aprender de uma maneira mais visual como o aplicativo funciona.   |
-|Planejamento | Estaucio deseja ir na aba "ajuda" do aplicativo e dentro dela encontra uma aba so com imagens e com o titulo sobre oque elas se tratam para que possa entender qual tutorial está vendo e para que ele serve.  |
-|Ações | 1- acessar o aba "ajuda" no aplicativo localizada na aba na esquerda <br> 2 -dentro dela, clicar na aba de imagens <br> 3- Acessar as imagens desejadas para enteder como fazer tal ação no aplicativo  |
-|Eventos | -O aplicativo mostra no centro da tela, prints editados com setas apontando as ações que usuario deve fazer para tal ação <br> - -Ao clicar no X no quanto superior direito a imagem sai do centro da tela voltando a tela inicial do aplicativo  |
-|Avaliações | - Eustacio gostou muito da funcionalidade pela sua praticidade |
+|**Titulo** | O software deve ter imagens explicativas  |
+|**Código**| CN02  |
+|**Requisito trabalhado** | ENT08  |
+|**Atores** | Seu Eustácio, 65 anos, é um aposentado que sempre gostou de apostas como a Mega-Sena e a Quina. Apesar de ter pouca familiaridade com tecnologia, recentemente decidiu testar o aplicativo da Caixa para acompanhar os resultados e realizar suas apostas de forma mais prática, sem precisar sair de casa. |
+|**Ambiente(Contexto)** | Em sua casa, Eustácio esta no aplicativo da caixa, ainda tentando se intregar melhor ao aplicativo, por ser uma pessoa bastante visual, ele deseja que o aplicativo tenha telas explicativas com prints de telas demonstrando ações dentro do aplicativo  |
+|**Objetivos** | - Entender com mais clarezas as funcionalidades do aplicativo<br> - Aprender de uma maneira mais visual como o aplicativo funciona.   |
+|**Planejamento** | Eustácio deseja ir na aba "ajuda" do aplicativo e dentro dela encontra uma aba so com imagens e com o titulo sobre oque elas se tratam para que possa entender qual tutorial está vendo e para que ele serve.  |
+|**Ações** | 1- acessar o aba "ajuda" no aplicativo localizada na aba na esquerda <br> 2- dentro dela, clicar na aba de imagens <br> 3- Acessar as imagens desejadas para enteder como fazer tal ação no aplicativo  |
+|**Eventos** | - O aplicativo mostra no centro da tela, prints editados com setas apontando as ações que usuario deve fazer para tal ação <br> - Ao clicar no X no quanto superior direito a imagem sai do centro da tela voltando a tela inicial do aplicativo  |
+|**Avaliações** | - Eustacio gostou muito da funcionalidade pela sua praticidade |
 
 
 ## CN03 - O usuário deve ter mais de uma opção de aposta
 
 Autor:  [Heyttor Augusto](https://github.com/H3ytt0r62)
 
-tabela 5 - CN03
+*<p style="text-align: center;">Tabela 6: O usuário deve ter mais de uma opção de aposta.</p>*
 
 |item | Descrição |
 |-----|----------|
-|Titulo | O usuário deve ter mais de uma opção de aposta |
-|Código| CN03 |
-|Requisito trabalhado | ENT03 |
-|Atores | Cristina, 46 anos, é uma apostadora entusiasmada que há anos faz jogos na Mega-Sena. Ela gosta da emoção de acompanhar os sorteios e de imaginar o que faria se ganhasse. Recentemente, Cristina tem sentido vontade de explorar outras modalidades de apostas, como a Quina, Lotofácil e apostas esportivas, buscando novas formas de diversão e oportunidades de ganho |
-|Ambiente(Contexto) | Cristina, esta no horario de almoço do seu trabalho, com o tempo que le resta ela quer diversificar suas apostas e decide fazer uma aposta esportiva de seu time de futebol favorito.  |
-|Objetivos | -Diversificar as apostas feitas<br> -Conhecer outras apostas do aplicativo  |
-|Planejamento | Cristina deseja, fazer um outro tipo de aposta para conhecer um outro modelo e testar para se divertir  |
-|Ações | 1. Na pagina inicial do aplicativo, na parte rolavel, role para direita ou esquerda para ver as apostas disponiveis.<br> 2. Escolha a aposta desejada <br> 3. informe o valor a ser apostado |
-|Eventos | -O sistema ira reconhecer a aposta e ira guardar o valor apostado |
-|Avaliações | Cristina gostou da facilidade de conseguir achar outras apostas e da diversificação do aplicativo |
+|**Titulo** | O usuário deve ter mais de uma opção de aposta |
+|**Código**| CN03 |
+|**Requisito trabalhado** | ENT03 |
+|**Atores** | Cristina, 46 anos, é uma apostadora entusiasmada que há anos faz jogos na Mega-Sena. Ela gosta da emoção de acompanhar os sorteios e de imaginar o que faria se ganhasse. Recentemente, Cristina tem sentido vontade de explorar outras modalidades de apostas, como a Quina, Lotofácil e apostas esportivas, buscando novas formas de diversão e oportunidades de ganho |
+|**Ambiente(Contexto)** | Cristina, esta no horario de almoço do seu trabalho, com o tempo que le resta ela quer diversificar suas apostas e decide fazer uma aposta esportiva de seu time de futebol favorito.  |
+|**Objetivos** | -Diversificar as apostas feitas<br> -Conhecer outras apostas do aplicativo  |
+|**Planejamento**| Cristina deseja, fazer um outro tipo de aposta para conhecer um outro modelo e testar para se divertir  |
+|**Ações** | 1. Na pagina inicial do aplicativo, na parte rolavel, role para direita ou esquerda para ver as apostas disponiveis.<br> 2. Escolha a aposta desejada <br> 3. informe o valor a ser apostado |
+|**Eventos** | -O sistema ira reconhecer a aposta e ira guardar o valor apostado |
+|**Avaliações** | Cristina gostou da facilidade de conseguir achar outras apostas e da diversificação do aplicativo |
 
-
-## CN04 – O usuário deve poder visualizar suas apostas mesmo sem conexão com a internet
+## CN04 – Visualização de Apostas em Modo Offline
 
 Autor: [Nayra Nery](https://github.com/NayraNery127)
 
-tabela 6 - CN04
+*<p style="text-align: center;">Tabela 7: Visualização de Apostas em Modo Offline.</p>*
 
 | item | Descrição |
 |------|------------|
@@ -117,11 +118,11 @@ tabela 6 - CN04
 | **Avaliações** | Marcelo aprova a funcionalidade, pois consegue visualizar suas apostas mesmo em locais sem acesso à internet. A experiência se torna mais prática, fluida e compatível com o padrão de outros aplicativos modernos que funcionam parcialmente offline. |
 
 
-## CN05 – O usuário deve poder realizar o pagamento de apostas utilizando carteiras digitais
+## CN05 – Integração com Carteiras Digitais para Pagamento
 
-utor: [Nayra Nery](https://github.com/NayraNery127)
+Autor: [Nayra Nery](https://github.com/NayraNery127)
 
-tabela 7 - CN05
+*<p style="text-align: center;">Tabela 8: Integração com Carteiras Digitais para Pagamento.</p>*
 
 | item | Descrição |
 |------|------------|
@@ -137,15 +138,48 @@ tabela 7 - CN05
 | **Avaliações** | Daniela considera a nova funcionalidade mais moderna e prática, pois elimina a necessidade de digitar os dados do cartão a cada aposta. O aplicativo se torna mais competitivo e alinhado às tendências de segurança e experiência de usuário adotadas em outros aplicativos de pagamento. |
 
 
+## CN06 - Cancelamento de apostas antes do sorteio
+
+Autor: [Luan Vinícius](https://github.com/luannvi)
+
+*<p style="text-align: center;">Tabela 9: Cancelamento de apostas antes do sorteio.</p>*
+
+| **Item**     | **Descrição**     |
+| :--------------- | :---------- |
+| **Título**  | Cancelamento de apostas antes do sorteio     |
+| **Código** | CN06  |
+| **Requisito trabalhado** | [RF16 - OBS16](../Elicitação/Técnicas/Observação.md/#requisitos-funcionais)    |
+| **Ator(es)**   | Carlos Eduardo, 29 anos, analista de dados. Aposta ocasionalmente por diversão, gosta de observar estatísticas e padrões numéricos. Costuma fazer suas apostas pelo celular durante o intervalo do trabalho.    |
+| **Ambiente (Contexto)**  | Carlos utiliza o aplicativo de loteria em seu smartphone Android. Após realizar o pagamento via PIX, o sistema registra automaticamente sua aposta. Ele está em casa revisando suas apostas antes do encerramento das apostas do dia.    |
+| **Objetivos**   | Cancelar completamente a aposta que acabou de realizar, pois decidiu não participar mais do sorteio daquela rodada. Ele acredita que o cancelamento devolveria o valor pago.    |
+| **Planejamento**    | Acessar a aba “Minhas Apostas”, selecionar a aposta recém-criada e procurar uma opção de “Cancelar”. Caso encontre dificuldades, ele pretende buscar ajuda no suporte dentro do próprio aplicativo.   |
+| **Ações**            | 1. Carlos abre o aplicativo. <br> 2. Acessa o menu lateral e entra em “Minhas Apostas”. <br> 3. Seleciona a aposta paga via PIX. <br> 4. Procura um botão ou opção de cancelamento. <br> 5. Percebe que só há a opção “Editar números”. <br> 6. Tenta entrar em contato com o suporte. |
+| **Eventos**      | O sistema não possui função de cancelamento nem de reembolso automático. O suporte informa que apenas a edição dos números é permitida antes do encerramento das apostas. Carlos se frustra por não conseguir cancelar e entende que o valor pago será mantido como aposta válida até o sorteio.    |
+| **Avaliação**      | <ul><li>Carlos se sente frustrado e inseguro em apostar novamente, temendo repetir o erro.</li><li>Percebe que uma funcionalidade simples de cancelamento traria mais confiança e praticidade ao aplicativo.</li><li>Conclui que o app carece de recursos de controle que deem ao usuário mais autonomia sobre suas ações.</li></ul>        |
 
 
+## CN07 - Ícone de menu com rótulo textual 
 
+Autor: [Luan Vinícius](https://github.com/luannvi)
 
+*<p style="text-align: center;">Tabela 10: Ícone de menu com rótulo textual.</p>*
 
+| **Item**     | **Descrição**     |
+| :--------------- | :---------- |
+| **Título**  | Acessibilidade e clareza na identificação do menu principal  |
+| **Código** | CN07 |
+| **Requisito trabalhado** | [RNF09 - OBS24](../Elicitação/Técnicas/Observação.md/#requisitos-não-funcionais)    |
+| **Ator(es)**   | Antônio Ribeiro, 58 anos, aposentado e ex-motorista de transporte escolar. Gosta de acompanhar os resultados da Mega-Sena e da Quina pelo aplicativo Loterias Caixa. Não tem muita familiaridade com aplicativos modernos e costuma se confundir com ícones pouco explicativos.   |
+| **Ambiente (Contexto)**  | Antônio instala o aplicativo Loterias Caixa em seu celular novo, com o objetivo de conferir os resultados do último sorteio e talvez realizar uma nova aposta. Ao abrir o app, percebe um ícone de três listras (☰) no canto superior esquerdo, mas não entende que aquilo é o menu principal, pois não há nenhum texto indicando isso. Ele acaba navegando confusamente por outras telas tentando encontrar as opções de aposta e resultados.  |
+| **Objetivos**   | <ul><li>Identificar de forma clara o menu principal do aplicativo.</li><li>Conseguir acessar funcionalidades básicas sem precisar explorar por tentativa e erro.</li><li>Ter uma navegação simples, autoexplicativa e acessível mesmo para usuários com menor familiaridade digital.</li></ul>  |
+| **Planejamento**    | Antônio acreditava que o aplicativo teria rótulos ou legendas nos ícones principais, como “Menu”, “Resultados” ou “Minhas Apostas”. Ele esperava que as opções estivessem organizadas de forma clara, permitindo acesso rápido e direto.   |
+| **Ações**    | <ol><li>Antônio abre o app e observa a tela inicial com o ícone de três barras no canto.</li><li>Por não haver nenhuma indicação textual, ele não reconhece que aquele ícone é o menu principal.</li><li>Tenta clicar em outras áreas da tela, como o logotipo e a parte inferior, sem sucesso.</li><li>Após vários toques aleatórios, descobre por acaso que o ícone abre o menu de opções.</li><li>Fica confuso, pois considera que o aplicativo deveria mostrar o rótulo “Menu” abaixo do ícone.</li><li>Consegue acessar os resultados, mas decide que a navegação é pouco intuitiva e desiste de apostar pelo celular.</li></ol> |
+| **Eventos**      | <ul><li>O aplicativo exibe apenas o ícone “☰”, sem rótulo textual.</li><li>Antônio tem dificuldade para entender a função do ícone.</li><li>Ao descobrir o menu, ele percebe que outras opções também não possuem rótulos descritivos.</li><li>Isso reforça a sensação de que o aplicativo não é feito para usuários menos experientes.</li></ul>   |
+| **Avaliação**      | <ul><li>Antônio avalia que o app é funcional, mas mal explicado visualmente.</li><li>Conclui que um simples rótulo “Menu” tornaria a navegação muito mais clara e intuitiva.</li><li>Reforça que ícones com texto são essenciais para inclusão de públicos mais velhos e menos acostumados com tecnologia.</li></ul>   |
 
+## Bibliografia
 
-
-
+> CENÁRIOS. [S. l.], 2023. Disponível em: <https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/cenarios/>. Acesso em: 11 out. 2025.
 
 ## Versionamento 
 
@@ -153,3 +187,4 @@ tabela 7 - CN05
 |:--------:|:------------:|:---------------------:|:----------------------------------------------:|:---------:|
 | ``1.0``    | 10/10/2025 | [Heyttor Augusto](https://github.com/H3ytt0r62)     | Cenarios iniciais | [Samuel Felipe](https://github.com/TerminaKng05) |
 | ``1.1``    | 10/10/2025 | [Nayra Nery](https://github.com/NayraNery127)     | Cenarios | [Samuel Felipe](https://github.com/TerminaKng05) |
+| ``1.2`` |  11/10/2025 | [Luan Vinícius](https://github.com/luannvi) | Adiciona cenários 6 e 7 | 

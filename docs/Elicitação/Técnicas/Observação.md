@@ -8,7 +8,7 @@ Nesse processo, o observador pode adotar uma postura **passiva** (apenas registr
 
 Para realizar essa técnica, foi convocado uma pessoa do sexo masculino que entra nas características de perfil de usuário do aplicativo. O usuário foi responsável por navegar pelo aplicativo desde a parte de cadastro/login até a parte de apostas e pagamentos. O observador ficou responsável por extrair cada um dos possíveis requisitos, sendo funcionais e/ou não funcionais, e também optou pela análise ativa, instruindo o usuário em algumas ações. O cronograma e os participantes estão descritos na *Tabela 1*.
 
-*Tabela 1: Participantes e cronograma*
+*Tabela 1: Participantes e funções*
 
 | Participantes | Função | Data | Horário | Reunião |
 | :-----------: | :----: | :--: | :-----: | :---: |
