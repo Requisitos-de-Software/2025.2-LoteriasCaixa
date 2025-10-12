@@ -33,6 +33,7 @@ A especificação foi elaborada utilizando o **modelo FURPS+** adaptado, incluin
 | [João Pedro](https://github.com/Jadequilin) | Organização especificação inicial e funcionalidade | 
 | [Luan Vinícius](https://github.com/luannvi) | Classificação dos requisitos de desempenho |
 | [Miqueias Ezequiel](https://github.com/Kael-web7) | Classificação dos requisitos de design |
+| [Samuel Felipe](https://github.com/TerminaKng05) | Classificação dos requisitos de confiabilidade |
 
 ##  Especificação de Requisitos
 
@@ -83,7 +84,7 @@ tabela 5: Restrições de design e padrões de interface
 
 ###  Confiabilidade  
 
-Autor: [Samuel Felipe]()
+Autor: [Samuel Felipe](https://github.com/TerminaKng05)
 
 Diz respeito ao quão confiável é o sistema, ou seja, qual é a frequência de falhas, possibilidade de recuperação e prevenção e tempo entre as falhas.
 
