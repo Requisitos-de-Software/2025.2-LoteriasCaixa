@@ -4,15 +4,15 @@
 
 | ID | Descrição | Cumpriu? |
 | --- | --- | --- |
-| 1 | Há identificação clara do ator principal e do objetivo principal no cenário? |  |
-| 2 | O cenário inclui os elementos essenciais: ambiente/contexto, atores, objetivos, planejamento, ações, eventos e avaliação? |  |
-| 3 | O título do cenário descreve brevemente a situação sem entrar em muitos detalhes? |  |
-| 4 | O cenário cobre também exceções ou situações raras que possam gerar problemas de uso? |  |
-| 5 | O conjunto de cenários cobre diferentes segmentos de público e experiências de usuários? |  |
-| 6 | O conjunto de cenários contempla as principais funções do produto e suas variações de uso? |  |
-| 7 | Há distinção entre cenários de uso diário (frequentes) e cenários de tarefas esporádicas (raras)? |  |
-| 8 | Foram aplicadas perguntas sistemáticas (Por quê? Como? O que é? etc.) para identificar lacunas no cenário? |  |
-| 9 | O cenário foi enriquecido com perguntas específicas relacionadas a cada elemento (objetivos, ambiente, atores, planejamento, ações, eventos, avaliação)? |  |
+| 1 | Há identificação clara do ator principal e do objetivo principal no cenário? | Sim |
+| 2 | O cenário inclui os elementos essenciais: ambiente/contexto, atores, objetivos, planejamento, ações, eventos e avaliação? |Sim  |
+| 3 | O título do cenário descreve brevemente a situação sem entrar em muitos detalhes? | Sim |
+| 4 | O cenário cobre também exceções ou situações raras que possam gerar problemas de uso? | Não |
+| 5 | O conjunto de cenários cobre diferentes segmentos de público e experiências de usuários? | Sim |
+| 6 | O conjunto de cenários contempla as principais funções do produto e suas variações de uso? |Sim  |
+| 7 | Há distinção entre cenários de uso diário (frequentes) e cenários de tarefas esporádicas (raras)? | Não  |
+| 8 | Foram aplicadas perguntas sistemáticas (Por quê? Como? O que é? etc.) para identificar lacunas no cenário? | Sim |
+| 9 | O cenário foi enriquecido com perguntas específicas relacionadas a cada elemento (objetivos, ambiente, atores, planejamento, ações, eventos, avaliação)? | Sim |
 
 *<p style="text-align: center;">Fonte: [Miquéias Ezequiel](https://github.com/Kael-web7) </p>*
 

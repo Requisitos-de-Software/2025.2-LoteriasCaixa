@@ -4,18 +4,18 @@
 
 | ID | Item de Verificação | Cumpriu? |
 |----|----------------------|----------|
-| 1  | Cada símbolo possui uma Noção definida? |  |
-| 2  | Cada símbolo possui um Impacto definido? |  |
-| 3  | Cada símbolo pertence a um e somente um tipo (VERBO, OBJETO ou ESTADO)? |  |
-| 4  | Símbolos do tipo VERBO possuem descrição de quem realiza, quando acontece e quais procedimentos envolvidos? |  |
-| 5  | Símbolos do tipo VERBO possuem descrição dos reflexos da ação no ambiente e novos estados decorrentes? |  |
-| 6  | Símbolos do tipo OBJETO possuem definição do objeto e identificação de outros objetos com os quais se relaciona? |  |
-| 7  | Símbolos do tipo OBJETO possuem descrição de ações que podem ser aplicadas ao objeto? |  |
-| 8  | Símbolos do tipo ESTADO possuem descrição do que significa e quais ações levaram a esse estado? |  |
-| 9  | Símbolos do tipo ESTADO possuem identificação de outros estados e ações que podem ocorrer a partir dele? |  |
-| 10 | Cada símbolo possui zero ou mais sinônimos identificados? |  |
-| 11 | Cada símbolo possui um ou mais hyperlinks para ocorrências na aplicação? |  |
-| 12 | Os símbolos estão interligados com os cenários por meio de hyperlinks? |  |
+| 1  | Cada símbolo possui uma Noção definida? | Sim |
+| 2  | Cada símbolo possui um Impacto definido? | Sim |
+| 3  | Cada símbolo pertence a um e somente um tipo (VERBO, OBJETO ou ESTADO)? | Sim |
+| 4  | Símbolos do tipo VERBO possuem descrição de quem realiza, quando acontece e quais procedimentos envolvidos? | Sim |
+| 5  | Símbolos do tipo VERBO possuem descrição dos reflexos da ação no ambiente e novos estados decorrentes? | Sim |
+| 6  | Símbolos do tipo OBJETO possuem definição do objeto e identificação de outros objetos com os quais se relaciona? | Sim |
+| 7  | Símbolos do tipo OBJETO possuem descrição de ações que podem ser aplicadas ao objeto? | Sim  |
+| 8  | Símbolos do tipo ESTADO possuem descrição do que significa e quais ações levaram a esse estado? | Sim |
+| 9  | Símbolos do tipo ESTADO possuem identificação de outros estados e ações que podem ocorrer a partir dele? | Sim |
+| 10 | Cada símbolo possui zero ou mais sinônimos identificados? | Sim |
+| 11 | Cada símbolo possui um ou mais hyperlinks para ocorrências na aplicação? |  não|
+| 12 | Os símbolos estão interligados com os cenários por meio de hyperlinks? | Não |
 
 *<p style="text-align: center;">Fonte: [João Pedro](https://github.com/Jadequilin) </p>*
 
