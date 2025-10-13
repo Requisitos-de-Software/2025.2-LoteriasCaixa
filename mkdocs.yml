@@ -105,8 +105,22 @@ nav:
           - Verificação/Etapa 2/Grupo 7/Inspeção/Value, Cost and Risk.md
           - Verificação/Etapa 2/Grupo 7/Inspeção/$100.md
           - Verificação/Etapa 2/Grupo 7/Inspeção/MoSCoW.md
-        
-
+    - Etapa 3:    
+      - Grupo + 1:
+        - Verificação/Etapa 3/Grupo + 1/Listas de Verificações.md
+        - Inspeção:
+          - Verificação/Etapa 3/Grupo + 1/Inspeção/Casos de Uso.md
+          - Verificação/Etapa 3/Grupo + 1/Inspeção/Cenários.md
+          - Verificação/Etapa 3/Grupo + 1/Inspeção/Especificação Suplementar.md
+          - Verificação/Etapa 3/Grupo + 1/Inspeção/Léxicos.md
+      - Grupo 7:
+        - Verificação/Etapa 3/Grupo 7/Listas de Verificações.md
+        - Inspeção:
+          - Verificação/Etapa 3/Grupo 7/Inspeção/Casos de Uso.md
+          - Verificação/Etapa 3/Grupo 7/Inspeção/Cenários.md
+          - Verificação/Etapa 3/Grupo 7/Inspeção/Especificação Suplementar.md
+          - Verificação/Etapa 3/Grupo 7/Inspeção/Léxicos.md
+  
   - Validação: Validação.md
 
   - Pós-Rastreabilidade: 
