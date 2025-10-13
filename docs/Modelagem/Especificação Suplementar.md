@@ -24,8 +24,6 @@ A especificação foi elaborada utilizando o **modelo FURPS+** adaptado, incluin
 | *Sistema de Ajuda* | Documentação online e suporte ao usuário |
 
 ## Vídeo da validação 
-Link da Gravação de Especificação Suplementar do João Pedro e Rivadalvio se encontra em:
-[Gravação Especificação Suplementar.](https://youtu.be/RBeWhwtlLVQ)
 
 Link da Gravação Especificação suplementar Nayra Nery:
 [Gravação Especificação Suplementar.](https://www.youtube.com/watch?v=G98rq24DcHw)
@@ -59,6 +57,15 @@ tabela 3: Requisitos funcionais que complementam os casos de uso principais*
 | **RF16** | O sistema fornece avisos ao usuário sobre seu limite diário de apostas | Não Implementado | **ENT25** |
 | **RF27** | O aplicativo deve permitir o cancelamento de apostas antes do sorteio | Não Implementado | **OBS16** |
 
+### Validação com o Usuário (Funcionalidade)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBeWhwtlLVQ?si=yuVlgNB7Ay2UXfx7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+| Participante | Função | Data | Horário | Local | 
+| ------------ | ----- | ----- | ------ | -------|
+| [João Pedro](https://github.com/Jadequilin) e [Rivadalvio Joaquim](https://github.com/RivaFilho) | Integrantes do grupo, responsáveis por coordenar a validação com o usuário. | 12/10/2025 | 11:20 | Presencial, residência
+| José da Silva | 59 anos, funcionário público e usuário do app Loterias Caixa, responsável por validar os cenários desenvolvidos para o artefato. | 12/10/2025 | 11:20 | Presencial, residência |
+
 ###  Implementação
 Autor: Rivadalvio Joaquim 
 tabela 4: Requisitos não funcionais relacionados a tecnologias e arquitetura*
@@ -70,6 +77,15 @@ tabela 4: Requisitos não funcionais relacionados a tecnologias e arquitetura*
 | **RF01** | O aplicativo segue a questão de disponibilidade em plataformas que os usuários tem acesso (IOS/Apple Store, Android/Play Store) | Implementado | **AD01** |
 | **RF02** | O aplicativo utiliza tanto o sistema da própria empresa para que o usuário consiga acessar os seus dados no sistema | Implementado | **AD02** |
 | **RF03** | O aplicativo entrega as facilidades para realizar as mesmas funções que o site ou ir pessoalmente a uma lotérica | Implementado | **AD03** |
+
+### Validação com o Usuário (Implementação)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBeWhwtlLVQ?si=yuVlgNB7Ay2UXfx7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+| Participante | Função | Data | Horário | Local | 
+| ------------ | ----- | ----- | ------ | -------|
+| [João Pedro](https://github.com/Jadequilin) e [Rivadalvio Joaquim](https://github.com/RivaFilho) | Integrantes do grupo, responsáveis por coordenar a validação com o usuário. | 12/10/2025 | 11:20 | Presencial, residência
+| José da Silva | 59 anos, funcionário público e usuário do app Loterias Caixa, responsável por validar os cenários desenvolvidos para o artefato. | 12/10/2025 | 11:20 | Presencial, residência |
 
 ### Design
 Autor: Miquéias Ezequiel Gonçalves Carvalho

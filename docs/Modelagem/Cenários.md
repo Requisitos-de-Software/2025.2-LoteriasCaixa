@@ -34,12 +34,8 @@ Os cenários se apresentam como descrições detalhadas, geralmente em linguagem
 | Miqueias Ezequiel | CN12 e CN13|
 
 ## Vídeo da validação 
-Link da Gravação de Cenários do João Pedro e Rivadalvio se encontra em:
-[Gravação Cenários.](https://youtu.be/RBeWhwtlLVQ)
-
 Link da Gravação de Cenários Nayra Nery em: 
 [Gravação.](https://youtu.be/4nf_8Knog60)
-
 
 ## Cenários feitos
 ## CN01 - Opção de modo claro e escuro
@@ -110,8 +106,7 @@ Autor: [Nayra Nery](https://github.com/NayraNery127)
 |------|------------|
 | **Título** | Visualização de Apostas em Modo Offline |
 | **Código** | CN04 |
-| **Requisito trabalhado** |RNF04 - OBS17|
-  O sistema deve permitir que o usuário visualize suas apostas já carregadas anteriormente mesmo sem conexão com a internet. |
+| **Requisito trabalhado** | RNF02 – O sistema deve permitir que o usuário visualize suas apostas já carregadas anteriormente mesmo sem conexão com a internet. |
 | **Atores** | Marcelo, 40 anos, é um apostador regular das Loterias Caixa. Ele costuma fazer apostas pelo aplicativo durante suas viagens a trabalho e, por isso, enfrenta situações frequentes em que fica sem sinal de internet, especialmente em rodovias ou cidades do interior. |
 | **Ambiente (Contexto)** | Marcelo está em um voo e deseja conferir as apostas realizadas na noite anterior. Ao abrir o aplicativo Loterias Caixa, percebe que não há como visualizar suas apostas sem estar conectado à internet, o que o impede de verificar seus números e resultados durante o trajeto. |
 | **Objetivos** | - Permitir que o usuário acesse suas apostas mesmo sem estar conectado à internet.<br>- Garantir maior disponibilidade do sistema e melhorar a experiência do usuário em locais com pouca conectividade.<br>- Reduzir o tempo de carregamento das apostas já visualizadas. |
@@ -131,7 +126,7 @@ Autor: [Nayra Nery](https://github.com/NayraNery127)
 |------|------------|
 | **Título** | Integração com Carteiras Digitais para Pagamento |
 | **Código** | CN05 |
-| **Requisito trabalhado** |RF23 – OBS12|O sistema deve permitir que o usuário realize o pagamento de suas apostas utilizando carteiras digitais como Google Pay, Apple Pay, Mercado Pago e similares. |
+| **Requisito trabalhado** | RF03 – O sistema deve permitir que o usuário realize o pagamento de suas apostas utilizando carteiras digitais como Google Pay, Apple Pay, Mercado Pago e similares. |
 | **Atores** | Daniela, 32 anos, utiliza o aplicativo Loterias Caixa com frequência, mas prefere usar carteiras digitais para realizar pagamentos em vez de inserir os dados do cartão manualmente. Ela valoriza a praticidade e a segurança oferecidas por esses meios modernos. |
 | **Ambiente (Contexto)** | Daniela está tentando realizar uma nova aposta pelo aplicativo Loterias Caixa, mas percebe que o sistema só aceita cartão de crédito ou débito. Como está acostumada a pagar outras compras com Google Pay, sente falta dessa opção e considera o processo atual pouco prático e desatualizado. |
 | **Objetivos** | - Permitir que o usuário efetue o pagamento de suas apostas utilizando carteiras digitais populares (Google Pay, Apple Pay, Mercado Pago etc.).<br>- Melhorar a conveniência e segurança durante o processo de pagamento.<br>- Modernizar o sistema, alinhando-o às práticas atuais de mercado em aplicativos de compra e pagamento. |
@@ -226,7 +221,17 @@ Autor: [João Pedro](https://github.com/Jadequilin)
 | **Planejamento** | Sistema aprende padrão de uso e reorganiza interface |
 | **Ações** | 1. João acessa o app durante o jogo<br>2. Sistema exibe "Apostas Esportivas" como primeiro item<br>3. Mostra resultados ao vivo destacados<br>4. Acesso rápido ao seu time favorito |
 | **Eventos** | - Interface prioriza apostas esportivas<br>- Resultados em tempo real em destaque<br>- Atalhos para esportes favoritos |
-| **Avaliações** | João acessa rapidamente as informações do jogo |
+| **Avaliações** | João acessa rapidamente as informações do jogo |git 
+
+### Validação com o Usuário (CN08 - CN09)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBeWhwtlLVQ?si=yuVlgNB7Ay2UXfx7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+| Participante | Função | Data | Horário | Local |
+| ------------ | ----- | ----- | ------ | -------|
+| [João Pedro](https://github.com/Jadequilin) e [Rivadalvio Joaquim](https://github.com/RivaFilho) | Integrantes do grupo, responsáveis por coordenar a validação com o usuário. | 12/10/2025 | 11:20 | Presencial, residência
+| José da Silva | 59 anos, funcionário público e usuário do app Loterias Caixa, responsável por validar os cenários desenvolvidos para o artefato. | 12/10/2025 | 11:20 | Presencial, residência |
+
 
 ### CN10 – Termo de Responsabilidade
 
@@ -266,6 +271,15 @@ Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 | **Eventos** | - Interface com elementos ampliados<br>- Cores de alto contraste<br>- Menus simplificados e diretos |
 | **Avaliações** | Antônio consegue usar o app sem ajuda da família |
 
+### Validação com o Usuário (CN10 - CN11)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBeWhwtlLVQ?si=yuVlgNB7Ay2UXfx7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+| Participante | Função | Data | Horário | Local |
+| ------------ | ----- | ----- | ------ | -------|
+| [João Pedro](https://github.com/Jadequilin) e [Rivadalvio Joaquim](https://github.com/RivaFilho) | Integrantes do grupo, responsáveis por coordenar a validação com o usuário. | 12/10/2025 | 11:20 | Presencial, residência
+| José da Silva | 59 anos, funcionário público e usuário do app Loterias Caixa, responsável por validar os cenários desenvolvidos para o artefato. | 12/10/2025 | 11:20 | Presencial, residência |
+
 ### CN12 – Conferência de apostas via leitura de QR Code
 
 Autor: [Miquéias Ezequiel](https://github.com/Kael-web7)
@@ -304,15 +318,6 @@ Autor: [Miquéias Ezequiel](https://github.com/Kael-web7)
 | **Eventos** | O sistema de notificações do app monitora continuamente as apostas associadas à conta da usuária. Ao detectar um prêmio, envia o alerta personalizado. Além disso, gera lembretes automáticos quando um bilhete está próximo de expirar. |
 | **Avaliação** | Patrícia considera o recurso extremamente útil. Agora ela se sente segura sabendo que não perderá prazos e será avisada sobre qualquer premiação. Avalia que as notificações automatizadas transformaram o Loterias Caixa App em uma ferramenta confiável e indispensável no seu dia a dia. |
 
-### Validação com o Usuário (CN12 - CN13)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jQh-LeSZ9Ek?si=LRgIjWkzCz23YFTG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-| Participante | Função | Data | Horário | Local |
-| ------------ | ----- | ----- | ------ | -------|
-| [Miquéias Ezequiel](https://github.com/Kael-web7) | Integrante do grupo, responsável por coordenar a validação com o usuário. | 11/10/2025 | 20:21 | Online(Discord)
-| Cléber Ribeiro | 25 anos usuário do app Loterias Caixa, responsável por validar os cenários desenvolvidos para o artefato. | 11/10/2025 | 20:21 | Online(Discord) |
-
 ## Referências Bibliográficas
 
 > SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 10. Disponível em: <https://aprender3.unb.br/pluginfile.php/3210627/mod_resource/content/1/Aula%2010.pdf>. Acesso em: 10/10/2025.
@@ -333,4 +338,3 @@ Autor: [Miquéias Ezequiel](https://github.com/Kael-web7)
 | ``1.3``    | 11/10/2025 | [João Pedro](https://github.com/Jadequilin) | Cenários 8 e 9 | [Rivadalvio Joaquim](https://github.com/RivaFilho) |
 | ``1.4``    | 11/10/2025 | [Rivadalvio Joaquim](https://github.com/RivaFilho) | Cenários 10 e 11| [João Pedro](https://github.com/Jadequilin) |
 | ``1.5``    | 12/10/2025 | [Miquéias Ezequiel](https://github.com/Kael-web7) | Cenários 12 e 13| [Luan Vinícius](https://github.com/luannvi) |
-| ``1.6`` |  12/10/2025 | [Luan Vinícius](https://github.com/luannvi) | Adiciona validação com o usuario (CN06 e CN07) |  | 

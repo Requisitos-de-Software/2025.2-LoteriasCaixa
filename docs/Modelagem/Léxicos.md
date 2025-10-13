@@ -31,9 +31,14 @@ Foi utilizada a técnica **LAL (Léxico Ampliado da Linguagem)** conforme aprese
 | [João Pedro](https://github.com/Jadequilin) | L01 (Não implementado obrigatório), L02 (Não implementado obrigatório), L05, L06, L07, L08, L09, L10, L11, L12, L13, L14, L15, L16 e L17 |
 | [Rivadalvio Joaquim](https://github.com/RivaFilho) |L03 (Não implementado obrigatório), L04 (Não implementado obrigatório),L18, L19, L20, L21, L22, L23, L24, L25, L26, L27, L28, L29 e L30 |
 
-## Vídeo da validação 
-Link da Gravação de léxicos de ambos os integrantes se encontra em:
-[Gravação Léxicos.](https://youtu.be/RBeWhwtlLVQ)
+### Validação com o Usuário (Léxicos)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBeWhwtlLVQ?si=yuVlgNB7Ay2UXfx7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+| Participante | Função | Data | Horário | Local | 
+| ------------ | ----- | ----- | ------ | -------|
+| [João Pedro](https://github.com/Jadequilin) e [Rivadalvio Joaquim](https://github.com/RivaFilho) | Integrantes do grupo, responsáveis por coordenar a validação com o usuário. | 12/10/2025 | 11:20 | Presencial, residência
+| José da Silva | 59 anos, funcionário público e usuário do app Loterias Caixa, responsável por validar os cenários desenvolvidos para o artefato. | 12/10/2025 | 11:20 | Presencial, residência |
 
 ## Léxicos
 
