@@ -462,10 +462,20 @@ Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 | **Impacto** | - Define procedimentos de resgate<br>- Garante segurança das transações<br>- Oferece múltiplos canais<br>- Cumpre regulamentações |
 | **Rastreabilidade** | RNF03, AD10 |
 
+##  Referências Bibliográficas
+
+> SERRANO, Milene; SERRANO, Maurício. **Requisitos - Aula 10**. Disponível em: <https://aprender3.unb.br/pluginfile.php/3210627/mod_resource/content/1/Aula%2010.pdf>. Acesso em: 11/10/2025.
+
+> LÉXICOS. [S. l.], 2023. Disponível em: <https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/lexicos>. Acesso em: 12 out. 2025.
+
+##  Bibliografia
+
+> SERRANO, Milene; SERRANO, Maurício. **Requisitos - Aula 10**. Disponível em: <https://aprender3.unb.br/pluginfile.php/3210627/mod_resource/content/1/Aula%2010.pdf>. Acesso em: 11/10/2025.
+
 ## Versionamento
 
 | Versão | Data | Autor | Descrição | Revisor |
 |--------|------|--------|-----------|---------|
 | ``1.0`` | 12/10/2025 |[João Pedro](https://github.com/Jadequilin) e [Rivadalvio Joaquim](https://github.com/RivaFilho) | Criação dos 4 léxicos iniciais usando LAL | [Luan Vinícius](https://github.com/luannvi)  |
 | ``1.1`` | 12/10/2025 |[João Pedro](https://github.com/Jadequilin) e [Rivadalvio Joaquim](https://github.com/RivaFilho) | Expansão para 30 léxicos cobrindo todos os requisitos principais | [Luan Vinícius](https://github.com/luannvi)  |
-| `1.2` | 12/10/2025 | [João Pedro](https://github.com/Jadequilin) | Vídeos da validação implementados | [Rivadalvio Joaquim](https://github.com/RivaFilho) |
+| `1.2` | 12/10/2025 | [João Pedro](https://github.com/Jadequilin) | Vídeos da validação implementados, adição da referência e bibliografia | [Rivadalvio Joaquim](https://github.com/RivaFilho) |

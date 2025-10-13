@@ -21,7 +21,7 @@ A especificação foi elaborada utilizando o **modelo FURPS+** adaptado, incluin
 | *Confiabilidade* | Disponibilidade, tolerância a falhas e recuperação |
 | *Desempenho* | Tempo de resposta, throughput e eficiência |
 | *Suportabilidade* | Adaptabilidade, manutenibilidade e internacionalização |
-| *Sistema de Ajuda* | Documentação online e suporte ao usuário |
+
 
 ## Vídeo da validação 
 
@@ -208,9 +208,6 @@ Diz a respeito da acessibilidade e suporte que os usuarios podem ter usando o ap
 | RFN01  | O software deve ter telas simples com poucos textos | Implementado | [ENT01](../Elicitação/Requisitos%20Elicitados.md) |
 | RF06  | O software deve ter opções de cores escuras e claras | Não implementado | [ENT07](../Elicitação/Técnicas/Entrevista.md) |
 | RFN01 | O aplicativo segue a questão de disponibilidade em plataformas que os usuários tem acesso (IOS/Apple Store, Android/Play Store) | Não implementado | [AD05](../Elicitação/Técnicas/Análise%20de%20Documentos.md) |
-
-### Sistema de ajuda 
-*A ser desenvolvido*
 
 ##  Referências Bibliográficas
 
