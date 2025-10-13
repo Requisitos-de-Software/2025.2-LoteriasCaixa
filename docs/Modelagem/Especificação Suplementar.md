@@ -72,7 +72,7 @@ tabela 4: Requisitos não funcionais relacionados a tecnologias e arquitetura*
 | **RF03** | O aplicativo entrega as facilidades para realizar as mesmas funções que o site ou ir pessoalmente a uma lotérica | Implementado | **AD03** |
 
 ### Design
-Autor: Miqéias Ezequiel Gonçalves Carvalho
+Autor: Miquéias Ezequiel Gonçalves Carvalho
 
 tabela 5: Restrições de design e padrões de interface
 
@@ -89,6 +89,14 @@ tabela 5: Restrições de design e padrões de interface
 | **RN14** | Deve reduzir para ≤ 5% os usuários que relatam dificuldade em encontrar funções como busca, pagamento e resultados.                            | **Não implementado**          |
 | **RN15** | Todos os ícones e elementos visuais devem possuir rótulos alternativos (alt text) para compatibilidade com leitores de tela.                   | **Parcialmente implementado** |
 
+### Validação com o Usuário (tabela 5)
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=ziHnWxbzCk4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+| Participante | Função | Data | Horário | Local |
+| ------------ | ----- | ----- | ------ | -------|
+| [Miquéias Ezequiel](https://github.com/Kael-web7) | Integrante do grupo, responsável por coordenar a validação com o usuário. | 11/10/2025 | 20:41 | Online(Discord)
+| Cléber Ribeiro | 25 anos usuário do app Loterias Caixa, responsável por validar a especificação suplementar desenvolvidos para o artefato. | 11/10/2025 | 20:41 | Online(Discord) |
 
 ###  Usabilidade
 

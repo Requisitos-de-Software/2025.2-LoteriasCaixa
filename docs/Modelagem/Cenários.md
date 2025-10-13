@@ -304,6 +304,15 @@ Autor: [Miquéias Ezequiel](https://github.com/Kael-web7)
 | **Eventos** | O sistema de notificações do app monitora continuamente as apostas associadas à conta da usuária. Ao detectar um prêmio, envia o alerta personalizado. Além disso, gera lembretes automáticos quando um bilhete está próximo de expirar. |
 | **Avaliação** | Patrícia considera o recurso extremamente útil. Agora ela se sente segura sabendo que não perderá prazos e será avisada sobre qualquer premiação. Avalia que as notificações automatizadas transformaram o Loterias Caixa App em uma ferramenta confiável e indispensável no seu dia a dia. |
 
+### Validação com o Usuário (CN12 - CN13)
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=jQh-LeSZ9Ek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+| Participante | Função | Data | Horário | Local |
+| ------------ | ----- | ----- | ------ | -------|
+| [Miquéias Ezequiel](https://github.com/Kael-web7) | Integrante do grupo, responsável por coordenar a validação com o usuário. | 11/10/2025 | 20:21 | Online(Discord)
+| Cléber Ribeiro | 25 anos usuário do app Loterias Caixa, responsável por validar os cenários desenvolvidos para o artefato. | 11/10/2025 | 20:21 | Online(Discord) |
+
 ## Referências Bibliográficas
 
 > SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 10. Disponível em: <https://aprender3.unb.br/pluginfile.php/3210627/mod_resource/content/1/Aula%2010.pdf>. Acesso em: 10/10/2025.
