@@ -211,13 +211,13 @@ Diz a respeito da acessibilidade e suporte que os usuarios podem ter usando o ap
 
 ##  Referências Bibliográficas
 
-> SERRANO, Milene; SERRANO, Maurício. **Requisitos - Aula 10**. Disponível em: <https://aprender3.unb.br/pluginfile.php/3210627/mod_resource/content/1/Aula%2010.pdf>. Acesso em: 11/10/2025.
+> SERRANO, Milene; SERRANO, Maurício. **Requisitos - Aula 11**. Disponível em: <https://aprender3.unb.br/pluginfile.php/3210637/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf>. Acesso em: 11/10/2025.
 
 > ESPECIFICAÇÃO SUPLEMENTAR. [S. l.], 2023. Disponível em: <https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/especificacao-suplementar/>. Acesso em: 12 out. 2025.
 
 ##  Bibliografia
 
-> SERRANO, Milene; SERRANO, Maurício. **Requisitos - Aula 10**. Disponível em: <https://aprender3.unb.br/pluginfile.php/3210627/mod_resource/content/1/Aula%2010.pdf>. Acesso em: 11/10/2025.
+> SERRANO, Milene; SERRANO, Maurício. **Requisitos - Aula 11**. Disponível em: <https://aprender3.unb.br/pluginfile.php/3210637/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf>. Acesso em: 11/10/2025.
 
 ##  Versionamento
 
