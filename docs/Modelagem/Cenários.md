@@ -306,7 +306,7 @@ Autor: [Miquéias Ezequiel](https://github.com/Kael-web7)
 
 ### Validação com o Usuário (CN12 - CN13)
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=jQh-LeSZ9Ek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/jQh-LeSZ9Ek?si=3pszumq7aOMwRzGP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 | Participante | Função | Data | Horário | Local |
 | ------------ | ----- | ----- | ------ | -------|
