@@ -32,6 +32,7 @@ Os cenários se apresentam como descrições detalhadas, geralmente em linguagem
 | João Pedro | CN08 e CN09|
 | Rivadalvio | CN10 e CN11|
 | Miqueias Ezequiel | CN12 e CN13|
+| Samuel Felipe | CN14 e CN15 |
 
 ## Vídeo da validação 
 Link da Gravação de Cenários Nayra Nery em: 
@@ -318,6 +319,44 @@ Autor: [Miquéias Ezequiel](https://github.com/Kael-web7)
 | **Eventos** | O sistema de notificações do app monitora continuamente as apostas associadas à conta da usuária. Ao detectar um prêmio, envia o alerta personalizado. Além disso, gera lembretes automáticos quando um bilhete está próximo de expirar. |
 | **Avaliação** | Patrícia considera o recurso extremamente útil. Agora ela se sente segura sabendo que não perderá prazos e será avisada sobre qualquer premiação. Avalia que as notificações automatizadas transformaram o Loterias Caixa App em uma ferramenta confiável e indispensável no seu dia a dia. |
 
+## CN14 - Acompanhamento de resultado de jogos em tempo real
+
+Autor: [Samuel Felipe](https://github.com/TerminaKng05)
+
+*<p style="text-align: center;">Tabela 17: Acompanhamento de resultado de jogos em tempo real .</p>*
+
+| Item | Descrição |
+|------|-----------|
+| **Título** | Acompanhamento de resultado de jogos em tempo real |
+| **Código** | CN14 |
+| **Requisito Trabalhado** | AD14 - RNF10 |
+| **Atores** | Anternor, 50 anos, trablha operando máquinas em fábrica. Usuário ativo do aplicativo, faz jogo recorrentes, quer ter facilidade em ver os resultados no pouco tempo de descanso. |
+| **Ambiente (Contexto)** | Moradia local, peródio da noite pós trabalho, quer conferir os resultados dos jogos que comprou e estão sendo realizados os resultados no dia.  |
+| **Objetivos** | - Acompanhar o resultado dos jogos feitos. |
+| **Planejamento** | - O usuário entra na aba de resultados de jogos;<br> - Procura o jogo por filtro de tempo (ao vivo ou anteriores) e por tipo de jogo;<br> - Confere se o código do jogo é o mesmo dele. |
+| **Ações** | - Abre o aplicativo com o cadastro prórpio;<br> - Entra na aba de resultados de jogos;<br> - Filtra para os resultados em "ao vivo";<br> - Procura o jogo requisitado pelo seu tipo e código do evento. |
+| **Eventos** | - O sistema mostra o andamento de resultado dos jogos em tempo real;<br> - Apresenta o jogo requisitado pelo apostante de acordo com os filtros selecionados;<br> - Permite o apostante vizualizar o resultado de forma completa. |
+| **Avaliações** | O Antenor fica satisfeito em ver o resultado do jogo que comprou antes, facilitando a procura do mesmo. |
+
+## CN15 - Vizualização\Download de comprovante jogos cadastrados
+
+Autor: [Samuel Felipe](https://github.com/TerminaKng05)
+
+*<p style="text-align: center;">Tabela 18: Vizualização\Download de comprovante dos jogos cadastrados.</p>*
+
+| Item | Descrição |
+|------|-----------|
+| **Título** | Vizualização\Download de comprovante dos jogos cadastrados |
+| **Código** | CN15 |
+| **Requisito Trabalhado** | AD13 - RNF09 |
+| **Atores** | Luana, 37 anos, diarista. Usuária ativa do aplicativo, ela limita a quantidade de jogos mensais, tem interesse em orgnaizar os comprovantes para verificar os gastos do mês. |
+| **Ambiente (Contexto)** | Moradia local, peródio da noite pós trabalho, quer fazer um controle de quantos jogos ele fez no mês, que baixar o comprovante para facilitar a procura dentro do celular. |
+| **Objetivos** | Ter os comprovantes salvos dentro do armazenamento do celular. |
+| **Planejamento** | - Cria uma pasta no celular para guardar os comprovantes;<br> - Ir na área de jogos realizados;<br> - Encontrar os comprovantes desejados;<br> - Baixar os comprovantes na pasta desejada; |
+| **Ações** | - Abre o aplicativo com o cadastro prórpio;<br> - Entra na aba de jogos realizados;<br> - Filtra os jogos em um período específico";<br> - Clica na opção de baixar o comprovante.<br> - Direciona o download na pasta específicada. |
+| **Eventos** | - O sistema mostra os jogos realizados e a opção de baixar os comprovantes;<br> - Direciona o usuário para a aba de "baixar";<br> - Mostra as opções de download e realiza a ação. |
+| **Avaliações** | A Luana fica satisfeita em ver que tem um controle melhor sobre os jogos realizados e, caso necessite mostrar os comprovantes, tem de forma mais acessível no celular. |
+
 ## Referências Bibliográficas
 
 > SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 10. Disponível em: <https://aprender3.unb.br/pluginfile.php/3210627/mod_resource/content/1/Aula%2010.pdf>. Acesso em: 10/10/2025.
@@ -339,3 +378,4 @@ Autor: [Miquéias Ezequiel](https://github.com/Kael-web7)
 | ``1.4``    | 11/10/2025 | [Rivadalvio Joaquim](https://github.com/RivaFilho) | Cenários 10 e 11| [João Pedro](https://github.com/Jadequilin) |
 | ``1.5``    | 12/10/2025 | [Miquéias Ezequiel](https://github.com/Kael-web7) | Cenários 12 e 13| [Luan Vinícius](https://github.com/luannvi) |
 | ``1.6``    | 12/10/2025 | [João Pedro](https://github.com/Jadequilin) | Vídeos da validação implementados | [Rivadalvio Joaquim](https://github.com/RivaFilho) |
+| ``1.7`` | 13/10/2025 | [Samuel Felipe](https://github.com/TerminaKng05) | Cenários 14 e 15 | [Heyttor Augusto](https://github.com/H3ytt0r62) |
