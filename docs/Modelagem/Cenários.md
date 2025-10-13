@@ -338,3 +338,4 @@ Autor: [Miquéias Ezequiel](https://github.com/Kael-web7)
 | ``1.3``    | 11/10/2025 | [João Pedro](https://github.com/Jadequilin) | Cenários 8 e 9 | [Rivadalvio Joaquim](https://github.com/RivaFilho) |
 | ``1.4``    | 11/10/2025 | [Rivadalvio Joaquim](https://github.com/RivaFilho) | Cenários 10 e 11| [João Pedro](https://github.com/Jadequilin) |
 | ``1.5``    | 12/10/2025 | [Miquéias Ezequiel](https://github.com/Kael-web7) | Cenários 12 e 13| [Luan Vinícius](https://github.com/luannvi) |
+| ``1.6``    | 12/10/2025 | [João Pedro](https://github.com/Jadequilin) | Vídeos da validação implementados | [Rivadalvio Joaquim](https://github.com/RivaFilho) |

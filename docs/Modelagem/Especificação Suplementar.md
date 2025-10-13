@@ -227,14 +227,14 @@ Diz a respeito da acessibilidade e suporte que os usuarios podem ter usando o ap
 | Versão | Data | Autor | Descrição | Revisor |
 |:--------:|:------------:|:---------------------:|:----------------------------------------------:|:---------:|
 | `1.0` | 11/10/2025 | [Rivadalvio Joaquim](https://github.com/RivaFilho) | Criação inicial da especificação suplementar | [João Pedro](https://github.com/Jadequilin) |
-| `1.1` | 12/10/2025 | [João Pedro](https://github.com/Jadequilin) | Adição de 2 requisitos não implementados na implementação | [Rivadalvio Joaquim](https://github.com/RivaFilho) |
-| `1.2` | 12/10/2025 | [Rivadalvio Joaquim](https://github.com/RivaFilho) | Adição de coluna de status e seleção de requisitos não implementados | [João Pedro](https://github.com/Jadequilin) |
+| `1.1` | 12/10/2025 | [João Pedro](https://github.com/Jadequilin) | Adição de 2 requisitos não implementados na funcionalidade | [Rivadalvio Joaquim](https://github.com/RivaFilho) |
+| `1.2` | 12/10/2025 | [Rivadalvio Joaquim](https://github.com/RivaFilho) | Adição de coluna de status e seleção de requisitos não implementados na implementação | [João Pedro](https://github.com/Jadequilin) |
 | `1.3` | 12/10/2025 | [Luan Vinícius](https://github.com/luannvi) | Adição da especificação de performance | [Miquéias Ezequiel](https://github.com/Kael-web7) |
 | ``1.5``    | 12/10/2025 | [Miquéias Ezequiel](https://github.com/Kael-web7) | Adição da especificação de design| [Luan Vinícius](https://github.com/luannvi) |
 | ``1.6`` | 12/10/2025 | [Samuel Felipe](https://github.com/TerminaKng05) | Adição da especificação de confiabilidade | [Heyttor Augusto](https://github.com/H3ytt0r62) |
 | ``1.7`` |  12/10/2025 | [Luan Vinícius](https://github.com/luannvi) | Adiciona validação com o usuario (desempenho) |  | 
 | ``1.8`` | 12/10/2025 | [Nayra Nery](https://github.com/NayraNery127) | Adição da usuabilidade | [Heyttor Augusto](https://github.com/H3ytt0r62) |
 | ``1.8`` | 12/10/2025 | [Heyttor Augusto](https://github.com/H3ytt0r62) | Adição da suportabilidade | [Nayra Nery](https://github.com/NayraNery127) |
-
+| `1.9` | 12/10/2025 | [João Pedro](https://github.com/Jadequilin) | Vídeos da validação implementados | [Rivadalvio Joaquim](https://github.com/RivaFilho) |
 
 

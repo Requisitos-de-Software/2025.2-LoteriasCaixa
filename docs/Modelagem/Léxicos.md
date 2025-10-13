@@ -468,3 +468,4 @@ Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 |--------|------|--------|-----------|---------|
 | ``1.0`` | 12/10/2025 |[João Pedro](https://github.com/Jadequilin) e [Rivadalvio Joaquim](https://github.com/RivaFilho) | Criação dos 4 léxicos iniciais usando LAL | [Luan Vinícius](https://github.com/luannvi)  |
 | ``1.1`` | 12/10/2025 |[João Pedro](https://github.com/Jadequilin) e [Rivadalvio Joaquim](https://github.com/RivaFilho) | Expansão para 30 léxicos cobrindo todos os requisitos principais | [Luan Vinícius](https://github.com/luannvi)  |
+| `1.2` | 12/10/2025 | [João Pedro](https://github.com/Jadequilin) | Vídeos da validação implementados | [Rivadalvio Joaquim](https://github.com/RivaFilho) |
