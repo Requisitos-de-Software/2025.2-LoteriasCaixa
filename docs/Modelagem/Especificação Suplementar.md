@@ -27,9 +27,12 @@ A especificação foi elaborada utilizando o **modelo FURPS+** adaptado, incluin
 Link da Gravação de Especificação Suplementar do João Pedro e Rivadalvio se encontra em:
 [Gravação Especificação Suplementar.](https://youtu.be/RBeWhwtlLVQ)
 
+Link da Gravação Especificação suplementar Nayra Nery:
+[Gravação Especificação Suplementar.](https://www.youtube.com/watch?v=G98rq24DcHw)
+
 ##  Tabela de Contribuição
 
-### Tabela 2 - Contribuição na Especificação Suplementar
+### Tabela 2 - Contribuição na Especificação Suplementar 
 
 | Aluno | Seções Desenvolvidas |
 |-------|---------------------|
@@ -208,7 +211,6 @@ Diz a respeito da acessibilidade e suporte que os usuarios podem ter usando o ap
 | ``1.7`` |  12/10/2025 | [Luan Vinícius](https://github.com/luannvi) | Adiciona validação com o usuario (desempenho) |  | 
 | ``1.8`` | 12/10/2025 | [Nayra Nery](https://github.com/NayraNery127) | Adição da usuabilidade | [Heyttor Augusto](https://github.com/H3ytt0r62) |
 | ``1.8`` | 12/10/2025 | [Heyttor Augusto](https://github.com/H3ytt0r62) | Adição da suportabilidade | [Nayra Nery](https://github.com/NayraNery127) |
-
 
 
 
