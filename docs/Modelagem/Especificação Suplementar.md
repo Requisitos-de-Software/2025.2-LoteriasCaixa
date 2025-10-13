@@ -91,7 +91,7 @@ tabela 5: Restrições de design e padrões de interface
 
 ### Validação com o Usuário (tabela 5)
 
-<iframe width="560" height="315" src="https://youtu.be/ziHnWxbzCk4?si=iYcHS2vqggBF0o0X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ziHnWxbzCk4?si=WeARNwYraMBp_OMv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 | Participante | Função | Data | Horário | Local |
 | ------------ | ----- | ----- | ------ | -------|
