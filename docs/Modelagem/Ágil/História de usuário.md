@@ -24,7 +24,8 @@ fonte: Repositorio Deepseek, Discipla de requisitos de software.
 | Aluno | Descrição | Links|
 |-------|-----------|------|
 | [Heyttor Augusto](https://github.com/H3ytt0r62) | Criação das historias HU1, HU2, HU3, HU4, HU5 e HU6, Criação da introdução,Validação HU01 - HU06 | [#HU01](#hu1---modo-claro-e-modo-escuro), [#HU02](#hu02---login),[#HU03](#hu03---resultado-das-apostas),[#HU04](#hu04---cadastro),[#HU05](#hu05---ultimo-resultado-de-cada-sorteio),[#HU06](#hu06---comprovamente-de-pagamento),[Validação HU01-6](#validação-hu01---hu06) |
-| [Nayra Nery](https://github.com/NayraNery127) | Criação das histórias HU13, HU14, HU15, HU16, HU17 e HU18, revisão dos critérios de aceitação e padronização MkDocs | [#HU13](#hu13---imagens-explicativas-no-aplicativo), [#HU14](#hu14---verificação-de-identidade-no-login), [#HU15](#hu15---exibir-tipos-de-loteria-disponíveis), [#HU16](#hu16---consult)
+| [Nayra Nery](https://github.com/NayraNery127) | Criação das histórias HU13, HU14, HU15, HU16, HU17 e HU18 | [#HU13](#hu13---imagens-explicativas-no-aplicativo), [#HU14](#hu14---verificação-de-identidade-no-login), [#HU15](#hu15---exibir-tipos-de-loteria-disponíveis), [#HU16](#hu16---consultar-ganhos), [#HU17](#hu17---pagamento-com-carteiras-digitais), [#HU18](#hu18---exibir-último-resultado-do-sorteio) |
+
 
 
 ## **Validação com o usuario**
