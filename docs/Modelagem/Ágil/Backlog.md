@@ -10,7 +10,9 @@ O Backlog é formado por dois tipos de elementos: épicos e temas. Enquanto as h
 
 | Aluno | Descrição | Links|
 |-------|-----------|------|
-| [Heyttor Augusto](https://github.com/H3ytt0r62) | Criação dos temas 1 e 2; crição dos epicos 1 e 2; BKL01 - 06 Criação da introdução,Validação | [#BKl01](#épico-1---interface-e-experienxia-do-usuario),[#BKl05](#épico-1---interface-e-experienxia-do-usuario),[#BKl03](#épico-1---interface-e-experienxia-do-usuario),[#BKL02](#épico-2---controle-de-dados),[#BKL04](#épico-2---controle-de-dados),[#BKL06](#épico-3---segurança) |
+| [Heyttor Augusto](https://github.com/H3ytt0r62) | Criação dos temas 1 e 2; crição dos epicos 1 e 2; BKL01 - 06 Criação da introdução,Validação | [#BKL01](#épico-1---interface-e-experienxia-do-usuario),[#BKl05](#épico-1---interface-e-experienxia-do-usuario),[#BKl03](#épico-1---interface-e-experienxia-do-usuario),[#BKL02](#épico-2---controle-de-dados),[#BKL04](#épico-2---controle-de-dados),[#BKL06](#épico-3---segurança) |
+| Autor: [João Pedro](https://github.com/Jadequilin) | Criação dos épicos 4 e 5 | [#BKL07](#épico-4---acessibilidade-e-usabilidade), [#BKL08](#épico-4---acessibilidade-e-usabilidade), [#BKL09](#épico-4---acessibilidade-e-usabilidade), [#BKL10](#épico-5---controle-e-segurança), [#BKL11](#épico-5---controle-e-segurança), [#BKL12](#épico-5---controle-e-segurança) |
+
 ## Metodologia
 
 Para a formulação do backlog, foram usados o artefato [Historias de usuario](História%20de%20usuário.md), a partir delas foram criados os temas e épicos na qual essas historias poderiam ser classificadas, assim, cada historia que representa um requisito implementado ou não pelo loterias caixa se enquadra em um dos epicos criados, para a priorização delas foi usada mesma tecnica do artefato [3 leveis de escala](../../Elicitação/Priorização/Three%20level%20scale.md)
@@ -66,6 +68,28 @@ Este épico esta relacionado a requistos que abordam a segurança do aplicativo 
 |---| ---------------------| ---------------------| ----------|
 |BKL06 |  [## HU06 - comprovamente de pagamento](../Ágil/História%20de%20usuário.md/#hu1---modo-claro-e-modo-escuro) |[#RF24](../../Elicitação/Requisitos%20Elicitados.md) | Media|
 
+## Épico 4 - Acessibilidade e Usabilidade
+Autor: [João Pedro](https://github.com/Jadequilin)
+
+Este épico aborda requisitos relacionados à acessibilidade, usabilidade e experiência do usuário para garantir que o aplicativo seja inclusivo e fácil de usar.
+
+| Id | História de Usuário | Requisito Trabalhado | Prioridade |
+|----|---------------------|---------------------|------------|
+| BKL07 | [#HU07 - Termo de Uso com Especificação de Riscos](./História%20de%20usuário.md/#hu07---termo-de-uso-com-especificação-de-riscos) | [#RNF06](../../Elicitação/Requisitos%20Elicitados.md) | Média|
+| BKL08 | [#HU08 - Funções de Acessibilidade](./História%20de%20usuário.md/#hu08---funções-de-acessibilidade) | [#RF29](../../Elicitação/Requisitos%20Elicitados.md) | Média |
+| BKL09 | [#HU09 - Páginas Frequentes em Destaque](./História%20de%20usuário.md/#hu09---páginas-frequentes-em-destaque) | [#RF32](../../Elicitação/Requisitos%20Elicitados.md) | Média |
+
+## Épico 5 - Controle e Segurança
+Autor: [João Pedro](https://github.com/Jadequilin)
+
+Este épico trata de funcionalidades de controle financeiro, segurança e gestão de apostas para garantir uma experiência segura e responsável.
+
+| Id | História de Usuário | Requisito Trabalhado | Prioridade |
+|----|---------------------|---------------------|------------|
+| BKL10 | [#HU10 - Avisos de Limite de Apostas](./História%20de%20usuário.md/#hu10---avisos-de-limite-de-apostas) | [#RF33](../../Elicitação/Requisitos%20Elicitados.md) | Alta |
+| BKL11 | [#HU11 - Filtro de Apostas Premiadas](./História%20de%20usuário.md/#hu11---filtro-de-apostas-premiadas) | [#RNF07](../../Elicitação/Requisitos%20Elicitados.md) | Média |
+| BKL12 | [#HU12 - Alertas de Apostas Premiadas](./História%20de%20usuário.md/#hu12---alertas-de-apostas-premiadas) | [#RNF08](../../Elicitação/Requisitos%20Elicitados.md) | Média |
+
 
 ## Referencias bibliograficas
 
@@ -77,3 +101,4 @@ Serrano milene, Requisitos-aula 15 , Unb, Disponivel em:[Aqui](https://aprender3
 | Versão | Data       | Autor               | Descrição                                    | Revisor |
 |:--------:|:------------:|:---------------------:|:----------------------------------------------:|:---------:|
 | ``1.0``    | 10/10/2025 | [Heyttor Augusto](https://github.com/H3ytt0r62)   | Criação da página backlog | [Samuel Felipe](https://github.com/TerminaKng05) |
+| ``1.1``    | 10/10/2025 | [João Pedro](https://github.com/Jadequilin)   | Épicos de 4 e 5 |[Rivadalvio Joaquim](https://github.com/RivaFilho)  |

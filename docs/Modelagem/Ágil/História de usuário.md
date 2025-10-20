@@ -106,6 +106,86 @@ Autor: [Heyttor Augusto](https://github.com/H3ytt0r62)
 |Rastreabilidade| [#RF24](../../Elicitação/Requisitos%20Elicitados.md) |
 |Prioridade| Alta|
 
+## HU07 - Termo de Uso com Especificação de Riscos
+Autor: [João Pedro](https://github.com/Jadequilin)
+
+| **Campo** | **Detalhamento** |
+|-----------|------------------|
+| **ID** | HU07 |
+| **Título** | Termo de Uso com Especificação de Riscos |
+| **Descrição** | Como usuário, quero que o termo de uso especifique claramente os riscos envolvidos no uso do aplicativo. |
+| **Critérios de Aceitação** | - Seção específica sobre riscos<br>- Linguagem clara e acessível<br>- Confirmação de leitura obrigatória |
+| **Rastreabilidade** | [RNF06](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Prioridade** | Média |
+| **Status** | Não Implementado |
+
+## HU08 - Funções de Acessibilidade
+Autor: [João Pedro](https://github.com/Jadequilin)
+
+| **Campo** | **Detalhamento** |
+|-----------|------------------|
+| **ID** | HU08 |
+| **Título** | Funções de Acessibilidade |
+| **Descrição** | Como usuário idoso ou com deficiência, quero usar funções de acessibilidade para navegar no aplicativo com facilidade. |
+| **Critérios de Aceitação** | - Leitor de tela compatível<br>- Navegação por voz<br>- Texto aumentável<br>- Alto contraste |
+| **Rastreabilidade** | [RF29](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Prioridade** | Média |
+| **Status** | Não Implementado |
+
+## HU09 - Páginas Frequentes em Destaque
+Autor: [João Pedro](https://github.com/Jadequilin)
+
+| **Campo** | **Detalhamento** |
+|-----------|------------------|
+| **ID** | HU09 |
+| **Título** | Páginas Frequentes em Destaque |
+| **Descrição** | Como usuário frequente, quero que as páginas mais usadas estejam em destaque na tela inicial para acesso rápido. |
+| **Critérios de Aceitação** | - Seção "Favoritos" na tela inicial<br>- Personalização de atalhos<br>- Ordenação por uso frequente |
+| **Rastreabilidade** | [RF32](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Prioridade** | Média |
+| **Status** | Não Implementado |
+
+## HU10 - Avisos de Limite de Apostas
+Autor: [João Pedro](https://github.com/Jadequilin)
+
+| **Campo** | **Detalhamento** |
+|-----------|------------------|
+| **ID** | HU10 |
+| **Título** | Avisos de Limite de Apostas |
+| **Descrição** | Como usuário, quero receber avisos quando estiver me aproximando do meu limite diário de apostas para jogar com responsabilidade. |
+| **Critérios de Aceitação** | - Alerta ao atingir 80% do limite<br>- Bloqueio ao atingir 100%<br>- Contador visível de gastos |
+| **Rastreabilidade** | [RF33](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Prioridade** | Alta |
+| **Status** | Não Implementado |
+
+## HU11 - Filtro de Apostas Premiadas
+Autor: [João Pedro](https://github.com/Jadequilin)
+
+| **Campo** | **Detalhamento** |
+|-----------|------------------|
+| **ID** | HU11 |
+| **Título** | Filtro de Apostas Premiadas |
+| **Descrição** | Como usuário, quero filtrar minhas apostas para visualizar apenas as que foram premiadas. |
+| **Critérios de Aceitação** | - Opção de filtro em "Minhas Apostas"<br>- Mostrar apenas apostas com prêmio<br>- Valor do prêmio visível |
+| **Rastreabilidade** | [RNF07](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Prioridade** | Média |
+| **Status** | Não Implementado |
+
+## HU12 - Alertas de Apostas Premiadas
+Autor: [João Pedro](https://github.com/Jadequilin)
+
+| **Campo** | **Detalhamento** |
+|-----------|------------------|
+| **ID** | HU12 |
+| **Título** | Alertas de Apostas Premiadas |
+| **Descrição** | Como usuário, quero receber um alerta quando tiver uma aposta premiada não resgatada. |
+| **Critérios de Aceitação** | - Notificação push para apostas premiadas<br>- Lista de prêmios pendentes<br>- Lembrete semanal |
+| **Rastreabilidade** | [RNF08](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Prioridade** | Média |
+| **Status** | Não Implementado |
+
+
+
 
 
 # Versionamento
@@ -113,6 +193,7 @@ Autor: [Heyttor Augusto](https://github.com/H3ytt0r62)
 | Versão | Data       | Autor               | Descrição                                    | Revisor |
 |:--------:|:------------:|:---------------------:|:----------------------------------------------:|:---------:|
 | ``1.0``    | 10/10/2025 | [Heyttor Augusto](https://github.com/H3ytt0r62)   | Criação da página historias de usuario | [Samuel Felipe](https://github.com/TerminaKng05) |
+| ``1.1``    | 10/10/2025 | [João Pedro](https://github.com/Jadequilin)   |Histórias de usuário de 7 à 12 |[Rivadalvio Joaquim](https://github.com/RivaFilho)  |
 
 ## Referencias Bibliograficas
 
