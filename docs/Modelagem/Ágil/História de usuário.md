@@ -106,6 +106,19 @@ Autor: [Heyttor Augusto](https://github.com/H3ytt0r62)
 |Rastreabilidade| [#RF24](../../Elicitação/Requisitos%20Elicitados.md) |
 |Prioridade| Alta|
 
+# HU07 - Modo Alto Contraste
+
+| **Campo**            | **Detalhamento** |
+|-----------------------|------------------|
+| **ID**               | HU07 |
+| **Título**           | Modo Alto Contraste |
+| **Descrição**        | Como usuário com baixa visão, quero ativar um modo de alto contraste para enxergar melhor os elementos da tela. |
+| **Critérios de Aceitação** | - Botão de ativação no menu configurações<br>- Contraste mínimo de 7:1<br>- Manter funcionalidade em todas as telas |
+| **Rastreabilidade**  | [RF12](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Prioridade**       | Média |
+| **Status**           | Não Implementado |
+| **Validação**        | ✅ Validado com usuários com baixa visão |
+
 # Versionamento
 
 | Versão | Data       | Autor               | Descrição                                    | Revisor |

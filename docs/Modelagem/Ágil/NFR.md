@@ -3,9 +3,10 @@
 | Aluno | Descrição | Links|
 |-------|-----------|------|
 | [Heyttor Augusto](https://github.com/H3ytt0r62) | Criação dos # CNRF01 e #CNRF02  | [# CNRF01](#cnrf01--o-software-deve-ter-telas-simples-com-poucos-textos), [# CNRF02](#cnrf02---a-transição-de-telas-durante-o-fluxo-de-aposta-deve-ser-fluida-e-sem-travamentos-perceptíveis  ) |
-
+| [João Pedro](https://github.com/Jadequilin) | Criação dos #CNRF03 e #CNRF04 | [#CNRF03](#cnfr03---acessibilidade-para-idosos-e-pcds), [#CNRF04](#cnfr04---performance-em-dispositivos-antigos ) |
 
 # CNRF01 -O software deve ter telas simples com poucos textos
+Autor:  [Heyttor Augusto](https://github.com/H3ytt0r62)
 
 | **Campo**              |**Detalhamento**                                                                 |
 |-------------------------|----------------------------------------------------------------------------------|
@@ -23,6 +24,7 @@
 
 
 # CNRF02 - 	A transição de telas durante o fluxo de aposta deve ser fluida e sem travamentos perceptíveis
+Autor:  [Heyttor Augusto](https://github.com/H3ytt0r62)
 
 | **Campo**              |**Detalhamento**                                                                 |
 |-------------------------|----------------------------------------------------------------------------------|
@@ -37,10 +39,43 @@
 | **Conflitos**           | —                                                                                |
 | **História**            | Criado em 19/10/2025                                                            |
 
+# CNFR03 - Acessibilidade para Idosos e PCDs
+Autor: [João Pedro](https://github.com/Jadequilin)
 
+## Cartão de Especificação
+
+| **Campo**              | **Detalhamento** |
+|-------------------------|------------------|
+| **Nr Requisito**        | NFR01 |
+| **Classificação**       | Usabilidade/Acessibilidade |
+| **Descrição**           | O sistema deve ser acessível para idosos e pessoas com deficiência visual, com texto aumentável, alto contraste e compatibilidade com leitores de tela. |
+| **Justificativa**       | Inclusão digital e conformidade com leis de acessibilidade; atendimento a usuários com baixa visão ou limitações motoras. |
+| **Origem**              | [RF12](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Critério de Ajuste**  | - Texto aumentável em 200%<br>- Contraste mínimo 7:1<br>- Compatível com VoiceOver/TalkBack<br>- Navegação por voz funcional |
+| **Dependências**        | [RNF11](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Prioridade**          | 6 |
+| **Conflitos**           | [RNF01](../../Elicitação/Requisitos%20Elicitados.md) - Telas simples podem limitar opções de acessibilidade |
+| **História**            | Criado em 19/10/2025 |
+
+# CNFR04 - Performance em Dispositivos Antigos
+Autor: [João Pedro](https://github.com/Jadequilin)
+
+| **Campo**              | **Detalhamento** |
+|-------------------------|------------------|
+| **Nr Requisito**        | NFR02 |
+| **Classificação**       | Desempenho |
+| **Descrição**           | O sistema deve funcionar adequadamente em dispositivos Android/iOS com mais de 3 anos, mesmo com hardware limitado e conexões instáveis. |
+| **Justificativa**       | Grande parcela de usuários possui dispositivos antigos; performance ruim leva ao abandono do aplicativo. |
+| **Origem**              | [RNF11](../../Elicitação/Requisitos%20Elicitados.md), [RNF12](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Critério de Ajuste**  | - Funcionamento em Android 8+ e iOS 12+<br>- Uso de RAM ≤150MB<br>- Carregamento ≤5s em 3G<br>- Estável com 3% de perda de pacotes |
+| **Dependências**        | [RNF04](../../Elicitação/Requisitos%20Elicitados.md), [RNF08](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Prioridade**          | 7 |
+| **Conflitos**           | [RNF06](../../Elicitação/Requisitos%20Elicitados.md) - Interface rica pode impactar performance |
+| **História**            | Criado em 19/10/2025 |
 
 
 
 | Versão | Data       | Autor               | Descrição                                    | Revisor |
 |:--------:|:------------:|:---------------------:|:----------------------------------------------:|:---------:|
-| ``1.0``    | 10/10/2025 | [Heyttor Augusto](https://github.com/H3ytt0r62)   | Criação da NFR e adição de alguns| [Samuel Felipe](https://github.com/TerminaKng05) |
+| ``1.0``    | 19/10/2025 | [Heyttor Augusto](https://github.com/H3ytt0r62)   | Criação da NFR e adição de alguns| [Samuel Felipe](https://github.com/TerminaKng05) |
+| ``1.1`` | 19/10/2025 | [João Pedro](https://github.com/Jadequilin) | Criação das CNRF's 3 e 4 | [Rivadalvio Joaquim](https://github.com/RivaFilho) |
