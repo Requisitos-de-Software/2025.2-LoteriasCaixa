@@ -4,6 +4,9 @@
 |-------|-----------|------|
 | [Heyttor Augusto](https://github.com/H3ytt0r62) | Criação dos # CNRF01 e #CNRF02  | [# CNRF01](#cnrf01--o-software-deve-ter-telas-simples-com-poucos-textos), [# CNRF02](#cnrf02---a-transição-de-telas-durante-o-fluxo-de-aposta-deve-ser-fluida-e-sem-travamentos-perceptíveis  ) |
 | [João Pedro](https://github.com/Jadequilin) | Criação dos #CNRF03 e #CNRF04 | [#CNRF03](#cnfr03---acessibilidade-para-idosos-e-pcds), [#CNRF04](#cnfr04---performance-em-dispositivos-antigos ) |
+| [Nayra Nery](https://github.com/NayraNery127) | Criação dos #CNRF05 e #CNRF06 | [#CNRF05](#cnrf05---feedback-visual-imediato-ao-adicionar-aposta), [#CNRF06](#cnrf06---expiração-automática-de-sessão-por-inatividade) |
+
+
 
 # CNRF01 -O software deve ter telas simples com poucos textos
 Autor:  [Heyttor Augusto](https://github.com/H3ytt0r62)
@@ -73,9 +76,41 @@ Autor: [João Pedro](https://github.com/Jadequilin)
 | **Conflitos**           | [RNF06](../../Elicitação/Requisitos%20Elicitados.md) - Interface rica pode impactar performance |
 | **História**            | Criado em 19/10/2025 |
 
+# CNRF05 - Feedback Visual Imediato ao Adicionar Aposta
+Autor: [Nayra Nery](https://github.com/NayraNery127)
+
+| **Campo**              | **Detalhamento** |
+|-------------------------|------------------|
+| **Nr Requisito**        | NFR05 |
+| **Classificação**       | Usabilidade |
+| **Descrição**           | O sistema deve fornecer feedback visual imediato quando o usuário adiciona uma aposta ao carrinho, por meio de uma animação, mensagem ou alteração no ícone do carrinho. |
+| **Justificativa**       | Garante que o usuário perceba claramente que sua ação foi realizada com sucesso, evitando confusão e múltiplos cliques. Melhora a experiência e a confiança na interação com o sistema. |
+| **Origem**              | [RNF09](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Critério de Ajuste**  | - Exibir confirmação visual em até 1 segundo após adicionar a aposta<br>- Feedback deve permanecer visível por pelo menos 2 segundos<br>- Mensagem ou ícone deve ser compreensível e não intrusivo |
+| **Dependências**        | [RNF03](../../Elicitação/Requisitos%20Elicitados.md), [RNF08](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Prioridade**          | 6 |
+| **Conflitos**           | [RNF06](../../Elicitação/Requisitos%20Elicitados.md) - Feedback sonoro pode ser redundante ou distrativo |
+| **História**            | Criado em 20/10/2025 |
+
+# CNRF06 - Expiração Automática de Sessão por Inatividade
+Autor: [Nayra Nery](https://github.com/NayraNery127)
+
+| **Campo**              | **Detalhamento** |
+|-------------------------|------------------|
+| **Nr Requisito**        | NFR06 |
+| **Classificação**       | Segurança |
+| **Descrição**           | A sessão do usuário deve expirar automaticamente após 15 minutos de inatividade, exigindo novo login para continuar o uso do aplicativo. |
+| **Justificativa**       | Protege informações pessoais e financeiras do usuário em caso de esquecimento do aplicativo aberto, evitando acessos indevidos. |
+| **Origem**              | [RNF10](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Critério de Ajuste**  | - Encerrar sessão após 15±1 minutos sem interação<br>- Exibir mensagem de aviso antes da expiração<br>- Redirecionar automaticamente para a tela de login |
+| **Dependências**        | [RNF05](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Prioridade**          | 8 |
+| **Conflitos**           | [RNF03](../../Elicitação/Requisitos%20Elicitados.md) - Persistência de dados temporários pode impedir o encerramento completo da sessão |
+| **História**            | Criado em 20/10/2025 |
 
 
 | Versão | Data       | Autor               | Descrição                                    | Revisor |
 |:--------:|:------------:|:---------------------:|:----------------------------------------------:|:---------:|
 | ``1.0``    | 19/10/2025 | [Heyttor Augusto](https://github.com/H3ytt0r62)   | Criação da NFR e adição de alguns| [Samuel Felipe](https://github.com/TerminaKng05) |
 | ``1.1`` | 19/10/2025 | [João Pedro](https://github.com/Jadequilin) | Criação das CNRF's 3 e 4 | [Rivadalvio Joaquim](https://github.com/RivaFilho) |
+| ``1.2`` | 19/10/2025 | [Nayra Nery](https://github.com/NayraNery127) | Criação das CNRF's 5 e 6 | [Samuel Felipe](https://github.com/TerminaKng05) |
