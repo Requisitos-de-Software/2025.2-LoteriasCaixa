@@ -76,6 +76,15 @@ Autor: [João Pedro](https://github.com/Jadequilin)
 | **Conflitos**           | [RNF06](../../Elicitação/Requisitos%20Elicitados.md) - Interface rica pode impactar performance |
 | **História**            | Criado em 19/10/2025 |
 
+### Validação com o Usuário (NRFs - CNRF03 e CNRF04)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WP7E8oXh720?si=ef1Ug30KbpipVnlK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+| Participante | Função | Data | Horário | Local | 
+| ------------ | ----- | ----- | ------ | -------|
+| [João Pedro](https://github.com/Jadequilin) | Integrante do grupo, responsável por coordenar a validação com o usuário. | 20/10/2025 | 20:20 | Presencial, residência
+| Janice José Araújo | 49 anos, funcionária pública e usuária do app Loterias Caixa, responsável por validar as NRFs desenvolvidas para o artefato. | 20/10/2025 | 20:20 | Presencial, residência |
+
 # CNRF05 - Feedback Visual Imediato ao Adicionar Aposta
 Autor: [Nayra Nery](https://github.com/NayraNery127)
 
@@ -114,3 +123,4 @@ Autor: [Nayra Nery](https://github.com/NayraNery127)
 | ``1.0``    | 19/10/2025 | [Heyttor Augusto](https://github.com/H3ytt0r62)   | Criação da NFR e adição de alguns| [Samuel Felipe](https://github.com/TerminaKng05) |
 | ``1.1`` | 19/10/2025 | [João Pedro](https://github.com/Jadequilin) | Criação das CNRF's 3 e 4 | [Rivadalvio Joaquim](https://github.com/RivaFilho) |
 | ``1.2`` | 20/10/2025 | [Nayra Nery](https://github.com/NayraNery127) | Criação das CNRF's 5 e 6 | [Samuel Felipe](https://github.com/TerminaKng05) |
+| ``1.3`` | 20/10/2025 | [João Pedro](https://github.com/Jadequilin) | Validação das CNRF's 3 e 4 | [Rivadalvio Joaquim](https://github.com/RivaFilho) |

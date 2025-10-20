@@ -33,15 +33,17 @@ Ao analizar as historias de usuario foi possivel notar os seguintes temas:
 
 Após a definição dos temas, eles são dividios em épicos, assim, o nível de abstração das atividades que vão ser realizadas diminui. Para esse documento foram criados os seguintes épicos:
 
-1. épico 1 Interface e experienxia do usuario;
-2. épico 2 Controle de dados;
-3. épico 3 Segurança;
+1. Épico 1 - Interface e experienxia do usuario;
+2. Épico 2 - Controle de dados;
+3. Épico 3 - Segurança;
+4. Épico 4 - Acessibilidade e Usabilidade
+5. Épico 5 - Controle e Segurança
 
 ## Historias de usuario 
 
 As histórias de usuário especificam ainda mais os épicos, elas apresentam descrições de uma determinada funcionalidade, geralmente seguem a forma "Eu, como __, desejo , para,". Elas estão melhor explicadas e representadas no artefato Histórias de Usuário.
 
-## Épico 1 - Interface e experienxia do usuario
+## Épico 1 - Interface e experiencia do usuario
 
 Este épico busca incluir aquelas histórias de usário que tratam de detalhar aqueles requisitos que são relacionados à interface do app e a experiência que o usuário tem ao integarir com o aplicativo. Assim, questões voltadas para a acessibilidade e legibilidade se enquadram nesse épico bem como outros histórias de usuário parecidas.
 
@@ -90,6 +92,16 @@ Este épico trata de funcionalidades de controle financeiro, segurança e gestã
 | BKL11 | [#HU11 - Filtro de Apostas Premiadas](./História%20de%20usuário.md/#hu11---filtro-de-apostas-premiadas) | [#RNF07](../../Elicitação/Requisitos%20Elicitados.md) | Média |
 | BKL12 | [#HU12 - Alertas de Apostas Premiadas](./História%20de%20usuário.md/#hu12---alertas-de-apostas-premiadas) | [#RNF08](../../Elicitação/Requisitos%20Elicitados.md) | Média |
 
+### Validação com o Usuário (Backlog - Épicos 4 e 5)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g759I0S9z4c?si=OE-WfJr6CxdzlEdw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+| Participante | Função | Data | Horário | Local | 
+| ------------ | ----- | ----- | ------ | -------|
+| [João Pedro](https://github.com/Jadequilin) | Integrante do grupo, responsável por coordenar a validação com o usuário. | 20/10/2025 | 20:20 | Presencial, residência
+| Janice José Araújo | 49 anos, funcionária pública e usuária do app Loterias Caixa, responsável por validar os backlogs desenvolvidos para o artefato. | 20/10/2025 | 20:20 | Presencial, residência |
+
+
 
 ## Referencias bibliograficas
 
@@ -101,4 +113,5 @@ Serrano milene, Requisitos-aula 15 , Unb, Disponivel em:[Aqui](https://aprender3
 | Versão | Data       | Autor               | Descrição                                    | Revisor |
 |:--------:|:------------:|:---------------------:|:----------------------------------------------:|:---------:|
 | ``1.0``    | 10/10/2025 | [Heyttor Augusto](https://github.com/H3ytt0r62)   | Criação da página backlog | [Samuel Felipe](https://github.com/TerminaKng05) |
-| ``1.1``    | 10/10/2025 | [João Pedro](https://github.com/Jadequilin)   | Épicos de 4 e 5 |[Rivadalvio Joaquim](https://github.com/RivaFilho)  |
+| ``1.1``    | 10/10/2025 | [João Pedro](https://github.com/Jadequilin)   | Épicos de 4 à 5 |[Rivadalvio Joaquim](https://github.com/RivaFilho)  |
+| ``1.2``    | 10/10/2025 | [João Pedro](https://github.com/Jadequilin)   | Validação dos Épicos de 4 à 5 |[Rivadalvio Joaquim](https://github.com/RivaFilho)  |
