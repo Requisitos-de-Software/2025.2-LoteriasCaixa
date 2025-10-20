@@ -123,7 +123,20 @@ nav:
           - Verificação/Etapa 3/Grupo 7/Inspeção/Especificação Suplementar.md
           - Verificação/Etapa 3/Grupo 7/Inspeção/Léxicos.md
           - Verificação/Etapa 3/Grupo 7/Inspeção/Geral.md
-  
+    - Etapa 4:
+      - Grupo + 1:
+        - Verificação/Etapa 4/Grupo + 1/Listas de Verificações.md
+        - Inspeção:
+          - Verificação/Etapa 4/Grupo + 1/Inspeção/NFR.md
+          - Verificação/Etapa 4/Grupo + 1/Inspeção/Histórias de Usuário.md
+          - Verificação/Etapa 4/Grupo + 1/Inspeção/Backlog.md
+      - Grupo 7:
+        - Verificação/Etapa 4/Grupo 7/Listas de Verificações.md
+        - Inspeção:
+          - Verificação/Etapa 4/Grupo 7/Inspeção/NFR.md
+          - Verificação/Etapa 4/Grupo 7/Inspeção/Histórias de Usuário.md
+          - Verificação/Etapa 4/Grupo 7/Inspeção/Backlog.md
+          
   - Validação: Validação.md
 
   - Pós-Rastreabilidade: 
