@@ -113,4 +113,4 @@ Autor: [Nayra Nery](https://github.com/NayraNery127)
 |:--------:|:------------:|:---------------------:|:----------------------------------------------:|:---------:|
 | ``1.0``    | 19/10/2025 | [Heyttor Augusto](https://github.com/H3ytt0r62)   | Criação da NFR e adição de alguns| [Samuel Felipe](https://github.com/TerminaKng05) |
 | ``1.1`` | 19/10/2025 | [João Pedro](https://github.com/Jadequilin) | Criação das CNRF's 3 e 4 | [Rivadalvio Joaquim](https://github.com/RivaFilho) |
-| ``1.2`` | 19/10/2025 | [Nayra Nery](https://github.com/NayraNery127) | Criação das CNRF's 5 e 6 | [Samuel Felipe](https://github.com/TerminaKng05) |
+| ``1.2`` | 20/10/2025 | [Nayra Nery](https://github.com/NayraNery127) | Criação das CNRF's 5 e 6 | [Samuel Felipe](https://github.com/TerminaKng05) |
