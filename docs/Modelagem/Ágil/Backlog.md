@@ -11,7 +11,7 @@ O Backlog é formado por dois tipos de elementos: épicos e temas. Enquanto as h
 | Aluno | Descrição | Links|
 |-------|-----------|------|
 | [Heyttor Augusto](https://github.com/H3ytt0r62) | Criação dos temas 1 e 2; crição dos epicos 1 e 2; BKL01 - 06 Criação da introdução,Validação | [#BKL01](#épico-1---interface-e-experienxia-do-usuario),[#BKl05](#épico-1---interface-e-experienxia-do-usuario),[#BKl03](#épico-1---interface-e-experienxia-do-usuario),[#BKL02](#épico-2---controle-de-dados),[#BKL04](#épico-2---controle-de-dados),[#BKL06](#épico-3---segurança) |
-| Autor: [João Pedro](https://github.com/Jadequilin) | Criação dos épicos 4 e 5 | [#BKL07](#épico-4---acessibilidade-e-usabilidade), [#BKL08](#épico-4---acessibilidade-e-usabilidade), [#BKL09](#épico-4---acessibilidade-e-usabilidade), [#BKL10](#épico-5---controle-e-segurança), [#BKL11](#épico-5---controle-e-segurança), [#BKL12](#épico-5---controle-e-segurança) |
+| Autor: [João Pedro](https://github.com/Jadequilin) | Criação dos épicos 3 e 4 | [#BKL07](#épico-4---acessibilidade-e-usabilidade), [#BKL08](#épico-4---acessibilidade-e-usabilidade), [#BKL09](#épico-4---acessibilidade-e-usabilidade), [#BKL10](#épico-5---controle-e-segurança), [#BKL11](#épico-5---controle-e-segurança), [#BKL12](#épico-5---controle-e-segurança) |
 | Autor: [Miqueias Ezequiel](https://github.com/Kael-web7) | Criação dos épicos 7, 8 e 9 | [#BKL16](#épico-7---Funcionalidades-de-Apostas-e-Controle-do-Usuário), [#BKL17](#épico-7---Funcionalidades-de-Apostas-e-Controle-do-Usuário), [#BKL18](#épico-8---Segurança-e-Interação-com-o-Usuário), [#BKL19](#épico-8---Segurança-e-Interação-com-o-Usuário), [#BKL20](#épico-9---Transparência-e-Responsabilidade-Social), [#BKL21](#épico-9---Transparência-e-Responsabilidade-Social) |
 | Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho) | Criação do épico 10 | [#BKL22](#épico-10---gestão-de-conta-e-personalização), [#BKL23](#épico-10---gestão-de-conta-e-personalização), [#BKL24](#épico-10---gestão-de-conta-e-personalização), [#BKL25](#épico-10---gestão-de-conta-e-personalização), [#BKL26](#épico-10---gestão-de-conta-e-personalização), [#BKL27](#épico-10---gestão-de-conta-e-personalização) |
 
@@ -30,6 +30,23 @@ Foram realizadas no dia 20/10/2025 pelo estudante heyttor augusto e o usuario Ma
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jAkOL_vkxjc?si=SZNuKUha4e54RFJo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+| Participante | Função | Data | Horário | Local | 
+| ------------ | ----- | ----- | ------ | -------|
+| [Heyttor](https://github.com/H3ytt0r62) | Integrante do grupo, responsável por coordenar a validação com o usuário. | 20/10/2025 | 20:20 | Presencial, residência
+| Marcio junio | 45 anos, corretor de imoveis e usuário do app Loterias Caixa, responsável por validar os backlogs desenvolvidos para o artefato. | 20/10/2025 | 20:20 | Presencial, residência |
+
+
+
+### Validação com o Usuário (Backlog - Épicos bkl07 a blk12)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g759I0S9z4c?si=OE-WfJr6CxdzlEdw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+| Participante | Função | Data | Horário | Local | 
+| ------------ | ----- | ----- | ------ | -------|
+| [João Pedro](https://github.com/Jadequilin) | Integrante do grupo, responsável por coordenar a validação com o usuário. | 20/10/2025 | 20:20 | Presencial, residência
+| Janice José Araújo | 49 anos, funcionária pública e usuária do app Loterias Caixa, responsável por validar os backlogs desenvolvidos para o artefato. | 20/10/2025 | 20:20 | Presencial, residência |
+
+
 
 
 ## **Temas**
@@ -45,15 +62,21 @@ Após a definição dos temas, eles são dividios em épicos, assim, o nível de
 
 1. Épico 1 - Interface e experienxia do usuario;
 2. Épico 2 - Controle de dados;
-3. Épico 3 - Segurança;
-4. Épico 4 - Acessibilidade e Usabilidade
-5. Épico 5 - Controle e Segurança
+3. Épico 3 - Acessibilidade e Usabilidade
+4. Épico 4 - Controle de informações;
+5. Épico 5 - Desempenho e Estabilidade
+6. Épico 6 - Funcionalidades de Apostas e Controle do Usuário
+7. Épico 7 - Funcionalidades de Apostas e Controle do Usuário
+8. Épico 8 -Funcionalidades de Apostas e Controle do Usuário
+9. Épico 9 - Gestão de Conta e Personalização
 
 ## Historias de usuario 
 
 As histórias de usuário especificam ainda mais os épicos, elas apresentam descrições de uma determinada funcionalidade, geralmente seguem a forma "Eu, como __, desejo , para,". Elas estão melhor explicadas e representadas no artefato Histórias de Usuário.
 
 ## Épico 1 - Interface e experiencia do usuario
+
+autor:[heyttor augusto ](https://github.com/H3ytt0r62)
 
 Este épico busca incluir aquelas histórias de usário que tratam de detalhar aqueles requisitos que são relacionados à interface do app e a experiência que o usuário tem ao integarir com o aplicativo. Assim, questões voltadas para a acessibilidade e legibilidade se enquadram nesse épico bem como outros histórias de usuário parecidas.
 
@@ -62,8 +85,10 @@ Este épico busca incluir aquelas histórias de usário que tratam de detalhar a
 |BKL01 |  [#HU01 - Modo Claro e modo Escuro](../Ágil/História%20de%20usuário.md/#hu1---modo-claro-e-modo-escuro) |[#RF06](../../Elicitação/Requisitos%20Elicitados.md) | Baixa|
 |BKL02 |  [## HU03 - Resultado das apostas](../Ágil/História%20de%20usuário.md/#hu1---modo-claro-e-modo-escuro) |[#RF07](../../Elicitação/Requisitos%20Elicitados.md) | Media|
 |BKL03 |  [## HU05 Ultimo Resultado de cada sorteio](../Ágil/História%20de%20usuário.md/#hu1---modo-claro-e-modo-escuro) | [#RF16](../../Elicitação/Requisitos%20Elicitados.md) | Media|
+| **BKL20** | **HU23 - Acesso ao Perfil do Usuário** | **RF10** | Média |s
 
 ## Épico 2 - Controle de dados
+autor:[heyttor augusto ](https://github.com/H3ytt0r62)
 
 Este épico esta relacionado ao gerenciamento dos dados inseridos no aplicativo, logo ele trata dos requisitos que estejam relacionado a manipulação de dados
 
@@ -71,16 +96,11 @@ Este épico esta relacionado ao gerenciamento dos dados inseridos no aplicativo,
 |---| ---------------------| ---------------------| ----------|
 |BKL04 |  [## HU02 - Login](../Ágil/História%20de%20usuário.md/#hu1---modo-claro-e-modo-escuro) |[#RF08](../../Elicitação/Requisitos%20Elicitados.md)| Alta|
 |BKL05 |  [## HU04 - Cadastro](../Ágil/História%20de%20usuário.md/#hu1---modo-claro-e-modo-escuro) |[#RF12](../../Elicitação/Requisitos%20Elicitados.md)| Alta|
+| BKL23 | [#HU26 - Recuperação de Senha](../../Ágil/Histórias%20de%20usuário.md#hu26---recuperação-de-senha)   | [#RF35](../../Elicitação/Requisitos%20Elicitados.md#rf35)   | Alta       |
 
-## Épico 3 - Segurança
 
-Este épico esta relacionado a requistos que abordam a segurança do aplicativo e dos dados de seus usuarios.
 
-|Id |  Historia de usuario | Requisito trabalhado | Prioridade|
-|---| ---------------------| ---------------------| ----------|
-|BKL06 |  [## HU06 - comprovamente de pagamento](../Ágil/História%20de%20usuário.md/#hu1---modo-claro-e-modo-escuro) |[#RF24](../../Elicitação/Requisitos%20Elicitados.md) | Media|
-
-## Épico 4 - Acessibilidade e Usabilidade
+## Épico 3 - Acessibilidade e Usabilidade
 Autor: [João Pedro](https://github.com/Jadequilin)
 
 Este épico aborda requisitos relacionados à acessibilidade, usabilidade e experiência do usuário para garantir que o aplicativo seja inclusivo e fácil de usar.
@@ -90,8 +110,10 @@ Este épico aborda requisitos relacionados à acessibilidade, usabilidade e expe
 | BKL07 | [#HU07 - Termo de Uso com Especificação de Riscos](./História%20de%20usuário.md/#hu07---termo-de-uso-com-especificação-de-riscos) | [#RNF06](../../Elicitação/Requisitos%20Elicitados.md) | Média|
 | BKL08 | [#HU08 - Funções de Acessibilidade](./História%20de%20usuário.md/#hu08---funções-de-acessibilidade) | [#RF29](../../Elicitação/Requisitos%20Elicitados.md) | Média |
 | BKL09 | [#HU09 - Páginas Frequentes em Destaque](./História%20de%20usuário.md/#hu09---páginas-frequentes-em-destaque) | [#RF32](../../Elicitação/Requisitos%20Elicitados.md) | Média |
+| **BKL19** | **HU22 - Feedback Visual ao Adicionar Aposta ao Carrinho** | **RNF09** | Média |
+| BKL26 | [#HU29 - Tutorial Interativo](../../Ágil/Histórias%20de%20usuário.md#hu29---tutorial-interativo)     | [#RNF14](../../Elicitação/Requisitos%20Elicitados.md#rnf14) | Baixa      |
 
-## Épico 5 - Controle e Segurança
+## Épico 4 - Controle de informações
 Autor: [João Pedro](https://github.com/Jadequilin)
 
 Este épico trata de funcionalidades de controle financeiro, segurança e gestão de apostas para garantir uma experiência segura e responsável.
@@ -101,8 +123,9 @@ Este épico trata de funcionalidades de controle financeiro, segurança e gestã
 | BKL10 | [#HU10 - Avisos de Limite de Apostas](./História%20de%20usuário.md/#hu10---avisos-de-limite-de-apostas) | [#RF33](../../Elicitação/Requisitos%20Elicitados.md) | Alta |
 | BKL11 | [#HU11 - Filtro de Apostas Premiadas](./História%20de%20usuário.md/#hu11---filtro-de-apostas-premiadas) | [#RNF07](../../Elicitação/Requisitos%20Elicitados.md) | Média |
 | BKL12 | [#HU12 - Alertas de Apostas Premiadas](./História%20de%20usuário.md/#hu12---alertas-de-apostas-premiadas) | [#RNF08](../../Elicitação/Requisitos%20Elicitados.md) | Média |
+|BKL06 |  [## HU06 - comprovamente de pagamento](../Ágil/História%20de%20usuário.md/#hu1---modo-claro-e-modo-escuro) |[#RF24](../../Elicitação/Requisitos%20Elicitados.md) | Media|
 
-## Épico 6 - Desempenho e Estabilidade
+## Épico 5 - Desempenho e Estabilidade
 **Autora:** [Nayra Nery](https://github.com/NayraNery127)
 
 Este épico aborda histórias relacionadas ao desempenho do aplicativo e à estabilidade de suas funcionalidades, garantindo fluidez, compatibilidade e eficiência durante o uso.
@@ -113,7 +136,7 @@ Este épico aborda histórias relacionadas ao desempenho do aplicativo e à esta
 | BKL14 | [#HU14 - Conexão Estável com Internet Móvel](../../Ágil/Histórias%20de%20usuário.md#hu14---conexão-estável-com-internet-móvel) | [#RNF12](../../Elicitação/Requisitos%20Elicitados.md) | Média |
 | BKL15 | [#HU15 - Transição de Telas Fluida](../../Ágil/Histórias%20de%20usuário.md#hu15---transição-de-telas-fluida) | [#RNF08](../../Elicitação/Requisitos%20Elicitados.md) | Alta |
 
-## **Épico 7 -Funcionalidades de Apostas e Controle do Usuário**
+## **Épico 6 -Controle do Usuário**
 Autor: [Miqueias Ezequiel](https://github.com/Kael-web7)
 
 Este épico abrange histórias relacionadas às ações que o usuário pode realizar dentro do aplicativo, como acompanhar os jogos em andamento e gerenciar suas apostas. O foco é garantir autonomia e praticidade no controle das apostas e resultados.
@@ -123,7 +146,7 @@ Este épico abrange histórias relacionadas às ações que o usuário pode real
 | **BKL16** | **HU19 - Acompanhar Jogos pelo Aplicativo** | **RF03** | Média |
 | **BKL17** | **HU20 - Cancelar Apostas Antes do Sorteio** | **RF28** | Alta |
 
-## **Épico 8 -Funcionalidades de Apostas e Controle do Usuário**
+## **Épico 7 -Interação com o usuário**
 Autor: [Miqueias Ezequiel](https://github.com/Kael-web7)
 
 Este épico reúne histórias que tratam da proteção da sessão do usuário e da comunicação visual durante o uso do aplicativo. Visa garantir segurança no acesso, bem como oferecer respostas visuais claras às ações realizadas.
@@ -131,19 +154,18 @@ Este épico reúne histórias que tratam da proteção da sessão do usuário e 
 | Id | História de Usuário | Requisito Trabalhado | Prioridade |
 | --- | --- | --- | --- |
 | **BKL18** | **HU21 - Expiração Automática da Sessão** | **RNF10** | Alta |
-| **BKL19** | **HU22 - Feedback Visual ao Adicionar Aposta ao Carrinho** | **RNF09** | Média |
 
-## **Épico 9 -Funcionalidades de Apostas e Controle do Usuário**
+
+## **Épico 8 -Responsabilidade social**
 Autor: [Miqueias Ezequiel](https://github.com/Kael-web7)
 
 Este épico contempla funcionalidades que reforçam a credibilidade e o papel social das Loterias Caixa. Busca oferecer ao usuário acesso a informações oficiais sobre repasses sociais e transparência institucional, fortalecendo a confiança na plataforma.
 
 | Id | História de Usuário | Requisito Trabalhado | Prioridade |
 | --- | --- | --- | --- |
-| **BKL20** | **HU23 - Acesso ao Perfil do Usuário** | **RF10** | Média |
 | **BKL21** | **HU24 - Exibir Repasses Sociais das Loterias** | **RF04** | Média |
 
-## **Épico 10 - Gestão de Conta e Personalização**
+## **Épico 9 - Gestão de Conta e Personalização**
 
 Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho) 
 
@@ -152,22 +174,11 @@ Este épico abrange funcionalidades voltadas à gestão da conta do usuário e �
 | Id    | História de Usuário                                                                                  | Requisito Trabalhado                                        | Prioridade |
 | ----- | ---------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- | ---------- |
 | BKL22 | [#HU25 - Histórico de Apostas](../../Ágil/Histórias%20de%20usuário.md#hu25---histórico-de-apostas)   | [#RF34](../../Elicitação/Requisitos%20Elicitados.md#rf34)   | Alta       |
-| BKL23 | [#HU26 - Recuperação de Senha](../../Ágil/Histórias%20de%20usuário.md#hu26---recuperação-de-senha)   | [#RF35](../../Elicitação/Requisitos%20Elicitados.md#rf35)   | Alta       |
 | BKL24 | [#HU27 - Compatibilidade de SO](../../Ágil/Histórias%20de%20usuário.md#hu27---compatibilidade-de-so) | [#RNF13](../../Elicitação/Requisitos%20Elicitados.md#rnf13) | Média      |
 | BKL25 | [#HU28 - Apostas Favoritas](../../Ágil/Histórias%20de%20usuário.md#hu28---apostas-favoritas)         | [#RF36](../../Elicitação/Requisitos%20Elicitados.md#rf36)   | Média      |
-| BKL26 | [#HU29 - Tutorial Interativo](../../Ágil/Histórias%20de%20usuário.md#hu29---tutorial-interativo)     | [#RNF14](../../Elicitação/Requisitos%20Elicitados.md#rnf14) | Baixa      |
 | BKL27 | [#HU30 - Notificações Push](../../Ágil/Histórias%20de%20usuário.md#hu30---notificações-push)         | [#RF37](../../Elicitação/Requisitos%20Elicitados.md#rf37)   | Média      |
 
 
-
-### Validação com o Usuário (Backlog - Épicos 4 e 5)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g759I0S9z4c?si=OE-WfJr6CxdzlEdw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-| Participante | Função | Data | Horário | Local | 
-| ------------ | ----- | ----- | ------ | -------|
-| [João Pedro](https://github.com/Jadequilin) | Integrante do grupo, responsável por coordenar a validação com o usuário. | 20/10/2025 | 20:20 | Presencial, residência
-| Janice José Araújo | 49 anos, funcionária pública e usuária do app Loterias Caixa, responsável por validar os backlogs desenvolvidos para o artefato. | 20/10/2025 | 20:20 | Presencial, residência |
 
 
 
