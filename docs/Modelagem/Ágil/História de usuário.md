@@ -28,6 +28,7 @@ Fonte: Repositório Bilheteria Digital, disciplina de requisitos de software <a 
 | [Miqueias Ezequiel](https://github.com/Kael-web7) | Criação das histórias de usuário HU19, HU20, HU21, HU22, HU23 e HU24 | [HU19](#HU19), [HU20](#HU20), [HU21](#HU21), [HU22](#HU22), [HU23](#HU23), [HU24](#HU24) |
 | [Rivadalvio Joaquim](https://github.com/RivaFilho) | Criação das histórias de usuário HU25,  HU26, HU27, HU28, HU29 e HU30 | [HU25](#HU25), [HU26](#HU26), [HU27](#HU27), [HU28](#HU28), [HU29](#HU29), [HU30](#HU30) |
 | [Luan Vinícius](https://github.com/luannvi) | Criação das histórias de usuário HU31, HU32, HU33, HU34, HU35, HU36 | [HU31](#HU31), [HU32](#HU32), [HU33](#HU33), [HU34](#HU34), [HU35](#HU35), [HU36](#HU36) |
+| [Samuel Felipe](https://github.com/TerminaKng05) | Criação das histórias de usuário HU37, HU38, HU39, HU40, HU41 e HU42 | [HU37](#HU37), [HU38](#HU38), [HU39](#HU39), [HU40](#HU40), [HU41](#HU41) e [HU42](#HU42) |
 
 ## Validação com o usuário
 
@@ -549,6 +550,90 @@ Autor: [Luan Vinícius](https://github.com/luannvi)
 | **Prioridade** | Média |
 | **Status** | Implementado |
 
+<a id="HU37"></a>
+### HU37 - Função "Rapidão"
+Autor: [Samuel Felipe](https://github.com/TerminaKng05)
+
+| Campo | Detalhamento |
+| :--- | :--- |
+| **ID** | HU37 |
+| **Título** | Função "Rapidão" |
+| **Descrição** | Como usuário, quero utilizar a função "rapidão para montar um jogo de forma aleatória. |
+| **Critérios de Aceitação** | Na tela "rapidão", ao selecionar um jogo, o sistema realizará a seleção automátca dos números; |
+| **Rastreabilidade** | [RNF16](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Prioridade** | Média |
+| **Status** | Implementado |
+
+<a id="HU38"></a>
+### HU38 - Logout do Sistema
+Autor: [Samuel Felipe](https://github.com/TerminaKng05)
+
+| Campo | Detalhamento |
+| :--- | :--- |
+| **ID** | HU38 |
+| **Título** | Logout do sistema |
+| **Descrição** | Como usuário, quero conseguir sair do sistema na hora que quiser. |
+| **Critérios de Aceitação** | a tela de seleções de seção, há a opção de sair do sistema na parte inferior da tela; |
+| **Rastreabilidade** | [RF27](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Prioridade** | Média |
+| **Status** | Implementado |
+
+<a id="HU39"></a>
+### HU39 - Resultados em tempo real
+Autor: [Samuel Felipe](https://github.com/TerminaKng05)
+
+| Campo | Detalhamento |
+| :--- | :--- |
+| **ID** | HU39 |
+| **Título** | Resultado em tempo real |
+| **Descrição** | Como usuário, quero conseguir acompanhar os resultados dos jogos em tempo real, com um atraso máximo de meio (1/2) segundo. |
+| **Critérios de Aceitação** | - A tela de resultados deve apresentar a opção e ver os resultados ao vivo dos jogos;<br> - O atraso para apresentar os resultados deve ser no máximo meio (1/2) segundo; |
+| **Rastreabilidade** | [RNF21](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Prioridade** | Média |
+| **Status** | Não Implementado |
+
+<a id="HU40"></a>
+### HU40 - Receber comprovante de apostas e jogos ganhos
+Autor: [Samuel Felipe](https://github.com/TerminaKng05)
+
+| Campo | Detalhamento |
+| :--- | :--- |
+| **ID** | HU40 |
+| **Título** | Receber comprovante de apostas e jogos ganhos |
+| **Descrição** | Como usuário, quero obter os comprovantes das apostas que realizeis e dos jogos que ganhei. |
+| **Critérios de Aceitação** | Na tela de bolões, é apresentado a opção de visualizar os comprovantes das apostas; |
+| **Rastreabilidade** | [RF01](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Prioridade** | |Alta |
+| **Status** | Implementado |
+
+<a id="HU41"></a>
+### HU41 - Interação com o menu de loterias ao clicar em "experimentar"
+Autor: [Samuel Felipe](https://github.com/TerminaKng05)
+
+| Campo | Detalhamento |
+| :--- | :--- |
+| **ID** | HU41 |
+| **Título** | Interação com o menu de loterias ao clicar em "experimentar" |
+| **Descrição** | Como usuário, quero conseguir interagir com as loterias possíveis ao clicar no botão "experimentar". |
+| **Critérios de Aceitação** | Após clicar a opção de "experimentar", deve aparecer um menu com todas as loterias disponíveis para interação; |
+| **Rastreabilidade** | [RF13](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Prioridade** | Média |
+| **Status** | Implementado |
+
+<a id="HU42"></a>
+### HU42 - Desconexão via 4G/5G
+Autor: [Samuel Felipe](https://github.com/TerminaKng05)
+
+| Campo | Detalhamento |
+| :--- | :--- |
+| **ID** | HU42 |
+| **Título** | Desconexão via 4G/5G |
+| **Descrição** | Como usuário, quero não enfrentar problemas de desconexão quando utilizar os dados móveis, sendo 4G ou 5G. |
+| **Critérios de Aceitação** | Quando o sistema entrar em conexão via dados móveis, não irá ocorrer de o sistema desconectar da tela de onde estava, levando, no máximo, 5 segundos para o sistema processar a mudança de conexão; |
+| **Rastreabilidade** | [RNF23](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Prioridade** | Média |
+| **Status** | Não Implementado |
+
 ## Referências Bibliográficas   
 
 > <a id="REF1" href="#anchor_1">1.</a> Serrano milene, Requisitos-aula 15, UnB, Disponível em: <https://aprender3.unb.br/pluginfile.php/3210661/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf>. Acesso em: 19/10/2025.
@@ -567,4 +652,5 @@ Autor: [Luan Vinícius](https://github.com/luannvi)
 | ``1.5`` | 20/10/2025 | [Rivadalvio Joaquim](https://github.com/RivaFilho) | Criação das Histórias de usuário de 25-30 | [João Pedro](https://github.com/Jadequilin) |
 | ``1.6`` | 20/10/2025 | [Luan Vinícius](https://github.com/luannvi) | Criação das Histórias de usuário de 31-36 | [Miqueias Ezequiel](https://github.com/Kael-web7) |
 | ``1.7``    | 21/10/2025 | [Nayra Nery](https://github.com/NayraNery127)   |Correção das Histórias de usuário de 12 à 18 | [Samuel Felipe](https://github.com/TerminaKng05) |
+|``1.8``| 21/10/2025| [Samuel Felipe](https://github.com/TerminaKng05) | Criação das Histórias de usuário de 37-42 | [Heyttor Augusto](https://github.com/H3ytt0r62) |
 

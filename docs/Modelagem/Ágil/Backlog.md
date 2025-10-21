@@ -14,6 +14,7 @@ O Backlog é formado por dois tipos de elementos: épicos e temas. Enquanto as h
 | [Miqueias Ezequiel](https://github.com/Kael-web7) | Criação dos épicos 7, 8 e 9 | [#BKL16](#épico-7---Funcionalidades-de-Apostas-e-Controle-do-Usuário), [#BKL17](#épico-7---Funcionalidades-de-Apostas-e-Controle-do-Usuário), [#BKL18](#épico-8---Segurança-e-Interação-com-o-Usuário), [#BKL19](#épico-8---Segurança-e-Interação-com-o-Usuário), [#BKL20](#épico-9---Transparência-e-Responsabilidade-Social), [#BKL21](#épico-9---Transparência-e-Responsabilidade-Social) |
 | [Rivadalvio Joaquim](https://github.com/RivaFilho) | Criação do épico 10 | [#BKL22](#épico-10---gestão-de-conta-e-personalização), [#BKL23](#épico-10---gestão-de-conta-e-personalização), [#BKL24](#épico-10---gestão-de-conta-e-personalização), [#BKL25](#épico-10---gestão-de-conta-e-personalização), [#BKL26](#épico-10---gestão-de-conta-e-personalização), [#BKL27](#épico-10---gestão-de-conta-e-personalização) |
 | [Luan Vinícius](https://github.com/luannvi) | Adiciona as histórias de usuário (do 31 a 36) às backlogs correspondentes (3, 5, 6 e 7) | [BKL13](#BKL13), [BKL21](#BKL21), [BKL24](#BKL24), [BKL26](#BKL26), [BKL27](#BKL27), [BKL28](#BKL28) |
+| [Samuel Felipe]() | Adiciona as histórias de usuário (do 37 a 42) às backlogs correspondentes (1, 2, 3, 5 e 6) | [BKL34](#BKL34), [BKL35](#BKL35), [BKL36](#BKL36), [BKL37](#BKL37), [BKL38](#BKL38), [BKL39](#BKL39) |
 
 ## Metodologia
 
@@ -85,6 +86,7 @@ Este épico busca incluir aquelas histórias de usário que tratam de detalhar a
 |BKL02 |  [## HU03 - Resultado das apostas](../Ágil/História%20de%20usuário.md/#hu1---modo-claro-e-modo-escuro) |[#RF07](../../Elicitação/Requisitos%20Elicitados.md) | Media|
 |BKL03 |  [## HU05 Ultimo Resultado de cada sorteio](../Ágil/História%20de%20usuário.md/#hu1---modo-claro-e-modo-escuro) | [#RF16](../../Elicitação/Requisitos%20Elicitados.md) | Media|
 | BKL04 | [HU23 - Acesso ao Perfil do Usuário]() | [RF10](../../Elicitação/Requisitos%20Elicitados.md) | Média |
+| <a id="BKL34"></a> BKL34 | [#HU37 - Função "Rapidão"](História%20de%20usuário.md#HU37) | [RNF16](../../Elicitação/Requisitos%20Elicitados.md) | Média |
 
 ## Épico 2 - Controle de dados
 autor:[heyttor augusto ](https://github.com/H3ytt0r62)
@@ -96,6 +98,7 @@ Este épico esta relacionado ao gerenciamento dos dados inseridos no aplicativo,
 |BKL05 |  [## HU02 - Login](../Ágil/História%20de%20usuário.md/#hu1---modo-claro-e-modo-escuro) |[#RF08](../../Elicitação/Requisitos%20Elicitados.md)| Alta|
 |BKL06 |  [## HU04 - Cadastro](../Ágil/História%20de%20usuário.md/#hu1---modo-claro-e-modo-escuro) |[#RF12](../../Elicitação/Requisitos%20Elicitados.md)| Alta|
 | BKL07 | [#HU26 - Recuperação de Senha](../../Ágil/Histórias%20de%20usuário.md#hu26---recuperação-de-senha)   | [#RF35](../../Elicitação/Requisitos%20Elicitados.md#rf35)   | Alta       |
+| <a id="BKL35"></a> BKL35 | [#HU38 - Logout do Sistema](História%20de%20usuário.md#HU38) | [RF27](../../Elicitação/Requisitos%20Elicitados.md) | Média |
 
 
 
@@ -112,6 +115,7 @@ Este épico aborda requisitos relacionados à acessibilidade, usabilidade e expe
 | BKL11 | [HU22 - Feedback Visual ao Adicionar Aposta ao Carrinho]() | [RNF09](../../Elicitação/Requisitos%20Elicitados.md) | Média |
 | BKL12 | [#HU29 - Tutorial Interativo](../../Ágil/Histórias%20de%20usuário.md#hu29---tutorial-interativo)     | [#RNF14](../../Elicitação/Requisitos%20Elicitados.md#rnf14) | Baixa      |
 | <a id="BKL13"></a> BKL13 | [HU32 - Navegação com Rótulos nos Ícones](História%20de%20usuário.md#HU32) | [RNF11](../../Elicitação/Requisitos%20Elicitados.md) | Média |   
+| <a id="BKL38"></a> BKL38 | [#HU41 - Interação com o menu de loterias ao clicar em "experimentar"](História%20de%20usuário.md#HU41) | [RF13](../../Elicitação/Requisitos%20Elicitados.md) | Média |
 
 ## Épico 4 - Controle de informações
 Autor: [João Pedro](https://github.com/Jadequilin)
@@ -136,6 +140,7 @@ Este épico aborda histórias relacionadas ao desempenho do aplicativo e à esta
 | BKL19 | [#HU14 - Conexão Estável com Internet Móvel](../../Ágil/Histórias%20de%20usuário.md#hu14---conexão-estável-com-internet-móvel) | [#RNF23](../../Elicitação/Requisitos%20Elicitados.md) | Média |
 | BKL20 | [#HU15 - Transição de Telas Fluida](../../Ágil/Histórias%20de%20usuário.md#hu15---transição-de-telas-fluida) | [#RNF08](../../Elicitação/Requisitos%20Elicitados.md) | Alta |
 | <a id="BKL21"></a> BKL21 | [HU36 - Desempenho Rápido na Consulta de Resultados](História%20de%20usuário.md#HU36) | [RNF04](../../Elicitação/Requisitos%20Elicitados.md) | Média |   
+| <a id="BKL39"></a> BKL39 | [#HU42 - Desconexão via 4G/5G](História%20de%20usuário.md#HU42) | [RNF23](../../Elicitação/Requisitos%20Elicitados.md) | Média |
 
 ## Épico 6 -Controle do Usuário
 Autor: [Miqueias Ezequiel](https://github.com/Kael-web7)
@@ -147,6 +152,8 @@ Este épico abrange histórias relacionadas às ações que o usuário pode real
 | BKL22 | [HU19 - Acompanhar Jogos pelo Aplicativo]() | [RF03](../../Elicitação/Requisitos%20Elicitados.md) | Média |
 | BKL23 | [HU20 - Cancelar Apostas Antes do Sorteio]() | [RF28](../../Elicitação/Requisitos%20Elicitados.md) | Alta |
 | <a id="BKL24"></a> BKL24 | [HU31 - Baixar Comprovante de Aposta](História%20de%20usuário.md#HU31) | [RNF20](../../Elicitação/Requisitos%20Elicitados.md) | Alta |   
+| <a id="BKL36"></a> BKL36 | [#HU39 - Resultado em tempo real](História%20de%20usuário.md#HU39) | [RNF21](../../Elicitação/Requisitos%20Elicitados.md) | Média |
+| <a id="BKL37"></a> BKL37 | [#HU40 - Receber comprovante de apostas e jogos ganhos](História%20de%20usuário.md#HU40) | [RF01](../../Elicitação/Requisitos%20Elicitados.md) | Alta |
 
 ## Épico 7 -Interação com o usuário
 Autor: [Miqueias Ezequiel](https://github.com/Kael-web7)
