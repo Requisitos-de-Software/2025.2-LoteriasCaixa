@@ -213,88 +213,89 @@ Autor: [João Pedro](https://github.com/Jadequilin)
 | Janice José Araújo | 49 anos, funcionária pública e usuária do app Loterias Caixa, responsável por validar as histórias de  usuário desenvolvidas para o artefato. | 20/10/2025 | 20:20 | Presencial, residência |
 
 <a id="HU13"></a>
-### HU13 - Imagens Explicativas no Aplicativo
-Autor: [Nayra Nery](https://github.com/NayraNery127)
+## HU13 - Imagens Explicativas no Aplicativo
+**Autora:** [Nayra Nery](https://github.com/NayraNery127)
 
 | **Campo** | **Detalhamento** |
-|-----------|------------------|
+|------------|------------------|
 | **ID** | HU13 |
 | **Título** | Imagens Explicativas no Aplicativo |
 | **Descrição** | Como usuária, quero que o aplicativo apresente imagens explicativas sobre suas funcionalidades, para que eu possa entender como utilizá-las sem precisar de instruções externas. |
 | **Critérios de Aceitação** | - Cada seção principal deve conter imagens ou ícones representativos.<br>- As imagens devem ilustrar ações como “fazer aposta” e “consultar resultados”.<br>- As imagens devem ser leves e não afetar o desempenho. |
-| **Rastreabilidade** | [RNF02](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Rastreabilidade** | [RNF02](../../Elicitação/Requisitos%20Elicitados.md#rnf02---o-software-deve-ter-imagens-explicativas) |
 | **Prioridade** | Média |
 | **Status** | Não Implementado |
 
-<a id="HU14"></a>
-### HU14 - Verificação de Identidade no Login
-Autor: [Nayra Nery](https://github.com/NayraNery127)
+
+## HU14 - Verificação de Identidade no Login
+**Autora:** [Nayra Nery](https://github.com/NayraNery127)
 
 | **Campo** | **Detalhamento** |
-|-----------|------------------|
+|------------|------------------|
 | **ID** | HU14 |
 | **Título** | Verificação de Identidade no Login |
 | **Descrição** | Como usuária, quero que o aplicativo verifique minha identidade ao fazer login, para aumentar a segurança das minhas informações pessoais e financeiras. |
 | **Critérios de Aceitação** | - O sistema deve solicitar CPF e senha.<br>- Deve haver verificação de identidade adicional (biometria ou código enviado).<br>- Acesso deve ser negado se as credenciais forem inválidas. |
-| **Rastreabilidade** | [RF09](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Rastreabilidade** | [RF09](../../Elicitação/Requisitos%20Elicitados.md#rf09---deve-haver-uma-verificação-de-identidade-para-login-no-aplicativo) |
 | **Prioridade** | Alta |
 | **Status** | Implementado |
 
-<a id="HU15"></a>
-### HU15 - Exibir Tipos de Loteria Disponíveis
-Autor: [Nayra Nery](https://github.com/NayraNery127)
+
+## HU15 - Exibir Tipos de Loteria Disponíveis
+**Autora:** [Nayra Nery](https://github.com/NayraNery127)
 
 | **Campo** | **Detalhamento** |
-|-----------|------------------|
+|------------|------------------|
 | **ID** | HU15 |
 | **Título** | Exibir Tipos de Loteria Disponíveis |
 | **Descrição** | Como usuária, quero visualizar todos os tipos de loteria disponíveis (como Mega-Sena e Lotofácil), para escolher em qual jogo quero apostar. |
 | **Critérios de Aceitação** | - A tela inicial deve listar todos os tipos de loteria disponíveis.<br>- Cada tipo deve mostrar o nome, valor e data do próximo sorteio.<br>- Deve ser possível clicar em cada tipo para ver detalhes. |
-| **Rastreabilidade** | [RF15](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Rastreabilidade** | [RF15](../../Elicitação/Requisitos%20Elicitados.md#rf15---o-aplicativo-deve-exibir-os-tipos-de-loteria-disponíveis-mega-sena-lotofácil-etc) |
 | **Prioridade** | Alta |
 | **Status** | Implementado |
 
-<a id="HU16"></a>
-### HU16 - Consultar Ganhos
-Autor: [Nayra Nery](https://github.com/NayraNery127)
+
+## HU16 - Consultar Ganhos
+**Autora:** [Nayra Nery](https://github.com/NayraNery127)
 
 | **Campo** | **Detalhamento** |
-|-----------|------------------|
+|------------|------------------|
 | **ID** | HU16 |
 | **Título** | Consultar Ganhos |
 | **Descrição** | Como usuária, quero consultar meus ganhos no aplicativo, para acompanhar meus resultados e saber se minhas apostas foram premiadas. |
 | **Critérios de Aceitação** | - O sistema deve permitir visualizar ganhos anteriores.<br>- Os resultados devem mostrar data, valor e tipo de aposta.<br>- As informações devem ser atualizadas automaticamente após o sorteio. |
-| **Rastreabilidade** | [RF05](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Rastreabilidade** | [RF05](../../Elicitação/Requisitos%20Elicitados.md#rf05---o-usuário-deve-poder-consultar-seus-ganhos) |
 | **Prioridade** | Média |
 | **Status** | Implementado |
 
-<a id="HU17"></a>
-### HU17 - Pagamento com Carteiras Digitais
-Autor: [Nayra Nery](https://github.com/NayraNery127)
+
+## HU17 - Pagamento com Carteiras Digitais
+**Autora:** [Nayra Nery](https://github.com/NayraNery127)
 
 | **Campo** | **Detalhamento** |
-|-----------|------------------|
+|------------|------------------|
 | **ID** | HU17 |
 | **Título** | Pagamento com Carteiras Digitais |
 | **Descrição** | Como usuária, quero poder pagar minhas apostas utilizando carteiras digitais como Google Pay e Mercado Pago, para facilitar o processo de pagamento. |
 | **Critérios de Aceitação** | - O sistema deve oferecer opções de carteiras digitais reconhecidas.<br>- O pagamento deve ser processado de forma segura.<br>- O usuário deve receber confirmação imediata de pagamento. |
-| **Rastreabilidade** | [RF23](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Rastreabilidade** | [RF23](../../Elicitação/Requisitos%20Elicitados.md#rf23---o-aplicativo-deve-permitir-pagamento-de-apostas-utilizando-carteiras-digitais-como-google-pay-apple-pay-e-mercado-pago) |
 | **Prioridade** | Alta |
 | **Status** | Não Implementado |
 
-<a id="HU18"></a>
-### HU18 - Exibir Último Resultado do Sorteio
-Autor: [Nayra Nery](https://github.com/NayraNery127)
+
+## HU18 - Exibir Último Resultado do Sorteio
+**Autora:** [Nayra Nery](https://github.com/NayraNery127)
 
 | **Campo** | **Detalhamento** |
-|-----------|------------------|
+|------------|------------------|
 | **ID** | HU18 |
 | **Título** | Exibir Último Resultado do Sorteio |
 | **Descrição** | Como usuária, quero visualizar o último resultado do sorteio de cada loteria, para conferir se ganhei sem precisar acessar outros sites. |
 | **Critérios de Aceitação** | - O sistema deve exibir o resultado mais recente de cada tipo de loteria.<br>- Os números sorteados e a data do sorteio devem aparecer na tela.<br>- A interface deve ser atualizada automaticamente após cada sorteio. |
-| **Rastreabilidade** | [RF16](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Rastreabilidade** | [RF16](../../Elicitação/Requisitos%20Elicitados.md#rf16---o-aplicativo-deve-exibir-o-último-resultado-do-sorteio-de-cada-loteria) |
 | **Prioridade** | Média |
 | **Status** | Implementado |
+
 
 <a id="HU19"></a>
 ### HU19 - Acompanhar Jogos pelo Aplicativo
@@ -565,4 +566,5 @@ Autor: [Luan Vinícius](https://github.com/luannvi)
 | ``1.4`` | 20/10/2025 | [Miqueias Ezequiel](https://github.com/Kael-web7) | Validação das Histórias de usuario de 19-24| [Luan Vinícius](https://github.com/luannvi) |
 | ``1.5`` | 20/10/2025 | [Rivadalvio Joaquim](https://github.com/RivaFilho) | Criação das Histórias de usuário de 25-30 | [João Pedro](https://github.com/Jadequilin) |
 | ``1.6`` | 20/10/2025 | [Luan Vinícius](https://github.com/luannvi) | Criação das Histórias de usuário de 31-36 | [Miqueias Ezequiel](https://github.com/Kael-web7) |
+| ``1.7``    | 21/10/2025 | [Nayra Nery](https://github.com/NayraNery127)   |Correção das Histórias de usuário de 12 à 18 | [Samuel Felipe](https://github.com/TerminaKng05) |
 
