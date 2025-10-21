@@ -102,12 +102,12 @@ Esses rótulos são ilustrados na Figura 5.
 
 | Aluno | Descrição | Links|
 |-------|-----------|------|
-| [Heyttor Augusto](https://github.com/H3ytt0r62) | Criação dos CNFR01 e CNFR02  | [CNFR01](#CNFR01), [CNFR02](#CNFR02) |
+| [Heyttor Augusto](https://github.com/H3ytt0r62) | Criação dos CNFR01 e CNFR02 e dos graficos de desempenho e usabilidade  | [CNFR01](#CNFR01), [CNFR02](#CNFR02) |
 | [João Pedro](https://github.com/Jadequilin) | Criação dos CNFR03 e CNFR04 | [CNFR03](#CNFR03), [CNFR04](#CNFR04) |
 | [Nayra Nery](https://github.com/NayraNery127) | Criação dos CNFR05 e CNFR06 | [CNFR05](#CNFR05), [CNFR06](#CNFR06) |
 | [Miqueias Ezequiel](https://github.com/Kael-web7) | Criação dos CNFR07 e CNFR08 | [CNFR07](#CNFR07), [CNFR08](#CNFR08) |
 | [Luan Vinícius](https://github.com/luannvi) | Criação dos CNFR09, CNFR10 e CNFR11 | [CNFR09](#CNFR09), [CNFR10](#CNFR10), [CNFR11](#CNFR11) |
-| [Rivadalvio Joaquim](https://github.com/RivaFilho) | Criação dos CNFR12 e CNFR13 | [CNFR12](#CNFR12), [CNFR13](#CNFR13) |
+| [Rivadalvio Joaquim](https://github.com/RivaFilho) | Criação dos CNFR12 e CNRF13 | [CNFR12](#CNFR12), [CNFR13](#CNFR13) |
 
 ## Lista de Requisitos
 
@@ -126,7 +126,7 @@ Autor: [Heyttor Augusto](https://github.com/H3ytt0r62)
 | **Campo**              |**Detalhamento**                                                                 |
 |-------------------------|----------------------------------------------------------------------------------|
 | **Nr Requisito**        | CNFR01                                                                          |
-| **Classificação**       | Experiência do usuário                                                                       |
+| **Classificação**       | usabulidade                                                               |
 | **Descrição**           | O sistema deve ter telas simples com poucos textos |
 | **Justificativa**       | Garante  dinamismo, acessibilidade para pessoas com pouca experiência com tecnologia e facilita o entendimento |
 | **Origem**              | [RNF01](../../Elicitação/Requisitos%20Elicitados.md)                                                                  |
@@ -208,7 +208,7 @@ Autor: [Nayra Nery](https://github.com/NayraNery127)
 
 | **Campo**              | **Detalhamento** |
 |-------------------------|------------------|
-| **Nr Requisito**        | RNF09 |
+| **Nr Requisito**        | NFR05 |
 | **Classificação**       | Usabilidade |
 | **Descrição**           | O sistema deve fornecer feedback visual imediato quando o usuário adiciona uma aposta ao carrinho, por meio de uma animação, mensagem ou alteração no ícone do carrinho. |
 | **Justificativa**       | Garante que o usuário perceba claramente que sua ação foi realizada com sucesso, evitando confusão e múltiplos cliques. Melhora a experiência e a confiança na interação com o sistema. |
@@ -219,28 +219,22 @@ Autor: [Nayra Nery](https://github.com/NayraNery127)
 | **Conflitos**           | [RNF06](../../Elicitação/Requisitos%20Elicitados.md) - Feedback sonoro pode ser redundante ou distrativo |
 | **História**            | Criado em 20/10/2025 |
 
-
-
 <a id="CNFR06"></a>
-## CNFR06 - Desempenho em Dispositivos Antigos
+## CNFR06 - Expiração Automática de Sessão por Inatividade
 Autor: [Nayra Nery](https://github.com/NayraNery127)
 
 | **Campo**              | **Detalhamento** |
 |-------------------------|------------------|
-| **Nr Requisito**        | RNF22 |
-| **Classificação**       | Desempenho |
-| **Descrição**           | O aplicativo deve manter desempenho satisfatório em dispositivos com mais de 3 anos de uso, evitando lentidão perceptível durante navegação e execução de apostas. |
-| **Justificativa**       | Muitos usuários ainda utilizam aparelhos antigos. Garantir bom desempenho nesses dispositivos melhora o alcance do aplicativo e a satisfação geral dos usuários. |
-| **Origem**              | [RNF22](../../Elicitação/Requisitos%20Elicitados.md) |
-| **Critério de Ajuste**  | - Tempo médio de carregamento ≤ 5 segundos<br>- Uso de RAM ≤ 150 MB<br>- Interface responsiva em Android 8+ e iOS 12+ |
-| **Dependências**        | [RNF04](../../Elicitação/Requisitos%20Elicitados.md) – Tempo de carregamento de resultados |
-| **Prioridade**          | 7 |
-| **Conflitos**           | [RNF08](../../Elicitação/Requisitos%20Elicitados.md) – Transição fluida pode ser limitada em dispositivos com hardware antigo |
-| **História**            | Criado em 21/10/2025 |
-
-
-
-
+| **Nr Requisito**        | NFR06 |
+| **Classificação**       | Segurança |
+| **Descrição**           | A sessão do usuário deve expirar automaticamente após 15 minutos de inatividade, exigindo novo login para continuar o uso do aplicativo. |
+| **Justificativa**       | Protege informações pessoais e financeiras do usuário em caso de esquecimento do aplicativo aberto, evitando acessos indevidos. |
+| **Origem**              | [RNF10](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Critério de Ajuste**  | - Encerrar sessão após 15±1 minutos sem interação<br>- Exibir mensagem de aviso antes da expiração<br>- Redirecionar automaticamente para a tela de login |
+| **Dependências**        | [RNF05](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Prioridade**          | 8 |
+| **Conflitos**           | [RNF03](../../Elicitação/Requisitos%20Elicitados.md) - Persistência de dados temporários pode impedir o encerramento completo da sessão |
+| **História**            | Criado em 20/10/2025 |
 
 <a id="CNFR07"></a>
 ## CNFR07 - Navegação Intuitiva e Fluidez da Experiência
@@ -328,38 +322,63 @@ Autor: [Luan Vinícius](https://github.com/luannvi)
 | **História** | Criado em 21/10/2025 |
 
 <a id="CNFR12"></a>
-## CNFR12 - Compatibilidade Multiplataforma
+## CNRF12 - Compatibilidade Multiplataforma
 Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 
 | **Campo**              | **Detalhamento** |
 |-------------------------|------------------|
-| **Nr Requisito**        | CNFR12 |
+| **Nr Requisito**        | NFR12 |
 | **Classificação**       | Compatibilidade |
 | **Descrição**           | O sistema deve funcionar de forma consistente e com a mesma qualidade em dispositivos Android e iOS, mantendo todas as funcionalidades principais em ambas as plataformas. |
 | **Justificativa**       | Garantir que todos os usuários, independente do sistema operacional, tenham acesso às mesmas funcionalidades e qualidade de experiência, ampliando o alcance do aplicativo. |
-| **Origem**              | [RNF31](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Origem**              | [RNF13](../../Elicitação/Requisitos%20Elicitados.md) |
 | **Critério de Ajuste**  | - Funcionalidades idênticas em Android e iOS<br>- Interface adaptada às diretrizes de cada plataforma<br>- Atualizações lançadas simultaneamente<br>- Performance similar em dispositivos equivalentes |
-| **Dependências**        | [RNF32](../../Elicitação/Requisitos%20Elicitados.md), [RNF33](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Dependências**        | [RNF11](../../Elicitação/Requisitos%20Elicitados.md), [RNF12](../../Elicitação/Requisitos%20Elicitados.md) |
 | **Prioridade**          | 7 |
 | **Conflitos**           | [RNF02](../../Elicitação/Requisitos%20Elicitados.md) - Recursos específicos de plataforma podem limitar a uniformidade |
 | **História**            | Criado em 20/10/2025 |
 
 <a id="CNFR13"></a>
-## CNFR13 - Tutorial Interativo e Onboarding
+## CNRF13 - Tutorial Interativo e Onboarding
 Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 
 | **Campo**              | **Detalhamento** |
 |-------------------------|------------------|
-| **Nr Requisito**        | CNFR13 |
+| **Nr Requisito**        | NFR13 |
 | **Classificação**       | Usabilidade |
 | **Descrição**           | O sistema deve oferecer um tutorial interativo para novos usuários, explicando as funcionalidades principais de forma clara e objetiva, com opção de pular e revisitar posteriormente. |
 | **Justificativa**       | Reduz a curva de aprendizado para novos usuários, aumenta a retenção e garante que todas as funcionalidades sejam conhecidas e utilizadas adequadamente. |
-| **Origem**              | [RNF32](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Origem**              | [RNF14](../../Elicitação/Requisitos%20Elicitados.md) |
 | **Critério de Ajuste**  | - Tutorial exibido na primeira execução<br>- Cobertura de pelo menos 80% das funcionalidades principais<br>- Duração máxima de 3 minutos<br>- Opção de pular e acessar depois via menu de ajuda |
 | **Dependências**        | [RNF03](../../Elicitação/Requisitos%20Elicitados.md), [RNF01](../../Elicitação/Requisitos%20Elicitados.md) |
 | **Prioridade**          | 5 |
 | **Conflitos**           | [RNF08](../../Elicitação/Requisitos%20Elicitados.md) - Conteúdo adicional pode impactar performance inicial |
 | **História**            | Criado em 20/10/2025 |
+
+## Graficos NFR 
+
+## NFR Desempenho 
+Os requisitos abordados neste NFR Foram: 
+
+- [CNFR02](#CNFR02)
+- [CNFR08](#CNFR08)
+- [CNFR04](#CNFR04)
+
+![NFR desempenho](../../images/nfr_desempenho.jpg)
+
+
+## NFR Usabilidade
+Os requisitos abordados neste NFR Foram: 
+
+- [CNFR01](#CNFR01)
+- [CNFR03](#CNFR03)
+- [CNFR05](#CNFR05)
+- [CNFR07](#CNFR07)
+- [CNFR09](#CNFR09)
+- [CNFR11](#CNFR11)
+- [CNFR13](#CNFR13)
+
+![NFR Usabilidade](../../images/NFR_usabilidade.png)
 
 
 ## Referência Bibliográfica
@@ -389,4 +408,4 @@ Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 | ``1.4`` | 20/10/2025 | [Miqueias Ezequiel](https://github.com/Kael-web7) | Validação das CNFR's 7 e 8 | [Luan Vinícius](https://github.com/luannvi) |
 | ``1.5`` | 21/10/2025 | [Luan Vinícius](https://github.com/luannvi) | Criação das CNFR's 9, 10 e 11, adição da introdução, ref. bibliográficas e do modelo de cartão de esp., correção das âncoras | [Miqueias Ezequiel](https://github.com/Kael-web7) |
 | ``1.6`` | 21/10/2025 | [Rivadalvio Joaquim](https://github.com/RivaFilho) | Criação das CNRF's 12 e 13 | [João Pedro](https://github.com/Jadequilin) |
-| ``1.7`` | 21/10/2025 | [Nayra Nery](https://github.com/NayraNery127) | Mudança nas numerações dos requisitos, e de RF para RNF | [Samuel Felipe](https://github.com/TerminaKng05) |
+| ``1.8`` | 21/10/2025 |[Heyttor Augusto](https://github.com/H3ytt0r62)   | Criação dos graficos de desempenho e usabilidade | [Samuel Felipe](https://github.com/TerminaKng05) |
