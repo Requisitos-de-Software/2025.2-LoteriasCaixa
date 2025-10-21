@@ -1,48 +1,45 @@
-## **Introdução** 
+## Introdução 
 
-As histórias de usuário representam os resultados, características e funcionalidades desejadas para o software em desenvolvimento. Cada história é registrada em uma ficha, na qual o cliente atribui um valor de acordo com a importância do recurso ou função para o negócio. Em seguida, a equipe avalia essa história e estima seu custo em semanas de trabalho. Caso o custo ultrapasse três semanas de desenvolvimento, o cliente é orientado a dividir a história em partes menores, que passam novamente pelo processo de atribuição de valor e estimativa de custo. Vale destacar que novas histórias podem ser criadas a qualquer momento do projeto.
+As histórias de usuário representam os resultados, características e funcionalidades desejadas para o software em desenvolvimento. Cada história é registrada em uma ficha, na qual o cliente atribui um valor de acordo com a importância do recurso ou função para o negócio. Em seguida, a equipe avalia essa história e estima seu custo em semanas de trabalho. Caso o custo ultrapasse três semanas de desenvolvimento, o cliente é orientado a dividir a história em partes menores, que passam novamente pelo processo de atribuição de valor e estimativa de custo. Vale destacar que novas histórias podem ser criadas a qualquer momento do projeto <a id= "anchor_1" href="#REF1">[1]</a>.
 
-## **Metodologia**
+## Metodologia
 
-Foi usado a segunte tabela para a construção das historias de usuário:
+Foi usado a seguinte tabela para a construção das histórias de usuário:
 
-tabela 1: Modelo
+*<p style="text-align: center;">Tabela 1: Modelo.</p>*
 
-|Id  |  Nome|
+|ID  |  Nome|
 |----|------|
-|HU| Título|
-|Descrição| eu como ususario, desejo.....|
-|Criterios de aceitação| ..... |
-|Rastreabilidade| Requisitos relacionados |
-|Prioridade| Alta,Baixa,Media|
+|HUxx  | Título |
+|Descrição| eu como XXX, desejo XXX para XXX |
+|Criterios de aceitação| - ... |
+|Rastreabilidade| Código do(s) requisito(s) relacionado(s) |
+|Prioridade| Alta, média ou baixa |
 
-fonte: Repositorio Deepseek, Discipla de requisitos de software.
+Fonte: Repositório Deepseek, disciplina de requisitos de software <a id= "anchor_2" href="#REF2">[2]</a>.
 
-
-## **Tabela de  contribuições**
+## Tabela de contribuições
 
 | Aluno | Descrição | Links|
 |-------|-----------|------|
-| [Heyttor Augusto](https://github.com/H3ytt0r62) | Criação das historias HU1, HU2, HU3, HU4, HU5 e HU6, Criação da introdução,Validação HU01 - HU06 | [#HU01](#hu1---modo-claro-e-modo-escuro), [#HU02](#hu02---login),[#HU03](#hu03---resultado-das-apostas),[#HU04](#hu04---cadastro),[#HU05](#hu05---ultimo-resultado-de-cada-sorteio),[#HU06](#hu06---comprovamente-de-pagamento),[Validação HU01-6](#validação-hu01---hu06) |
+| [Heyttor Augusto](https://github.com/H3ytt0r62) | Criação das historias HU1, HU2, HU3, HU4, HU5 e HU6 | [#HU01](#hu1---modo-claro-e-modo-escuro), [#HU02](#hu02---login),[#HU03](#hu03---resultado-das-apostas),[#HU04](#hu04---cadastro),[#HU05](#hu05---ultimo-resultado-de-cada-sorteio),[#HU06](#hu06---comprovamente-de-pagamento) |
 | [Nayra Nery](https://github.com/NayraNery127) | Criação das histórias HU13, HU14, HU15, HU16, HU17 e HU18 | [#HU13](#hu13---imagens-explicativas-no-aplicativo), [#HU14](#hu14---verificação-de-identidade-no-login), [#HU15](#hu15---exibir-tipos-de-loteria-disponíveis), [#HU16](#hu16---consultar-ganhos), [#HU17](#hu17---pagamento-com-carteiras-digitais), [#HU18](#hu18---exibir-último-resultado-do-sorteio) |
 | [Miqueias Ezequiel](https://github.com/Kael-web7) | Criação das histórias HU19, HU20, HU21, HU22, HU23 e HU24 | [#HU19](#hu19---Acompanhar-Jogos-pelo-Aplicativo), [#HU20](#hu20---Cancelar-Apostas-Antes-do-Sorteio), [#HU21](#hu21---Expiração-Automática-da-Sessão), [#HU22](#hu22---Feedback-Visual-ao-Adicionar-Aposta-ao-Carrinho), [#HU23](#hu23---Acesso-ao-Perfil-do-Usuário), [#HU24](#hu24---Exibir-Repasses-Sociais-das-Loterias) |
 | [Rivadalvio Joaquim](https://github.com/RivaFilho) | Criação das histórias HU25, HU26, HU27, HU28, HU29 e HU30 | [#HU25](#hu25---histórico-de-apostas), [#HU26](#hu26---recuperação-de-senha), [#HU27](#hu27---compatibilidade-de-so), [#HU28](#hu28---apostas-favoritas), [#HU29](#hu29---tutorial-interativo), [#HU30](#hu30---notificações-push) |
 
-
-
-## **Validação com o usuario**
+## Validação com o usuário
 
 Foram feitas validações com os usuarios sobreas historias criadas pelos estudantes, nas quais estão disponiveis como não listadas no youtube, todos os participantes deram concentimento das gravações.
 
-## Validação #Hu01 - #HU06
+#### Validação #HU01 - #HU06
 
 Foram realizadas no dia 20/10/2025 pelo estudante heyttor augusto e o usuario Marcio junio
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gEDrCnwJu9w?si=F2vi5zKmEGp1UM-I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## **Historias de usuários**
+## **Histórias de usuários**
 
-## HU01 - Modo Claro e modo Escuro
+### HU01 - Modo Claro e modo Escuro
 
 Autor: [Heyttor Augusto](https://github.com/H3ytt0r62)
 
@@ -54,7 +51,7 @@ Autor: [Heyttor Augusto](https://github.com/H3ytt0r62)
 |Rastreabilidade| [#RF06](../../Elicitação/Requisitos%20Elicitados.md) |
 |Prioridade| Baixa|
 
-## HU02 - Login
+### HU02 - Login
 
 Autor: [Heyttor Augusto](https://github.com/H3ytt0r62)
 
@@ -66,7 +63,7 @@ Autor: [Heyttor Augusto](https://github.com/H3ytt0r62)
 |Rastreabilidade| [#RF08](../../Elicitação/Requisitos%20Elicitados.md) |
 |Prioridade| Alta|
 
-## HU03 - Resultado das apostas
+### HU03 - Resultado das apostas
 
 Autor: [Heyttor Augusto](https://github.com/H3ytt0r62)
 
@@ -78,7 +75,7 @@ Autor: [Heyttor Augusto](https://github.com/H3ytt0r62)
 |Rastreabilidade| [#RF07](../../Elicitação/Requisitos%20Elicitados.md) |
 |Prioridade| Media|
 
-## HU04 - Cadastro
+### HU04 - Cadastro
 
 Autor: [Heyttor Augusto](https://github.com/H3ytt0r62)
 
@@ -91,7 +88,7 @@ Autor: [Heyttor Augusto](https://github.com/H3ytt0r62)
 |Prioridade| Alta|
 
 
-## HU05 - Ultimo Resultado de cada sorteio
+### HU05 - Ultimo Resultado de cada sorteio
 
 Autor: [Heyttor Augusto](https://github.com/H3ytt0r62)
 
@@ -103,7 +100,7 @@ Autor: [Heyttor Augusto](https://github.com/H3ytt0r62)
 |Rastreabilidade| [#RF16](../../Elicitação/Requisitos%20Elicitados.md) |
 |Prioridade| Media|
 
-## HU06 - comprovamente de pagamento
+### HU06 - comprovamente de pagamento
 
 Autor: [Heyttor Augusto](https://github.com/H3ytt0r62)
 
@@ -115,7 +112,7 @@ Autor: [Heyttor Augusto](https://github.com/H3ytt0r62)
 |Rastreabilidade| [#RF24](../../Elicitação/Requisitos%20Elicitados.md) |
 |Prioridade| Alta|
 
-## HU07 - Termo de Uso com Especificação de Riscos
+### HU07 - Termo de Uso com Especificação de Riscos
 Autor: [João Pedro](https://github.com/Jadequilin)
 
 | **Campo** | **Detalhamento** |
@@ -128,7 +125,7 @@ Autor: [João Pedro](https://github.com/Jadequilin)
 | **Prioridade** | Média |
 | **Status** | Não Implementado |
 
-## HU08 - Funções de Acessibilidade
+### HU08 - Funções de Acessibilidade
 Autor: [João Pedro](https://github.com/Jadequilin)
 
 | **Campo** | **Detalhamento** |
@@ -141,7 +138,7 @@ Autor: [João Pedro](https://github.com/Jadequilin)
 | **Prioridade** | Média |
 | **Status** | Não Implementado |
 
-## HU09 - Páginas Frequentes em Destaque
+### HU09 - Páginas Frequentes em Destaque
 Autor: [João Pedro](https://github.com/Jadequilin)
 
 | **Campo** | **Detalhamento** |
@@ -154,7 +151,7 @@ Autor: [João Pedro](https://github.com/Jadequilin)
 | **Prioridade** | Média |
 | **Status** | Não Implementado |
 
-## HU10 - Avisos de Limite de Apostas
+### HU10 - Avisos de Limite de Apostas
 Autor: [João Pedro](https://github.com/Jadequilin)
 
 | **Campo** | **Detalhamento** |
@@ -167,7 +164,7 @@ Autor: [João Pedro](https://github.com/Jadequilin)
 | **Prioridade** | Alta |
 | **Status** | Não Implementado |
 
-## HU11 - Filtro de Apostas Premiadas
+### HU11 - Filtro de Apostas Premiadas
 Autor: [João Pedro](https://github.com/Jadequilin)
 
 | **Campo** | **Detalhamento** |
@@ -180,7 +177,7 @@ Autor: [João Pedro](https://github.com/Jadequilin)
 | **Prioridade** | Média |
 | **Status** | Não Implementado |
 
-## HU12 - Alertas de Apostas Premiadas
+### HU12 - Alertas de Apostas Premiadas
 Autor: [João Pedro](https://github.com/Jadequilin)
 
 | **Campo** | **Detalhamento** |
@@ -193,7 +190,7 @@ Autor: [João Pedro](https://github.com/Jadequilin)
 | **Prioridade** | Média |
 | **Status** | Não Implementado |
 
-### Validação com o Usuário (Histórias de usuário - HU07 à HU12)
+#### Validação com o Usuário (Histórias de usuário - HU07 à HU12)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4vKn7kZS1Us?si=bbYpQtaFP1Cy7mub" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -203,7 +200,7 @@ Autor: [João Pedro](https://github.com/Jadequilin)
 | Janice José Araújo | 49 anos, funcionária pública e usuária do app Loterias Caixa, responsável por validar as histórias de  usuário desenvolvidas para o artefato. | 20/10/2025 | 20:20 | Presencial, residência |
 
 
-## HU13 - Imagens Explicativas no Aplicativo
+### HU13 - Imagens Explicativas no Aplicativo
 Autor: [Nayra Nery](https://github.com/NayraNery127)
 
 | **Campo** | **Detalhamento** |
@@ -218,7 +215,7 @@ Autor: [Nayra Nery](https://github.com/NayraNery127)
 
 ---
 
-## HU14 - Verificação de Identidade no Login
+### HU14 - Verificação de Identidade no Login
 Autor: [Nayra Nery](https://github.com/NayraNery127)
 
 | **Campo** | **Detalhamento** |
@@ -233,7 +230,7 @@ Autor: [Nayra Nery](https://github.com/NayraNery127)
 
 ---
 
-## HU15 - Exibir Tipos de Loteria Disponíveis
+### HU15 - Exibir Tipos de Loteria Disponíveis
 Autor: [Nayra Nery](https://github.com/NayraNery127)
 
 | **Campo** | **Detalhamento** |
@@ -248,7 +245,7 @@ Autor: [Nayra Nery](https://github.com/NayraNery127)
 
 ---
 
-## HU16 - Consultar Ganhos
+### HU16 - Consultar Ganhos
 Autor: [Nayra Nery](https://github.com/NayraNery127)
 
 | **Campo** | **Detalhamento** |
@@ -263,7 +260,7 @@ Autor: [Nayra Nery](https://github.com/NayraNery127)
 
 ---
 
-## HU17 - Pagamento com Carteiras Digitais
+### HU17 - Pagamento com Carteiras Digitais
 Autor: [Nayra Nery](https://github.com/NayraNery127)
 
 | **Campo** | **Detalhamento** |
@@ -278,7 +275,7 @@ Autor: [Nayra Nery](https://github.com/NayraNery127)
 
 ---
 
-## HU18 - Exibir Último Resultado do Sorteio
+### HU18 - Exibir Último Resultado do Sorteio
 Autor: [Nayra Nery](https://github.com/NayraNery127)
 
 | **Campo** | **Detalhamento** |
@@ -291,7 +288,7 @@ Autor: [Nayra Nery](https://github.com/NayraNery127)
 | **Prioridade** | Média |
 | **Status** | Implementado |
 
-## HU19 - Acompanhar Jogos pelo Aplicativo
+### HU19 - Acompanhar Jogos pelo Aplicativo
 Autor: [Miqueias Ezequiel](https://github.com/Kael-web7)
 
 | Campo | Detalhamento |
@@ -304,7 +301,7 @@ Autor: [Miqueias Ezequiel](https://github.com/Kael-web7)
 | **Prioridade** | Média |
 | **Status** | Não Implementado |
 
-## HU20 - Cancelar Apostas Antes do Sorteio
+### HU20 - Cancelar Apostas Antes do Sorteio
 Autor: [Miqueias Ezequiel](https://github.com/Kael-web7)
 
 | Campo | Detalhamento |
@@ -317,7 +314,7 @@ Autor: [Miqueias Ezequiel](https://github.com/Kael-web7)
 | **Prioridade** | Alta |
 | **Status** | Não Implementado |
 
-## HU21 - Expiração Automática da Sessão
+### HU21 - Expiração Automática da Sessão
 Autor: [Miqueias Ezequiel](https://github.com/Kael-web7)
 
 | Campo | Detalhamento |
@@ -330,7 +327,7 @@ Autor: [Miqueias Ezequiel](https://github.com/Kael-web7)
 | **Prioridade** | Alta |
 | **Status** | Implementado |
 
-## HU22 - Feedback Visual ao Adicionar Aposta ao Carrinho
+### HU22 - Feedback Visual ao Adicionar Aposta ao Carrinho
 Autor: [Miqueias Ezequiel](https://github.com/Kael-web7)
 
 | Campo | Detalhamento |
@@ -343,7 +340,7 @@ Autor: [Miqueias Ezequiel](https://github.com/Kael-web7)
 | **Prioridade** | Média |
 | **Status** | Implementado |
 
-## HU23 - Acesso ao Perfil do Usuário
+### HU23 - Acesso ao Perfil do Usuário
 Autor: [Miqueias Ezequiel](https://github.com/Kael-web7)
 
 | Campo | Detalhamento |
@@ -357,7 +354,7 @@ Autor: [Miqueias Ezequiel](https://github.com/Kael-web7)
 | **Status** | Implementado |
 
 
-## HU24 - Exibir Repasses Sociais das Loterias
+### HU24 - Exibir Repasses Sociais das Loterias
 Autor: [Miqueias Ezequiel](https://github.com/Kael-web7)
 
 | Campo | Detalhamento |
@@ -370,7 +367,7 @@ Autor: [Miqueias Ezequiel](https://github.com/Kael-web7)
 | **Prioridade** | Média |
 | **Status** | Implementado |
 
-## HU25 - Histórico de Apostas
+### HU25 - Histórico de Apostas
 Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 
 | **Campo** | **Detalhamento** |
@@ -383,7 +380,7 @@ Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 | **Prioridade** | Alta |
 | **Status** | Não Implementado |
 
-## HU26 - Recuperação de Senha
+### HU26 - Recuperação de Senha
 Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 
 | **Campo** | **Detalhamento** |
@@ -396,7 +393,7 @@ Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 | **Prioridade** | Alta |
 | **Status** | Implementado |
 
-## HU27 - Compatibilidade de SO
+### HU27 - Compatibilidade de SO
 Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 
 | **Campo** | **Detalhamento** |
@@ -409,7 +406,7 @@ Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 | **Prioridade** | Média |
 | **Status** | Implementado |
 
-## HU28 - Apostas Favoritas
+### HU28 - Apostas Favoritas
 Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 
 | **Campo** | **Detalhamento** |
@@ -422,7 +419,7 @@ Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 | **Prioridade** | Média |
 | **Status** | Não Implementado |
 
-## HU29 - Tutorial Interativo
+### HU29 - Tutorial Interativo
 Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 
 | **Campo** | **Detalhamento** |
@@ -435,7 +432,7 @@ Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 | **Prioridade** | Baixa |
 | **Status** | Não Implementado |
 
-## HU30 - Notificações Push
+### HU30 - Notificações Push
 Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 
 | **Campo** | **Detalhamento** |
@@ -448,7 +445,7 @@ Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 | **Prioridade** | Média |
 | **Status** | Implementado |
 
-# Versionamento
+## Versionamento
 
 | Versão | Data       | Autor               | Descrição                                    | Revisor |
 |:--------:|:------------:|:---------------------:|:----------------------------------------------:|:---------:|
@@ -458,6 +455,10 @@ Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 | ``1.3``    | 20/10/2025 | [João Pedro](https://github.com/Jadequilin)   |Validação das Histórias de usuário de 7 à 12 |[Rivadalvio Joaquim](https://github.com/RivaFilho)  |
 | ``1.4`` | 20/10/2025 | [Miqueias Ezequiel](https://github.com/Kael-web7) | Validação das Histórias de usuario de 19-24| [Luan Vinícius](https://github.com/luannvi) |
 | ``1.5`` | 20/10/2025 | [Rivadalvio Joaquim](https://github.com/RivaFilho) | Criação das Histórias de usuário de 25-30 | [João Pedro](https://github.com/Jadequilin) |
-## Referencias Bibliograficas
 
-Serrano milene, Requisitos-aula 15 , Unb, Disponivel em:[Aqui](https://aprender3.unb.br/pluginfile.php/3210661/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf) , Acesso dia: 19/10/2025
+## Referencias Bibliográficas
+
+> <a id="REF1" href="#anchor_1">1.</a> Serrano milene, Requisitos-aula 15, UnB, Disponível em: <https://aprender3.unb.br/pluginfile.php/3210661/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf>. Acesso em: 19/10/2025.
+
+> <a id="REF2" href="#anchor_2">2.</a> MELO, Arthur. Histórias de Usuário. Repositório do Grupo Bilheteria Digital da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: <https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/historia-de-usuario/>. Acesso em: 21/10/2025.
+
