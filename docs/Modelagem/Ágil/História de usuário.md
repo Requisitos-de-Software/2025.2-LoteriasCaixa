@@ -390,7 +390,7 @@ Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 | **Título** | Histórico de Apostas |
 | **Descrição** | Como usuário, quero acessar meu histórico completo de apostas, para acompanhar meus jogos anteriores e analisar meu desempenho. |
 | **Critérios de Aceitação** | - Lista cronológica de todas as apostas realizadas<br>- Filtros por data, tipo de loteria e status<br>- Detalhes completos de cada aposta (números, valor, resultado) |
-| **Rastreabilidade** | [RF34](../../Elicitação/Requisitos%20Elicitados.md#rf34) |
+| **Rastreabilidade** | [RF38](../../Elicitação/Requisitos%20Elicitados.md) |
 | **Prioridade** | Alta |
 | **Status** | Não Implementado |
 
@@ -404,7 +404,7 @@ Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 | **Título** | Recuperação de Senha |
 | **Descrição** | Como usuário, quero poder recuperar minha senha de forma segura quando a esquecer, para manter o acesso à minha conta. |
 | **Critérios de Aceitação** | - Opção "Esqueci minha senha" na tela de login<br>- Envio de link de recuperação por email<br>- Criação de nova senha com confirmação<br>- Validação de segurança durante o processo |
-| **Rastreabilidade** | [RF35](../../Elicitação/Requisitos%20Elicitados.md#rf35) |
+| **Rastreabilidade** | [RF39](../../Elicitação/Requisitos%20Elicitados.md) |
 | **Prioridade** | Alta |
 | **Status** | Implementado |
 
@@ -418,7 +418,7 @@ Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 | **Título** | Compatibilidade de SO |
 | **Descrição** | Como usuário, quero que o aplicativo funcione corretamente tanto no Android quanto no iOS, para poder usá-lo independente do meu dispositivo. |
 | **Critérios de Aceitação** | - Funcionalidades idênticas em ambas as plataformas<br>- Interface adaptada para cada sistema<br>- Performance consistente entre versões<br>- Atualizações simultâneas para ambos os sistemas |
-| **Rastreabilidade** | [RNF13](../../Elicitação/Requisitos%20Elicitados.md#rnf13) |
+| **Rastreabilidade** | [RNF31](../../Elicitação/Requisitos%20Elicitados.md) |
 | **Prioridade** | Média |
 | **Status** | Implementado |
 
@@ -432,7 +432,7 @@ Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 | **Título** | Apostas Favoritas |
 | **Descrição** | Como usuário frequente, quero poder salvar minhas combinações de números favoritas, para agilizar o processo de aposta. |
 | **Critérios de Aceitação** | - Opção "Salvar como favorita" após montar aposta<br>- Lista de apostas favoritas acessível<br>- Edição e exclusão de favoritos<br>- Recuperação rápida para novos jogos |
-| **Rastreabilidade** | [RF36](../../Elicitação/Requisitos%20Elicitados.md#rf36) |
+| **Rastreabilidade** | [RF40](../../Elicitação/Requisitos%20Elicitados.md) |
 | **Prioridade** | Média |
 | **Status** | Não Implementado |
 
@@ -446,7 +446,7 @@ Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 | **Título** | Tutorial Interativo |
 | **Descrição** | Como novo usuário, quero um tutorial interativo que me ensine a usar as principais funcionalidades do aplicativo. |
 | **Critérios de Aceitação** | - Tutorial na primeira execução<br>- Passo a passo das funcionalidades principais<br>- Opção de pular e revisitar depois<br>- Conteúdo claro e objetivo |
-| **Rastreabilidade** | [RNF14](../../Elicitação/Requisitos%20Elicitados.md#rnf14) |
+| **Rastreabilidade** | [RNF32](../../Elicitação/Requisitos%20Elicitados.md) |
 | **Prioridade** | Baixa |
 | **Status** | Não Implementado |
 
@@ -460,7 +460,7 @@ Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 | **Título** | Notificações Push |
 | **Descrição** | Como usuário, quero receber notificações push sobre sorteios, resultados e promoções, para me manter informado sem precisar abrir o app. |
 | **Critérios de Aceitação** | - Configurações personalizáveis de notificações<br>- Alertas de resultados dos sorteios<br>- Lembretes de sorteios em andamento<br>- Notificações de promoções e novidades |
-| **Rastreabilidade** | [RF37](../../Elicitação/Requisitos%20Elicitados.md#rf37) |
+| **Rastreabilidade** | [RF41](../../Elicitação/Requisitos%20Elicitados.md) |
 | **Prioridade** | Média |
 | **Status** | Implementado |
 
