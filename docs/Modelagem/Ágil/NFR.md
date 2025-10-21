@@ -5,6 +5,7 @@
 | [Heyttor Augusto](https://github.com/H3ytt0r62) | Criação dos # CNRF01 e #CNRF02  | [# CNRF01](#cnrf01--o-software-deve-ter-telas-simples-com-poucos-textos), [# CNRF02](#cnrf02---a-transição-de-telas-durante-o-fluxo-de-aposta-deve-ser-fluida-e-sem-travamentos-perceptíveis  ) |
 | [João Pedro](https://github.com/Jadequilin) | Criação dos #CNRF03 e #CNRF04 | [#CNRF03](#cnfr03---acessibilidade-para-idosos-e-pcds), [#CNRF04](#cnfr04---performance-em-dispositivos-antigos ) |
 | [Nayra Nery](https://github.com/NayraNery127) | Criação dos #CNRF05 e #CNRF06 | [#CNRF05](#cnrf05---feedback-visual-imediato-ao-adicionar-aposta), [#CNRF06](#cnrf06---expiração-automática-de-sessão-por-inatividade) |
+| [Miqueias Ezequiel](https://github.com/Kael-web7) | Criação dos #CNRF07 e #CNRF08 | [#CNRF07](#CNRF07---Navegação-Intuitiva-e-Fluidez-da-Experiência), [#CNRF08](#CNRF08--- Desempenho-e-Agilidade-na-Exibição-de-Resultados) |
 
 
 nfr
@@ -126,6 +127,37 @@ Autor: [Nayra Nery](https://github.com/NayraNery127)
 | **Conflitos**           | [RNF03](../../Elicitação/Requisitos%20Elicitados.md) - Persistência de dados temporários pode impedir o encerramento completo da sessão |
 | **História**            | Criado em 20/10/2025 |
 
+# CNRF07 - Navegação Intuitiva e Fluidez da Experiência
+Autor: [Miqueias Ezequiel](https://github.com/Kael-web7)
+
+| **Campo** | **Detalhamento** |
+| --- | --- |
+| **Nr Requisito** | NFR03 |
+| **Classificação** | Usabilidade |
+| **Descrição** | A navegação entre a seleção de jogos, o preenchimento do volante e o carrinho de compras deve ser intuitiva, permitindo que o usuário conclua o processo em no máximo 3 toques. |
+| **Justificativa** | Uma navegação simplificada aumenta a eficiência da interação e reduz erros do usuário, resultando em uma melhor experiência e maior engajamento com o aplicativo. |
+| **Origem** | RNF03 |
+| **Critério de Ajuste** | - No máximo 3 toques para completar o fluxo de aposta - Transição entre telas ≤ 1,5s - Interface responsiva e consistente entre dispositivos |
+| **Dependências** | - |
+| **Prioridade** | 7 |
+| **Conflitos** | - |
+| **História** | Criado em 20/10/2025 |
+
+# CNRF08 - Desempenho e Agilidade na Exibição de Resultados
+Autor: [Miqueias Ezequiel](https://github.com/Kael-web7)
+
+| **Campo** | **Detalhamento** |
+| --- | --- |
+| **Nr Requisito** | NFR04 |
+| **Classificação** | Desempenho |
+| **Descrição** | O aplicativo deve carregar e exibir o resultado de uma loteria em menos de 3 segundos sob uma conexão móvel 4G ou 5G padrão. |
+| **Justificativa** | O tempo de carregamento afeta diretamente a percepção de qualidade e confiabilidade. Resultados lentos reduzem o engajamento e podem impactar negativamente a reputação do aplicativo. |
+| **Origem** | RNF04 |
+| **Critério de Ajuste** | - Tempo de carregamento ≤ 3s em 4G/5G - Utilização de cache para resultados recentes - Estável com até 3% de perda de pacotes |
+| **Dependências** | - |
+| **Prioridade** | 8 |
+| **Conflitos** | - |
+| **História** | Criado em 20/10/2025 |
 
 | Versão | Data       | Autor               | Descrição                                    | Revisor |
 |:--------:|:------------:|:---------------------:|:----------------------------------------------:|:---------:|
@@ -133,3 +165,4 @@ Autor: [Nayra Nery](https://github.com/NayraNery127)
 | ``1.1`` | 19/10/2025 | [João Pedro](https://github.com/Jadequilin) | Criação das CNRF's 3 e 4 | [Rivadalvio Joaquim](https://github.com/RivaFilho) |
 | ``1.2`` | 20/10/2025 | [Nayra Nery](https://github.com/NayraNery127) | Criação das CNRF's 5 e 6 | [Samuel Felipe](https://github.com/TerminaKng05) |
 | ``1.3`` | 20/10/2025 | [João Pedro](https://github.com/Jadequilin) | Validação das CNRF's 3 e 4 | [Rivadalvio Joaquim](https://github.com/RivaFilho) |
+| ``1.4`` | 20/10/2025 | [Miqueias Ezequiel](https://github.com/Kael-web7) | Validação das CNRF's 7 e 8 | [Luan Vinícius](https://github.com/luannvi) |

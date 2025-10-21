@@ -12,6 +12,8 @@ O Backlog é formado por dois tipos de elementos: épicos e temas. Enquanto as h
 |-------|-----------|------|
 | [Heyttor Augusto](https://github.com/H3ytt0r62) | Criação dos temas 1 e 2; crição dos epicos 1 e 2; BKL01 - 06 Criação da introdução,Validação | [#BKL01](#épico-1---interface-e-experienxia-do-usuario),[#BKl05](#épico-1---interface-e-experienxia-do-usuario),[#BKl03](#épico-1---interface-e-experienxia-do-usuario),[#BKL02](#épico-2---controle-de-dados),[#BKL04](#épico-2---controle-de-dados),[#BKL06](#épico-3---segurança) |
 | Autor: [João Pedro](https://github.com/Jadequilin) | Criação dos épicos 4 e 5 | [#BKL07](#épico-4---acessibilidade-e-usabilidade), [#BKL08](#épico-4---acessibilidade-e-usabilidade), [#BKL09](#épico-4---acessibilidade-e-usabilidade), [#BKL10](#épico-5---controle-e-segurança), [#BKL11](#épico-5---controle-e-segurança), [#BKL12](#épico-5---controle-e-segurança) |
+| Autor: [Miqueias Ezequiel](https://github.com/Kael-web7) | Criação dos épicos 7, 8 e 9 | [#BKL16](#épico-7---Funcionalidades-de-Apostas-e-Controle-do-Usuário), [#BKL17](#épico-7---Funcionalidades-de-Apostas-e-Controle-do-Usuário), [#BKL18](#épico-8---Segurança-e-Interação-com-o-Usuário), [#BKL19](#épico-8---Segurança-e-Interação-com-o-Usuário), [#BKL20](#épico-9---Transparência-e-Responsabilidade-Social), [#BKL21](#épico-9---Transparência-e-Responsabilidade-Social) |
+
 
 ## Metodologia
 
@@ -110,6 +112,35 @@ Este épico aborda histórias relacionadas ao desempenho do aplicativo e à esta
 | BKL14 | [#HU14 - Conexão Estável com Internet Móvel](../../Ágil/Histórias%20de%20usuário.md#hu14---conexão-estável-com-internet-móvel) | [#RNF12](../../Elicitação/Requisitos%20Elicitados.md) | Média |
 | BKL15 | [#HU15 - Transição de Telas Fluida](../../Ágil/Histórias%20de%20usuário.md#hu15---transição-de-telas-fluida) | [#RNF08](../../Elicitação/Requisitos%20Elicitados.md) | Alta |
 
+## **Épico 7 -Funcionalidades de Apostas e Controle do Usuário**
+Autor: [Miqueias Ezequiel](https://github.com/Kael-web7)
+
+Este épico abrange histórias relacionadas às ações que o usuário pode realizar dentro do aplicativo, como acompanhar os jogos em andamento e gerenciar suas apostas. O foco é garantir autonomia e praticidade no controle das apostas e resultados.
+
+| Id | História de Usuário | Requisito Trabalhado | Prioridade |
+| --- | --- | --- | --- |
+| **BKL16** | **HU19 - Acompanhar Jogos pelo Aplicativo** | **RF03** | Média |
+| **BKL17** | **HU20 - Cancelar Apostas Antes do Sorteio** | **RF28** | Alta |
+
+## **Épico 8 -Funcionalidades de Apostas e Controle do Usuário**
+Autor: [Miqueias Ezequiel](https://github.com/Kael-web7)
+
+Este épico reúne histórias que tratam da proteção da sessão do usuário e da comunicação visual durante o uso do aplicativo. Visa garantir segurança no acesso, bem como oferecer respostas visuais claras às ações realizadas.
+
+| Id | História de Usuário | Requisito Trabalhado | Prioridade |
+| --- | --- | --- | --- |
+| **BKL18** | **HU21 - Expiração Automática da Sessão** | **RNF10** | Alta |
+| **BKL19** | **HU22 - Feedback Visual ao Adicionar Aposta ao Carrinho** | **RNF09** | Média |
+
+## **Épico 9 -Funcionalidades de Apostas e Controle do Usuário**
+Autor: [Miqueias Ezequiel](https://github.com/Kael-web7)
+
+Este épico contempla funcionalidades que reforçam a credibilidade e o papel social das Loterias Caixa. Busca oferecer ao usuário acesso a informações oficiais sobre repasses sociais e transparência institucional, fortalecendo a confiança na plataforma.
+
+| Id | História de Usuário | Requisito Trabalhado | Prioridade |
+| --- | --- | --- | --- |
+| **BKL20** | **HU23 - Acesso ao Perfil do Usuário** | **RF10** | Média |
+| **BKL21** | **HU24 - Exibir Repasses Sociais das Loterias** | **RF04** | Média |
 
 ### Validação com o Usuário (Backlog - Épicos 4 e 5)
 
@@ -135,3 +166,4 @@ Serrano milene, Requisitos-aula 15 , Unb, Disponivel em:[Aqui](https://aprender3
 | ``1.1``    | 10/10/2025 | [João Pedro](https://github.com/Jadequilin)   | Épicos de 4 à 5 |[Rivadalvio Joaquim](https://github.com/RivaFilho)  |
 | ``1.2``    | 10/10/2025 | [João Pedro](https://github.com/Jadequilin)   | Validação dos Épicos de 4 à 5 |[Rivadalvio Joaquim](https://github.com/RivaFilho)  |
 | ``1.3``    | 20/10/2025 | [Nayra Nery](https://github.com/H3ytt0r62)   | Validação dos épicos 5 e 6 | [Samuel Felipe](https://github.com/TerminaKng05) |
+| ``1.4`` | 20/10/2025 | [Miqueias Ezequiel](https://github.com/Kael-web7) | Validação dos épicos 7-9 | [Luan Vinícius](https://github.com/luannvi) |

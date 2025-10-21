@@ -25,6 +25,7 @@ fonte: Repositorio Deepseek, Discipla de requisitos de software.
 |-------|-----------|------|
 | [Heyttor Augusto](https://github.com/H3ytt0r62) | Criação das historias HU1, HU2, HU3, HU4, HU5 e HU6, Criação da introdução,Validação HU01 - HU06 | [#HU01](#hu1---modo-claro-e-modo-escuro), [#HU02](#hu02---login),[#HU03](#hu03---resultado-das-apostas),[#HU04](#hu04---cadastro),[#HU05](#hu05---ultimo-resultado-de-cada-sorteio),[#HU06](#hu06---comprovamente-de-pagamento),[Validação HU01-6](#validação-hu01---hu06) |
 | [Nayra Nery](https://github.com/NayraNery127) | Criação das histórias HU13, HU14, HU15, HU16, HU17 e HU18 | [#HU13](#hu13---imagens-explicativas-no-aplicativo), [#HU14](#hu14---verificação-de-identidade-no-login), [#HU15](#hu15---exibir-tipos-de-loteria-disponíveis), [#HU16](#hu16---consultar-ganhos), [#HU17](#hu17---pagamento-com-carteiras-digitais), [#HU18](#hu18---exibir-último-resultado-do-sorteio) |
+| [Miqueias Ezequiel](https://github.com/Kael-web7) | Criação das histórias HU19, HU20, HU21, HU22, HU23 e HU24 | [#HU19](#hu19---Acompanhar-Jogos-pelo-Aplicativo), [#HU20](#hu20---Cancelar-Apostas-Antes-do-Sorteio), [#HU21](#hu21---Expiração-Automática-da-Sessão), [#HU22](#hu22---Feedback-Visual-ao-Adicionar-Aposta-ao-Carrinho), [#HU23](#hu23---Acesso-ao-Perfil-do-Usuário), [#HU24](#hu24---Exibir-Repasses-Sociais-das-Loterias) |
 
 
 
@@ -289,10 +290,84 @@ Autor: [Nayra Nery](https://github.com/NayraNery127)
 | **Prioridade** | Média |
 | **Status** | Implementado |
 
+## HU19 - Acompanhar Jogos pelo Aplicativo
+Autor: [Miqueias Ezequiel](https://github.com/Kael-web7)
+
+| Campo | Detalhamento |
+| --- | --- |
+| **ID** | HU19 |
+| **Título** | Acompanhar Jogos pelo Aplicativo |
+| **Descrição** | Como usuário, quero acompanhar em tempo real os jogos que participei, para verificar os resultados e desempenho das minhas apostas sem precisar acessar outros meios. |
+| **Critérios de Aceitação** | - O aplicativo deve listar os jogos em andamento.- Deve ser possível visualizar o progresso e o status de cada jogo.- Atualizações automáticas a cada sorteio. |
+| **Rastreabilidade** | [RF03](../../Elicitação/Requisitos%20Elicitados.md)|
+| **Prioridade** | Média |
+| **Status** | Não Implementado |
+
+## HU20 - Cancelar Apostas Antes do Sorteio
+Autor: [Miqueias Ezequiel](https://github.com/Kael-web7)
+
+| Campo | Detalhamento |
+| --- | --- |
+| **ID** | HU20 |
+| **Título** | Cancelar Apostas Antes do Sorteio |
+| **Descrição** | Como usuário, quero poder cancelar uma aposta antes do sorteio, caso eu mude de ideia ou perceba que fiz uma seleção incorreta. |
+| **Critérios de Aceitação** | - Deve haver um botão “Cancelar aposta” em “Minhas Apostas”.- Cancelamento permitido apenas antes do sorteio.- O sistema deve confirmar o cancelamento com mensagem de sucesso. |
+| **Rastreabilidade** | [RF28](../../Elicitação/Requisitos%20Elicitados.md)|
+| **Prioridade** | Alta |
+| **Status** | Não Implementado |
+
+## HU21 - Expiração Automática da Sessão
+Autor: [Miqueias Ezequiel](https://github.com/Kael-web7)
+
+| Campo | Detalhamento |
+| --- | --- |
+| **ID** | HU21 |
+| **Título** | Expiração Automática da Sessão |
+| **Descrição** | Como usuário, quero que minha sessão expire automaticamente após um tempo de inatividade, para proteger minhas informações pessoais e financeiras. |
+| **Critérios de Aceitação** | - A sessão deve expirar após 15 minutos sem atividade.- O sistema deve redirecionar para a tela de login ao expirar.- Uma mensagem deve informar o motivo do encerramento. |
+| **Rastreabilidade** | [RNF10](../../Elicitação/Requisitos%20Elicitados.md)|
+| **Prioridade** | Alta |
+| **Status** | Implementado |
+
+## HU22 - Feedback Visual ao Adicionar Aposta ao Carrinho
+Autor: [Miqueias Ezequiel](https://github.com/Kael-web7)
+
+| Campo | Detalhamento |
+| --- | --- |
+| **ID** | HU22 |
+| **Título** | Feedback Visual ao Adicionar Aposta ao Carrinho |
+| **Descrição** | Como usuário, quero ver um feedback visual imediato quando adiciono uma aposta ao carrinho, para confirmar que a ação foi realizada com sucesso. |
+| **Critérios de Aceitação** | - Animação ou destaque visual deve aparecer ao adicionar a aposta.- Um contador no ícone do carrinho deve atualizar automaticamente.- Mensagem de confirmação visível na tela. |
+| **Rastreabilidade** | [RFN09](../../Elicitação/Requisitos%20Elicitados.md)|
+| **Prioridade** | Média |
+| **Status** | Implementado |
+
+## HU23 - Acesso ao Perfil do Usuário
+Autor: [Miqueias Ezequiel](https://github.com/Kael-web7)
+
+| Campo | Detalhamento |
+| --- | --- |
+| **ID** | HU23 |
+| **Título** | Acesso ao Perfil do Usuário |
+| **Descrição** | Como usuário, quero acessar meu perfil dentro do aplicativo, para visualizar e editar meus dados pessoais e preferências de uso. |
+| **Critérios de Aceitação** | - Deve existir uma aba “Meu Perfil” no menu principal.- O usuário deve poder alterar e salvar suas informações.- O sistema deve validar os campos obrigatórios. |
+| **Rastreabilidade** | [RF10](../../Elicitação/Requisitos%20Elicitados.md)|
+| **Prioridade** | Média |
+| **Status** | Implementado |
 
 
+## HU24 - Exibir Repasses Sociais das Loterias
+Autor: [Miqueias Ezequiel](https://github.com/Kael-web7)
 
-
+| Campo | Detalhamento |
+| --- | --- |
+| **ID** | HU24 |
+| **Título** | Exibir Repasses Sociais das Loterias |
+| **Descrição** | Como usuário, quero visualizar na aba “Repasses Sociais” os valores destinados a programas sociais, para entender o impacto das loterias na sociedade. |
+| **Critérios de Aceitação** | - O aplicativo deve mostrar valores e destinos dos repasses sociais.- Os dados devem ser atualizados periodicamente.- A aba deve ser acessível a partir do menu principal. |
+| **Rastreabilidade** | [RF04](../../Elicitação/Requisitos%20Elicitados.md)|
+| **Prioridade** | Média |
+| **Status** | Implementado |
 
 # Versionamento
 
@@ -302,6 +377,7 @@ Autor: [Nayra Nery](https://github.com/NayraNery127)
 | ``1.1``    | 19/10/2025 | [João Pedro](https://github.com/Jadequilin)   |Histórias de usuário de 7 à 12 |[Rivadalvio Joaquim](https://github.com/RivaFilho)  |
 | ``1.2``    | 20/10/2025 | [Nayra Nery](https://github.com/NayraNery127)   |Histórias de usuário de 12 à 18 | [Samuel Felipe](https://github.com/TerminaKng05) |
 | ``1.3``    | 20/10/2025 | [João Pedro](https://github.com/Jadequilin)   |Validação das Histórias de usuário de 7 à 12 |[Rivadalvio Joaquim](https://github.com/RivaFilho)  |
+| ``1.4`` | 20/10/2025 | [Miqueias Ezequiel](https://github.com/Kael-web7) | Validação das Histórias de usuario de 19-24| [Luan Vinícius](https://github.com/luannvi) |
 
 ## Referencias Bibliograficas
 
