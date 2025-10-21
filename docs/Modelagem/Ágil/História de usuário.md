@@ -34,6 +34,10 @@ Foram feitas validações com os usuarios sobreas historias criadas pelos estuda
 
 ## Validação #Hu01 - #HU06
 
+Foram realizadas no dia 20/10/2025 pelo estudante heyttor augusto e o usuario Marcio junio
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gEDrCnwJu9w?si=F2vi5zKmEGp1UM-I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## **Historias de usuários**
 
 ## HU01 - Modo Claro e modo Escuro

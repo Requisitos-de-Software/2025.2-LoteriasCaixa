@@ -7,6 +7,15 @@
 | [Nayra Nery](https://github.com/NayraNery127) | Criação dos #CNRF05 e #CNRF06 | [#CNRF05](#cnrf05---feedback-visual-imediato-ao-adicionar-aposta), [#CNRF06](#cnrf06---expiração-automática-de-sessão-por-inatividade) |
 
 
+nfr
+
+## Validação  # CNRF01 e #CNRF02
+
+Foram realizadas no dia 20/10/2025 pelo estudante heyttor augusto e o usuario Marcio junio
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z9bhFri5GDw?si=J6dpVoajbVbWzEEp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 
 # CNRF01 -O software deve ter telas simples com poucos textos
 Autor:  [Heyttor Augusto](https://github.com/H3ytt0r62)

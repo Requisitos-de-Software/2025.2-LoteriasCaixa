@@ -22,6 +22,13 @@ Para a formulação do backlog, foram usados o artefato [Historias de usuario](H
 
 Foram feitas validações com os usuarios sobreas historias criadas pelos estudantes, nas quais estão disponiveis como não listadas no youtube, todos os participantes deram concentimento das gravações.
 
+## Validação backlog bkl01 a bkl06
+Foram realizadas no dia 20/10/2025 pelo estudante heyttor augusto e o usuario Marcio junio
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jAkOL_vkxjc?si=SZNuKUha4e54RFJo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
 ## **Temas**
 
 Ao analizar as historias de usuario foi possivel notar os seguintes temas:
