@@ -14,9 +14,8 @@ O Backlog é formado por dois tipos de elementos: épicos e temas. Enquanto as h
 | Autor: [João Pedro](https://github.com/Jadequilin) | Criação dos épicos 3 e 4 | [#BKL07](#épico-4---acessibilidade-e-usabilidade), [#BKL08](#épico-4---acessibilidade-e-usabilidade), [#BKL09](#épico-4---acessibilidade-e-usabilidade), [#BKL10](#épico-5---controle-e-segurança), [#BKL11](#épico-5---controle-e-segurança), [#BKL12](#épico-5---controle-e-segurança) |
 | Autor: [Miqueias Ezequiel](https://github.com/Kael-web7) | Criação dos épicos 7, 8 e 9 | [#BKL16](#épico-7---Funcionalidades-de-Apostas-e-Controle-do-Usuário), [#BKL17](#épico-7---Funcionalidades-de-Apostas-e-Controle-do-Usuário), [#BKL18](#épico-8---Segurança-e-Interação-com-o-Usuário), [#BKL19](#épico-8---Segurança-e-Interação-com-o-Usuário), [#BKL20](#épico-9---Transparência-e-Responsabilidade-Social), [#BKL21](#épico-9---Transparência-e-Responsabilidade-Social) |
 | Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho) | Criação do épico 10 | [#BKL22](#épico-10---gestão-de-conta-e-personalização), [#BKL23](#épico-10---gestão-de-conta-e-personalização), [#BKL24](#épico-10---gestão-de-conta-e-personalização), [#BKL25](#épico-10---gestão-de-conta-e-personalização), [#BKL26](#épico-10---gestão-de-conta-e-personalização), [#BKL27](#épico-10---gestão-de-conta-e-personalização) |
+| Autor: [Nayra Nery](https://github.com/NayraNery127) | Criação do Épico 5 | [#BKL13](#épico-5---desempenho-e-estabilidade), [#BKL14](#épico-5---desempenho-e-estabilidade), [#BKL15](#épico-5---desempenho-e-estabilidade) |
 
-
-## Metodologia
 
 Para a formulação do backlog, foram usados o artefato [Historias de usuario](História%20de%20usuário.md), a partir delas foram criados os temas e épicos na qual essas historias poderiam ser classificadas, assim, cada historia que representa um requisito implementado ou não pelo loterias caixa se enquadra em um dos epicos criados, para a priorização delas foi usada mesma tecnica do artefato [3 leveis de escala](../../Elicitação/Priorização/Three%20level%20scale.md)
 
@@ -132,9 +131,10 @@ Este épico aborda histórias relacionadas ao desempenho do aplicativo e à esta
 
 | **Id** | **História de Usuário** | **Requisito Trabalhado** | **Prioridade** |
 |--------|--------------------------|---------------------------|----------------|
-| BKL13 | [#HU13 - Performance em Dispositivos Antigos](../../Ágil/Histórias%20de%20usuário.md#hu13---performance-em-dispositivos-antigos) | [#RNF11](../../Elicitação/Requisitos%20Elicitados.md) | Média |
-| BKL14 | [#HU14 - Conexão Estável com Internet Móvel](../../Ágil/Histórias%20de%20usuário.md#hu14---conexão-estável-com-internet-móvel) | [#RNF12](../../Elicitação/Requisitos%20Elicitados.md) | Média |
-| BKL15 | [#HU15 - Transição de Telas Fluida](../../Ágil/Histórias%20de%20usuário.md#hu15---transição-de-telas-fluida) | [#RNF08](../../Elicitação/Requisitos%20Elicitados.md) | Alta |
+| BKL13 | [#HU13 - Performance em Dispositivos Antigos](../../Modelagem/Historias%20de%20Usuário.md#hu13---performance-em-dispositivos-antigos) | [#RNF22](../../Elicitação/Requisitos%20Elicitados.md#rnf22---o-aplicativo-ainda-apresenta-lentidão-em-aparelhos-de-smartphones-antigos) | Média |
+| BKL14 | [#HU14 - Conexão Estável com Internet Móvel](../../Modelagem/Historias%20de%20Usuário.md#hu14---conexão-estável-com-internet-móvel) | [#RNF23](../../Elicitação/Requisitos%20Elicitados.md#rnf23---o-aplicativo-ainda-apresenta-problemas-de-desconexão-ao-se-conectar-em-internet-4g5g) | Média |
+| BKL15 | [#HU15 - Transição de Telas Fluida](../../Modelagem/Historias%20de%20Usuário.md#hu15---transição-de-telas-fluida) | [#RNF08](../../Elicitação/Requisitos%20Elicitados.md#rnf08---a-transição-de-telas-durante-o-fluxo-de-aposta-deve-ser-fluida-e-sem-travamentos-perceptíveis) | Alta |
+
 
 ## **Épico 6 -Controle do Usuário**
 Autor: [Miqueias Ezequiel](https://github.com/Kael-web7)
@@ -196,4 +196,5 @@ Serrano milene, Requisitos-aula 15 , Unb, Disponivel em:[Aqui](https://aprender3
 | ``1.3``    | 20/10/2025 | [Nayra Nery](https://github.com/H3ytt0r62)   | Validação dos épicos 5 e 6 | [Samuel Felipe](https://github.com/TerminaKng05) |
 | ``1.4`` | 20/10/2025 | [Miqueias Ezequiel](https://github.com/Kael-web7) | Validação dos épicos 7-9 | [Luan Vinícius](https://github.com/luannvi) |
 |  `1.5` | 20/10/2025 | [Rivadalvio Joaquim](https://github.com/RivaFilho) | Criação do Épico 10| [João Pedro](https://github.com/Jadequilin)|
+| ``1.6``    | 21/10/2025 | [Nayra Nery](https://github.com/H3ytt0r62)   | Correção do épico 5 | [Samuel Felipe](https://github.com/TerminaKng05) |
 
