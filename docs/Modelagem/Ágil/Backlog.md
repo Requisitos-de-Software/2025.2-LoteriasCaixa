@@ -99,6 +99,18 @@ Este épico trata de funcionalidades de controle financeiro, segurança e gestã
 | BKL11 | [#HU11 - Filtro de Apostas Premiadas](./História%20de%20usuário.md/#hu11---filtro-de-apostas-premiadas) | [#RNF07](../../Elicitação/Requisitos%20Elicitados.md) | Média |
 | BKL12 | [#HU12 - Alertas de Apostas Premiadas](./História%20de%20usuário.md/#hu12---alertas-de-apostas-premiadas) | [#RNF08](../../Elicitação/Requisitos%20Elicitados.md) | Média |
 
+## Épico 6 - Desempenho e Estabilidade
+**Autora:** [Nayra Nery](https://github.com/NayraNery127)
+
+Este épico aborda histórias relacionadas ao desempenho do aplicativo e à estabilidade de suas funcionalidades, garantindo fluidez, compatibilidade e eficiência durante o uso.
+
+| **Id** | **História de Usuário** | **Requisito Trabalhado** | **Prioridade** |
+|--------|--------------------------|---------------------------|----------------|
+| BKL13 | [#HU13 - Performance em Dispositivos Antigos](../../Ágil/Histórias%20de%20usuário.md#hu13---performance-em-dispositivos-antigos) | [#RNF11](../../Elicitação/Requisitos%20Elicitados.md) | Média |
+| BKL14 | [#HU14 - Conexão Estável com Internet Móvel](../../Ágil/Histórias%20de%20usuário.md#hu14---conexão-estável-com-internet-móvel) | [#RNF12](../../Elicitação/Requisitos%20Elicitados.md) | Média |
+| BKL15 | [#HU15 - Transição de Telas Fluida](../../Ágil/Histórias%20de%20usuário.md#hu15---transição-de-telas-fluida) | [#RNF08](../../Elicitação/Requisitos%20Elicitados.md) | Alta |
+
+
 ### Validação com o Usuário (Backlog - Épicos 4 e 5)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g759I0S9z4c?si=OE-WfJr6CxdzlEdw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -122,3 +134,4 @@ Serrano milene, Requisitos-aula 15 , Unb, Disponivel em:[Aqui](https://aprender3
 | ``1.0``    | 10/10/2025 | [Heyttor Augusto](https://github.com/H3ytt0r62)   | Criação da página backlog | [Samuel Felipe](https://github.com/TerminaKng05) |
 | ``1.1``    | 10/10/2025 | [João Pedro](https://github.com/Jadequilin)   | Épicos de 4 à 5 |[Rivadalvio Joaquim](https://github.com/RivaFilho)  |
 | ``1.2``    | 10/10/2025 | [João Pedro](https://github.com/Jadequilin)   | Validação dos Épicos de 4 à 5 |[Rivadalvio Joaquim](https://github.com/RivaFilho)  |
+| ``1.3``    | 20/10/2025 | [Nayra Nery](https://github.com/H3ytt0r62)   | Validação dos épicos 5 e 6 | [Samuel Felipe](https://github.com/TerminaKng05) |
