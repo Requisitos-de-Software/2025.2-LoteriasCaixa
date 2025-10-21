@@ -51,7 +51,7 @@ Foram realizadas no dia 20/10/2025 pelo estudante heyttor augusto e o usuario Ma
 | Participante | Função | Data | Horário | Local |
 | ------------ | ----- | ----- | ------ | -------|
 | [Luan Vinícius](https://github.com/luannvi) | Integrante do grupo, responsável por coordenar a validação com o usuário. | 21/10/2025 | 17:04 | Presencial
-| Matheus Queiroz | 20 anos, estudante de engenharia de software e usuário do app Loterias Caixa, responsável por validar as backlogs. | 21/10/2025 | 17:04 | Presencial |
+| Matheus Queiroz | 20 anos, estudante de engenharia de software e usuário do app Loterias Caixa, responsável por validar os backlogs. | 21/10/2025 | 17:04 | Presencial |
 
 ## **Temas**
 
