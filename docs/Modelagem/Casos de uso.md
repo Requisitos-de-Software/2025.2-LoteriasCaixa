@@ -120,3 +120,4 @@ As tabelas de 2 a 6 apresentam as especializações dos casos de uso mostrados n
 | ``1.0`` | 11/10/2025 | [Samuel Felipe](https://github.com/TerminaKng05) | Adição inicial das informações e legenda do diagrama. | [Heyttor Augusto](https://github.com/H3ytt0r62) |
 | ``1.1`` | 11/10/2025 | [Samuel Felipe](https://github.com/TerminaKng05) | Adição da Introdução, Metodologia, Diagrama de caso de uso, Especialização, Referências Bibliográficas e Bibliografia. Alteração na legenda do diagrama | [Luan Vinícius](https://github.com/luannvi) |
 | ``1.2`` | 12/10/2025 | [Samuel Felipe](https://github.com/TerminaKng05) | Adição de informação nas tabelas de especialização dos casos de uso | [Heyttor Augusto](https://github.com/H3ytt0r62) |
+| ``1.3``    | 21/10/2025 | [João Pedro](https://github.com/Jadequilin)   | Correção dos IDs de referência à requisitos |[Rivadalvio Joaquim](https://github.com/RivaFilho)  |
