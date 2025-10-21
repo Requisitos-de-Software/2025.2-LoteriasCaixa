@@ -107,7 +107,7 @@ Esses rótulos são ilustrados na Figura 5.
 | [Nayra Nery](https://github.com/NayraNery127) | Criação dos CNFR05 e CNFR06 | [CNFR05](#CNFR05), [CNFR06](#CNFR06) |
 | [Miqueias Ezequiel](https://github.com/Kael-web7) | Criação dos CNFR07 e CNFR08 | [CNFR07](#CNFR07), [CNFR08](#CNFR08) |
 | [Luan Vinícius](https://github.com/luannvi) | Criação dos CNFR09, CNFR10 e CNFR11 | [CNFR09](#CNFR09), [CNFR10](#CNFR10), [CNFR11](#CNFR11) |
-| [Rivadalvio Joaquim](https://github.com/RivaFilho) | Criação dos CNRF12 e CNRF13 | [CNFR12](#CNFR12), [CNFR13](#CNFR13) |
+| [Rivadalvio Joaquim](https://github.com/RivaFilho) | Criação dos CNFR12 e CNFR13 | [CNFR12](#CNFR12), [CNFR13](#CNFR13) |
 
 ## Lista de Requisitos
 
@@ -328,38 +328,39 @@ Autor: [Luan Vinícius](https://github.com/luannvi)
 | **História** | Criado em 21/10/2025 |
 
 <a id="CNFR12"></a>
-## CNRF12 - Compatibilidade Multiplataforma
+## CNFR12 - Compatibilidade Multiplataforma
 Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 
 | **Campo**              | **Detalhamento** |
 |-------------------------|------------------|
-| **Nr Requisito**        | NFR12 |
+| **Nr Requisito**        | CNFR12 |
 | **Classificação**       | Compatibilidade |
 | **Descrição**           | O sistema deve funcionar de forma consistente e com a mesma qualidade em dispositivos Android e iOS, mantendo todas as funcionalidades principais em ambas as plataformas. |
 | **Justificativa**       | Garantir que todos os usuários, independente do sistema operacional, tenham acesso às mesmas funcionalidades e qualidade de experiência, ampliando o alcance do aplicativo. |
-| **Origem**              | [RNF13](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Origem**              | [RNF31](../../Elicitação/Requisitos%20Elicitados.md) |
 | **Critério de Ajuste**  | - Funcionalidades idênticas em Android e iOS<br>- Interface adaptada às diretrizes de cada plataforma<br>- Atualizações lançadas simultaneamente<br>- Performance similar em dispositivos equivalentes |
-| **Dependências**        | [RNF11](../../Elicitação/Requisitos%20Elicitados.md), [RNF12](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Dependências**        | [RNF32](../../Elicitação/Requisitos%20Elicitados.md), [RNF33](../../Elicitação/Requisitos%20Elicitados.md) |
 | **Prioridade**          | 7 |
 | **Conflitos**           | [RNF02](../../Elicitação/Requisitos%20Elicitados.md) - Recursos específicos de plataforma podem limitar a uniformidade |
 | **História**            | Criado em 20/10/2025 |
 
 <a id="CNFR13"></a>
-## CNRF13 - Tutorial Interativo e Onboarding
+## CNFR13 - Tutorial Interativo e Onboarding
 Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 
 | **Campo**              | **Detalhamento** |
 |-------------------------|------------------|
-| **Nr Requisito**        | NFR13 |
+| **Nr Requisito**        | CNFR13 |
 | **Classificação**       | Usabilidade |
 | **Descrição**           | O sistema deve oferecer um tutorial interativo para novos usuários, explicando as funcionalidades principais de forma clara e objetiva, com opção de pular e revisitar posteriormente. |
 | **Justificativa**       | Reduz a curva de aprendizado para novos usuários, aumenta a retenção e garante que todas as funcionalidades sejam conhecidas e utilizadas adequadamente. |
-| **Origem**              | [RNF14](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Origem**              | [RNF32](../../Elicitação/Requisitos%20Elicitados.md) |
 | **Critério de Ajuste**  | - Tutorial exibido na primeira execução<br>- Cobertura de pelo menos 80% das funcionalidades principais<br>- Duração máxima de 3 minutos<br>- Opção de pular e acessar depois via menu de ajuda |
 | **Dependências**        | [RNF03](../../Elicitação/Requisitos%20Elicitados.md), [RNF01](../../Elicitação/Requisitos%20Elicitados.md) |
 | **Prioridade**          | 5 |
 | **Conflitos**           | [RNF08](../../Elicitação/Requisitos%20Elicitados.md) - Conteúdo adicional pode impactar performance inicial |
 | **História**            | Criado em 20/10/2025 |
+
 
 ## Referência Bibliográfica
 
