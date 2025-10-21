@@ -6,6 +6,7 @@
 | [João Pedro](https://github.com/Jadequilin) | Criação dos #CNRF03 e #CNRF04 | [#CNRF03](#cnfr03---acessibilidade-para-idosos-e-pcds), [#CNRF04](#cnfr04---performance-em-dispositivos-antigos ) |
 | [Nayra Nery](https://github.com/NayraNery127) | Criação dos #CNRF05 e #CNRF06 | [#CNRF05](#cnrf05---feedback-visual-imediato-ao-adicionar-aposta), [#CNRF06](#cnrf06---expiração-automática-de-sessão-por-inatividade) |
 | [Miqueias Ezequiel](https://github.com/Kael-web7) | Criação dos #CNRF07 e #CNRF08 | [#CNRF07](#CNRF07---Navegação-Intuitiva-e-Fluidez-da-Experiência), [#CNRF08](#CNRF08--- Desempenho-e-Agilidade-na-Exibição-de-Resultados) |
+| [Rivadalvio Joaquim](https://github.com/RivaFilho) | Criação dos #CNRF09 e #CNRF10 | [#CNRF09](#cnrf09---compatibilidade-multiplataforma), [#CNRF10](#cnrf10---tutorial-interativo-e-onboarding) |
 
 
 nfr
@@ -159,6 +160,39 @@ Autor: [Miqueias Ezequiel](https://github.com/Kael-web7)
 | **Conflitos** | - |
 | **História** | Criado em 20/10/2025 |
 
+# CNRF09 - Compatibilidade Multiplataforma
+Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
+
+| **Campo**              | **Detalhamento** |
+|-------------------------|------------------|
+| **Nr Requisito**        | NFR09 |
+| **Classificação**       | Compatibilidade |
+| **Descrição**           | O sistema deve funcionar de forma consistente e com a mesma qualidade em dispositivos Android e iOS, mantendo todas as funcionalidades principais em ambas as plataformas. |
+| **Justificativa**       | Garantir que todos os usuários, independente do sistema operacional, tenham acesso às mesmas funcionalidades e qualidade de experiência, ampliando o alcance do aplicativo. |
+| **Origem**              | [RNF13](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Critério de Ajuste**  | - Funcionalidades idênticas em Android e iOS<br>- Interface adaptada às diretrizes de cada plataforma<br>- Atualizações lançadas simultaneamente<br>- Performance similar em dispositivos equivalentes |
+| **Dependências**        | [RNF11](../../Elicitação/Requisitos%20Elicitados.md), [RNF12](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Prioridade**          | 7 |
+| **Conflitos**           | [RNF02](../../Elicitação/Requisitos%20Elicitados.md) - Recursos específicos de plataforma podem limitar a uniformidade |
+| **História**            | Criado em 20/10/2025 |
+
+# CNRF10 - Tutorial Interativo e Onboarding
+Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
+
+| **Campo**              | **Detalhamento** |
+|-------------------------|------------------|
+| **Nr Requisito**        | NFR10 |
+| **Classificação**       | Usabilidade |
+| **Descrição**           | O sistema deve oferecer um tutorial interativo para novos usuários, explicando as funcionalidades principais de forma clara e objetiva, com opção de pular e revisitar posteriormente. |
+| **Justificativa**       | Reduz a curva de aprendizado para novos usuários, aumenta a retenção e garante que todas as funcionalidades sejam conhecidas e utilizadas adequadamente. |
+| **Origem**              | [RNF14](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Critério de Ajuste**  | - Tutorial exibido na primeira execução<br>- Cobertura de pelo menos 80% das funcionalidades principais<br>- Duração máxima de 3 minutos<br>- Opção de pular e acessar depois via menu de ajuda |
+| **Dependências**        | [RNF03](../../Elicitação/Requisitos%20Elicitados.md), [RNF01](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Prioridade**          | 5 |
+| **Conflitos**           | [RNF08](../../Elicitação/Requisitos%20Elicitados.md) - Conteúdo adicional pode impactar performance inicial |
+| **História**            | Criado em 20/10/2025 |
+
+
 | Versão | Data       | Autor               | Descrição                                    | Revisor |
 |:--------:|:------------:|:---------------------:|:----------------------------------------------:|:---------:|
 | ``1.0``    | 19/10/2025 | [Heyttor Augusto](https://github.com/H3ytt0r62)   | Criação da NFR e adição de alguns| [Samuel Felipe](https://github.com/TerminaKng05) |
@@ -166,3 +200,4 @@ Autor: [Miqueias Ezequiel](https://github.com/Kael-web7)
 | ``1.2`` | 20/10/2025 | [Nayra Nery](https://github.com/NayraNery127) | Criação das CNRF's 5 e 6 | [Samuel Felipe](https://github.com/TerminaKng05) |
 | ``1.3`` | 20/10/2025 | [João Pedro](https://github.com/Jadequilin) | Validação das CNRF's 3 e 4 | [Rivadalvio Joaquim](https://github.com/RivaFilho) |
 | ``1.4`` | 20/10/2025 | [Miqueias Ezequiel](https://github.com/Kael-web7) | Validação das CNRF's 7 e 8 | [Luan Vinícius](https://github.com/luannvi) |
+| ``1.5`` | 20/10/2025 | [Rivadalvio Joaquim](https://github.com/RivaFilho) | Criação das CNRF's 9 e 10 | [João Pedro](https://github.com/Jadequilin) |
