@@ -102,8 +102,8 @@ Esses rótulos são ilustrados na Figura 5.
 
 | Aluno | Descrição | Links|
 |-------|-----------|------|
-| [Heyttor Augusto](https://github.com/H3ytt0r62) | Criação dos CNFR01 e CNFR02 e dos graficos de desempenho e usabilidade  | [CNFR01](#CNFR01), [CNFR02](#CNFR02) |
-| [João Pedro](https://github.com/Jadequilin) | Criação dos CNFR03 e CNFR04 | [CNFR03](#CNFR03), [CNFR04](#CNFR04) |
+| [Heyttor Augusto](https://github.com/H3ytt0r62) | Criação dos CNFR01, CNFR02 e os diagramas de desempenho e usabilidade  | [CNFR01](#CNFR01), [CNFR02](#CNFR02) |
+| [João Pedro](https://github.com/Jadequilin) | Criação dos CNFR03, CNFR04 e os diagramas de compatibilidade e segurança | [CNFR03](#CNFR03), [CNFR04](#CNFR04) |
 | [Nayra Nery](https://github.com/NayraNery127) | Criação dos CNFR05 e CNFR06 | [CNFR05](#CNFR05), [CNFR06](#CNFR06) |
 | [Miqueias Ezequiel](https://github.com/Kael-web7) | Criação dos CNFR07 e CNFR08 | [CNFR07](#CNFR07), [CNFR08](#CNFR08) |
 | [Luan Vinícius](https://github.com/luannvi) | Criação dos CNFR09, CNFR10 e CNFR11 | [CNFR09](#CNFR09), [CNFR10](#CNFR10), [CNFR11](#CNFR11) |
@@ -169,7 +169,7 @@ Autor: [João Pedro](https://github.com/Jadequilin)
 | **Classificação**       | Usabilidade/Acessibilidade |
 | **Descrição**           | O sistema deve ser acessível para idosos e pessoas com deficiência visual, com texto aumentável, alto contraste e compatibilidade com leitores de tela. |
 | **Justificativa**       | Inclusão digital e conformidade com leis de acessibilidade; atendimento a usuários com baixa visão ou limitações motoras. |
-| **Origem**              | [RF12](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Origem**              | [RF33](../../Elicitação/Requisitos%20Elicitados.md) |
 | **Critério de Ajuste**  | - Texto aumentável em 200%<br>- Contraste mínimo 7:1<br>- Compatível com VoiceOver/TalkBack<br>- Navegação por voz funcional |
 | **Dependências**        | [RNF11](../../Elicitação/Requisitos%20Elicitados.md) |
 | **Prioridade**          | 6 |
@@ -186,7 +186,7 @@ Autor: [João Pedro](https://github.com/Jadequilin)
 | **Classificação**       | Desempenho |
 | **Descrição**           | O sistema deve funcionar adequadamente em dispositivos Android/iOS com mais de 3 anos, mesmo com hardware limitado e conexões instáveis. |
 | **Justificativa**       | Grande parcela de usuários possui dispositivos antigos; performance ruim leva ao abandono do aplicativo. |
-| **Origem**              | [RNF11](../../Elicitação/Requisitos%20Elicitados.md), [RNF12](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Origem**              | [RNF22](../../Elicitação/Requisitos%20Elicitados.md), [RNF23](../../Elicitação/Requisitos%20Elicitados.md) |
 | **Critério de Ajuste**  | - Funcionamento em Android 8+ e iOS 12+<br>- Uso de RAM ≤150MB<br>- Carregamento ≤5s em 3G<br>- Estável com 3% de perda de pacotes |
 | **Dependências**        | [RNF04](../../Elicitação/Requisitos%20Elicitados.md), [RNF08](../../Elicitação/Requisitos%20Elicitados.md) |
 | **Prioridade**          | 7 |
@@ -331,7 +331,7 @@ Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 | **Classificação**       | Compatibilidade |
 | **Descrição**           | O sistema deve funcionar de forma consistente e com a mesma qualidade em dispositivos Android e iOS, mantendo todas as funcionalidades principais em ambas as plataformas. |
 | **Justificativa**       | Garantir que todos os usuários, independente do sistema operacional, tenham acesso às mesmas funcionalidades e qualidade de experiência, ampliando o alcance do aplicativo. |
-| **Origem**              | [RNF13](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Origem**              | [RNF12](../../Elicitação/Requisitos%20Elicitados.md) |
 | **Critério de Ajuste**  | - Funcionalidades idênticas em Android e iOS<br>- Interface adaptada às diretrizes de cada plataforma<br>- Atualizações lançadas simultaneamente<br>- Performance similar em dispositivos equivalentes |
 | **Dependências**        | [RNF11](../../Elicitação/Requisitos%20Elicitados.md), [RNF12](../../Elicitação/Requisitos%20Elicitados.md) |
 | **Prioridade**          | 7 |
@@ -348,7 +348,7 @@ Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 | **Classificação**       | Usabilidade |
 | **Descrição**           | O sistema deve oferecer um tutorial interativo para novos usuários, explicando as funcionalidades principais de forma clara e objetiva, com opção de pular e revisitar posteriormente. |
 | **Justificativa**       | Reduz a curva de aprendizado para novos usuários, aumenta a retenção e garante que todas as funcionalidades sejam conhecidas e utilizadas adequadamente. |
-| **Origem**              | [RNF14](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Origem**              | [RNF30](../../Elicitação/Requisitos%20Elicitados.md) |
 | **Critério de Ajuste**  | - Tutorial exibido na primeira execução<br>- Cobertura de pelo menos 80% das funcionalidades principais<br>- Duração máxima de 3 minutos<br>- Opção de pular e acessar depois via menu de ajuda |
 | **Dependências**        | [RNF03](../../Elicitação/Requisitos%20Elicitados.md), [RNF01](../../Elicitação/Requisitos%20Elicitados.md) |
 | **Prioridade**          | 5 |
@@ -358,17 +358,20 @@ Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 ## Graficos NFR 
 
 ## NFR Desempenho 
-Os requisitos abordados neste NFR Foram: 
+Os requisitos abordados neste diagrama de NFR Foram: 
 
 - [CNFR02](#CNFR02)
 - [CNFR08](#CNFR08)
 - [CNFR04](#CNFR04)
 
+*<p style="text-align: center;">Figura 7: Diagrama de Desempenho.</p>*
+
 ![NFR desempenho](../../images/nfr_desempenho.jpg)
 
+*<p style="text-align: center;">Autor: [Heyttor Augusto](https://github.com/H3ytt0r62) </p>*
 
 ## NFR Usabilidade
-Os requisitos abordados neste NFR Foram: 
+Os requisitos abordados neste diagrama de NFR Foram: 
 
 - [CNFR01](#CNFR01)
 - [CNFR03](#CNFR03)
@@ -378,8 +381,33 @@ Os requisitos abordados neste NFR Foram:
 - [CNFR11](#CNFR11)
 - [CNFR13](#CNFR13)
 
+*<p style="text-align: center;">Figura 8: Diagrama de Usabilidade.</p>*
+
 ![NFR Usabilidade](../../images/NFR_usabilidade.png)
 
+*<p style="text-align: center;">Autor: [Heyttor Augusto](https://github.com/H3ytt0r62) </p>*
+
+## NFR Compatibilidade
+O requisito abordado nesse diagrama NFR foi:
+
+- [CNFR12](#cnrf12---compatibilidade-multiplataforma)
+
+*<p style="text-align: center;">Figura 9: Diagrama de Compatibilidade.</p>*
+
+![NFR Compatibilidade](../../images/NFR%20compatibilidade.png)
+
+*<p style="text-align: center;">Autor: [João Pedro](https://github.com/Jadequilin) </p>*
+
+## NFR Segurança
+O requisito abordado nesse diagrama NFR foi:
+
+-[CNFR06](#cnfr06---expiração-automática-de-sessão-por-inatividade)
+
+*<p style="text-align: center;">Figura 10: Diagrama de Segurança.</p>*
+
+![NFR Segurança](../../images/NFR%20Segurança.png)
+
+*<p style="text-align: center;">Autor: [João Pedro](https://github.com/Jadequilin) </p>*
 
 ## Referência Bibliográfica
 
@@ -408,4 +436,5 @@ Os requisitos abordados neste NFR Foram:
 | ``1.4`` | 20/10/2025 | [Miqueias Ezequiel](https://github.com/Kael-web7) | Validação das CNFR's 7 e 8 | [Luan Vinícius](https://github.com/luannvi) |
 | ``1.5`` | 21/10/2025 | [Luan Vinícius](https://github.com/luannvi) | Criação das CNFR's 9, 10 e 11, adição da introdução, ref. bibliográficas e do modelo de cartão de esp., correção das âncoras | [Miqueias Ezequiel](https://github.com/Kael-web7) |
 | ``1.6`` | 21/10/2025 | [Rivadalvio Joaquim](https://github.com/RivaFilho) | Criação das CNRF's 12 e 13 | [João Pedro](https://github.com/Jadequilin) |
-| ``1.8`` | 21/10/2025 |[Heyttor Augusto](https://github.com/H3ytt0r62)   | Criação dos graficos de desempenho e usabilidade | [Samuel Felipe](https://github.com/TerminaKng05) |
+| ``1.7`` | 21/10/2025 |[Heyttor Augusto](https://github.com/H3ytt0r62)   | Criação dos diagramas de desempenho e usabilidade | [Samuel Felipe](https://github.com/TerminaKng05) |
+| ``1.8`` | 21/10/2025 | [João Pedro](https://github.com/Jadequilin) | Criação dos diagramas de segurança e compatibilidade,  Correção dos IDs de referência à requisitos  | [Rivadalvio Joaquim](https://github.com/RivaFilho) |

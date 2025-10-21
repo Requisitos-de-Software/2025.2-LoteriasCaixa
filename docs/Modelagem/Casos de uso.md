@@ -15,7 +15,7 @@ A metodologia utilizada será utilizada com base no **diagrama dos casos de uso*
 | Sistema (Retângulo) | Define o escopo do sistema para os casos de uso. | ![Sistema](../images/sistem.png) |
 | Ator (Boneco Palito) | Representa os que interagem com o sistema, sendo objetos externos que produzam ou consumam dados. | ![Ator](../images/actor.png) |
 | Caso de uso (Elipse/Oval) | Representa os diferentes usos que alguém pode ter | ![caso de uso](../images/usecases.png) |
-| Assosiações (Flecha contínua ou pontilhada) | Ela está entre atores e casos de uso para representar interações ou relações entre ambos. | ![assosiações](../images/arrows.png) |
+| Associações (Flecha contínua ou pontilhada) | Ela está entre atores e casos de uso para representar interações ou relações entre ambos. | ![associações](../images/arrows.png) |
 
 ## Diagrama de Casos de Uso
 A figura 1 demonstra o diagrama dos casos de uso.
@@ -32,10 +32,10 @@ As tabelas de 2 a 6 apresentam as especializações dos casos de uso mostrados n
 
 | UC01 | Informações | Rastreabilidade |
 | :--: | :---------: | :-------------: |
-| Descrição | O apostante é capaz de logar/entrar no aplicativo. |  |
-| Ator | Apostante |  |
-| Pré-condições | Acesso à internet, aplicativo e cadastro. |  |
-| Ação | O apostante entra na tela de login. |  |
+| Descrição | O apostante é capaz de logar/entrar no aplicativo. | RF15 |
+| Ator | Apostante | - |
+| Pré-condições | Acesso à internet, aplicativo e cadastro. | - |
+| Ação | O apostante entra na tela de login. | - |
 | Fluxo Principal | O apostante acessa o aplicativo; acrescenta seu CPF e senha nas áreas correspondentes; o apostante entra no aplicativo. |  |
 | Fluxo Alternativo | O apostante acessa o aplicativo; seus dados são processados automaticamente (devido ao histórico de dados); o apostante entre no aplicativo. |  |
 | Fluxo de Execução | O apostante acessa o aplicativo; a seção de login e senha está vazia; ele acrescenta seu cadastro, caso exista, ele é aceito; caso não, não avança para a próxima tela. |  |
@@ -47,10 +47,10 @@ As tabelas de 2 a 6 apresentam as especializações dos casos de uso mostrados n
 
 | UC02 | Informações | Rastreabilidade |
 | :--: | :---------: | :-------------: |
-| Descrição | O apostante é capaz de buscar os jogos de aposta disponíveis. |  |
-| Ator | Apostante |  |
-| Pré-condições | Acesso à internet, aplicativo e cadastro. |  |
-| Ação | O apostante entra na área de busca de jogos. |  |
+| Descrição | O apostante é capaz de buscar os jogos de aposta disponíveis. | RF16 |
+| Ator | Apostante | - |
+| Pré-condições | Acesso à internet, aplicativo e cadastro. | - |
+| Ação | O apostante entra na área de busca de jogos. | - |
 | Fluxo Principal | O apostante acessa o aplicativo; entra na aba de busca de jogos; seleciona o jogo desejado; |  |
 | Fluxo Alternativo | O apostante acessa o aplicativo; entra na aba de busca de jogos; usa o filtro para procurar a categoria desejada; seleciona o jogo desejado; |  |
 | Fluxo de Execução | O apostante acessa o aplicativo; a página mostra os jogos disponíveis para apostar. |  |
@@ -62,10 +62,10 @@ As tabelas de 2 a 6 apresentam as especializações dos casos de uso mostrados n
 
 | UC03 | Informações | Rastreabilidade |
 | :--: | :---------: | :-------------: |
-| Descrição | O apostante é capaz de efetuar o pagamento dos jogos que escolheu. |  |
-| Ator | Apostante |  |
-| Pré-condições | Acesso à internet, aplicativo, cadastro e conta corrente válida em bancos. |  |
-| Ação | O apostante entra na página de pagamento. |  |
+| Descrição | O apostante é capaz de efetuar o pagamento dos jogos que escolheu. | RF25 |
+| Ator | Apostante | - |
+| Pré-condições | Acesso à internet, aplicativo, cadastro e conta corrente válida em bancos. | - |
+| Ação | O apostante entra na página de pagamento. | - |
 | Fluxo Principal | O apostante é direcionado para a página de pagamento; seleciona as opções disponíveis e fornece as informações; efetua o pagamento do jogo ou jogos. |  |
 | Fluxo Alternativo | O apostante é direcionado para a página de pagamento; as informações de pagamento estão salvas; efetua o pagamento do jogo ou jogos. |  |
 | Fluxo de Execução | A lista de formas de pagamento está vazia; pode adicionar ou alterar forma de pagamento ou mostra que não está disponível. |  |
@@ -77,10 +77,10 @@ As tabelas de 2 a 6 apresentam as especializações dos casos de uso mostrados n
 
 | UC04 | Informações | Rastreabilidade |
 | :--: | :---------: | :-------------: |
-| Descrição | O apostante consegue acompanhar os resultados dos jogos em tempo real, tanto nos quais apostou e nos quais não apostou. |  |
-| Ator | Apostante |  |
-| Pré-condições | Acesso à internet, aplicativo e cadastro. |  |
-| Ação | O apostante entra na pagina de resultados |  |
+| Descrição | O apostante consegue acompanhar os resultados dos jogos em tempo real, tanto nos quais apostou e nos quais não apostou. | RNF21 |
+| Ator | Apostante | - |
+| Pré-condições | Acesso à internet, aplicativo e cadastro. | - |
+| Ação | O apostante entra na pagina de resultados | - |
 | Fluxo Principal | O apostante acessa a página de resultados; usa o filtro de jogos realizados ou em andamento; visualiza o resultado do jogo que procura. |  |
 | Fluxo Alternativo | O apostante acessa a página de resultados; a página mostra os resultados dos jogos; visualiza o resultado do jogo que procura. |  |
 | Fluxo de Execução | O apostante acessa a página; é apresentado uma lista de resultados dos jogos em ordem decrescente (mais recentes para mais antigos), ou uma mensagem de "sistema fora do ar". |  |
@@ -92,11 +92,11 @@ As tabelas de 2 a 6 apresentam as especializações dos casos de uso mostrados n
 
 | UC05 | Informações | Rastreabilidade |
 | :--: | :---------: | :-------------: |
-| Descrição | O apostante consegue ver e baixar o comprovante dos jogos que se cadastrou. |  |
-| Ator | Apostante |  |
-| Pré-condições | Acesso à internet, aplicativo, cadastro e acesso ao histórico de pagamento. |  |
-| Ação | O apostante entra na área de histórico de jogos. |  |
-| Fluxo Principal | O apostante acessa a página de histórico de jogos; é apresentado a opção de vizualizar o comprovante; o comprovante é vizualizado em pdf. |  |
+| Descrição | O apostante consegue ver e baixar o comprovante dos jogos que se cadastrou. | RNF22 |
+| Ator | Apostante | - |
+| Pré-condições | Acesso à internet, aplicativo, cadastro e acesso ao histórico de pagamento. | - |
+| Ação | O apostante entra na área de histórico de jogos. | - |
+| Fluxo Principal | O apostante acessa a página de histórico de jogos; é apresentado a opção de visualizar o comprovante; o comprovante é visualizado em pdf. |  |
 | Fluxo Alternativo | O apostante acessa a página de histórico de jogos; é apresentado a opção de baixar o comprovante; o comprovante é baixado no sistema em formato de pdf.  |  |
 | Fluxo de Execução | O apostante acessa o histórico de jogos; o sistema apresenta o extrato dos jogos pagos com a opção de visualizar ou baixar o comprovante, ou apresenta uma menssagem de "sistema fora do ar". |  |
 | Pós-condições | O apostante consegue acessar e baixar os comprovantes dos seus jogos. |  |

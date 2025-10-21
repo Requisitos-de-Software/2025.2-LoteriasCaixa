@@ -2,7 +2,7 @@
 Essa página reúne todos os requisitos funcionais e não funcionais elicitados usando as técnicas de [análise de documentos](Técnicas/Análise%20de%20Documentos.md), [entrevista](Técnicas/Entrevista.md), [glossário](Técnicas/Glossário.md) e [observação](Técnicas/Observação.md).
 
 ## Metodologia 
-A tabela 1 apresenta os requisitos funcionais e não funcionais, sendo que cada linha contém um ID, sua respectiva descrição, um hyperlink de rastreabilidade que direciona à página da(s) técnica(s) que elicitou o requisitão em questão e se ele foi implementado ou não.
+As tabelas 1 e 2 apresentam, respectivamente, os requisitos funcionais e não funcionais, sendo que cada linha contém um ID, sua respectiva descrição, um hyperlink de rastreabilidade que direciona à página da(s) técnica(s) que elicitou o requisito em questão e se ele foi implementado ou não.
 
 A legenda para cada sigla:
 
@@ -15,11 +15,11 @@ A legenda para cada sigla:
 | OBSxx| Requisito elicitado pela Observação  | 
 | GLRxx | Requisito elicitado pelo Glossário |
 
-## Requisitos consolidados 
+## Requisitos Consolidados
 
-*<p style="text-align: center;">Tabela 1: Requisitos consolidados.</p>*
+### Requisitos Funcionais
 
-### Requisitos Consolidados
+*<p style="text-align: center;">Tabela 1: Requisitos Funcionais.</p>*
 
 | ID | Descrição | Status | Rastreabilidade |
 |:---|:---|:---|:---|
@@ -54,12 +54,19 @@ A legenda para cada sigla:
 | **RF29** | A realização de pagamento das apostas são acessíveis a quem usa o aplicativo, sendo cartão de crédito e débito ou Pix; | Implementado | [AD01](./Técnicas/Análise%20de%20Documentos.md/#requisitos-não-funcionais) |
 | **RF30** | As apostas são registradas dentro do app com base no CPF do usuário; | Implementado | [AD02](./Técnicas/Análise%20de%20Documentos.md/#requisitos-não-funcionais) |
 | **RF31** | O aplicativo apresenta todos os resultados e as arrecadações dos concursos, como também estimativa para os próximos sorteios; | Implementado | [AD03](./Técnicas/Análise%20de%20Documentos.md/#requisitos-não-funcionais) |
-| **RF32** | O aplicativo apresenta uma aba de trasparência e prestação de contas a sociedade chamada de "Repasses Sociais", onde há os valores repassados pelas Loterias CAIXA em àreas de desenvolvimento social; | Implementado | [AD04](./Técnicas/Análise%20de%20Documentos.md/#requisitos-não-funcionais) |
+| **RF32** | O aplicativo apresenta uma aba de transparência e prestação de contas à sociedade chamada de "Repasses Sociais", onde há os valores repassados pelas Loterias CAIXA em áreas de desenvolvimento social; | Implementado | [AD04](./Técnicas/Análise%20de%20Documentos.md/#requisitos-não-funcionais) |
 | **RF33** | O aplicativo apresenta funções de acessibilidade aos idosos e deficientes | Não Implementado | [ENT15](./Técnicas/Entrevista.md/#pela-entrevista-2-foi-identificado) |
 | **RF34** | As opções de ações dentro do aplicativo estão facilmente disponíveis | Implementado | [ENT16](./Técnicas/Entrevista.md/#pela-entrevista-2-foi-identificado) |
 | **RF35** | Os dados do usuário são mantidos em sigilo e protegidos | Implementado | [ENT18](./Técnicas/Entrevista.md/#pela-entrevista-2-foi-identificado) |
 | **RF36** | As páginas do aplicativo mais usadas pelo usuário estão em destaque na tela | Não implementado | [ENT23](./Técnicas/Entrevista.md/#pela-entrevista-2-foi-identificado) |
 | **RF37** | O sistema fornece avisos ao usuário sobre seu limite diário de apostas | Não Implementado | [ENT25](./Técnicas/Entrevista.md/#pela-entrevista-2-foi-identificado) |
+
+### Requisitos Não-Funcionais
+
+*<p style="text-align: center;">Tabela 2: Requisitos Não-Funcionais.</p>*
+
+| ID | Descrição | Status | Rastreabilidade |
+|:---|:---|:---|:---|
 | **RNF01** | O software deve ter telas simples com poucos textos | Implementado | [ENT01](./Técnicas/Entrevista.md/#pela-entrevista-1-foi-identificado) |
 | **RNF02** | O software deve ter imagens explicativas | Não Implementado | [ENT08](./Técnicas/Entrevista.md/#pela-entrevista-1-foi-identificado) |
 | **RNF03** | A navegação entre a seleção de jogos, o preenchimento do volante e o carrinho de compras deve ser intuitiva, exigindo no máximo 3 toques | Implementado | [OBS16](./Técnicas/Observação.md/#requisitos-não-funcionais) |
@@ -103,5 +110,6 @@ A legenda para cada sigla:
 | ``1.4``    | 12/10/2025 |  [João Pedro](https://github.com/Jadequilin) | Correção de errata Analise de documentos | [Rivadalvio Joaquim](https://github.com/RivaFilho)
 | ``1.5`` | 12/10/2025 | [Samuel Felipe](https://github.com/TerminaKng05) | Correção de status na Análise de Documentos | [Heyttor Augusto](https://github.com/H3ytt0r62) |
 | ``1.6`` | 12/10/2025 | [Nayra Nery](https://github.com/NayraNery127) | Correção de status na Análise de Documentos | [Heyttor Augusto](https://github.com/H3ytt0r62) |
-| ``1.7``    | 19/10/2025 |  [João Pedro](https://github.com/Jadequilin) | Correção de errata numero das RFs| [Rivadalvio Joaquim](https://github.com/RivaFilho)
+| ``1.7``    | 19/10/2025 |  [João Pedro](https://github.com/Jadequilin) | Correção de errata numero das RFs| [Rivadalvio Joaquim](https://github.com/RivaFilho) |
 | ```1.8`` | 21/10/2025 | [Luan Vinícius](https://github.com/luannvi) | Correção da ordem/numeração dos requisitos elicitados | |
+| ``1.9``    | 21/10/2025 |  [João Pedro](https://github.com/Jadequilin) | Separação entre duas tabelas RNFs e RFs| [Rivadalvio Joaquim](https://github.com/RivaFilho) |

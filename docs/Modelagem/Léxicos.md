@@ -54,7 +54,7 @@ Autor: [João Pedro](https://github.com/Jadequilin)
 | **Tipo** | Verbo |
 | **Noção** | Funcionalidade que monitora e alerta o usuário quando ele se aproxima ou atinge o valor máximo de apostas permitido para um período de 24 horas |
 | **Impacto** | - Sistema emite notificação visual e sonora<br>- Exibe pop-up informativo com opções de continuar ou parar<br>- Bloqueia novas apostas se o limite for atingido<br>- Registra o evento no histórico de controle financeiro |
-| **Rastreabilidade** | RF16, ENT25 |
+| **Rastreabilidade** | RF30 |
 
 ### L02 – Tela Personalizável
 
@@ -68,7 +68,7 @@ Autor: [João Pedro](https://github.com/Jadequilin)
 | **Tipo** | Objeto |
 | **Noção** | Interface inicial do aplicativo que permite ao usuário reorganizar ícones e atalhos conforme suas preferências e padrões de uso frequente |
 | **Impacto** | - Aprende automaticamente as funcionalidades mais acessadas<br>- Permite personalização manual através de arrastar e soltar<br>- Salva configurações localmente no dispositivo<br>- Adapta a interface dinamicamente ao comportamento do usuário |
-| **Rastreabilidade** | RF15, ENT23 |
+| **Rastreabilidade** | RF33 |
 
 ### L03 – Termo de Responsabilidade
 
@@ -82,7 +82,7 @@ Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 | **Tipo** | Estado |
 | **Noção** | Documento obrigatório que explica de forma clara e acessível os riscos envolvidos nas apostas, incluindo probabilidades reais e orientações sobre jogo consciente |
 | **Impacto** | - Exibido antes da confirmação de qualquer aposta<br>- Apresenta informações em linguagem simples e compreensível<br>- Exige confirmação explícita do usuário através de checkbox<br>- Armazena aceitação no sistema para fins de auditoria |
-| **Rastreabilidade** | RNF06, ENT20 |
+| **Rastreabilidade** | RNF20 |
 
 ### L04 – Modo de Acessibilidade
 
@@ -96,7 +96,7 @@ Autor:[Rivadalvio Joaquim](https://github.com/RivaFilho)
 | **Tipo** | Estado |
 | **Noção** | Configuração especial da interface que amplia elementos visuais, aumenta contraste e simplifica a navegação para usuários idosos ou com deficiência visual |
 | **Impacto** | - Aumenta significativamente o tamanho de fontes e botões<br>- Ativa esquema de cores de alto contraste<br>- Simplifica a estrutura de menus e navegação<br>- Oferece suporte a leitores de tela e navegação por voz |
-| **Rastreabilidade** | RF12, ENT15 |
+| **Rastreabilidade** | RF34 |
 
 ### L05 – Interface Simplificada
 
@@ -110,7 +110,7 @@ Autor: [João Pedro](https://github.com/Jadequilin)
 | **Tipo** | Estado |
 | **Noção** | Design de interface com poucos textos e elementos visuais, focando na simplicidade e facilidade de uso |
 | **Impacto** | - Reduz complexidade visual para usuários<br>- Facilita navegação intuitiva<br>- Diminui tempo de aprendizado<br>- Melhora experiência do usuário |
-| **Rastreabilidade** | RNF01, RF04, ENT01, ENT05 |
+| **Rastreabilidade** | RNF17, RF17 |
 
 ### L06 – Comprovante de Aposta
 
@@ -124,7 +124,7 @@ Autor: [João Pedro](https://github.com/Jadequilin)
 | **Tipo** | Objeto |
 | **Noção** | Documento digital que comprova a realização de uma aposta, contendo números selecionados, valor e identificação única |
 | **Impacto** | - Gera registro oficial da transação<br>- Permite verificação posterior<br>- Serve como comprovante para resgate<br>- Armazena em "Minhas Apostas" |
-| **Rastreabilidade** | RF01, RF25, ENT02, OBS14 |
+| **Rastreabilidade** | RF01, RF25 |
 
 ### L07 – Multi-modalidade de Apostas
 
@@ -138,7 +138,7 @@ Autor: [João Pedro](https://github.com/Jadequilin)
 | **Tipo** | Estado |
 | **Noção** | Capacidade do sistema de oferecer diferentes tipos de loterias (Mega-Sena, Lotofácil, Quina, etc.) e apostas esportivas |
 | **Impacto** | - Expande opções para o usuário<br>- Permite diversificação de apostas<br>- Atende diferentes preferências<br>- Aumenta engajamento do usuário |
-| **Rastreabilidade** | RF02, RF15, ENT03, OBS04 |
+| **Rastreabilidade** | RF21, RF33 |
 
 ### L08 – Acompanhamento de Jogos
 
@@ -152,7 +152,7 @@ Autor: [João Pedro](https://github.com/Jadequilin)
 | **Tipo** | Verbo |
 | **Noção** | Funcionalidade que permite ao usuário acompanhar eventos esportivos e resultados de loterias em tempo real através do aplicativo |
 | **Impacto** | - Fornece informações atualizadas<br>- Mantém usuário engajado<br>- Permite verificação de resultados<br>- Oferece notificações em tempo real |
-| **Rastreabilidade** | RF03, RF06, ENT04, OBS05 |
+| **Rastreabilidade** | RNF21 |
 
 ### L09 – Modo Claro/Escuro
 
@@ -166,7 +166,7 @@ Autor: [João Pedro](https://github.com/Jadequilin)
 | **Tipo** | Estado |
 | **Noção** | Configuração de interface que permite alternar entre temas claro e escuro para melhor conforto visual em diferentes condições de iluminação |
 | **Impacto** | - Melhora experiência visual<br>- Reduz fadiga ocular<br>- Adapta-se ao ambiente do usuário<br>- Oferece personalização |
-| **Rastreabilidade** | RF06, ENT07 |
+| **Rastreabilidade** | RF19 |
 
 ### L10 – Imagem Explicativa
 
@@ -180,7 +180,7 @@ Autor: [João Pedro](https://github.com/Jadequilin)
 | **Tipo** | Objeto |
 | **Noção** | Elemento visual que auxilia na compreensão de funcionalidades através de ilustrações, screenshots ou ícones descritivos |
 | **Impacto** | - Facilita aprendizado de funcionalidades<br>- Reduz necessidade de textos longos<br>- Melhora usabilidade para todos os públicos<br>- Auxilia usuários com dificuldade de leitura |
-| **Rastreabilidade** | RNF02, ENT08 |
+| **Rastreabilidade** | RF20 |
 
 ### L11 – Consulta de Ganhos
 
@@ -194,7 +194,7 @@ Autor: [João Pedro](https://github.com/Jadequilin)
 | **Tipo** | Verbo |
 | **Noção** | Funcionalidade que permite ao usuário verificar valores ganhos em apostas, histórico de prêmios e saldo disponível |
 | **Impacto** | - Fornece transparência financeira<br>- Permite controle de ganhos<br>- Facilita planejamento de resgates<br>- Mantém usuário informado |
-| **Rastreabilidade** | RF05, ENT06 |
+| **Rastreabilidade** | RF18 |
 
 ### L12 – Autenticação Segura
 
@@ -208,7 +208,7 @@ Autor: [João Pedro](https://github.com/Jadequilin)
 | **Tipo** | Verbo |
 | **Noção** | Processo de verificação de identidade do usuário através de CPF, senha ou biometria para acesso às funcionalidades do aplicativo |
 | **Impacto** | - Garante segurança da conta<br>- Previne acesso não autorizado<br>- Protege dados pessoais<br>- Cumpre requisitos legais |
-| **Rastreabilidade** | RF08, RF09, RF14, ENT10, ENT11, ENT18, OBS03, RNF05 |
+| **Rastreabilidade** | RF15 |
 
 ### L13 – Perfil do Usuário
 
@@ -222,7 +222,7 @@ Autor: [João Pedro](https://github.com/Jadequilin)
 | **Tipo** | Objeto |
 | **Noção** | Área personalizada do aplicativo que contém dados do usuário, histórico de apostas, configurações e preferências |
 | **Impacto** | - Centraliza informações do usuário<br>- Permite personalização<br>- Facilita gestão de conta<br>- Oferece acesso rápido a dados |
-| **Rastreabilidade** | RF10, ENT12 |
+| **Rastreabilidade** | RF23 |
 
 ### L14 – Logout Seguro
 
@@ -236,7 +236,7 @@ Autor: [João Pedro](https://github.com/Jadequilin)
 | **Tipo** | Verbo |
 | **Noção** | Processo de encerramento seguro da sessão do usuário no aplicativo, garantindo que os dados permaneçam protegidos |
 | **Impacto** | - Protege conta em dispositivos compartilhados<br>- Encerra sessão ativa<br>- Limpa cache sensível<br>- Previne acesso indevido |
-| **Rastreabilidade** | RF11, RF26, ENT13, OBS15 |
+| **Rastreabilidade** | RF24 |
 
 ### L15 – Cadastro com Dados Pessoais
 
@@ -250,7 +250,7 @@ Autor: [João Pedro](https://github.com/Jadequilin)
 | **Tipo** | Verbo |
 | **Noção** | Processo de registro inicial do usuário no aplicativo utilizando informações pessoais como CPF, nome completo e data de nascimento |
 | **Impacto** | - Cria conta única do usuário<br>- Verifica maioridade (18+ anos)<br>- Associa apostas ao CPF<br>- Permite personalização |
-| **Rastreabilidade** | RF12, OBS01, AD05, RNF01, AD08 |
+| **Rastreabilidade** | RF22 |
 
 ### L16 – Volante Digital
 
@@ -264,7 +264,7 @@ Autor: [João Pedro](https://github.com/Jadequilin)
 | **Tipo** | Objeto |
 | **Noção** | Interface interativa que simula o volante físico de apostas, permitindo seleção de números para as diferentes modalidades de loteria |
 | **Impacto** | - Facilita seleção de números<br>- Oferece experiência familiar<br>- Permite limpar e sortear números<br>- Mostra números selecionados claramente |
-| **Rastreabilidade** | RF17, RF18, RF19, OBS06, OBS07, OBS08, RNF06 |
+| **Rastreabilidade** | RF26 |
 
 ### L17 – Carrinho de Apostas
 
@@ -278,7 +278,7 @@ Autor: [João Pedro](https://github.com/Jadequilin)
 | **Tipo** | Objeto |
 | **Noção** | Área temporária que armazena apostas selecionadas pelo usuário antes da confirmação e pagamento |
 | **Impacto** | - Permite revisão antes do pagamento<br>- Calcula valor total automaticamente<br>- Oferece opção de remover itens<br>- Facilita gestão múltiplas apostas |
-| **Rastreabilidade** | RF20, RF21, OBS09, OBS10, RNF09 |
+| **Rastreabilidade** | RF27, RF28 |
 
 ### L18 – Pagamento Integrado
 
@@ -292,7 +292,7 @@ Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 | **Tipo** | Verbo |
 | **Noção** | Sistema de processamento de pagamentos que aceita múltiplas formas, incluindo cartão de crédito/débito e PIX |
 | **Impacto** | - Oferece flexibilidade de pagamento<br>- Processa transações seguras<br>- Confirma pagamento instantaneamente<br>- Integra com sistemas bancários |
-| **Rastreabilidade** | RF22, RF23, OBS11, OBS12, AD04 |
+| **Rastreabilidade** | RF25 |
 
 ### L19 – Cancelamento de Aposta
 
@@ -306,7 +306,7 @@ Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 | **Tipo** | Verbo |
 | **Noção** | Funcionalidade que permite ao usuário cancelar apostas realizadas antes do sorteio ocorrer |
 | **Impacto** | - Oferece flexibilidade ao usuário<br>- Permite correção de erros<br>- Devolve valor apostado<br>- Registra cancelamento no histórico |
-| **Rastreabilidade** | RF27, OBS16 |
+| **Rastreabilidade** | RF29 |
 
 ### L20 – Navegação Intuitiva
 
@@ -320,7 +320,7 @@ Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 | **Tipo** | Estado |
 | **Noção** | Característica do sistema que permite navegação fluida entre telas com número mínimo de toques/interações |
 | **Impacto** | - Reduz esforço do usuário<br>- Acelera realização de tarefas<br>- Melhora experiência geral<br>- Facilita aprendizado |
-| **Rastreabilidade** | RNF03, OBS16, ENT16, ENT24 |
+| **Rastreabilidade** | RNF19 |
 
 ### L21 – Desempenho de Carregamento
 
@@ -334,7 +334,7 @@ Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 | **Tipo** | Estado |
 | **Noção** | Capacidade do sistema de carregar e exibir informações rapidamente, mesmo em condições de rede limitadas |
 | **Impacto** | - Melhora experiência do usuário<br>- Reduz tempo de espera<br>- Mantém engajamento<br>- Funciona em diferentes condições de rede |
-| **Rastreabilidade** | RNF04, OBS17, AD15, AD16 |
+| **Rastreabilidade** | RNF17 |
 
 ### L22 – Confiabilidade do Sistema
 
@@ -348,7 +348,7 @@ Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 | **Tipo** | Estado |
 | **Noção** | Característica do sistema de operar sem falhas ou encerramentos inesperados durante o uso normal |
 | **Impacto** | - Garante continuidade das operações<br>- Previne perda de dados<br>- Mantém confiança do usuário<br>- Oferece experiência estável |
-| **Rastreabilidade** | RNF07, RNF08, OBS20, OBS21 |
+| **Rastreabilidade** | RNF18 |
 
 ### L23 – Expiração de Sessão
 
@@ -362,7 +362,7 @@ Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 | **Tipo** | Verbo |
 | **Noção** | Mecanismo de segurança que encerra automaticamente a sessão do usuário após período de inatividade |
 | **Impacto** | - Protege conta contra acesso não autorizado<br>- Cumpre requisitos de segurança<br>- Notifica usuário antes do encerramento<br>- Oferece renovação de sessão |
-| **Rastreabilidade** | RNF10, OBS23 |
+| **Rastreabilidade** | RNF20 |
 
 ### L24 – Interface Autoexplicativa
 
@@ -376,7 +376,7 @@ Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 | **Tipo** | Estado |
 | **Noção** | Design de interface onde elementos visuais são acompanhados por textos explicativos para facilitar compreensão |
 | **Impacto** | - Reduz necessidade de ajuda externa<br>- Facilita uso para todos os públicos<br>- Melhora acessibilidade<br>- Acelera aprendizado |
-| **Rastreabilidade** | RNF11, OBS24 |
+| **Rastreabilidade** | RNF19 |
 
 ### L25 – Multiplataforma
 
@@ -479,3 +479,4 @@ Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 | ``1.0`` | 12/10/2025 |[João Pedro](https://github.com/Jadequilin) e [Rivadalvio Joaquim](https://github.com/RivaFilho) | Criação dos 4 léxicos iniciais usando LAL | [Luan Vinícius](https://github.com/luannvi)  |
 | ``1.1`` | 12/10/2025 |[João Pedro](https://github.com/Jadequilin) e [Rivadalvio Joaquim](https://github.com/RivaFilho) | Expansão para 30 léxicos cobrindo todos os requisitos principais | [Luan Vinícius](https://github.com/luannvi)  |
 | `1.2` | 12/10/2025 | [João Pedro](https://github.com/Jadequilin) | Vídeos da validação implementados, adição da referência e bibliografia | [Rivadalvio Joaquim](https://github.com/RivaFilho) |
+| ``1.3``    | 21/10/2025 | [João Pedro](https://github.com/Jadequilin)   | Correção dos IDs de referência à requisitos |[Rivadalvio Joaquim](https://github.com/RivaFilho)  |

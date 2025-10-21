@@ -36,7 +36,6 @@ Foram realizadas no dia 20/10/2025 pelo estudante heyttor augusto e o usuario Ma
 | Marcio junio | 45 anos, corretor de imoveis e usuário do app Loterias Caixa, responsável por validar os backlogs desenvolvidos para o artefato. | 20/10/2025 | 20:20 | Presencial, residência |
 
 
-
 ### Validação com o Usuário (Backlog - Épicos bkl07 a blk12)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g759I0S9z4c?si=OE-WfJr6CxdzlEdw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -53,7 +52,7 @@ Foram realizadas no dia 20/10/2025 pelo estudante heyttor augusto e o usuario Ma
 
 Ao analizar as historias de usuario foi possivel notar os seguintes temas:
 
-1. Funcionalidade: Relacionado as epicos Interface e experienxia do usuario e segurança, englobando as funcionalidades que o usuario vai ter interagindo com o aplicativo.
+1. Funcionalidade: Relacionado aos épicos Interface e experiência do usuário e segurança, englobando as funcionalidades que o usuário vai ter interagindo com o aplicativo.
 2. Dados e segurança: Relacionado aos epicos Controle de dados, englobando a segurança dos dados e a administração deles pelo aplicativo
 
 ## Épicos 
@@ -78,7 +77,7 @@ As histórias de usuário especificam ainda mais os épicos, elas apresentam des
 
 autor:[heyttor augusto ](https://github.com/H3ytt0r62)
 
-Este épico busca incluir aquelas histórias de usário que tratam de detalhar aqueles requisitos que são relacionados à interface do app e a experiência que o usuário tem ao integarir com o aplicativo. Assim, questões voltadas para a acessibilidade e legibilidade se enquadram nesse épico bem como outros histórias de usuário parecidas.
+Este épico busca incluir aquelas histórias de usuário que tratam de detalhar aqueles requisitos que são relacionados à interface do app e a experiência que o usuário tem ao interagir com o aplicativo. Assim, questões voltadas para a acessibilidade e legibilidade se enquadram nesse épico bem como outras histórias de usuário parecidas.
 
 |Id |  Historia de usuario | Requisito trabalhado | Prioridade|
 |---| ---------------------| ---------------------| ----------|
@@ -110,8 +109,8 @@ Este épico aborda requisitos relacionados à acessibilidade, usabilidade e expe
 | Id | História de Usuário | Requisito Trabalhado | Prioridade |
 |----|---------------------|---------------------|------------|
 | BKL08 | [#HU07 - Termo de Uso com Especificação de Riscos](./História%20de%20usuário.md/#hu07---termo-de-uso-com-especificação-de-riscos) | [#RNF06](../../Elicitação/Requisitos%20Elicitados.md) | Média|
-| BKL09 | [#HU08 - Funções de Acessibilidade](./História%20de%20usuário.md/#hu08---funções-de-acessibilidade) | [#RF29](../../Elicitação/Requisitos%20Elicitados.md) | Média |
-| BKL10 | [#HU09 - Páginas Frequentes em Destaque](./História%20de%20usuário.md/#hu09---páginas-frequentes-em-destaque) | [#RF32](../../Elicitação/Requisitos%20Elicitados.md) | Média |
+| BKL09 | [#HU08 - Funções de Acessibilidade](./História%20de%20usuário.md/#hu08---funções-de-acessibilidade) | [#RF33](../../Elicitação/Requisitos%20Elicitados.md) | Média |
+| BKL10 | [#HU09 - Páginas Frequentes em Destaque](./História%20de%20usuário.md/#hu09---páginas-frequentes-em-destaque) | [#RF36](../../Elicitação/Requisitos%20Elicitados.md) | Média |
 | BKL11 | [HU22 - Feedback Visual ao Adicionar Aposta ao Carrinho]() | [RNF09](../../Elicitação/Requisitos%20Elicitados.md) | Média |
 | BKL12 | [#HU29 - Tutorial Interativo](../../Ágil/Histórias%20de%20usuário.md#hu29---tutorial-interativo)     | [#RNF14](../../Elicitação/Requisitos%20Elicitados.md#rnf14) | Baixa      |
 | <a id="BKL13"></a> BKL13 | [HU32 - Navegação com Rótulos nos Ícones](História%20de%20usuário.md#HU32) | [RNF11](../../Elicitação/Requisitos%20Elicitados.md) | Média |   
@@ -124,10 +123,10 @@ Este épico trata de funcionalidades de controle financeiro, segurança e gestã
 
 | Id | História de Usuário | Requisito Trabalhado | Prioridade |
 |----|---------------------|---------------------|------------|
-| BKL14 | [#HU10 - Avisos de Limite de Apostas](./História%20de%20usuário.md/#hu10---avisos-de-limite-de-apostas) | [#RF33](../../Elicitação/Requisitos%20Elicitados.md) | Alta |
+| BKL14 | [#HU10 - Avisos de Limite de Apostas](./História%20de%20usuário.md/#hu10---avisos-de-limite-de-apostas) | [#RF37](../../Elicitação/Requisitos%20Elicitados.md) | Alta |
 | BKL15 | [#HU11 - Filtro de Apostas Premiadas](./História%20de%20usuário.md/#hu11---filtro-de-apostas-premiadas) | [#RNF07](../../Elicitação/Requisitos%20Elicitados.md) | Média |
 | BKL16 | [#HU12 - Alertas de Apostas Premiadas](./História%20de%20usuário.md/#hu12---alertas-de-apostas-premiadas) | [#RNF08](../../Elicitação/Requisitos%20Elicitados.md) | Média |
-|BKL17 |  [## HU06 - comprovamente de pagamento](../Ágil/História%20de%20usuário.md/#hu1---modo-claro-e-modo-escuro) |[#RF24](../../Elicitação/Requisitos%20Elicitados.md) | Media|
+|BKL17 |  [## HU06 - comprovante de pagamento](../Ágil/História%20de%20usuário.md/#hu1---modo-claro-e-modo-escuro) |[#RF01](../../Elicitação/Requisitos%20Elicitados.md) | Media|
 
 ## Épico 5 - Desempenho e Estabilidade
 **Autora:** [Nayra Nery](https://github.com/NayraNery127)
@@ -216,3 +215,4 @@ Este épico abrange funcionalidades voltadas à gestão da conta do usuário e �
 | ``1.4`` | 20/10/2025 | [Miqueias Ezequiel](https://github.com/Kael-web7) | Validação dos épicos 7-9 | [Luan Vinícius](https://github.com/luannvi) |
 |  `1.5` | 20/10/2025 | [Rivadalvio Joaquim](https://github.com/RivaFilho) | Criação do Épico 10| [João Pedro](https://github.com/Jadequilin)|
 |  `1.6` | 21/10/2025 | [Luan Vinícius](https://github.com/luannvi) | Adiciona as histórias de usuário (31 a 36) às backlogs correspondentes | [Miqueias Ezequiel](https://github.com/Kael-web7)|
+| ``1.7``    | 21/10/2025 | [João Pedro](https://github.com/Jadequilin)   | Correção dos IDs de referência à requisitos |[Rivadalvio Joaquim](https://github.com/RivaFilho)  |

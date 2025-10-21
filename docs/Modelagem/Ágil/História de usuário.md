@@ -12,7 +12,7 @@ Foi usado a seguinte tabela para a construção das histórias de usuário:
 |----|------|
 |HUxx  | Título |
 |Descrição| eu como XXX, desejo XXX para XXX |
-|Criterios de aceitação| - ... |
+|Critérios de aceitação| - ... |
 |Rastreabilidade| Código do(s) requisito(s) relacionado(s) |
 |Prioridade| Alta, média ou baixa |
 
@@ -50,8 +50,8 @@ Autor: [Heyttor Augusto](https://github.com/H3ytt0r62)
 |Id  |  Nome|
 |----|------|
 |#HU1| Modo Claro e modo Escuro|
-|Descrição| eu como ususario, desejo conseguir trocar as cores do aplicativo|
-|Criterios de aceitação| -Na página inicial, deverá existir um botão que quando clicado deve trocar as cores do aplicativo para claras ou escuras.  |
+|Descrição| eu como usuário, desejo conseguir trocar as cores do aplicativo|
+|Critérios de aceitação| -Na página inicial, deverá existir um botão que quando clicado deve trocar as cores do aplicativo para claras ou escuras.  |
 |Rastreabilidade| [#RF06](../../Elicitação/Requisitos%20Elicitados.md) |
 |Prioridade| Baixa|
 
@@ -64,7 +64,7 @@ Autor: [Heyttor Augusto](https://github.com/H3ytt0r62)
 |----|------|
 |#HU2| Login|
 |Descrição| eu como usuario, desejo conseguir fazer login no aplicativo| 
-|Criterios de aceitação| Na página de login, deverá existir duas caixas uma para o cpf e uma para senha do usuario; O sistema deve conferir os dados inseridos e permetir a entrada ou não |
+|Critérios de aceitação| Na página de login, deverá existir duas caixas uma para o CPF e uma para senha do usuário; O sistema deve conferir os dados inseridos e permitir a entrada ou não |
 |Rastreabilidade| [#RF08](../../Elicitação/Requisitos%20Elicitados.md) |
 |Prioridade| Alta|
 
@@ -76,8 +76,8 @@ Autor: [Heyttor Augusto](https://github.com/H3ytt0r62)
 |Id  |  Nome|
 |----|------|
 |#HU2| Resultado das apostas|
-|Descrição| eu como ususario, desejo conseguir olhar os resultados dos meus jogos| 
-|Criterios de aceitação| Na tela incial, Devera ter um icone de notificações; Quando o resultado sair, o usuario podera ver ao clicar nessa notificação|
+|Descrição| eu como usuário, desejo conseguir olhar os resultados dos meus jogos| 
+|Critérios de aceitação| Na tela inicial, Deverá ter um ícone de notificações; Quando o resultado sair, o usuário poderá ver ao clicar nessa notificação|
 |Rastreabilidade| [#RF07](../../Elicitação/Requisitos%20Elicitados.md) |
 |Prioridade| Media|
 
@@ -89,8 +89,8 @@ Autor: [Heyttor Augusto](https://github.com/H3ytt0r62)
 |Id  |  Nome|
 |----|------|
 |#HU2| Cadastro|
-|Descrição| eu como ususario, desejo conseguir fazer cadastro no aplicativo| 
-|Criterios de aceitação| Na inicial, deverá existir um botão para cadastro ; Ao clicar o usuario será direcionado para um pagina no seu navegador, a pagina de registr onde ele insere todas suas informações necessarias como Cpf,E-mail e senha|
+|Descrição| eu como usuário, desejo conseguir fazer cadastro no aplicativo| 
+|Critérios de aceitação| Na inicial, deverá existir um botão para cadastro; Ao clicar o usuário será direcionado para uma página no seu navegador, a página de registro onde ele insere todas suas informações necessárias como CPF, E-mail e senha|
 |Rastreabilidade| [#RF12](../../Elicitação/Requisitos%20Elicitados.md) |
 |Prioridade| Alta|
 
@@ -103,21 +103,21 @@ Autor: [Heyttor Augusto](https://github.com/H3ytt0r62)
 |----|------|
 |#HU2| Ultimo Resultado de cada sorteio|
 |Descrição| eu como usuario desejo conseguir ver o resultado do ultimo jogo de cada tipo de aposta| 
-|Criterios de aceitação| Na página inicial, ao clicar no tipo de aposta desejada; Ao entrar nela o sistema deve mostrar o ultimo resultado |
+|Critérios de aceitação| Na página inicial, ao clicar no tipo de aposta desejada; Ao entrar nela o sistema deve mostrar o último resultado |
 |Rastreabilidade| [#RF16](../../Elicitação/Requisitos%20Elicitados.md) |
 |Prioridade| Media|
 
 <a id="HU06"></a>
-### HU06 - comprovamente de pagamento
+### HU06 - comprovante de pagamento
 
 Autor: [Heyttor Augusto](https://github.com/H3ytt0r62)
 
 |Id  |  Nome|
 |----|------|
-|#HU2| comprovamente de pagamento|
-|Descrição| eu como ususario, desejo receber um comprovamente que minha aposta foi feita| 
-|Criterios de aceitação| Ao fazer a aposta, O sistema deve mostrar na tela o comprovamente que a aposta foi feita e tambem mandar o comprovamente por e-mail |
-|Rastreabilidade| [#RF24](../../Elicitação/Requisitos%20Elicitados.md) |
+|#HU2| comprovante de pagamento|
+|Descrição| eu como usuário, desejo receber um comprovante que minha aposta foi feita| 
+|Critérios de aceitação| Ao fazer a aposta, O sistema deve mostrar na tela o comprovante que a aposta foi feita e também mandar o comprovante por e-mail |
+|Rastreabilidade| [#RF01](../../Elicitação/Requisitos%20Elicitados.md) |
 |Prioridade| Alta|
 
 <a id="HU07"></a>
@@ -144,7 +144,7 @@ Autor: [João Pedro](https://github.com/Jadequilin)
 | **Título** | Funções de Acessibilidade |
 | **Descrição** | Como usuário idoso ou com deficiência, quero usar funções de acessibilidade para navegar no aplicativo com facilidade. |
 | **Critérios de Aceitação** | - Leitor de tela compatível<br>- Navegação por voz<br>- Texto aumentável<br>- Alto contraste |
-| **Rastreabilidade** | [RF29](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Rastreabilidade** | [RF33](../../Elicitação/Requisitos%20Elicitados.md) |
 | **Prioridade** | Média |
 | **Status** | Não Implementado |
 
@@ -158,7 +158,7 @@ Autor: [João Pedro](https://github.com/Jadequilin)
 | **Título** | Páginas Frequentes em Destaque |
 | **Descrição** | Como usuário frequente, quero que as páginas mais usadas estejam em destaque na tela inicial para acesso rápido. |
 | **Critérios de Aceitação** | - Seção "Favoritos" na tela inicial<br>- Personalização de atalhos<br>- Ordenação por uso frequente |
-| **Rastreabilidade** | [RF32](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Rastreabilidade** | [RF36](../../Elicitação/Requisitos%20Elicitados.md) |
 | **Prioridade** | Média |
 | **Status** | Não Implementado |
 
@@ -172,7 +172,7 @@ Autor: [João Pedro](https://github.com/Jadequilin)
 | **Título** | Avisos de Limite de Apostas |
 | **Descrição** | Como usuário, quero receber avisos quando estiver me aproximando do meu limite diário de apostas para jogar com responsabilidade. |
 | **Critérios de Aceitação** | - Alerta ao atingir 80% do limite<br>- Bloqueio ao atingir 100%<br>- Contador visível de gastos |
-| **Rastreabilidade** | [RF33](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Rastreabilidade** | [RF37](../../Elicitação/Requisitos%20Elicitados.md) |
 | **Prioridade** | Alta |
 | **Status** | Não Implementado |
 
@@ -653,4 +653,4 @@ Autor: [Samuel Felipe](https://github.com/TerminaKng05)
 | ``1.6`` | 20/10/2025 | [Luan Vinícius](https://github.com/luannvi) | Criação das Histórias de usuário de 31-36 | [Miqueias Ezequiel](https://github.com/Kael-web7) |
 | ``1.7``    | 21/10/2025 | [Nayra Nery](https://github.com/NayraNery127)   |Correção das Histórias de usuário de 12 à 18 | [Samuel Felipe](https://github.com/TerminaKng05) |
 |``1.8``| 21/10/2025| [Samuel Felipe](https://github.com/TerminaKng05) | Criação das Histórias de usuário de 37-42 | [Heyttor Augusto](https://github.com/H3ytt0r62) |
-
+| ``1.9``    | 21/10/2025 | [João Pedro](https://github.com/Jadequilin)   | Correção dos IDs de referência à requisitos |[Rivadalvio Joaquim](https://github.com/RivaFilho)  |
