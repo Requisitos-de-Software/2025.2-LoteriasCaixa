@@ -184,10 +184,10 @@ Este épico abrange funcionalidades voltadas à gestão da conta do usuário e �
 
 | Id    | História de Usuário                                                                                  | Requisito Trabalhado                                        | Prioridade |
 | ----- | ---------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- | ---------- |
-| BKL30 | [#HU25 - Histórico de Apostas](../../Ágil/Histórias%20de%20usuário.md#hu25---histórico-de-apostas)   | [#RF38](../../Elicitação/Requisitos%20Elicitados.md#rf34)   | Alta       |
-| BKL31 | [#HU27 - Compatibilidade de SO](../../Ágil/Histórias%20de%20usuário.md#hu27---compatibilidade-de-so) | [#RNF31](../../Elicitação/Requisitos%20Elicitados.md#rnf13) | Média      |
-| BKL32 | [#HU28 - Apostas Favoritas](../../Ágil/Histórias%20de%20usuário.md#hu28---apostas-favoritas)         | [#RF40](../../Elicitação/Requisitos%20Elicitados.md#rf36)   | Média      |
-| BKL33 | [#HU30 - Notificações Push](../../Ágil/Histórias%20de%20usuário.md#hu30---notificações-push)         | [#RF41](../../Elicitação/Requisitos%20Elicitados.md#rf37)   | Média      |
+| BKL30 | [#HU25 - Histórico de Apostas](../../Riscos]./História%20de%20usuário.md/#hu025---termo-de-uso-com-especificação-de-riscos)   | [#RF38](../../Elicitação/Requisitos%20Elicitados.md#rf34)   | Alta       |
+| BKL31 | [#HU27 - Compatibilidade de SO](../../Riscos]./História%20de%20usuário.md/#hu027---termo-de-uso-com-especificação-de-riscos) | [#RNF31](../../Elicitação/Requisitos%20Elicitados.md#rnf13) | Média      |
+| BKL32 | [#HU28 - Apostas Favoritas](../../Riscos]./História%20de%20usuário.md/#hu08---termo-de-uso-com-especificação-de-riscos)         | [#RF40](../../Elicitação/Requisitos%20Elicitados.md#rf36)   | Média      |
+| BKL33 | [#HU30 - Notificações Push](../../Riscos]./História%20de%20usuário.md/#hu030---termo-de-uso-com-especificação-de-riscos)         | [#RF41](../../Elicitação/Requisitos%20Elicitados.md#rf37)   | Média      |
 
 
 
