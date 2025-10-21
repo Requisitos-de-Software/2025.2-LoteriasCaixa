@@ -173,11 +173,10 @@ Este épico abrange funcionalidades voltadas à gestão da conta do usuário e �
 
 | Id    | História de Usuário                                                                                  | Requisito Trabalhado                                        | Prioridade |
 | ----- | ---------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- | ---------- |
-| BKL22 | [#HU25 - Histórico de Apostas](../../Ágil/Histórias%20de%20usuário.md#hu25---histórico-de-apostas)   | [#RF34](../../Elicitação/Requisitos%20Elicitados.md#rf34)   | Alta       |
-| BKL24 | [#HU27 - Compatibilidade de SO](../../Ágil/Histórias%20de%20usuário.md#hu27---compatibilidade-de-so) | [#RNF13](../../Elicitação/Requisitos%20Elicitados.md#rnf13) | Média      |
-| BKL25 | [#HU28 - Apostas Favoritas](../../Ágil/Histórias%20de%20usuário.md#hu28---apostas-favoritas)         | [#RF36](../../Elicitação/Requisitos%20Elicitados.md#rf36)   | Média      |
-| BKL27 | [#HU30 - Notificações Push](../../Ágil/Histórias%20de%20usuário.md#hu30---notificações-push)         | [#RF37](../../Elicitação/Requisitos%20Elicitados.md#rf37)   | Média      |
-
+| BKL22 | [#HU25 - Histórico de Apostas](../../Ágil/Histórias%20de%20usuário.md#hu25---histórico-de-apostas)   | [#RF38](../../Elicitação/Requisitos%20Elicitados.md)   | Alta       |
+| BKL24 | [#HU27 - Compatibilidade de SO](../../Ágil/Histórias%20de%20usuário.md#hu27---compatibilidade-de-so) | [#RNF31](../../Elicitação/Requisitos%20Elicitados.md) | Média      |
+| BKL25 | [#HU28 - Apostas Favoritas](../../Ágil/Histórias%20de%20usuário.md#hu28---apostas-favoritas)         | [#RF40](../../Elicitação/Requisitos%20Elicitados.md)   | Média      |
+| BKL27 | [#HU30 - Notificações Push](../../Ágil/Histórias%20de%20usuário.md#hu30---notificações-push)         | [#RF41](../../Elicitação/Requisitos%20Elicitados.md)   | Média      |
 
 
 
