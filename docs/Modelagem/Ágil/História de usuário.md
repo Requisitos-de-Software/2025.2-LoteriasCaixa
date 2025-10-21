@@ -26,6 +26,7 @@ fonte: Repositorio Deepseek, Discipla de requisitos de software.
 | [Heyttor Augusto](https://github.com/H3ytt0r62) | Criação das historias HU1, HU2, HU3, HU4, HU5 e HU6, Criação da introdução,Validação HU01 - HU06 | [#HU01](#hu1---modo-claro-e-modo-escuro), [#HU02](#hu02---login),[#HU03](#hu03---resultado-das-apostas),[#HU04](#hu04---cadastro),[#HU05](#hu05---ultimo-resultado-de-cada-sorteio),[#HU06](#hu06---comprovamente-de-pagamento),[Validação HU01-6](#validação-hu01---hu06) |
 | [Nayra Nery](https://github.com/NayraNery127) | Criação das histórias HU13, HU14, HU15, HU16, HU17 e HU18 | [#HU13](#hu13---imagens-explicativas-no-aplicativo), [#HU14](#hu14---verificação-de-identidade-no-login), [#HU15](#hu15---exibir-tipos-de-loteria-disponíveis), [#HU16](#hu16---consultar-ganhos), [#HU17](#hu17---pagamento-com-carteiras-digitais), [#HU18](#hu18---exibir-último-resultado-do-sorteio) |
 | [Miqueias Ezequiel](https://github.com/Kael-web7) | Criação das histórias HU19, HU20, HU21, HU22, HU23 e HU24 | [#HU19](#hu19---Acompanhar-Jogos-pelo-Aplicativo), [#HU20](#hu20---Cancelar-Apostas-Antes-do-Sorteio), [#HU21](#hu21---Expiração-Automática-da-Sessão), [#HU22](#hu22---Feedback-Visual-ao-Adicionar-Aposta-ao-Carrinho), [#HU23](#hu23---Acesso-ao-Perfil-do-Usuário), [#HU24](#hu24---Exibir-Repasses-Sociais-das-Loterias) |
+| [Rivadalvio Joaquim](https://github.com/RivaFilho) | Criação das histórias HU25, HU26, HU27, HU28, HU29 e HU30 | [#HU25](#hu25---histórico-de-apostas), [#HU26](#hu26---recuperação-de-senha), [#HU27](#hu27---compatibilidade-de-so), [#HU28](#hu28---apostas-favoritas), [#HU29](#hu29---tutorial-interativo), [#HU30](#hu30---notificações-push) |
 
 
 
@@ -369,6 +370,84 @@ Autor: [Miqueias Ezequiel](https://github.com/Kael-web7)
 | **Prioridade** | Média |
 | **Status** | Implementado |
 
+## HU25 - Histórico de Apostas
+Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
+
+| **Campo** | **Detalhamento** |
+|-----------|------------------|
+| **ID** | HU25 |
+| **Título** | Histórico de Apostas |
+| **Descrição** | Como usuário, quero acessar meu histórico completo de apostas, para acompanhar meus jogos anteriores e analisar meu desempenho. |
+| **Critérios de Aceitação** | - Lista cronológica de todas as apostas realizadas<br>- Filtros por data, tipo de loteria e status<br>- Detalhes completos de cada aposta (números, valor, resultado) |
+| **Rastreabilidade** | [RF34](../../Elicitação/Requisitos%20Elicitados.md#rf34) |
+| **Prioridade** | Alta |
+| **Status** | Não Implementado |
+
+## HU26 - Recuperação de Senha
+Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
+
+| **Campo** | **Detalhamento** |
+|-----------|------------------|
+| **ID** | HU26 |
+| **Título** | Recuperação de Senha |
+| **Descrição** | Como usuário, quero poder recuperar minha senha de forma segura quando a esquecer, para manter o acesso à minha conta. |
+| **Critérios de Aceitação** | - Opção "Esqueci minha senha" na tela de login<br>- Envio de link de recuperação por email<br>- Criação de nova senha com confirmação<br>- Validação de segurança durante o processo |
+| **Rastreabilidade** | [RF35](../../Elicitação/Requisitos%20Elicitados.md#rf35) |
+| **Prioridade** | Alta |
+| **Status** | Implementado |
+
+## HU27 - Compatibilidade de SO
+Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
+
+| **Campo** | **Detalhamento** |
+|-----------|------------------|
+| **ID** | HU27 |
+| **Título** | Compatibilidade de SO |
+| **Descrição** | Como usuário, quero que o aplicativo funcione corretamente tanto no Android quanto no iOS, para poder usá-lo independente do meu dispositivo. |
+| **Critérios de Aceitação** | - Funcionalidades idênticas em ambas as plataformas<br>- Interface adaptada para cada sistema<br>- Performance consistente entre versões<br>- Atualizações simultâneas para ambos os sistemas |
+| **Rastreabilidade** | [RNF13](../../Elicitação/Requisitos%20Elicitados.md#rnf13) |
+| **Prioridade** | Média |
+| **Status** | Implementado |
+
+## HU28 - Apostas Favoritas
+Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
+
+| **Campo** | **Detalhamento** |
+|-----------|------------------|
+| **ID** | HU28 |
+| **Título** | Apostas Favoritas |
+| **Descrição** | Como usuário frequente, quero poder salvar minhas combinações de números favoritas, para agilizar o processo de aposta. |
+| **Critérios de Aceitação** | - Opção "Salvar como favorita" após montar aposta<br>- Lista de apostas favoritas acessível<br>- Edição e exclusão de favoritos<br>- Recuperação rápida para novos jogos |
+| **Rastreabilidade** | [RF36](../../Elicitação/Requisitos%20Elicitados.md#rf36) |
+| **Prioridade** | Média |
+| **Status** | Não Implementado |
+
+## HU29 - Tutorial Interativo
+Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
+
+| **Campo** | **Detalhamento** |
+|-----------|------------------|
+| **ID** | HU29 |
+| **Título** | Tutorial Interativo |
+| **Descrição** | Como novo usuário, quero um tutorial interativo que me ensine a usar as principais funcionalidades do aplicativo. |
+| **Critérios de Aceitação** | - Tutorial na primeira execução<br>- Passo a passo das funcionalidades principais<br>- Opção de pular e revisitar depois<br>- Conteúdo claro e objetivo |
+| **Rastreabilidade** | [RNF14](../../Elicitação/Requisitos%20Elicitados.md#rnf14) |
+| **Prioridade** | Baixa |
+| **Status** | Não Implementado |
+
+## HU30 - Notificações Push
+Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
+
+| **Campo** | **Detalhamento** |
+|-----------|------------------|
+| **ID** | HU30 |
+| **Título** | Notificações Push |
+| **Descrição** | Como usuário, quero receber notificações push sobre sorteios, resultados e promoções, para me manter informado sem precisar abrir o app. |
+| **Critérios de Aceitação** | - Configurações personalizáveis de notificações<br>- Alertas de resultados dos sorteios<br>- Lembretes de sorteios em andamento<br>- Notificações de promoções e novidades |
+| **Rastreabilidade** | [RF37](../../Elicitação/Requisitos%20Elicitados.md#rf37) |
+| **Prioridade** | Média |
+| **Status** | Implementado |
+
 # Versionamento
 
 | Versão | Data       | Autor               | Descrição                                    | Revisor |
@@ -378,7 +457,7 @@ Autor: [Miqueias Ezequiel](https://github.com/Kael-web7)
 | ``1.2``    | 20/10/2025 | [Nayra Nery](https://github.com/NayraNery127)   |Histórias de usuário de 12 à 18 | [Samuel Felipe](https://github.com/TerminaKng05) |
 | ``1.3``    | 20/10/2025 | [João Pedro](https://github.com/Jadequilin)   |Validação das Histórias de usuário de 7 à 12 |[Rivadalvio Joaquim](https://github.com/RivaFilho)  |
 | ``1.4`` | 20/10/2025 | [Miqueias Ezequiel](https://github.com/Kael-web7) | Validação das Histórias de usuario de 19-24| [Luan Vinícius](https://github.com/luannvi) |
-
+| ``1.5`` | 20/10/2025 | [Rivadalvio Joaquim](https://github.com/RivaFilho) | Criação das Histórias de usuário de 25-30 | [João Pedro](https://github.com/Jadequilin) |
 ## Referencias Bibliograficas
 
 Serrano milene, Requisitos-aula 15 , Unb, Disponivel em:[Aqui](https://aprender3.unb.br/pluginfile.php/3210661/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf) , Acesso dia: 19/10/2025
