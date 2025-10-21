@@ -64,10 +64,11 @@ Após anotar os principais elementos retirados da análise da documentação, fo
 - CAIXA ECONÔMICA FEDERAL.loteriascaixaoficial , Instagram, 04/02/2025. Disponivel em: https://www.instagram.com/loteriascaixaoficial , Acesso em: 29/05/2025
 - CAIXA ECONÔMICA FEDERAL. Atendimento, Aplicativos Caixa, Aplicativos Loterias. Disponível em: https://www.caixa.gov.br/atendimento/aplicativos/app-loterias/Paginas/default.aspx , Acesso em: 29/05/2025
 
-# Versionamento
+## Versionamento
 
 | Versão | Data | Autor | Descrição | Revisor |
 |:--------:|:------------:|:---------------------:|:----------------------------------------------:|:---------:|
 | ``1.0``    | 25/09/2025 |[Samuel Felipe](https://github.com/TerminaKng05)| Montagem do perfil de usuário | [Heyttor Augusto](https://github.com/H3ytt0r62)     |
 |  ``1.1``    | 25/09/2025 |[Samuel Felipe](https://github.com/TerminaKng05)| Adição da tabela de RF e RNF | - |
 | ``1.2``    | 12/10/2025 |  [João Pedro](https://github.com/Jadequilin) | Correção de errata RF e RNF| [Samuel Felipe](https://github.com/TerminaKng05) |
+| ``1.3`` | 21/10/2025 | [Luan Vinícius](https://github.com/luannvi) | Correção de fonte | |
