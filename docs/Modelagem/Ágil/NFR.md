@@ -208,7 +208,7 @@ Autor: [Nayra Nery](https://github.com/NayraNery127)
 
 | **Campo**              | **Detalhamento** |
 |-------------------------|------------------|
-| **Nr Requisito**        | NFR05 |
+| **Nr Requisito**        | RNF09 |
 | **Classificação**       | Usabilidade |
 | **Descrição**           | O sistema deve fornecer feedback visual imediato quando o usuário adiciona uma aposta ao carrinho, por meio de uma animação, mensagem ou alteração no ícone do carrinho. |
 | **Justificativa**       | Garante que o usuário perceba claramente que sua ação foi realizada com sucesso, evitando confusão e múltiplos cliques. Melhora a experiência e a confiança na interação com o sistema. |
@@ -219,22 +219,28 @@ Autor: [Nayra Nery](https://github.com/NayraNery127)
 | **Conflitos**           | [RNF06](../../Elicitação/Requisitos%20Elicitados.md) - Feedback sonoro pode ser redundante ou distrativo |
 | **História**            | Criado em 20/10/2025 |
 
+
+
 <a id="CNFR06"></a>
-## CNFR06 - Expiração Automática de Sessão por Inatividade
+## CNFR06 - Desempenho em Dispositivos Antigos
 Autor: [Nayra Nery](https://github.com/NayraNery127)
 
 | **Campo**              | **Detalhamento** |
 |-------------------------|------------------|
-| **Nr Requisito**        | NFR06 |
-| **Classificação**       | Segurança |
-| **Descrição**           | A sessão do usuário deve expirar automaticamente após 15 minutos de inatividade, exigindo novo login para continuar o uso do aplicativo. |
-| **Justificativa**       | Protege informações pessoais e financeiras do usuário em caso de esquecimento do aplicativo aberto, evitando acessos indevidos. |
-| **Origem**              | [RNF10](../../Elicitação/Requisitos%20Elicitados.md) |
-| **Critério de Ajuste**  | - Encerrar sessão após 15±1 minutos sem interação<br>- Exibir mensagem de aviso antes da expiração<br>- Redirecionar automaticamente para a tela de login |
-| **Dependências**        | [RNF05](../../Elicitação/Requisitos%20Elicitados.md) |
-| **Prioridade**          | 8 |
-| **Conflitos**           | [RNF03](../../Elicitação/Requisitos%20Elicitados.md) - Persistência de dados temporários pode impedir o encerramento completo da sessão |
-| **História**            | Criado em 20/10/2025 |
+| **Nr Requisito**        | RNF22 |
+| **Classificação**       | Desempenho |
+| **Descrição**           | O aplicativo deve manter desempenho satisfatório em dispositivos com mais de 3 anos de uso, evitando lentidão perceptível durante navegação e execução de apostas. |
+| **Justificativa**       | Muitos usuários ainda utilizam aparelhos antigos. Garantir bom desempenho nesses dispositivos melhora o alcance do aplicativo e a satisfação geral dos usuários. |
+| **Origem**              | [RNF22](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Critério de Ajuste**  | - Tempo médio de carregamento ≤ 5 segundos<br>- Uso de RAM ≤ 150 MB<br>- Interface responsiva em Android 8+ e iOS 12+ |
+| **Dependências**        | [RNF04](../../Elicitação/Requisitos%20Elicitados.md) – Tempo de carregamento de resultados |
+| **Prioridade**          | 7 |
+| **Conflitos**           | [RNF08](../../Elicitação/Requisitos%20Elicitados.md) – Transição fluida pode ser limitada em dispositivos com hardware antigo |
+| **História**            | Criado em 21/10/2025 |
+
+
+
+
 
 <a id="CNFR07"></a>
 ## CNFR07 - Navegação Intuitiva e Fluidez da Experiência
@@ -382,3 +388,4 @@ Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 | ``1.4`` | 20/10/2025 | [Miqueias Ezequiel](https://github.com/Kael-web7) | Validação das CNFR's 7 e 8 | [Luan Vinícius](https://github.com/luannvi) |
 | ``1.5`` | 21/10/2025 | [Luan Vinícius](https://github.com/luannvi) | Criação das CNFR's 9, 10 e 11, adição da introdução, ref. bibliográficas e do modelo de cartão de esp., correção das âncoras | [Miqueias Ezequiel](https://github.com/Kael-web7) |
 | ``1.6`` | 21/10/2025 | [Rivadalvio Joaquim](https://github.com/RivaFilho) | Criação das CNRF's 12 e 13 | [João Pedro](https://github.com/Jadequilin) |
+| ``1.7`` | 21/10/2025 | [Nayra Nery](https://github.com/NayraNery127) | Mudança nas numerações dos requisitos, e de RF para RNF | [Samuel Felipe](https://github.com/TerminaKng05) |
