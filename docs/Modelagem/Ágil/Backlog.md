@@ -13,6 +13,7 @@ O Backlog é formado por dois tipos de elementos: épicos e temas. Enquanto as h
 | [Heyttor Augusto](https://github.com/H3ytt0r62) | Criação dos temas 1 e 2; crição dos epicos 1 e 2; BKL01 - 06 Criação da introdução,Validação | [#BKL01](#épico-1---interface-e-experienxia-do-usuario),[#BKl05](#épico-1---interface-e-experienxia-do-usuario),[#BKl03](#épico-1---interface-e-experienxia-do-usuario),[#BKL02](#épico-2---controle-de-dados),[#BKL04](#épico-2---controle-de-dados),[#BKL06](#épico-3---segurança) |
 | Autor: [João Pedro](https://github.com/Jadequilin) | Criação dos épicos 4 e 5 | [#BKL07](#épico-4---acessibilidade-e-usabilidade), [#BKL08](#épico-4---acessibilidade-e-usabilidade), [#BKL09](#épico-4---acessibilidade-e-usabilidade), [#BKL10](#épico-5---controle-e-segurança), [#BKL11](#épico-5---controle-e-segurança), [#BKL12](#épico-5---controle-e-segurança) |
 | Autor: [Miqueias Ezequiel](https://github.com/Kael-web7) | Criação dos épicos 7, 8 e 9 | [#BKL16](#épico-7---Funcionalidades-de-Apostas-e-Controle-do-Usuário), [#BKL17](#épico-7---Funcionalidades-de-Apostas-e-Controle-do-Usuário), [#BKL18](#épico-8---Segurança-e-Interação-com-o-Usuário), [#BKL19](#épico-8---Segurança-e-Interação-com-o-Usuário), [#BKL20](#épico-9---Transparência-e-Responsabilidade-Social), [#BKL21](#épico-9---Transparência-e-Responsabilidade-Social) |
+| Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho) | Criação do épico 10 | [#BKL22](#épico-10---gestão-de-conta-e-personalização), [#BKL23](#épico-10---gestão-de-conta-e-personalização), [#BKL24](#épico-10---gestão-de-conta-e-personalização), [#BKL25](#épico-10---gestão-de-conta-e-personalização), [#BKL26](#épico-10---gestão-de-conta-e-personalização), [#BKL27](#épico-10---gestão-de-conta-e-personalização) |
 
 
 ## Metodologia
@@ -142,11 +143,12 @@ Este épico contempla funcionalidades que reforçam a credibilidade e o papel so
 | **BKL20** | **HU23 - Acesso ao Perfil do Usuário** | **RF10** | Média |
 | **BKL21** | **HU24 - Exibir Repasses Sociais das Loterias** | **RF04** | Média |
 
-Épico 10 - Gestão de Conta e Personalização
+## **Épico 10 - Gestão de Conta e Personalização**
 
-Autor: Rivadalvio Joaquim
+Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho) 
 
 Este épico abrange funcionalidades voltadas à gestão da conta do usuário e à personalização da experiência dentro do aplicativo, permitindo maior controle, conveniência e engajamento. Inclui recursos como histórico de apostas, recuperação de senha, compatibilidade entre sistemas operacionais, apostas favoritas, tutorial interativo e notificações push.
+
 | Id    | História de Usuário                                                                                  | Requisito Trabalhado                                        | Prioridade |
 | ----- | ---------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- | ---------- |
 | BKL22 | [#HU25 - Histórico de Apostas](../../Ágil/Histórias%20de%20usuário.md#hu25---histórico-de-apostas)   | [#RF34](../../Elicitação/Requisitos%20Elicitados.md#rf34)   | Alta       |
@@ -183,3 +185,5 @@ Serrano milene, Requisitos-aula 15 , Unb, Disponivel em:[Aqui](https://aprender3
 | ``1.2``    | 10/10/2025 | [João Pedro](https://github.com/Jadequilin)   | Validação dos Épicos de 4 à 5 |[Rivadalvio Joaquim](https://github.com/RivaFilho)  |
 | ``1.3``    | 20/10/2025 | [Nayra Nery](https://github.com/H3ytt0r62)   | Validação dos épicos 5 e 6 | [Samuel Felipe](https://github.com/TerminaKng05) |
 | ``1.4`` | 20/10/2025 | [Miqueias Ezequiel](https://github.com/Kael-web7) | Validação dos épicos 7-9 | [Luan Vinícius](https://github.com/luannvi) |
+|  `1.5` | 20/10/2025 | [Rivadalvio Joaquim](https://github.com/RivaFilho) | Criação do Épico 10| [João Pedro](https://github.com/Jadequilin)|
+
