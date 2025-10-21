@@ -550,6 +550,15 @@ Autor: [Luan Vinícius](https://github.com/luannvi)
 | **Prioridade** | Média |
 | **Status** | Implementado |
 
+#### Validação com o Usuário (HU31 - HU36)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uKSW9J8dO30?si=ZpOZLo81cj6Sg9Rn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+| Participante | Função | Data | Horário | Local |
+| ------------ | ----- | ----- | ------ | -------|
+| [Luan Vinícius](https://github.com/luannvi) | Integrante do grupo, responsável por coordenar a validação com o usuário. | 21/10/2025 | 16:45 | Presencial
+| Matheus Queiroz | 20 anos, estudante de engenharia de software e usuário do app Loterias Caixa, responsável por validar as histórias de usuários desenvolvidos para o artefato. | 21/10/2025 | 16:45 | Presencial |
+
 <a id="HU37"></a>
 ### HU37 - Função "Rapidão"
 Autor: [Samuel Felipe](https://github.com/TerminaKng05)
@@ -654,3 +663,4 @@ Autor: [Samuel Felipe](https://github.com/TerminaKng05)
 | ``1.7``    | 21/10/2025 | [Nayra Nery](https://github.com/NayraNery127)   |Correção das Histórias de usuário de 12 à 18 | [Samuel Felipe](https://github.com/TerminaKng05) |
 |``1.8``| 21/10/2025| [Samuel Felipe](https://github.com/TerminaKng05) | Criação das Histórias de usuário de 37-42 | [Heyttor Augusto](https://github.com/H3ytt0r62) |
 | ``1.9``    | 21/10/2025 | [João Pedro](https://github.com/Jadequilin)   | Correção dos IDs de referência à requisitos |[Rivadalvio Joaquim](https://github.com/RivaFilho)  |
+| ``2.0`` | 21/10/2025 | [Luan Vinícius](https://github.com/luannvi) | Adição da validação com o usuário (HU31 - HU36) | [Miqueias Ezequiel](https://github.com/Kael-web7) |

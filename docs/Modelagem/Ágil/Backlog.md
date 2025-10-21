@@ -25,7 +25,7 @@ Para a formulação do backlog, foram usados o artefato [Historias de usuario](H
 
 Foram feitas validações com os usuarios sobreas historias criadas pelos estudantes, nas quais estão disponiveis como não listadas no youtube, todos os participantes deram concentimento das gravações.
 
-## Validação backlog bkl01 a bkl06
+### Validação backlog bkl01 a bkl06
 Foram realizadas no dia 20/10/2025 pelo estudante heyttor augusto e o usuario Marcio junio
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jAkOL_vkxjc?si=SZNuKUha4e54RFJo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -34,7 +34,6 @@ Foram realizadas no dia 20/10/2025 pelo estudante heyttor augusto e o usuario Ma
 | ------------ | ----- | ----- | ------ | -------|
 | [Heyttor](https://github.com/H3ytt0r62) | Integrante do grupo, responsável por coordenar a validação com o usuário. | 20/10/2025 | 20:20 | Presencial, residência
 | Marcio junio | 45 anos, corretor de imoveis e usuário do app Loterias Caixa, responsável por validar os backlogs desenvolvidos para o artefato. | 20/10/2025 | 20:20 | Presencial, residência |
-
 
 ### Validação com o Usuário (Backlog - Épicos bkl07 a blk12)
 
@@ -45,8 +44,14 @@ Foram realizadas no dia 20/10/2025 pelo estudante heyttor augusto e o usuario Ma
 | [João Pedro](https://github.com/Jadequilin) | Integrante do grupo, responsável por coordenar a validação com o usuário. | 20/10/2025 | 20:20 | Presencial, residência
 | Janice José Araújo | 49 anos, funcionária pública e usuária do app Loterias Caixa, responsável por validar os backlogs desenvolvidos para o artefato. | 20/10/2025 | 20:20 | Presencial, residência |
 
+### Validação com o Usuário (Backlogs 13, 21, 24, 26, 27, 28)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/04UqEq_sASs?si=kIGXcSKXcEbuusj_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+| Participante | Função | Data | Horário | Local |
+| ------------ | ----- | ----- | ------ | -------|
+| [Luan Vinícius](https://github.com/luannvi) | Integrante do grupo, responsável por coordenar a validação com o usuário. | 21/10/2025 | 17:04 | Presencial
+| Matheus Queiroz | 20 anos, estudante de engenharia de software e usuário do app Loterias Caixa, responsável por validar as backlogs. | 21/10/2025 | 17:04 | Presencial |
 
 ## **Temas**
 
@@ -189,10 +194,6 @@ Este épico abrange funcionalidades voltadas à gestão da conta do usuário e �
 | BKL32 | [#HU28 - Apostas Favoritas](../../Ágil/Histórias%20de%20usuário.md#hu28---apostas-favoritas)         | [#RF40](../../Elicitação/Requisitos%20Elicitados.md#rf36)   | Média      |
 | BKL33 | [#HU30 - Notificações Push](../../Ágil/Histórias%20de%20usuário.md#hu30---notificações-push)         | [#RF41](../../Elicitação/Requisitos%20Elicitados.md#rf37)   | Média      |
 
-
-
-
-
 ## Referências bibliográficas
 >  <a id="REF1" href="#anchor_1">1.</a> PRESSMAN, Roger S.; MAXIM, Bruce R.. Engenharia de software: uma abordagem profissional. 8 Porto Alegre: AMGH, 2016, p. 73. 
 
@@ -216,3 +217,4 @@ Este épico abrange funcionalidades voltadas à gestão da conta do usuário e �
 |  `1.5` | 20/10/2025 | [Rivadalvio Joaquim](https://github.com/RivaFilho) | Criação do Épico 10| [João Pedro](https://github.com/Jadequilin)|
 |  `1.6` | 21/10/2025 | [Luan Vinícius](https://github.com/luannvi) | Adiciona as histórias de usuário (31 a 36) às backlogs correspondentes | [Miqueias Ezequiel](https://github.com/Kael-web7)|
 | ``1.7``    | 21/10/2025 | [João Pedro](https://github.com/Jadequilin)   | Correção dos IDs de referência à requisitos |[Rivadalvio Joaquim](https://github.com/RivaFilho)  |
+| ``1.9`` | 21/10/2025 | [Luan Vinícius](https://github.com/luannvi) | Adição da validação com o usuário (Backlogs 13, 21, 24, 26, 27, 28) | [Miqueias Ezequiel](https://github.com/Kael-web7) |

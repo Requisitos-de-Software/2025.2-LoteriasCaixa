@@ -321,6 +321,15 @@ Autor: [Luan Vinícius](https://github.com/luannvi)
 | **Conflitos** | Nenhum identificado |
 | **História** | Criado em 21/10/2025 |
 
+### Validação com o Usuário (CNFR 09 - 11)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rCJIxTbGOzM?si=UQMXFNZvqPWQaNtH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+| Participante | Função | Data | Horário | Local |
+| ------------ | ----- | ----- | ------ | -------|
+| [Luan Vinícius](https://github.com/luannvi) | Integrante do grupo, responsável por coordenar a validação com o usuário. | 21/10/2025 | 16:30 | Presencial
+| Matheus Queiroz | 20 anos, estudante de engenharia de software e usuário do app Loterias Caixa, responsável por validar os cartões desenvolvidos. | 21/10/2025 | 16:30 | Presencial |
+
 <a id="CNFR12"></a>
 ## CNRF12 - Compatibilidade Multiplataforma
 Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
@@ -438,3 +447,4 @@ O requisito abordado nesse diagrama NFR foi:
 | ``1.6`` | 21/10/2025 | [Rivadalvio Joaquim](https://github.com/RivaFilho) | Criação das CNRF's 12 e 13 | [João Pedro](https://github.com/Jadequilin) |
 | ``1.7`` | 21/10/2025 |[Heyttor Augusto](https://github.com/H3ytt0r62)   | Criação dos diagramas de desempenho e usabilidade | [Samuel Felipe](https://github.com/TerminaKng05) |
 | ``1.8`` | 21/10/2025 | [João Pedro](https://github.com/Jadequilin) | Criação dos diagramas de segurança e compatibilidade,  Correção dos IDs de referência à requisitos  | [Rivadalvio Joaquim](https://github.com/RivaFilho) |
+| ``1.9`` | 21/10/2025 | [Luan Vinícius](https://github.com/luannvi) | Adição da validação com o usuário (CNFR 09 - 11) | [Miqueias Ezequiel](https://github.com/Kael-web7) |
