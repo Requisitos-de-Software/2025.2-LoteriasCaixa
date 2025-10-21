@@ -108,6 +108,7 @@ Esses rótulos são ilustrados na Figura 5.
 | [Miqueias Ezequiel](https://github.com/Kael-web7) | Criação dos CNFR07 e CNFR08 | [CNFR07](#CNFR07), [CNFR08](#CNFR08) |
 | [Luan Vinícius](https://github.com/luannvi) | Criação dos CNFR09, CNFR10 e CNFR11 | [CNFR09](#CNFR09), [CNFR10](#CNFR10), [CNFR11](#CNFR11) |
 | [Rivadalvio Joaquim](https://github.com/RivaFilho) | Criação dos CNFR12 e CNRF13 | [CNFR12](#CNFR12), [CNFR13](#CNFR13) |
+| [Samuel Felipe](https://github.com/TerminaKng05) | Criação dos CNFR14 e CNFR15 | [CNFR14](#CNFR14), [CNFR15](#CNFR15) |
 
 ## Lista de Requisitos
 
@@ -364,6 +365,40 @@ Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 | **Conflitos**           | [RNF08](../../Elicitação/Requisitos%20Elicitados.md) - Conteúdo adicional pode impactar performance inicial |
 | **História**            | Criado em 20/10/2025 |
 
+<a id="CNFR14"></a>
+## CNFR14 - O sistema deve expirar a sessão do usuário após 15 minutos de inatividade
+Autor: [Samuel Felipe](https://github.com/TerminaKng05)
+
+| **Campo**              |**Detalhamento**                                                                 |
+|-------------------------|----------------------------------------------------------------------------------|
+| **Nr Requisito** | CNFR14 |
+| **Classificação** | Confiabilidade |
+| **Descrição** | O sistema deve expirar a sessão do usuário após 15 minutos de inatividade; |
+| **Justificativa** | Garante  dinamismo, acessibilidade para pessoas com pouca experiência com tecnologia e facilita o entendimento; |
+| **Origem** | [RNF10](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Critério de Ajuste**  | - Notificação de término da sessão por inatividade. |
+| **Dependências**       |- [RF08](../../Elicitação/Requisitos%20Elicitados.md), [RF11](../../Elicitação/Requisitos%20Elicitados.md), [RF27](../../Elicitação/Requisitos%20Elicitados.md), [RF35](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Prioridade**          | 8 |
+| **Conflitos**           | — |
+| **História** | Criado em 21/10/2025 |
+
+<a id="CNFR15"></a>
+## CNFR15 - O sistema deve especificar a classificação indicativa
+Autor: [Samuel Felipe](https://github.com/TerminaKng05)
+
+| **Campo**              |**Detalhamento**                                                                 |
+|-------------------------|----------------------------------------------------------------------------------|
+| **Nr Requisito** | CNFR15 |
+| **Classificação** | Confiabilidade |
+| **Descrição** | O sistema deve especificar a classificação indicativa de uso em seus termos de uso e ao utilizá-lo; |
+| **Justificativa** | Garantir que os usuários do sistema são o público alvo e que a lei permite; |
+| **Origem** | [RNF15](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Critério de Ajuste**  | - Notificação de término da sessão por inatividade. |
+| **Dependências**       |- [RF30](../../Elicitação/Requisitos%20Elicitados.md), [RF12](../../Elicitação/Requisitos%20Elicitados.md), [RF14](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Prioridade**          | 10 |
+| **Conflitos**           | — |
+| **História** | Criado em 21/10/2025 |
+
 ## Graficos NFR 
 
 ## NFR Desempenho 
@@ -418,6 +453,19 @@ O requisito abordado nesse diagrama NFR foi:
 
 *<p style="text-align: center;">Autor: [João Pedro](https://github.com/Jadequilin) </p>*
 
+## NFR Confiabilidade
+O requisito abordado nesse diagrama NFR foi:
+
+- [CNFR10](#cnfr10--estabilidade-durante-criação-e-pagamento-de-apostas)
+- [CNFR14](#cnfr14---o-sistema-deve-expirar-a-sessão-do-usuário-após-15-minutos-de-inatividade)
+- [CNFR15](#cnfr15---o-sistema-deve-especificar-a-classificação-indicativa)
+
+*<p style="text-align: center;">Figura 11: Diagrama de Confiabilidade.</p>*
+
+![NFR Confiabilidade](../../images/NFRConfiabilidade.png)
+
+*<p style="text-align: center;">Autor: [Samuel Felipe](https://github.com/TerminaKng05) </p>*
+
 ## Referência Bibliográfica
 
 > <a id="REF1" href="#anchor_1">1.</a> SILVA, Reinaldo Antônio da. NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019. Tese (Doutorado) – Universidade Federal de Pernambuco, Recife, 2019. Cap. 2 p. 30. Disponível em: <https://aprender3.unb.br/pluginfile.php/3210672/mod_resource/content/2/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf>. Acesso em: 20 out. 2025.
@@ -448,3 +496,4 @@ O requisito abordado nesse diagrama NFR foi:
 | ``1.7`` | 21/10/2025 |[Heyttor Augusto](https://github.com/H3ytt0r62)   | Criação dos diagramas de desempenho e usabilidade | [Samuel Felipe](https://github.com/TerminaKng05) |
 | ``1.8`` | 21/10/2025 | [João Pedro](https://github.com/Jadequilin) | Criação dos diagramas de segurança e compatibilidade,  Correção dos IDs de referência à requisitos  | [Rivadalvio Joaquim](https://github.com/RivaFilho) |
 | ``1.9`` | 21/10/2025 | [Luan Vinícius](https://github.com/luannvi) | Adição da validação com o usuário (CNFR 09 - 11) | [Miqueias Ezequiel](https://github.com/Kael-web7) |
+| ``2.0`` | 21/10/2025 | [Samuel Felipe](https://github.com/TerminaKng05) | Criação das CNFR's 14 e 15 e do diagrama de confiabilidade | [Heyttor Augusto](https://github.com/H3ytt0r62)
