@@ -72,11 +72,11 @@ tabela 4: Requisitos não funcionais relacionados a tecnologias e arquitetura*
 
 | ID | Descrição | Status | Rastreabilidade |
 |:---:|-----------|:--------:|:---------------|
-| **RNF06** | O aplicativo poderia apresentar uma forma de baixar o comprovante da compra dos jogos cadastrados | Não Implementado | **AD13** |
-| **RNF07** | O aplicativo não apresenta uma forma de mostrar os resultado em tempo real | Não Implementado | **AD14** |
-| **RF01** | O aplicativo segue a questão de disponibilidade em plataformas que os usuários tem acesso (IOS/Apple Store, Android/Play Store) | Implementado | **AD01** |
-| **RF02** | O aplicativo utiliza tanto o sistema da própria empresa para que o usuário consiga acessar os seus dados no sistema | Implementado | **AD02** |
-| **RF03** | O aplicativo entrega as facilidades para realizar as mesmas funções que o site ou ir pessoalmente a uma lotérica | Implementado | **AD03** |
+| **RNF20** | O aplicativo poderia apresentar uma forma de baixar o comprovante da compra dos jogos cadastrados | Não Implementado | **AD13** |
+| **RNF21** | O aplicativo não apresenta uma forma de mostrar os resultado em tempo real | Não Implementado | **AD14** |
+| **RNF12** | O aplicativo segue a questão de disponibilidade em plataformas que os usuários tem acesso | Implementado | **AD05** |
+| **RNF13** | O aplicativo utiliza o sistema da própria empresa para que o usuário consiga acessar os seus dados no sistema | Implementado | **AD06** |
+| **RNF14** | O aplicativo entrega as facilidades para realizar as mesmas funções que o site ou ir pessoalmente a uma lotérica | Implementado | **AD07** |
 
 ### Validação com o Usuário (Implementação)
 
@@ -233,5 +233,6 @@ Diz a respeito da acessibilidade e suporte que os usuarios podem ter usando o ap
 | ``1.8`` | 12/10/2025 | [Nayra Nery](https://github.com/NayraNery127) | Adição da usuabilidade | [Heyttor Augusto](https://github.com/H3ytt0r62) |
 | ``1.8`` | 12/10/2025 | [Heyttor Augusto](https://github.com/H3ytt0r62) | Adição da suportabilidade | [Nayra Nery](https://github.com/NayraNery127) |
 | `1.9` | 12/10/2025 | [João Pedro](https://github.com/Jadequilin) | Vídeos da validação implementados | [Rivadalvio Joaquim](https://github.com/RivaFilho) |
+
 
 
