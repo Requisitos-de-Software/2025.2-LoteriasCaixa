@@ -142,6 +142,22 @@ Este épico contempla funcionalidades que reforçam a credibilidade e o papel so
 | **BKL20** | **HU23 - Acesso ao Perfil do Usuário** | **RF10** | Média |
 | **BKL21** | **HU24 - Exibir Repasses Sociais das Loterias** | **RF04** | Média |
 
+Épico 10 - Gestão de Conta e Personalização
+
+Autor: Rivadalvio Joaquim
+
+Este épico abrange funcionalidades voltadas à gestão da conta do usuário e à personalização da experiência dentro do aplicativo, permitindo maior controle, conveniência e engajamento. Inclui recursos como histórico de apostas, recuperação de senha, compatibilidade entre sistemas operacionais, apostas favoritas, tutorial interativo e notificações push.
+| Id    | História de Usuário                                                                                  | Requisito Trabalhado                                        | Prioridade |
+| ----- | ---------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- | ---------- |
+| BKL22 | [#HU25 - Histórico de Apostas](../../Ágil/Histórias%20de%20usuário.md#hu25---histórico-de-apostas)   | [#RF34](../../Elicitação/Requisitos%20Elicitados.md#rf34)   | Alta       |
+| BKL23 | [#HU26 - Recuperação de Senha](../../Ágil/Histórias%20de%20usuário.md#hu26---recuperação-de-senha)   | [#RF35](../../Elicitação/Requisitos%20Elicitados.md#rf35)   | Alta       |
+| BKL24 | [#HU27 - Compatibilidade de SO](../../Ágil/Histórias%20de%20usuário.md#hu27---compatibilidade-de-so) | [#RNF13](../../Elicitação/Requisitos%20Elicitados.md#rnf13) | Média      |
+| BKL25 | [#HU28 - Apostas Favoritas](../../Ágil/Histórias%20de%20usuário.md#hu28---apostas-favoritas)         | [#RF36](../../Elicitação/Requisitos%20Elicitados.md#rf36)   | Média      |
+| BKL26 | [#HU29 - Tutorial Interativo](../../Ágil/Histórias%20de%20usuário.md#hu29---tutorial-interativo)     | [#RNF14](../../Elicitação/Requisitos%20Elicitados.md#rnf14) | Baixa      |
+| BKL27 | [#HU30 - Notificações Push](../../Ágil/Histórias%20de%20usuário.md#hu30---notificações-push)         | [#RF37](../../Elicitação/Requisitos%20Elicitados.md#rf37)   | Média      |
+
+
+
 ### Validação com o Usuário (Backlog - Épicos 4 e 5)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g759I0S9z4c?si=OE-WfJr6CxdzlEdw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
