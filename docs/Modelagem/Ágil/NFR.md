@@ -275,6 +275,12 @@ Autor: [Miqueias Ezequiel](https://github.com/Kael-web7)
 | **Conflitos** | - |
 | **História** | Criado em 20/10/2025 |
 
+
+### Validação backlog CNFR07 - CNFR08
+Foram realizadas no dia 20/10/2025 pelo estudante Miqueias Ezequiel e o usuario Matheus Queiroz
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a4QEKQaxpt4?si=esB6q7Fjq95I7gD9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <a id="CNFR09"></a>
 ## CNFR09 – Diferenciação visual dos números selecionados
 Autor: [Luan Vinícius](https://github.com/luannvi)

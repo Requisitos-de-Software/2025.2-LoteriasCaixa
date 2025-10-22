@@ -44,6 +44,10 @@ Foram realizadas no dia 20/10/2025 pelo estudante heyttor augusto e o usuario Ma
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/leGUHBb1l2s?si=IgJTeUidWysr72GG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+### Validação backlog #HU19 - #HU24
+Foram realizadas no dia 20/10/2025 pelo estudante Miqueias Ezequiel e o usuario Matheus Queiroz
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SVruBZdvBSo?si=HUrAKsoEW5n2xg3v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Histórias de usuários
 

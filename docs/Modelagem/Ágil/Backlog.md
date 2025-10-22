@@ -44,6 +44,16 @@ Foram realizadas no dia 20/10/2025 pelo estudante heyttor augusto e o usuario Ma
 | [João Pedro](https://github.com/Jadequilin) | Integrante do grupo, responsável por coordenar a validação com o usuário. | 20/10/2025 | 20:20 | Presencial, residência
 | Janice José Araújo | 49 anos, funcionária pública e usuária do app Loterias Caixa, responsável por validar os backlogs desenvolvidos para o artefato. | 20/10/2025 | 20:20 | Presencial, residência |
 
+### Validação backlog bkl16 a bkl21
+Foram realizadas no dia 20/10/2025 pelo estudante Miqueias Ezequiel e o usuario Matheus Queiroz
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YSfGN1u7agA?si=W81LCeboSc1e2-qe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+| Participante | Função | Data | Horário | Local | 
+| ------------ | ----- | ----- | ------ | -------|
+| [Miqueias Ezequiel](https://github.com/Kael-web7) | Integrante do grupo, responsável por coordenar a validação com o usuário. | 21/10/2025 | 13:20 | Presencial, FCTE
+| Matheus Queiroz | 25 anos, Estudante e usuário do app Loterias Caixa, responsável por validar os backlogs desenvolvidos para o artefato. | 21/10/2025 | 13:20 | Presencial, FCTE|
+
 ### Validação com o Usuário (Backlog - Épicos bkl13 a blk18)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4FMCFys_GFo?si=fEIwn7E5ShUFFap_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
