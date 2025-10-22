@@ -150,9 +150,9 @@ Este épico aborda histórias relacionadas ao desempenho do aplicativo e à esta
 
 | **Id** | **História de Usuário** | **Requisito Trabalhado** | **Prioridade** |
 |--------|--------------------------|---------------------------|----------------|
-| <a id="BKL21"></a> BKL21 | [#HU13 - Performance em Dispositivos Antigos](../../Ágil/Histórias%20de%20usuário.md#hu13---performance-em-dispositivos-antigos) | [#RNF22](../../Elicitação/Requisitos%20Elicitados.md) | Média |
-| <a id="BKL22"></a> BKL22 | [#HU14 - Conexão Estável com Internet Móvel](../../Ágil/Histórias%20de%20usuário.md#hu14---conexão-estável-com-internet-móvel) | [#RNF23](../../Elicitação/Requisitos%20Elicitados.md) | Média |
-| <a id="BKL23"></a> BKL23 | [#HU15 - Transição de Telas Fluida](../../Ágil/Histórias%20de%20usuário.md#hu15---transição-de-telas-fluida) | [#RNF08](../../Elicitação/Requisitos%20Elicitados.md) | Alta |
+| <a id="BKL21"></a> BKL21 | [#HU13 - Performance em Dispositivos Antigos](História%20de%20usuário.md#hu13---performance-em-dispositivos-antigos) | [#RNF22](../../Elicitação/Requisitos%20Elicitados.md) | Média |
+| <a id="BKL22"></a> BKL22 | [#HU14 - Conexão Estável com Internet Móvel](História%20de%20usuário.md#hu14---conexão-estável-com-internet-móvel) | [#RNF23](../../Elicitação/Requisitos%20Elicitados.md) | Média |
+| <a id="BKL23"></a> BKL23 | [#HU15 - Transição de Telas Fluida](História%20de%20usuário.md#hu15---transição-de-telas-fluida) | [#RNF08](../../Elicitação/Requisitos%20Elicitados.md) | Alta |
 | <a id="BKL24"></a> BKL24 | [HU36 - Desempenho Rápido na Consulta de Resultados](História%20de%20usuário.md#HU36) | [RNF04](../../Elicitação/Requisitos%20Elicitados.md) | Média |   
 | <a id="BKL25"></a> BKL25 | [#HU42 - Desconexão via 4G/5G](História%20de%20usuário.md#HU42) | [RNF23](../../Elicitação/Requisitos%20Elicitados.md) | Média |
 
