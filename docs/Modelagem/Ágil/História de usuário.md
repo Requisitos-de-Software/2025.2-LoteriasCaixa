@@ -566,7 +566,7 @@ Autor: [Luan Vinícius](https://github.com/luannvi)
 | Participante | Função | Data | Horário | Local |
 | ------------ | ----- | ----- | ------ | -------|
 | [Luan Vinícius](https://github.com/luannvi) | Integrante do grupo, responsável por coordenar a validação com o usuário. | 21/10/2025 | 16:45 | Presencial
-| Matheus Queiroz | 20 anos, estudante de engenharia de software e usuário do app Loterias Caixa, responsável por validar as histórias de usuários desenvolvidos para o artefato. | 21/10/2025 | 16:45 | Presencial |
+| Matheus Queiroz | Estudante de engenharia de software e usuário do app Loterias Caixa, responsável por validar as histórias de usuários desenvolvidos para o artefato. | 21/10/2025 | 16:45 | Presencial |
 
 <a id="HU37"></a>
 ### HU37 - Função "Rapidão"

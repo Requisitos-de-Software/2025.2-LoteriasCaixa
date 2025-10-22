@@ -339,7 +339,7 @@ Autor: [Luan Vinícius](https://github.com/luannvi)
 | Participante | Função | Data | Horário | Local |
 | ------------ | ----- | ----- | ------ | -------|
 | [Luan Vinícius](https://github.com/luannvi) | Integrante do grupo, responsável por coordenar a validação com o usuário. | 21/10/2025 | 16:30 | Presencial
-| Matheus Queiroz | 20 anos, estudante de engenharia de software e usuário do app Loterias Caixa, responsável por validar os cartões desenvolvidos. | 21/10/2025 | 16:30 | Presencial |
+| Matheus Queiroz | Estudante de engenharia de software e usuário do app Loterias Caixa, responsável por validar os cartões desenvolvidos. | 21/10/2025 | 16:30 | Presencial |
 
 <a id="CNFR12"></a>
 ## CNRF12 - Compatibilidade Multiplataforma
