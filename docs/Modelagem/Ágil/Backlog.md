@@ -163,8 +163,8 @@ Este épico abrange histórias relacionadas às ações que o usuário pode real
 
 | Id | História de Usuário | Requisito Trabalhado | Prioridade |
 | --- | --- | --- | --- |
-| <a id="BKL26"></a> BKL26 | [HU19 - Acompanhar Jogos pelo Aplicativo]() | [RF03](../../Elicitação/Requisitos%20Elicitados.md) | Média |
-| <a id="BKL27"></a> BKL27 | [HU20 - Cancelar Apostas Antes do Sorteio]() | [RF28](../../Elicitação/Requisitos%20Elicitados.md) | Alta |
+| <a id="BKL26"></a> BKL26 | [HU19 - Acompanhar Jogos pelo Aplicativo](História%20de%20usuário.md) | [RF03](../../Elicitação/Requisitos%20Elicitados.md) | Média |
+| <a id="BKL27"></a> BKL27 | [HU20 - Cancelar Apostas Antes do Sorteio](História%20de%20usuário.md) | [RF28](../../Elicitação/Requisitos%20Elicitados.md) | Alta |
 | <a id="BKL28"></a> BKL28 | [HU31 - Baixar Comprovante de Aposta](História%20de%20usuário.md#HU31) | [RNF20](../../Elicitação/Requisitos%20Elicitados.md) | Alta |   
 | <a id="BKL29"></a> BKL29 | [#HU39 - Resultado em tempo real](História%20de%20usuário.md#HU39) | [RNF21](../../Elicitação/Requisitos%20Elicitados.md) | Média |
 | <a id="BKL30"></a> BKL30 | [#HU40 - Receber comprovante de apostas e jogos ganhos](História%20de%20usuário.md#HU40) | [RF01](../../Elicitação/Requisitos%20Elicitados.md) | Alta |
@@ -176,9 +176,9 @@ Este épico reúne histórias que tratam da proteção da sessão do usuário e 
 
 | Id | História de Usuário | Requisito Trabalhado | Prioridade |
 | --- | --- | --- | --- |
-| <a id="BKL31"></a> BKL31 | [HU21 - Expiração Automática da Sessão]() | [RNF10]((../../Elicitação/Requisitos%20Elicitados.md)) | Alta |
-| <a id="BKL32"></a> BKL32 | [HU33 - Selecionar Números no Volante Digital](História%20de%20usuário.md#HU33) | [RF17]((../../Elicitação/Requisitos%20Elicitados.md)), [RNF06](../../Elicitação/Requisitos%20Elicitados.md) | Alta |   
-| <a id="BKL33"></a> BKL33 | [HU34 - Completar Aposta com Números Aleatórios ](História%20de%20usuário.md#HU34) | [RF19](../../Elicitação/Requisitos%20Elicitados.md) | Baixa |   
+| <a id="BKL31"></a> BKL31 | [HU21 - Expiração Automática da Sessão](História%20de%20usuário.md) | [RNF10](../../Elicitação/Requisitos%20Elicitados.md) | Alta |
+| <a id="BKL32"></a> BKL32 | [HU33 - Selecionar Números no Volante Digital](História%20de%20usuário.md#HU33) | [RF17](../../Elicitação/Requisitos%20Elicitados.md), [RNF06](../../Elicitação/Requisitos%20Elicitados.md) | Alta |   
+| <a id="BKL33"></a> BKL33 | [HU34 - Completar Aposta com Números Aleatórios](História%20de%20usuário.md#HU34) | [RF19](../../Elicitação/Requisitos%20Elicitados.md) | Baixa |   
 | <a id="BKL34"></a> BKL34 | [HU35 - Adicionar Aposta ao Carrinho](História%20de%20usuário.md#HU35) | [RF20](../../Elicitação/Requisitos%20Elicitados.md)  | Alta |   
 
 
@@ -189,7 +189,7 @@ Este épico contempla funcionalidades que reforçam a credibilidade e o papel so
 
 | Id | História de Usuário | Requisito Trabalhado | Prioridade |
 | --- | --- | --- | --- |
-|   <a id="BKL35"></a> BKL35 | [HU24 - Exibir Repasses Sociais das Loterias]() | [RF04](../../Elicitação/Requisitos%20Elicitados.md) | Média |
+|   <a id="BKL35"></a> BKL35 | [HU24 - Exibir Repasses Sociais das Loterias](História%20de%20usuário.md) | [RF04](../../Elicitação/Requisitos%20Elicitados.md) | Média |
 
 ## Épico 9 - Gestão de Conta e Personalização
 
