@@ -127,7 +127,7 @@ Autor: [Heyttor Augusto](https://github.com/H3ytt0r62)
 | **Campo**              |**Detalhamento**                                                                 |
 |-------------------------|----------------------------------------------------------------------------------|
 | **Nr Requisito**        | CNFR01                                                                          |
-| **Classificação**       | usabulidade                                                               |
+| **Classificação**       | usabilidade                                                               |
 | **Descrição**           | O sistema deve ter telas simples com poucos textos |
 | **Justificativa**       | Garante  dinamismo, acessibilidade para pessoas com pouca experiência com tecnologia e facilita o entendimento |
 | **Origem**              | [RNF01](../../Elicitação/Requisitos%20Elicitados.md)                                                                  |
@@ -236,6 +236,10 @@ Autor: [Nayra Nery](https://github.com/NayraNery127)
 | **Prioridade**          | 8 |
 | **Conflitos**           | [RNF03](../../Elicitação/Requisitos%20Elicitados.md) - Persistência de dados temporários pode impedir o encerramento completo da sessão |
 | **História**            | Criado em 20/10/2025 |
+
+### Validação - CNFR05 e CNFR06
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QHLd4eErvhE?si=v6Bblky58GTNyJUO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <a id="CNFR07"></a>
 ## CNFR07 - Navegação Intuitiva e Fluidez da Experiência
@@ -462,9 +466,13 @@ O requisito abordado nesse diagrama NFR foi:
 
 *<p style="text-align: center;">Figura 11: Diagrama de Confiabilidade.</p>*
 
-![NFR Confiabilidade](../../images/NFRConfiabilidade.png)
+![NFR Confiabilidade](../../images/NFRConfiabilidade_samu.jpg)
 
 *<p style="text-align: center;">Autor: [Samuel Felipe](https://github.com/TerminaKng05) </p>*
+
+## Agradecimentos 
+
+O grupo 7 agradece o apoio das ferramentas de inteligencia artificial generativa - **chatGPT**, **Google Gemini** - na revisão gramatical e estilo de algumas partes do texto. As tecnologias foram utilzizadas para organizar e deixar o texto mais claro, alem de que fornecer alguns exemplos de codigos de mkdocs para servir de referencia para os autores. Todo o conteudo, assim como a precisão técnica e as ideias apresentadas, permanecem de responsabilidade dos autores.
 
 ## Referência Bibliográfica
 

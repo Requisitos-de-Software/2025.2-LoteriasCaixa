@@ -40,6 +40,11 @@ Foram realizadas no dia 20/10/2025 pelo estudante heyttor augusto e o usuario Ma
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gEDrCnwJu9w?si=F2vi5zKmEGp1UM-I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+#### Validação #HU12 - #HU18
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/leGUHBb1l2s?si=IgJTeUidWysr72GG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 ## Histórias de usuários
 
 <a id="HU01"></a>
@@ -420,7 +425,7 @@ Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 | **Título** | Compatibilidade de SO |
 | **Descrição** | Como usuário, quero que o aplicativo funcione corretamente tanto no Android quanto no iOS, para poder usá-lo independente do meu dispositivo. |
 | **Critérios de Aceitação** | - Funcionalidades idênticas em ambas as plataformas<br>- Interface adaptada para cada sistema<br>- Performance consistente entre versões<br>- Atualizações simultâneas para ambos os sistemas |
-| **Rastreabilidade** | [RNF31](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Rastreabilidade** | [RNF12](../../Elicitação/Requisitos%20Elicitados.md) |
 | **Prioridade** | Média |
 | **Status** | Implementado |
 
@@ -642,6 +647,10 @@ Autor: [Samuel Felipe](https://github.com/TerminaKng05)
 | **Rastreabilidade** | [RNF23](../../Elicitação/Requisitos%20Elicitados.md) |
 | **Prioridade** | Média |
 | **Status** | Não Implementado |
+
+## Agradecimentos 
+
+O grupo 7 agradece o apoio das ferramentas de inteligencia artificial generativa - **chatGPT**, **Google Gemini** - na revisão gramatical e estilo de algumas partes do texto. As tecnologias foram utilzizadas para organizar e deixar o texto mais claro, alem de que fornecer alguns exemplos de codigos de mkdocs para servir de referencia para os autores. Todo o conteudo, assim como a precisão técnica e as ideias apresentadas, permanecem de responsabilidade dos autores.
 
 ## Referências Bibliográficas   
 
