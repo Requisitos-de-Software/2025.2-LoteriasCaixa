@@ -233,3 +233,4 @@ O grupo 7 agradece o apoio das ferramentas de inteligencia artificial generativa
 | ``1.7`` | 21/10/2025 | [Samuel Felipe](https://github.com/TerminaKng05) | Adição das histórias de usuários (37 a 42) às backlogs correspondentes | [Heyttor Augusto](https://github.com/H3ytt0r62) |
 | ``1.8``    | 21/10/2025 | [João Pedro](https://github.com/Jadequilin)   | Correção dos IDs de referência à requisitos |[Rivadalvio Joaquim](https://github.com/RivaFilho)  |
 | ``1.9`` | 21/10/2025 | [Luan Vinícius](https://github.com/luannvi) | Adição da validação com o usuário (Backlogs 13, 21, 24, 26, 27, 28) | [Miqueias Ezequiel](https://github.com/Kael-web7) |
+| ``2.0`` | 21/10/2025 | [Miqueias Ezequiel](https://github.com/Kael-web7) | Adição do link da validação de usuario backlog 16-21 | [Luan Vinícius](https://github.com/luannvi) |

@@ -511,3 +511,4 @@ O grupo 7 agradece o apoio das ferramentas de inteligencia artificial generativa
 | ``1.8`` | 21/10/2025 | [João Pedro](https://github.com/Jadequilin) | Criação dos diagramas de segurança e compatibilidade,  Correção dos IDs de referência à requisitos  | [Rivadalvio Joaquim](https://github.com/RivaFilho) |
 | ``1.9`` | 21/10/2025 | [Luan Vinícius](https://github.com/luannvi) | Adição da validação com o usuário (CNFR 09 - 11) | [Miqueias Ezequiel](https://github.com/Kael-web7) |
 | ``2.0`` | 21/10/2025 | [Samuel Felipe](https://github.com/TerminaKng05) | Criação das CNFR's 14 e 15 e do diagrama de confiabilidade | [Heyttor Augusto](https://github.com/H3ytt0r62)
+| ``2.1`` | 21/10/2025 | [Miqueias Ezequiel](https://github.com/Kael-web7) | adição link CNFR's 7-8  | [Luan Vinícius](https://github.com/luannvi) |
