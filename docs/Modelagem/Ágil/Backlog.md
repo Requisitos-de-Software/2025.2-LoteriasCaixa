@@ -204,6 +204,9 @@ Este épico abrange funcionalidades voltadas à gestão da conta do usuário e �
 | <a id="BKL38"></a> BKL38 | [#HU28 - Apostas Favoritas](../../Ágil/Histórias%20de%20usuário.md#hu28---apostas-favoritas)         | [#RF40](../../Elicitação/Requisitos%20Elicitados.md#rf36)   | Média      |
 | <a id="BKL39"></a> BKL39 | [#HU30 - Notificações Push](../../Ágil/Histórias%20de%20usuário.md#hu30---notificações-push)         | [#RF41](../../Elicitação/Requisitos%20Elicitados.md#rf37)   | Média      |
 
+## Agradecimentos
+O grupo 7 agradece o apoio das ferramentas de inteligencia artificial generativa - chatGPT, Google Gemini - na revisão gramatical e estilo de algumas partes do texto. As tecnologias foram utilzizadas para organizar e deixar o texto mais claro, alem de que fornecer alguns exemplos de codigos de mkdocs para servir de referencia para os autores. Todo o conteudo, assim como a precisão técnica e as ideias apresentadas, permanecem de responsabilidade dos autores.
+
 ## Referências bibliográficas
 >  <a id="REF1" href="#anchor_1">1.</a> PRESSMAN, Roger S.; MAXIM, Bruce R.. Engenharia de software: uma abordagem profissional. 8 Porto Alegre: AMGH, 2016, p. 73. 
 

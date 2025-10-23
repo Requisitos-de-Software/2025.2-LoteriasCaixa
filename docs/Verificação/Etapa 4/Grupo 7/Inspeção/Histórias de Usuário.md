@@ -4,16 +4,16 @@
 
 | ID | Item de Verificação | Cumpriu? |
 | :---: | :--- | :---: |
-| 1 | A história de usuário é escrita na perspectiva do usuário (Quem), descrevendo a funcionalidade desejada (O quê) e o motivo (Porquê/Valor)? <a id="anchor_9" href="#REF9">[9]</a> | |
-| 2 | Cada história de usuário entrega valor de negócio perceptível ao cliente/usuário? <a id="anchor_9" href="#REF9">[9]</a> | |
-| 3 | As histórias focam em "O que" a funcionalidade deve fazer, e não em "Como" ela deve ser implementada? <a id="anchor_10" href="#REF10">[10]</a> | |
-| 4 | Cada história é independente e pode ser desenvolvida e estimada separadamente? <a id="anchor_9" href="#REF9">[9]</a>| |
-| 5 | As histórias são pequenas o suficiente para serem implementadas em um ciclo curto (ex: Sprint) e, se forem muito grandes (Épicos), elas são divididas? <a id="anchor_10" href="#REF10">[10]</a> | |
-| 6 | As histórias de usuário são organizadas ou agrupadas e possuem rastreabilidade? <a id="anchor_11" href="#REF11">[11]</a> | |
-| 7 | Cada história de usuário está associada a critérios de aceitação claros, definidos pelo cliente e focados na funcionalidade? <a id="anchor_12" href="#REF12">[12]</a> | |
-| 8 | Há uma preocupação em complementar as histórias de usuário para cobrir Requisitos Não-Funcionais? <a id="anchor_13" href="#REF13">[13]</a> | |
-| 9 | As histórias de usuários e os critérios de aceitação são a principal forma de especificar requisitos no projeto? <a id="anchor_14" href="#REF14">[14]</a> | |
-| 10 | As histórias de usuários são priorizadas individualmente (ex: por valor ou risco)? <a id="anchor_11" href="#REF11">[11]</a>| |
+| 1 | A história de usuário é escrita na perspectiva do usuário (Quem), descrevendo a funcionalidade desejada (O quê) e o motivo (Porquê/Valor)? <a id="anchor_9" href="#REF9">[9]</a> | Sim |
+| 2 | Cada história de usuário entrega valor de negócio perceptível ao cliente/usuário? <a id="anchor_9" href="#REF9">[9]</a> | Sim |
+| 3 | As histórias focam em "O que" a funcionalidade deve fazer, e não em "Como" ela deve ser implementada? <a id="anchor_10" href="#REF10">[10]</a> | Sim |
+| 4 | Cada história é independente e pode ser desenvolvida e estimada separadamente? <a id="anchor_9" href="#REF9">[9]</a>| Sim |
+| 5 | As histórias são pequenas o suficiente para serem implementadas em um ciclo curto (ex: Sprint) e, se forem muito grandes (Épicos), elas são divididas? <a id="anchor_10" href="#REF10">[10]</a> | Sim |
+| 6 | As histórias de usuário são organizadas ou agrupadas e possuem rastreabilidade? <a id="anchor_11" href="#REF11">[11]</a> | Sim |
+| 7 | Cada história de usuário está associada a critérios de aceitação claros, definidos pelo cliente e focados na funcionalidade? <a id="anchor_12" href="#REF12">[12]</a> | Sim |
+| 8 | Há uma preocupação em complementar as histórias de usuário para cobrir Requisitos Não-Funcionais? <a id="anchor_13" href="#REF13">[13]</a> | Não |
+| 9 | As histórias de usuários e os critérios de aceitação são a principal forma de especificar requisitos no projeto? <a id="anchor_14" href="#REF14">[14]</a> | Sim |
+| 10 | As histórias de usuários são priorizadas individualmente (ex: por valor ou risco)? <a id="anchor_11" href="#REF11">[11]</a>| Sim |
 
 *<p style="text-align: center;">Fonte: [Autoria Própria](../Listas%20de%20Verificações.md) </p>*
 
@@ -41,3 +41,4 @@ Porto Alegre: AMGH, 2011. Cap. 3, p. 92.
 |:--------:|:------------:|:---------------:|:-------------------------------:|:---------:|
 | ``1.0``    | 20/10/2025 | [Luan Vinícius](https://github.com/luannvi)  | Abertura da documentação | |
 | ``1.1``    | 22/10/2025 | [Luan Vinícius](https://github.com/luannvi)  | Adição das checklists | |
+| ``1.2``    | 22/10/2025 | [Luan Vinícius](https://github.com/luannvi)  | Adição das respostas em grupo nas checklists |
