@@ -64,7 +64,6 @@ nav:
       - Value, Cost and Risk: Elicitação/Priorização/Value, Cost and Risk.md
       - $100: Elicitação/Priorização/$100.md
       - MoSCoW: Elicitação/Priorização/MoSCoW.md
-    - Requisitos Elicitados: Elicitação/Requisitos Elicitados.md
 
   - Modelagem: 
     - Modelagem/Casos de uso.md
@@ -142,7 +141,9 @@ nav:
 
   - Pós-Rastreabilidade: 
     - Pós-rastreabilidade/Forward from.md
-    - Pós-rastreabilidade/Backward from.md
+    - Pós-rastreabilidade/backward from.md
+    - Pós-rastreabilidade/matriz_geral.md
+    - Pós-rastreabilidade/modelo_toranzo.md
   
   - Apresentações: Apresentações.md
   

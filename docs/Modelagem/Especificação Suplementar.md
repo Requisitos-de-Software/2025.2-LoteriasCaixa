@@ -206,7 +206,7 @@ Diz a respeito da acessibilidade e suporte que os usuarios podem ter usando o ap
 | **ID** | **Descrição** | **Status** | Rastreabilidade** |
 | :----: | :-----------: | :--------: | :---------------: |
 | RNF01  | O software deve ter telas simples com poucos textos | Implementado | [ENT01](../Elicitação/Requisitos%20Elicitados.md) |
-| RF06  | O software deve ter opções de cores escuras e claras | Não implementado | [ENT07](../Elicitação/Técnicas/Entrevista.md) |
+| RF06  | O software deve ter opções de modo escuro ou claro | Não implementado | [ENT07](../Elicitação/Técnicas/Entrevista.md) |
 | RNF01 | O aplicativo segue a questão de disponibilidade em plataformas que os usuários tem acesso (IOS/Apple Store, Android/Play Store) | Não implementado | [AD05](../Elicitação/Técnicas/Análise%20de%20Documentos.md) |
 
 ##  Referências Bibliográficas

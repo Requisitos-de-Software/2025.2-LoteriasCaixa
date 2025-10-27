@@ -88,7 +88,7 @@ Autor:  [Heyttor Augusto](https://github.com/H3ytt0r62)
 |-----|----------|
 |**Titulo** | O usuário deve ter mais de uma opção de aposta |
 |**Código**| CN03 |
-| **Requisito trabalhado** | RF21 - O usuário deve ter mais de uma opção de aposta |
+| **Requisito trabalhado** | RF02 - O usuário deve ter mais de uma opção de aposta |
 |**Atores** | Cristina, 46 anos, é uma apostadora entusiasmada que há anos faz jogos na Mega-Sena. Ela gosta da emoção de acompanhar os sorteios e de imaginar o que faria se ganhasse. Recentemente, Cristina tem sentido vontade de explorar outras modalidades de apostas, como a Quina, Lotofácil e apostas esportivas, buscando novas formas de diversão e oportunidades de ganho |
 |**Ambiente(Contexto)** | Cristina, esta no horario de almoço do seu trabalho, com o tempo que le resta ela quer diversificar suas apostas e decide fazer uma aposta esportiva de seu time de futebol favorito.  |
 |**Objetivos** | -Diversificar as apostas feitas<br> -Conhecer outras apostas do aplicativo  |

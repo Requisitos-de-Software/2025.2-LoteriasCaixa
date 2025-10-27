@@ -74,7 +74,7 @@ Autor: [Heyttor Augusto](https://github.com/H3ytt0r62)
 |#HU2| Login|
 |Descrição| eu como usuario, desejo conseguir fazer login no aplicativo| 
 |Critérios de aceitação| Na página de login, deverá existir duas caixas uma para o CPF e uma para senha do usuário; O sistema deve conferir os dados inseridos e permitir a entrada ou não |
-|Rastreabilidade| [#RF08](../../Elicitação/Requisitos%20Elicitados.md) |
+|Rastreabilidade| [#RF09](../../Elicitação/Requisitos%20Elicitados.md) |
 |Prioridade| Alta|
 
 <a id="HU03"></a>
@@ -84,7 +84,7 @@ Autor: [Heyttor Augusto](https://github.com/H3ytt0r62)
 
 |Id  |  Nome|
 |----|------|
-|#HU2| Resultado das apostas|
+|#HU3| Resultado das apostas|
 |Descrição| eu como usuário, desejo conseguir olhar os resultados dos meus jogos| 
 |Critérios de aceitação| Na tela inicial, Deverá ter um ícone de notificações; Quando o resultado sair, o usuário poderá ver ao clicar nessa notificação|
 |Rastreabilidade| [#RF07](../../Elicitação/Requisitos%20Elicitados.md) |
@@ -592,7 +592,7 @@ Autor: [Samuel Felipe](https://github.com/TerminaKng05)
 | **Título** | Logout do sistema |
 | **Descrição** | Como usuário, quero conseguir sair do sistema na hora que quiser. |
 | **Critérios de Aceitação** | a tela de seleções de seção, há a opção de sair do sistema na parte inferior da tela; |
-| **Rastreabilidade** | [RF27](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Rastreabilidade** | [RF11](../../Pós-rastreabilidade/backward%20from.md) |
 | **Prioridade** | Média |
 | **Status** | Implementado |
 
