@@ -137,6 +137,14 @@ nav:
           - Verificação/Etapa 4/Grupo 7/Inspeção/Histórias de Usuário.md
           - Verificação/Etapa 4/Grupo 7/Inspeção/Backlog.md
           - Verificação/Etapa 4/Grupo 7/Inspeção/Geral.md
+    - Etapa 6:
+      - Grupo + 1:
+        - Verificação/Etapa 6/Grupo + 1/Listas de Verificações.md     
+        - Verificação/Etapa 6/Grupo + 1/Inspeção.md  
+      - Grupo 7:
+        - Verificação/Etapa 6/Grupo 7/Listas de Verificações.md
+        - Verificação/Etapa 6/Grupo 7/Inspeção.md
+        
   - Validação: Validação.md
 
   - Pós-Rastreabilidade: 
