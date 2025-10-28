@@ -8,12 +8,12 @@ A etapa de verificação tem papel fundamental no desenvolvimento de um projeto,
 
 | ID | Descrição | Autor(es) | Referências |
 | :---: | :--- | :---: | :---: |
-| 1 | A matriz de rastreabilidade está sendo definida na introdução do documento? | [Luan]() | [Ver Imagem](../../../images/inspecao-etapa5/id01-matriz.png){ data-glightbox } |
-| 2 | A coluna da matriz está preenchida com os requisitos do sistema? | [Luan]() | [Ver Imagem](../../../images/inspecao-etapa5/id02-matriz.png){ data-glightbox } |
-| 4 | Os requisitos listados na matriz são numerados sequencialmente para facilitar a identificação? | [Luan]() | [Ver Imagem](../../../images/inspecao-etapa5/id04-matriz.png){ data-glightbox } |
-| 5 | As demais colunas da matriz representam os artefatos gerados durante o processo de desenvolvimento (ex: Implementação, Pré-rastreabilidade, Artefatos criados)? | [Luan]() | [Ver Imagem](../../../images/inspecao-etapa5/id05-matriz.png){ data-glightbox } |
-| 6 | A matriz disponibiliza a rastreabilidade entre os requisitos e seus respectivos documentos através de hyperlinks? | [Luan]() | [Ver Imagem](../../../images/inspecao-etapa5/id06-matriz.png){ data-glightbox } |
-| 10 | A matriz registra adequadamente os elos de "satisfação" (mostrando como um artefato satisfaz um requisito)? | [Luan]() | [Ver Imagem](../../../images/inspecao-etapa5/id10-matriz.png){ data-glightbox } |
+| 1 | A matriz de rastreabilidade está sendo definida na introdução do documento? <a id="anchor_3" href="#REF3">[3]</a> | [Luan](https://github.com/luannvi) | [Ver Imagem](../../../images/inspecao-etapa5/id01-matriz.png){ data-glightbox } |
+| 2 | A coluna da matriz está preenchida com os requisitos do sistema? <a id="anchor_3" href="#REF3">[3]</a> | [Luan](https://github.com/luannvi) | [Ver Imagem](../../../images/inspecao-etapa5/id02-matriz.png){ data-glightbox } |
+| 3 | Os requisitos listados na matriz são numerados sequencialmente para facilitar a identificação? <a id="anchor_3" href="#REF3">[3]</a> | [Luan](https://github.com/luannvi) | [Ver Imagem](../../../images/inspecao-etapa5/id03-matriz.png){ data-glightbox } |
+| 4 | As demais colunas da matriz representam os artefatos gerados durante o processo de desenvolvimento (ex: Implementação, Pré-rastreabilidade, Artefatos criados)? <a id="anchor_4" href="#REF4">[4]</a> | [Luan](https://github.com/luannvi) | [Ver Imagem](../../../images/inspecao-etapa5/id04-matriz.png){ data-glightbox } |
+| 5 | A matriz disponibiliza a rastreabilidade entre os requisitos e seus respectivos documentos através de hyperlinks? <a id="anchor_4" href="#REF4">[4]</a> | [Luan](https://github.com/luannvi) | [Ver Imagem](../../../images/inspecao-etapa5/id05-matriz.png){ data-glightbox } |    
+| 6 | A matriz registra adequadamente os elos de "satisfação" (mostrando como um artefato satisfaz um requisito)? <a id="anchor_5" href="#REF5">[5]</a> | [Luan](https://github.com/luannvi) | [Ver Imagem](../../../images/inspecao-etapa5/id06-matriz.png){ data-glightbox } |
 
 ## Lista de Verificação - Pós-rastreabilidade
 
@@ -44,9 +44,19 @@ Católica do Rio de Janeiro, 2005. (Monografias em Ciência da Computação, n. 
 > <a id="REF2" href="#anchor_2">2.</a> SAYÃO, Miriam; LEITE, Julio Cesar Sampaio do Prado. Rastreabilidade de Requisitos. Rio de Janeiro: Pontifícia Universidade
 Católica do Rio de Janeiro, 2005. (Monografias em Ciência da Computação, n. 20/05). Cap. 2 p. 10. Acesso em: 27 out. 2025.
 
+> <a id="REF3" href="#anchor_3">3.</a> SAYÃO, Miriam; LEITE, Julio Cesar Sampaio do Prado. Rastreabilidade de Requisitos. Rio de Janeiro: Pontifícia Universidade
+Católica do Rio de Janeiro, 2005. (Monografias em Ciência da Computação, n. 20/05). Cap. 2 p. 12. Acesso em: 27 out. 2025.
+
+> <a id="REF4" href="#anchor_4">4.</a> SAYÃO, Miriam; LEITE, Julio Cesar Sampaio do Prado. Rastreabilidade de Requisitos. Rio de Janeiro: Pontifícia Universidade
+Católica do Rio de Janeiro, 2005. (Monografias em Ciência da Computação, n. 20/05). Cap. 2 p. 13. Acesso em: 27 out. 2025.
+
+> <a id="REF5" href="#anchor_5">5.</a> SAYÃO, Miriam; LEITE, Julio Cesar Sampaio do Prado. Rastreabilidade de Requisitos. Rio de Janeiro: Pontifícia Universidade
+Católica do Rio de Janeiro, 2005. (Monografias em Ciência da Computação, n. 20/05). Cap. 2 p. 14. Acesso em: 27 out. 2025.
+
 ## Versionamento
 
 | Versão | Data       | Autor               | Descrição                       | Revisor |
 |:--------:|:------------:|:---------------:|:-------------------------------:|:---------:|
 | ``1.0``    | 27/10/2025 | [Luan Vinícius](https://github.com/luannvi)  | Abertura da documentação | |
 | ``1.1``    | 27/10/2025 | [Luan Vinícius](https://github.com/luannvi)  | Adição das checklists | |
+| ``1.2``    | 28/10/2025 | [Luan Vinícius](https://github.com/luannvi)  | Adição de conteúdo na checklist e correções | |
