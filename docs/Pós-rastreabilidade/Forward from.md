@@ -25,11 +25,11 @@ A rastreabilidade é capacidade de rastrear ou encontrar algo ou alguem baseado 
 
 | ID | Descrição | UC | HU | CNFR | ES | CN | L |
 |:---|:---|:---|:---|:---|:---|:---|:---|
-| **RF01** | O usuário deve receber Comprovantes de seus ganhos e apostas | - | - | - | - | - |  - |
-| **RF02** | O usuário deve ter mais de uma opção de aposta | - | -| - | - | [CN03](../Modelagem/Cenários.md/#CN03)| - | 
-| **RF03** | O usuário deve poder acompanhar jogos pelo software | - | - | - | - | - |  - |
-| **RF04** | O software deve ter poucas telas | - | - | - | - | - |  - |
-| **RF05** | O usuário deve poder consultar seus ganhos | - | - | - | - | - |  - |
+| **RF01** | O usuário deve receber Comprovantes de seus ganhos e apostas | - | [HU06](https://requisitos-de-software.github.io/2025.2-LoteriasCaixa/Modelagem/%C3%81gil/Hist%C3%B3ria%20de%20usu%C3%A1rio/)| - | - | - | [L06](https://requisitos-de-software.github.io/2025.2-LoteriasCaixa/Modelagem/L%C3%A9xicos/)|
+| **RF02** | O usuário deve ter mais de uma opção de aposta | - | - | - | - | [CN03](../Modelagem/Cenários.md/#CN03)| - | 
+| **RF03** | O usuário deve poder acompanhar jogos pelo software | - | [HU19](https://requisitos-de-software.github.io/2025.2-LoteriasCaixa/Modelagem/%C3%81gil/Hist%C3%B3ria%20de%20usu%C3%A1rio/)| - | - | - |  [L27](https://requisitos-de-software.github.io/2025.2-LoteriasCaixa/Modelagem/L%C3%A9xicos/) |
+| **RF04** | O software deve ter poucas telas | - | [HU24](https://requisitos-de-software.github.io/2025.2-LoteriasCaixa/Modelagem/%C3%81gil/Hist%C3%B3ria%20de%20usu%C3%A1rio/) | - | - | - |  - |
+| **RF05** | O usuário deve poder consultar seus ganhos | - | [HU16](https://requisitos-de-software.github.io/2025.2-LoteriasCaixa/Modelagem/%C3%81gil/Hist%C3%B3ria%20de%20usu%C3%A1rio/)  | - | - | - |  - |
 | **RF06** | O software deve ter opções modo claro e modo escuro | - | [HU01](../Modelagem/Ágil/História%20de%20usuário.md/#HU01) | [suportabilidade](../Modelagem/Especificação%20Suplementar.md) | - | - |  [L09](../Modelagem/Léxicos.md/#L09) |
 | **RF07** | O usuário deve receber o resultado das apostas |  - | [HU03](../Modelagem/Ágil/História%20de%20usuário.md/#HU03) | - | - | - |  - |
 | **RF08** | O usuário deve poder fazer login no aplicativo | - | - | - | - | - |  - |
@@ -75,3 +75,4 @@ A rastreabilidade é capacidade de rastrear ou encontrar algo ou alguem baseado 
 | ``1.0``    | 10/10/2025 | [Heyttor Augusto](https://github.com/H3ytt0r62)   | Adição Foward-From dos RF de Entrevista| [Samuel Felipe](https://github.com/TerminaKng05) |
 | ``1.1``     | 11/10/2025 | [Samuel Felipe](https://github.com/TerminaKng05)    | Adição Foward-From dos RF de Análise de Documento (RF29 a 32, RNF 12 a 23) | [Luan Vinícius](https://github.com/luannvi) |
 | ``1.2``     | 11/10/2025 | [Miquéias Ezequiel](https://github.com/Kael-web7)    | Adição Foward-From dos RF de Análise de Documento (RF12 a 19, RNF 03 a 07) | [Luan Vinícius](https://github.com/luannvi) |
+| ``1.3``     | 28/10/2025 | [Nayra Silva Nery](https://github.com/NayraNery127)    | Adição Foward-From dos RF de Análise de Documento (RF01, RF03,RF04, RF05, RF08) | [Luan Vinícius](https://github.com/luannvi) |
