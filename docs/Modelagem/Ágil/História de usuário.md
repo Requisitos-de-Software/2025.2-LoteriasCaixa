@@ -363,9 +363,10 @@ Autor: [Miqueias Ezequiel](https://github.com/Kael-web7)
 | **Prioridade** | Média |
 | **Status** | Implementado |
 
-<a id="HU23"></a>
+
 ### HU23 - Acesso ao Perfil do Usuário
 Autor: [Miqueias Ezequiel](https://github.com/Kael-web7)
+<a id="HU23"></a>
 
 | Campo | Detalhamento |
 | --- | --- |

@@ -46,6 +46,8 @@ Foi utilizada a técnica **LAL (Léxico Ampliado da Linguagem)** conforme aprese
 
 Autor: [João Pedro](https://github.com/Jadequilin) 
 
+<a id = "L01"></a>
+
 *<p style="text-align: center;">Tabela 3: Controle de Limite Diário de Apostas</p>*
 
 | Item | Descrição |
@@ -60,6 +62,8 @@ Autor: [João Pedro](https://github.com/Jadequilin)
 
 Autor: [João Pedro](https://github.com/Jadequilin) 
 
+<a id = "L02" ></a>
+
 *<p style="text-align: center;">Tabela 4: Personalização da Tela Inicial</p>*
 
 | Item | Descrição |
@@ -73,6 +77,7 @@ Autor: [João Pedro](https://github.com/Jadequilin)
 ### L03 – Termo de Responsabilidade
 
 Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
+<a id = "L03" ></a>
 
 *<p style="text-align: center;">Tabela 5: Termo de Esclarecimento sobre Riscos</p>*
 
@@ -87,6 +92,7 @@ Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 ### L04 – Modo de Acessibilidade
 
 Autor:[Rivadalvio Joaquim](https://github.com/RivaFilho)
+<a id = "L04" ></a>
 
 *<p style="text-align: center;">Tabela 6: Modo Acessibilidade</p>*
 
@@ -101,7 +107,7 @@ Autor:[Rivadalvio Joaquim](https://github.com/RivaFilho)
 ### L05 – Interface Simplificada
 
 Autor: [João Pedro](https://github.com/Jadequilin)
-
+<a id = L05></a>
 *<p style="text-align: center;">Tabela 7: Interface com Telas Simples</p>*
 
 | Item | Descrição |
@@ -115,6 +121,7 @@ Autor: [João Pedro](https://github.com/Jadequilin)
 ### L06 – Comprovante de Aposta
 
 Autor: [João Pedro](https://github.com/Jadequilin)
+<a id = "L06" ></a>
 
 *<p style="text-align: center;">Tabela 8: Comprovante Digital de Apostas</p>*
 
@@ -129,6 +136,7 @@ Autor: [João Pedro](https://github.com/Jadequilin)
 ### L07 – Multi-modalidade de Apostas
 
 Autor: [João Pedro](https://github.com/Jadequilin)
+<a id = "L07" ></a>
 
 *<p style="text-align: center;">Tabela 9: Múltiplas Opções de Apostas</p>*
 
@@ -143,6 +151,7 @@ Autor: [João Pedro](https://github.com/Jadequilin)
 ### L08 – Acompanhamento de Jogos
 
 Autor: [João Pedro](https://github.com/Jadequilin)
+<a id = "L08" ></a>
 
 *<p style="text-align: center;">Tabela 10: Acompanhamento de Jogos e Resultados</p>*
 
@@ -156,6 +165,7 @@ Autor: [João Pedro](https://github.com/Jadequilin)
 
 ### L09 – Modo Claro/Escuro
 
+<a id = "L09"></a>
 Autor: [João Pedro](https://github.com/Jadequilin)
 
 *<p style="text-align: center;">Tabela 11: Alternância entre Modo Claro e Escuro</p>*
@@ -166,11 +176,12 @@ Autor: [João Pedro](https://github.com/Jadequilin)
 | **Tipo** | Estado |
 | **Noção** | Configuração de interface que permite alternar entre temas claro e escuro para melhor conforto visual em diferentes condições de iluminação |
 | **Impacto** | - Melhora experiência visual<br>- Reduz fadiga ocular<br>- Adapta-se ao ambiente do usuário<br>- Oferece personalização |
-| **Rastreabilidade** | RF19 |
+| **Rastreabilidade** | RF06 |
 
 ### L10 – Imagem Explicativa
 
 Autor: [João Pedro](https://github.com/Jadequilin)
+<a id = "L10" ></a>
 
 *<p style="text-align: center;">Tabela 12: Imagens para Explicação de Funcionalidades</p>*
 
@@ -180,11 +191,12 @@ Autor: [João Pedro](https://github.com/Jadequilin)
 | **Tipo** | Objeto |
 | **Noção** | Elemento visual que auxilia na compreensão de funcionalidades através de ilustrações, screenshots ou ícones descritivos |
 | **Impacto** | - Facilita aprendizado de funcionalidades<br>- Reduz necessidade de textos longos<br>- Melhora usabilidade para todos os públicos<br>- Auxilia usuários com dificuldade de leitura |
-| **Rastreabilidade** | RF20 |
+| **Rastreabilidade** | RNF02 |
 
 ### L11 – Consulta de Ganhos
 
 Autor: [João Pedro](https://github.com/Jadequilin)
+<a id = "L11" ></a>
 
 *<p style="text-align: center;">Tabela 13: Consulta de Ganhos e Resultados</p>*
 
@@ -198,6 +210,7 @@ Autor: [João Pedro](https://github.com/Jadequilin)
 
 ### L12 – Autenticação Segura
 
+<a id = "L12">
 Autor: [João Pedro](https://github.com/Jadequilin)
 
 *<p style="text-align: center;">Tabela 14: Sistema de Autenticação Segura</p>*
@@ -213,6 +226,7 @@ Autor: [João Pedro](https://github.com/Jadequilin)
 ### L13 – Perfil do Usuário
 
 Autor: [João Pedro](https://github.com/Jadequilin)
+<a id = "L13" ></a>
 
 *<p style="text-align: center;">Tabela 15: Perfil Personalizado do Usuário</p>*
 
@@ -227,6 +241,7 @@ Autor: [João Pedro](https://github.com/Jadequilin)
 ### L14 – Logout Seguro
 
 Autor: [João Pedro](https://github.com/Jadequilin)
+<a id = "L14" ></a>
 
 *<p style="text-align: center;">Tabela 16: Logout Seguro do Sistema</p>*
 
@@ -241,6 +256,7 @@ Autor: [João Pedro](https://github.com/Jadequilin)
 ### L15 – Cadastro com Dados Pessoais
 
 Autor: [João Pedro](https://github.com/Jadequilin)
+<a id = "L15" ></a>
 
 *<p style="text-align: center;">Tabela 17: Cadastro com Dados Pessoais</p>*
 
@@ -255,6 +271,7 @@ Autor: [João Pedro](https://github.com/Jadequilin)
 ### L16 – Volante Digital
 
 Autor: [João Pedro](https://github.com/Jadequilin) 
+<a id = "L16" ></a>
 
 *<p style="text-align: center;">Tabela 18: Volante Digital para Apostas</p>*
 
@@ -267,6 +284,7 @@ Autor: [João Pedro](https://github.com/Jadequilin)
 | **Rastreabilidade** | RF26 |
 
 ### L17 – Carrinho de Apostas
+<a id = "L17" ></a>
 
 Autor: [João Pedro](https://github.com/Jadequilin) 
 
@@ -283,6 +301,7 @@ Autor: [João Pedro](https://github.com/Jadequilin)
 ### L18 – Pagamento Integrado
 
 Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
+<a id = "L18" ></a>
 
 *<p style="text-align: center;">Tabela 20: Sistema de Pagamento Integrado</p>*
 
@@ -295,6 +314,8 @@ Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 | **Rastreabilidade** | RF25 |
 
 ### L19 – Cancelamento de Aposta
+
+<a id= "L19"></a>
 
 Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 
@@ -311,6 +332,7 @@ Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 ### L20 – Navegação Intuitiva
 
 Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
+<a id = "L20" ></a>
 
 *<p style="text-align: center;">Tabela 22: Navegação Intuitiva</p>*
 
@@ -325,6 +347,7 @@ Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 ### L21 – Desempenho de Carregamento
 
 Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
+<a id = "L21" ></a>
 
 *<p style="text-align: center;">Tabela 23: Desempenho de Carregamento</p>*
 
@@ -339,6 +362,7 @@ Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 ### L22 – Confiabilidade do Sistema
 
 Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
+<a id = "L22" ></a>
 
 *<p style="text-align: center;">Tabela 24: Confiabilidade do Sistema</p>*
 
@@ -353,6 +377,7 @@ Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 ### L23 – Expiração de Sessão
 
 Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
+<a id = "L23" ></a>
 
 *<p style="text-align: center;">Tabela 25: Expiração de Sessão</p>*
 
@@ -367,6 +392,7 @@ Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 ### L24 – Interface Autoexplicativa
 
 Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
+<a id = "L24" ></a>
 
 *<p style="text-align: center;">Tabela 26: Interface Autoexplicativa</p>*
 
@@ -380,6 +406,7 @@ Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 
 ### L25 – Multiplataforma
 
+<a id= "L25"></a>
 Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 
 *<p style="text-align: center;">Tabela 27: Disponibilidade Multiplataforma</p>*
@@ -395,6 +422,7 @@ Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 ### L26 – Integração com Sistemas Existentes
 
 Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
+<a id = "L26" ></a>
 
 *<p style="text-align: center;">Tabela 28: Integração com Sistemas Existentes</p>*
 
@@ -409,6 +437,7 @@ Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 ### L27 – Funcionalidade Completa
 
 Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
+<a id = "L27" ></a>
 
 *<p style="text-align: center;">Tabela 29: Funcionalidade Completa</p>*
 
@@ -422,7 +451,10 @@ Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 
 ### L28 – Transparência Social
 
+<a id = "L28" ></a>
 Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
+
+
 
 *<p style="text-align: center;">Tabela 30: Transparência Social</p>*
 
@@ -435,6 +467,8 @@ Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 | **Rastreabilidade** | RF07, AD07 |
 
 ### L29 – Aposta Rápida
+
+<a id= "L29"></a>
 
 Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 
@@ -451,6 +485,7 @@ Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 ### L30 – Sistema de Resgate
 
 Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
+<a id = "L30" ></a>
 
 *<p style="text-align: center;">Tabela 32: Sistema de Resgate</p>*
 

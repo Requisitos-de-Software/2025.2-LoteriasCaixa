@@ -42,7 +42,7 @@ Link da Gravação de Cenários Nayra Nery em:
 ## CN01 - Opção de modo claro e escuro
 
 Autor:  [Heyttor Augusto](https://github.com/H3ytt0r62)
-
+<a id="CN01" ></a>
 *<p style="text-align: center;">Tabela 4: Opção de modo claro e escuro.</p>*
 
 |Item | Descrição |
@@ -60,6 +60,7 @@ Autor:  [Heyttor Augusto](https://github.com/H3ytt0r62)
 
 ## CN02 - O software deve ter imagens explicativas
 
+<a id= "CN02"></a>
 Autor:  [Heyttor Augusto](https://github.com/H3ytt0r62)
 
 *<p style="text-align: center;">Tabela 5: O software deve ter imagens explicativas.</p>*
@@ -80,6 +81,8 @@ Autor:  [Heyttor Augusto](https://github.com/H3ytt0r62)
 
 ## CN03 - O usuário deve ter mais de uma opção de aposta
 
+<a id = "CN03"></a>
+
 Autor:  [Heyttor Augusto](https://github.com/H3ytt0r62)
 
 *<p style="text-align: center;">Tabela 6: O usuário deve ter mais de uma opção de aposta.</p>*
@@ -98,7 +101,7 @@ Autor:  [Heyttor Augusto](https://github.com/H3ytt0r62)
 |**Avaliações** | Cristina gostou da facilidade de conseguir achar outras apostas e da diversificação do aplicativo |
 
 ## CN04 – Visualização de Apostas em Modo Offline
-
+<a id = "CN04"></a>
 Autor: [Nayra Nery](https://github.com/NayraNery127)
 
 *<p style="text-align: center;">Tabela 7: Visualização de Apostas em Modo Offline.</p>*
@@ -118,7 +121,7 @@ Autor: [Nayra Nery](https://github.com/NayraNery127)
 
 
 ## CN05 – Integração com Carteiras Digitais para Pagamento
-
+<a id="CN05"></a>
 Autor: [Nayra Nery](https://github.com/NayraNery127)
 
 *<p style="text-align: center;">Tabela 8: Integração com Carteiras Digitais para Pagamento.</p>*
@@ -140,6 +143,7 @@ Autor: [Nayra Nery](https://github.com/NayraNery127)
 ## CN06 - Cancelamento de apostas antes do sorteio
 
 Autor: [Luan Vinícius](https://github.com/luannvi)
+<a id = "CN06"></a>
 
 *<p style="text-align: center;">Tabela 9: Cancelamento de apostas antes do sorteio.</p>*
 
@@ -158,6 +162,7 @@ Autor: [Luan Vinícius](https://github.com/luannvi)
 
 
 ## CN07 - Ícone de menu com rótulo textual 
+<a id = "CN06"></a>
 
 Autor: [Luan Vinícius](https://github.com/luannvi)
 
@@ -178,6 +183,7 @@ Autor: [Luan Vinícius](https://github.com/luannvi)
 
 ### Validação com o Usuário (CN06 - CN07)
 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zTfi51A8RKY?si=a4AbUbR_G5IKcRxg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 | Participante | Função | Data | Horário | Local |
@@ -189,6 +195,7 @@ Autor: [Luan Vinícius](https://github.com/luannvi)
 
 Autor: [João Pedro](https://github.com/Jadequilin)
  
+<a id = "CN08" ></a>
 
 *<p style="text-align: center;">Tabela 11: Controle de Limite Diário de Apostas .</p>*
 
@@ -206,6 +213,7 @@ Autor: [João Pedro](https://github.com/Jadequilin)
 | **Avaliações** | Ricardo sente maior controle sobre seus gastos |
 
 ### CN09 – Telas Mais Usadas pelo Usuário
+<a id = "CN09"></a>
 
 Autor: [João Pedro](https://github.com/Jadequilin)
 
@@ -235,6 +243,7 @@ Autor: [João Pedro](https://github.com/Jadequilin)
 
 
 ### CN10 – Termo de Responsabilidade
+<a id = "CN09"></a>
 
 Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 
@@ -256,6 +265,7 @@ Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 ### CN11 – Funções de Acessibilidade
 
 Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
+<a id= "CN11"></a>
 
 *<p style="text-align: center;">Tabela 14: Modo Acessibilidade para Usuários idosos e/ou pessoa com deficiências .</p>*
 
@@ -284,6 +294,7 @@ Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 ### CN12 – Conferência de apostas via leitura de QR Code
 
 Autor: [Miquéias Ezequiel](https://github.com/Kael-web7)
+<a id= "CN12" ></a>
 
 *<p style="text-align: center;">Tabela 15: Conferência de apostas via leitura de QR Code .</p>*
 
@@ -303,6 +314,7 @@ Autor: [Miquéias Ezequiel](https://github.com/Kael-web7)
 ### CN13 – Notificação de prêmios e prazos de validade de apostas
 
 Autor: [Miquéias Ezequiel](https://github.com/Kael-web7)
+<a id= "CN13" ></a>
 
 *<p style="text-align: center;">Tabela 16: Notificação de prêmios e prazos de validade de apostas .</p>*
 
@@ -320,6 +332,7 @@ Autor: [Miquéias Ezequiel](https://github.com/Kael-web7)
 | **Avaliação** | Patrícia considera o recurso extremamente útil. Agora ela se sente segura sabendo que não perderá prazos e será avisada sobre qualquer premiação. Avalia que as notificações automatizadas transformaram o Loterias Caixa App em uma ferramenta confiável e indispensável no seu dia a dia. |
 
 ## CN14 - Acompanhamento de resultado de jogos em tempo real
+<a id = "CN14"></a>
 
 Autor: [Samuel Felipe](https://github.com/TerminaKng05)
 
@@ -339,6 +352,7 @@ Autor: [Samuel Felipe](https://github.com/TerminaKng05)
 | **Avaliações** | O Antenor fica satisfeito em ver o resultado do jogo que comprou antes, facilitando a procura do mesmo. |
 
 ## CN15 - Vizualização\Download de comprovante jogos cadastrados
+<a id = "CN15"></a>
 
 Autor: [Samuel Felipe](https://github.com/TerminaKng05)
 
