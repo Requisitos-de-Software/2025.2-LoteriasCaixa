@@ -39,9 +39,22 @@ A rastreabilidade é capacidade de rastrear ou encontrar algo ou alguem baseado 
 | **RF29** | A realização de pagamento das apostas são acessíveis a quem usa o aplicativo, sendo cartão de crédito e débito ou Pix; | - | - | - | - | [CN29](../Modelagem/Cenários.md) |  [L19](../Modelagem/Léxicos.md), [L25](../Modelagem/Léxicos.md) |
 | **RF30** |As apostas são registradas dentro do app com base no CPF do usuário; | - | - | - | - | [CN08](../Modelagem/Cenários.md) | [L01](../Modelagem/Léxicos.md), [L26](../Modelagem/Léxicos.md) |
 | **RF11** | O aplicativo apresenta todos os resultados e as arrecadações dos concursos, como também estimativa para os próximos sorteios; | - | [HU28](../Modelagem/Ágil/História%20de%20usuário.md) | - | - | [CN12](../Modelagem/Cenários.md) | [L27](../Modelagem/Léxicos.md) |
+| **RF12** | O aplicativo deve permitir que o usuário realize o cadastro com dados pessoais. | - | [HU04](../Modelagem/Ágil/História%20de%20usuário.md) | - | - | - | - |
+| **RF13** | O aplicativo deve permitir interação com o menu de loterias ao clicar em experimentar. | - | [HU41](../Modelagem/Ágil/História%20de%20usuário.md) | - | - | - | - |
+| **RF14** | O aplicativo deve permitir login com CPF e senha ou com biometria. | - | - | - | - | - | - |
+| **RF15** | O aplicativo deve exibir os tipos de loteria disponíveis (Mega-Sena, Lotofácil etc.). | UC01 | [HU15](../Modelagem/Ágil/História%20de%20usuário.md) | - | - | - | [L12](../Modelagem/Léxicos.md) |
+| **RF16** | O aplicativo deve exibir o último resultado do sorteio de cada loteria. | UC02 | [HU05](../Modelagem/Ágil/História%20de%20usuário.md) | - | - | - | - |
+| **RF17** | O aplicativo deve possibilitar a escolha de números para fazer uma aposta. | - | [HU33](../Modelagem/Ágil/História%20de%20usuário.md) | - | - | - | [L05](../Modelagem/Léxicos.md) |
+| **RF18** | O aplicativo deve permitir limpar a seleção feita. | - | - | - | - | - | [L11](../Modelagem/Léxicos.md) |
+| **RF19** | O aplicativo deve permitir completar a aposta com números aleatórios. | - | [HU34](../Modelagem/Ágil/História%20de%20usuário.md) | - | - | [CN01](../Modelagem/Cenários.md) | [L09](../Modelagem/Léxicos.md) |
 | **RF32** | O aplicativo apresenta uma aba de transparência e prestação de contas à sociedade chamada de "Repasses Sociais", onde há os valores repassados pelas Loterias CAIXA em áreas de desenvolvimento social; | - | [HU28](../Modelagem/Ágil/História%20de%20usuário.md) | - | - | [CN13](../Modelagem/Cenários.md) |  - |
 | **RNF01** | O software deve ter telas simples com poucos textos |- | - | [CNFR01](../Modelagem/Ágil/NFR.md) | [suportabilidade](../Modelagem/Especificação%20Suplementar.md)  | - |  - |
 | **RNF02** | O software deve ter imagens explicativas |- | [Hu13](../Modelagem/Ágil/História%20de%20usuário.md)| - | - | [CN02](../Modelagem/Cenários.md) |  - |
+| **RNF03** | A navegação entre a seleção de jogos, o preenchimento do volante e o carrinho de compras deve ser intuitiva, exigindo no máximo 3 toques para ir de uma seção a outra. | - | - | [CNFR07](../Modelagem/Ágil/NFR.md) | Usabilidade | - | [L30](../Modelagem/Léxicos.md) |
+| **RNF04** | O resultado de uma loteria deve ser carregado e exibido na tela em menos de 3 segundos sob uma conexão 4G/5G padrão. | - | [HU36](../Modelagem/Ágil/História%20de%20usuário.md) | [CNFR08](../Modelagem/Ágil/NFR.md) | Desempenho | - | - |
+| **RNF05** | O sistema deve proteger o acesso às funcionalidades transacionais exigindo a autenticação do usuário no início da sessão. | - | - | - | - | - | - |
+| **RNF06** | Os números selecionados no volante digital devem ser claramente diferenciados dos não selecionados, através de cor e contraste. | - | [HU07](../Modelagem/Ágil/História%20de%20usuário.md), [HU33](../Modelagem/Ágil/História%20de%20usuário.md) | [CNFR09](../Modelagem/Ágil/NFR.md) | Usabilidade | - | - |
+| **RNF07** | O aplicativo não deve apresentar erros ou fechar inesperadamente durante o processo de criação e pagamento de uma aposta. | - | [HU11](../Modelagem/Ágil/História%20de%20usuário.md) | [CNFR10](../Modelagem/Ágil/NFR.md) | Desempenho - Usabilidade | - | - |
 | **RNF12** | O aplicativo segue a lei federal onde apenas maiores de 18 anos podem utilizar as funções que o mesmo oferece; | - | - | [CNFR14](../Modelagem/Ágil/NFR.md) | [Suportabilidade](../Modelagem/Especificação%20Suplementar.md) | - |  - |
 | **RNF13** | O aplicativo segue a lei federal onde apenas maiores de 18 anos podem utilizar as funções que o mesmo oferece; | - | - | - | [Confiabilidade](../Modelagem/Especificação%20Suplementar.md) | - |  - |
 | **RNF14** | O aplicativo segue a lei federal onde apenas maiores de 18 anos podem utilizar as funções que o mesmo oferece; | - | - | - | - | - | [LX28](../Modelagem/Léxicos.md) |
@@ -61,3 +74,4 @@ A rastreabilidade é capacidade de rastrear ou encontrar algo ou alguem baseado 
 |:--------:|:------------:|:---------------------:|:----------------------------------------------:|:---------:|
 | ``1.0``    | 10/10/2025 | [Heyttor Augusto](https://github.com/H3ytt0r62)   | Adição Foward-From dos RF de Entrevista| [Samuel Felipe](https://github.com/TerminaKng05) |
 | ``1.1``     | 11/10/2025 | [Samuel Felipe](https://github.com/TerminaKng05)    | Adição Foward-From dos RF de Análise de Documento (RF29 a 32, RNF 12 a 23) | [Luan Vinícius](https://github.com/luannvi) |
+| ``1.2``     | 11/10/2025 | [Miquéias Ezequiel](https://github.com/Kael-web7)    | Adição Foward-From dos RF de Análise de Documento (RF12 a 19, RNF 03 a 07) | [Luan Vinícius](https://github.com/luannvi) |

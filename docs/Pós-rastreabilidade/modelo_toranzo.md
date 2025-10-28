@@ -111,6 +111,121 @@
 | Alocado | - |
 | Agregação | [HU23](../Modelagem/Ágil/História%20de%20usuário.md) |
 
+## RF11
+
+| Artefato Analisado | Classificação do Artefato Analisado |
+| --- | --- |
+| Tipos de Elo | Artefatos Relacionados |
+| Satisfação |  |
+| Recurso | - |
+| Representação | - |
+| Alocado | - |
+| Agregação | [HU28](../Modelagem/Ágil/História%20de%20usuário.md) |
+
+## RF12 - O aplicativo deve permitir que o usuário realize o cadastro com dados pessoais
+
+| **Artefato Analisado** | **Classificação do Artefato Analisado** |
+| --- | --- |
+| Tipos de Elo | Artefatos Relacionados |
+| Satisfação | - |
+| Recurso | - |
+| Representação | - |
+| Alocado | - |
+| Agregação | [HU04](../Modelagem/Ágil/História%20de%20usuário.md) |
+
+*<p style= "text-align: center;"> Fonte: <a href= "https://github.com/Kael-web7">Miquéias Ezequiel</a> </p>*
+
+## RF13 - O aplicativo deve permitir interação com o menu de loterias ao clicar em experimentar
+
+| **Artefato Analisado** | **Classificação do Artefato Analisado** |
+| --- | --- |
+| Tipos de Elo | Artefatos Relacionados |
+| Satisfação | - |
+| Recurso | - |
+| Representação | - |
+| Alocado | - |
+| Agregação | [HU41](../Modelagem/Ágil/História%20de%20usuário.md) 
+
+*<p style= "text-align: center;"> Fonte: <a href= "https://github.com/Kael-web7">Miquéias Ezequiel</a> </p>*
+
+## RF14 - O aplicativo deve permitir login com CPF e senha ou com biometria
+
+| **Artefato Analisado** | **Classificação do Artefato Analisado** |
+| --- | --- |
+| Tipos de Elo | Artefatos Relacionados |
+| Satisfação | - |
+| Recurso | - |
+| Representação | - |
+| Alocado | - |
+| Agregação | - |
+
+*<p style= "text-align: center;"> Fonte: <a href= "https://github.com/Kael-web7">Miquéias Ezequiel</a> </p>*
+
+## RF15 - O aplicativo deve exibir os tipos de loteria disponíveis (Mega-Sena, Lotofácil etc.)
+
+| **Artefato Analisado** | **Classificação do Artefato Analisado** |
+| --- | --- |
+| Tipos de Elo | Artefatos Relacionados |
+| Satisfação | - |
+| Recurso | - |
+| Representação | - |
+| Alocado | **UC01, L12** |
+| Agregação | [HU15](../Modelagem/Ágil/História%20de%20usuário.md) |
+
+*<p style= "text-align: center;"> Fonte: <a href= "https://github.com/Kael-web7">Miquéias Ezequiel</a> </p>*
+
+## RF16 - O aplicativo deve exibir o último resultado do sorteio de cada loteria
+
+| **Artefato Analisado** | **Classificação do Artefato Analisado** |
+| --- | --- |
+| Tipos de Elo | Artefatos Relacionados |
+| Satisfação | - |
+| Recurso | - |
+| Representação | - |
+| Alocado | **UC02** |
+| Agregação | [HU05](../Modelagem/Ágil/História%20de%20usuário.md) |
+
+*<p style= "text-align: center;"> Fonte: <a href= "https://github.com/Kael-web7">Miquéias Ezequiel</a> </p>*
+
+## RF17 - O aplicativo deve possibilitar a escolha de números para fazer uma aposta
+
+| **Artefato Analisado** | **Classificação do Artefato Analisado** |
+| --- | --- |
+| Tipos de Elo | Artefatos Relacionados |
+| Satisfação | - |
+| Recurso | - |
+| Representação | - |
+| Alocado | L05 |
+| Agregação | [HU33](../Modelagem/Ágil/História%20de%20usuário.md) |
+
+*<p style= "text-align: center;"> Fonte: <a href= "https://github.com/Kael-web7">Miquéias Ezequiel</a> </p>*
+
+## RF18 - O aplicativo deve permitir limpar a seleção feita
+
+| **Artefato Analisado** | **Classificação do Artefato Analisado** |
+| --- | --- |
+| Tipos de Elo | Artefatos Relacionados |
+| Satisfação | - |
+| Recurso | - |
+| Representação | - |
+| Alocado | L11 |
+| Agregação | - |
+
+*<p style= "text-align: center;"> Fonte: <a href= "https://github.com/Kael-web7">Miquéias Ezequiel</a> </p>*
+
+## RF19 - O aplicativo deve permitir completar a aposta com números aleatórios
+
+| **Artefato Analisado** | **Classificação do Artefato Analisado** |
+| --- | --- |
+| Tipos de Elo | Artefatos Relacionados |
+| Satisfação | - |
+| Recurso | [CN01](../Modelagem/Cenários.md) |
+| Representação | - |
+| Alocado | L09 |
+| Agregação | [HU34](../Modelagem/Ágil/História%20de%20usuário.md)
+
+*<p style= "text-align: center;"> Fonte: <a href= "https://github.com/Kael-web7">Miquéias Ezequiel</a> </p>*
+
 ## RF29 - A realização de pagamento das apostas são acessíveis a quem usa o aplicativo, sendo cartão de crédito e débito ou Pix
 
 | Artefato Analisado | Classificação do Artefato Analisado |
@@ -162,17 +277,7 @@
 | Agregação | - |
 
 *<p style= "text-align: center;"> Fonte: <a href= "https://github.com/TerminaKng05">Samuel Felipe</a> </p>*
-
-## RF11
-
-| Artefato Analisado | Classificação do Artefato Analisado |
-| --- | --- |
-| Tipos de Elo | Artefatos Relacionados |
-| Satisfação |  |
-| Recurso | - |
-| Representação | - |
-| Alocado | - |
-| Agregação | [HU28](../Modelagem/Ágil/História%20de%20usuário.md) |
+| ``1.2``     | 11/10/2025 | [Miquéias Ezequiel](https://github.com/Kael-web7)    | Adição Matriz Geral dos RF de Análise de Documento (RF12 a 19, RNF 03 a 07) | [Luan Vinícius](https://github.com/luannvi) |
 
 ## RNF01 
 
@@ -196,6 +301,71 @@
 | Representação | - |
 | Alocado | Caso de uso/lexico |
 | Agregação | [Hu13](../Modelagem/Ágil/História%20de%20usuário.md)|
+
+## RNF03 - A navegação entre a seleção de jogos, o preenchimento do volante e o carrinho de compras deve ser intuitiva, exigindo no máximo 3 toques
+
+| **Artefato Analisado** | **Classificação do Artefato Analisado** |
+| --- | --- |
+| Tipos de Elo | Artefatos Relacionados |
+| Satisfação | Usabilidade |
+| Recurso | - |
+| Representação | - |
+| Alocado | L30 |
+| Agregação | [CNFR07](../Modelagem/Ágil/NFR.md) |
+
+*<p style= "text-align: center;"> Fonte: <a href= "https://github.com/Kael-web7">Miquéias Ezequiel</a> </p>*
+
+## RNF04 - O resultado de uma loteria deve ser carregado e exibido na tela em menos de 3 segundos sob uma conexão 4G/5G padrão
+
+| **Artefato Analisado** | **Classificação do Artefato Analisado** |
+| --- | --- |
+| Tipos de Elo | Artefatos Relacionados |
+| Satisfação | Desempenho |
+| Recurso | - |
+| Representação | - |
+| Alocado | - |
+| Agregação | [HU36](../Modelagem/Ágil/História%20de%20usuário.md), [CNFR08](../Modelagem/Ágil/NFR.md) |
+
+*<p style= "text-align: center;"> Fonte: <a href= "https://github.com/Kael-web7">Miquéias Ezequiel</a> </p>*
+
+## RNF05 - O sistema deve proteger o acesso às funcionalidades transacionais exigindo a autenticação do usuário no início da sessão
+
+| **Artefato Analisado** | **Classificação do Artefato Analisado** |
+| --- | --- |
+| Tipos de Elo | Artefatos Relacionados |
+| Satisfação | - |
+| Recurso | - |
+| Representação | - |
+| Alocado | - |
+| Agregação | - 
+
+*<p style= "text-align: center;"> Fonte: <a href= "https://github.com/Kael-web7">Miquéias Ezequiel</a> </p>*
+
+## RNF06 - Os números selecionados no volante digital devem ser claramente diferenciados dos não selecionados, através de cor e contraste
+
+| **Artefato Analisado** | **Classificação do Artefato Analisado** |
+| --- | --- |
+| Tipos de Elo | Artefatos Relacionados |
+| Satisfação | Usabilidade |
+| Recurso | - |
+| Representação | - |
+| Alocado | - |
+| Agregação | [HU07](../Modelagem/Ágil/História%20de%20usuário.md), [HU33](../Modelagem/Ágil/História%20de%20usuário.md), [CNFR09](../Modelagem/Ágil/NFR.md) |
+
+*<p style= "text-align: center;"> Fonte: <a href= "https://github.com/Kael-web7">Miquéias Ezequiel</a> </p>*
+
+## RNF07 - O aplicativo não deve apresentar erros ou fechar inesperadamente durante o processo de criação e pagamento de uma aposta
+
+| **Artefato Analisado** | **Classificação do Artefato Analisado** |
+| --- | --- |
+| Tipos de Elo | Artefatos Relacionados |
+| Satisfação | Desempenho - Usabilidade |
+| Recurso | - |
+| Representação | - |
+| Alocado | - |
+| Agregação | [HU11](../Modelagem/Ágil/História%20de%20usuário.md), [CNFR10](../Modelagem/Ágil/NFR.md) |
+
+*<p style= "text-align: center;"> Fonte: <a href= "https://github.com/Kael-web7">Miquéias Ezequiel</a> </p>*
 
 ## RNF12 - O aplicativo segue a questão de disponibilidade em plataformas que os usuários tem acesso (IOS/Apple Store, Android/Play Store)
 
@@ -360,3 +530,4 @@
 |:--------:|:------------:|:---------------------:|:----------------------------------------------:|:---------:|
 | ``1.0``    | 10/10/2025 | [Heyttor Augusto](https://github.com/H3ytt0r62)   | Adição Modelo de Toranzo dos RF de Entrevista | [Samuel Felipe](https://github.com/TerminaKng05) |
 | ``1.1``     | 11/10/2025 | [Samuel Felipe](https://github.com/TerminaKng05)    | Adição Modelo de Toranzo dos RF de Análise de Documento (RF29 a 32, RNF 12 a 23) | [Luan Vinícius](https://github.com/luannvi) |
+| ``1.3``     | 11/10/2025 | [Miquéias Ezequiel](https://github.com/Kael-web7)    | Adição Modelo de Toranzo dos RF de Análise de Documento (RF29 a 32, RNF 12 a 23) | [Luan Vinícius](https://github.com/luannvi) |
