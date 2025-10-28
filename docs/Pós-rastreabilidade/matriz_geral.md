@@ -1,3 +1,12 @@
+---
+
+# Introdução
+
+Esta tabela de rastreabilidade representa o mapeamento completo entre os requisitos funcionais (RF) e não-funcionais (RNF) do sistema de apostas lotéricas e suas origens, implementação e artefatos relacionados. A matriz serve como um instrumento fundamental para garantir a transparência no desenvolvimento do software, permitindo acompanhar cada requisito desde sua identificação - através de técnicas como entrevistas, observações e análise de documentos - até sua materialização em funcionalidades implementadas.
+
+A estrutura organizada em colunas proporciona uma visão holística do ciclo de vida dos requisitos, incluindo seu estado atual de implementação, os artefatos de pré-rastreabilidade que justificam sua existência, os documentos gerados durante o processo de modelagem e os elos que conectam cada item às especificações de pós-rastreabilidade. Esta abordagem sistemática assegura que todas as necessidades dos stakeholders estejam devidamente atendidas e que possa ser verificada a consistência entre o que foi solicitado e o que foi efetivamente entregue.
+
+---
 
 
 ## Tabela de rastreabilidade
