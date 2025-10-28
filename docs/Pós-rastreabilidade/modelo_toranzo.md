@@ -1,3 +1,6 @@
+## Introdução
+O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao longo de todo o ciclo de vida do sistema, permitindo identificar as relações entre artefatos como requisitos, código, casos de uso e testes. Ele utiliza diferentes tipos de elos — satisfação, recurso, representação, alocação e agregação — para garantir a rastreabilidade bidirecional (forward e backward), possibilitando acompanhar a implementação, verificar impactos de mudanças e assegurar a consistência entre os artefatos do projeto.
+
 
 ## RF01 
 
@@ -531,3 +534,4 @@
 | ``1.0``    | 10/10/2025 | [Heyttor Augusto](https://github.com/H3ytt0r62)   | Adição Modelo de Toranzo dos RF de Entrevista | [Samuel Felipe](https://github.com/TerminaKng05) |
 | ``1.1``     | 11/10/2025 | [Samuel Felipe](https://github.com/TerminaKng05)    | Adição Modelo de Toranzo dos RF de Análise de Documento (RF29 a 32, RNF 12 a 23) | [Luan Vinícius](https://github.com/luannvi) |
 | ``1.3``     | 11/10/2025 | [Miquéias Ezequiel](https://github.com/Kael-web7)    | Adição Modelo de Toranzo dos RF de Análise de Documento (RF29 a 32, RNF 12 a 23) | [Luan Vinícius](https://github.com/luannvi) |
+| ``1.4``     | 28/10/2025 | [Nayra Silva Nery](https://github.com/NayraNery127)    | Adição da Introdução  | [Luan Vinícius](https://github.com/luannvi) |
