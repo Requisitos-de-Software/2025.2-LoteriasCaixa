@@ -1,12 +1,17 @@
----
-
 # Introdução
 
-Esta tabela de rastreabilidade representa o mapeamento completo entre os requisitos funcionais (RF) e não-funcionais (RNF) do sistema de apostas lotéricas e suas origens, implementação e artefatos relacionados. A matriz serve como um instrumento fundamental para garantir a transparência no desenvolvimento do software, permitindo acompanhar cada requisito desde sua identificação - através de técnicas como entrevistas, observações e análise de documentos - até sua materialização em funcionalidades implementadas.
+Esta matriz de rastreabilidade constitui um artefato fundamental no processo de **pós-rastreabilidade** de requisitos, seguindo os princípios estabelecidos pela Engenharia de Requisitos. Como demonstrado no material de estudo, a rastreabilidade representa uma característica essencial de sistemas onde os requisitos são claramente vinculados às suas fontes originais (pré-rastreabilidade) e aos diversos artefatos criados durante o ciclo de vida de desenvolvimento (pós-rastreabilidade).
 
-A estrutura organizada em colunas proporciona uma visão holística do ciclo de vida dos requisitos, incluindo seu estado atual de implementação, os artefatos de pré-rastreabilidade que justificam sua existência, os documentos gerados durante o processo de modelagem e os elos que conectam cada item às especificações de pós-rastreabilidade. Esta abordagem sistemática assegura que todas as necessidades dos stakeholders estejam devidamente atendidas e que possa ser verificada a consistência entre o que foi solicitado e o que foi efetivamente entregue.
+A estrutura aqui apresentada permite o gerenciamento eficaz da **baseline de requisitos**, facilitando:
+- A verificação da alocação de requisitos a componentes de software
+- O rastreamento de mudanças e evoluções nos requisitos
+- A validação da implementação frente às necessidades originais dos stakeholders
+- A identificação de dependências entre artefatos de desenvolvimento
+
+Organizada segundo o meta-modelo de Toranzo, esta matriz categoriza os elos de rastreabilidade entre os níveis organizacional, gerencial e de desenvolvimento, estabelecendo relações claras entre requisitos funcionais (RF) e não-funcionais (RNF) e seus respectivos artefatos derivados - desde documentos de origem como entrevistas e observações até casos de uso, léxicos, histórias de usuário e especificações suplementares.
 
 ---
+
 
 
 ## Tabela de rastreabilidade
