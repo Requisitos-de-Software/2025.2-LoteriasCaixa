@@ -61,15 +61,15 @@ Depois das anotações do observador e com as ações do usuário dentro do apli
 
 | Tipo  | Requisitos                                                                 |   ID   |
 |:-----:|---------------------------------------------------------------------------|:------:|
-| RNF01 | A navegação entre a seleção de jogos, o preenchimento do volante e o carrinho de compras deve ser intuitiva, exigindo no máximo 3 toques para ir de uma seção a outra. | OBS16 |
-| RNF02 | O resultado de uma loteria deve ser carregado e exibido na tela em menos de 3 segundos sob uma conexão 4G/5G padrão. | OBS17 |
-| RNF03 | O sistema deve proteger o acesso às funcionalidades transacionais exigindo a autenticação do usuário no início da sessão. | OBS18 |
-| RNF04 | Os números selecionados no volante digital devem ser claramente diferenciados dos não selecionados, através de cor e contraste. | OBS19 |
-| RNF05 | O aplicativo não deve apresentar erros ou fechar inesperadamente durante o processo de criação e pagamento de uma aposta. | OBS20 |
-| RNF06 | A transição de telas durante o fluxo de aposta deve ser fluida e sem travamentos perceptíveis. | OBS21 |
-| RNF07 | O sistema deve fornecer feedback visual imediato quando o usuário adiciona uma aposta ao carrinho. | OBS22 |
-| RNF08 | A sessão do usuário deve expirar automaticamente após 15 minutos de inatividade para proteger a conta. | OBS23 |
-| RNF09 | O sistema deve garantir que o acesso a funcionalidades primárias seja feito através de componentes de interface autoexplicativos. Ícones de navegação, como o menu principal, devem ser acompanhados por um rótulo textual (ex: "Menu") para facilitar a descoberta por parte do usuário. | OBS24 |
+| RNF01 | A navegação entre a seleção de jogos, o preenchimento do volante e o carrinho de compras deve ser intuitiva, exigindo no máximo 3 toques para ir de uma seção a outra. | OBS17 |
+| RNF02 | O resultado de uma loteria deve ser carregado e exibido na tela em menos de 3 segundos sob uma conexão 4G/5G padrão. | OBS18 |
+| RNF03 | O sistema deve proteger o acesso às funcionalidades transacionais exigindo a autenticação do usuário no início da sessão. | OBS19 |
+| RNF04 | Os números selecionados no volante digital devem ser claramente diferenciados dos não selecionados, através de cor e contraste. | OBS20 |
+| RNF05 | O aplicativo não deve apresentar erros ou fechar inesperadamente durante o processo de criação e pagamento de uma aposta. | OBS21 |
+| RNF06 | A transição de telas durante o fluxo de aposta deve ser fluida e sem travamentos perceptíveis. | OBS22 |
+| RNF07 | O sistema deve fornecer feedback visual imediato quando o usuário adiciona uma aposta ao carrinho. | OBS23 |
+| RNF08 | A sessão do usuário deve expirar automaticamente após 15 minutos de inatividade para proteger a conta. | OBS24 |
+| RNF09 | O sistema deve garantir que o acesso a funcionalidades primárias seja feito através de componentes de interface autoexplicativos. Ícones de navegação, como o menu principal, devem ser acompanhados por um rótulo textual (ex: "Menu") para facilitar a descoberta por parte do usuário. | OBS25 |
 
 *<p style="text-align: center;">Fonte: <a href="https://github.com/luannvi">Luan Vinícius.</a></p>*
 

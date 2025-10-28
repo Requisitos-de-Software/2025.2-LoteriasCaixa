@@ -1,4 +1,4 @@
-# Introdução
+## Introdução 
 
 Esta matriz de rastreabilidade constitui um artefato fundamental no processo de **pós-rastreabilidade** de requisitos, seguindo os princípios estabelecidos pela Engenharia de Requisitos. Como demonstrado no material de estudo, a rastreabilidade representa uma característica essencial de sistemas onde os requisitos são claramente vinculados às suas fontes originais (pré-rastreabilidade) e aos diversos artefatos criados durante o ciclo de vida de desenvolvimento (pós-rastreabilidade).
 
@@ -60,6 +60,9 @@ Organizada segundo o meta-modelo de Toranzo, esta matriz categoriza os elos de r
 | **RNF21** |O aplicativo não apresenta uma forma de mostrar os resultado em tempo real; | Não Implementado | [AD14]() | [HU39](../Modelagem/Ágil/História%20de%20usuário.md), [Implemententação](../Modelagem/Especificação%20Suplementar.md), [CN14](../Modelagem/Cenários.md), [LX08](../Modelagem/Léxicos.md) | [**RNF21**](../Pós-rastreabilidade/modelo_toranzo.md) |
 | **RNF22** |O aplicativo ainda apresenta lentidão em aparelhos de smartphones antigos; | Não Implementado | [AD15]() | [CNFR04](../Modelagem/Ágil/NFR.md), [Desempenho](), [CN15](../Modelagem/Cenários.md) | [**RNF22**](../Pós-rastreabilidade/modelo_toranzo.md) |
 | **RNF23** | O aplicativo ainda apresenta problemas de desconexão ao se conectar em internet 4G/5G; | Não Implementado | [AD16]() | [HU42](../Modelagem/Ágil/História%20de%20usuário.md), [CNFR04](../Modelagem/Ágil/NFR.md), [Desempenho](../Modelagem/Especificação%20Suplementar.md) | [**RNF23**](../Pós-rastreabilidade/modelo_toranzo.md) |
+
+## Agradecimentos
+O grupo 7 agradece o apoio das ferramentas de inteligência artificial generativa - chatGPT, Google Gemini - na revisão gramatical e estilo de algumas partes do texto. As tecnologias foram utilizadas para organizar e deixar o texto mais claro, além de fornecer alguns exemplos de códigos de mkdocs para servir de referência para os autores. Todo o conteúdo, assim como a precisão técnica e as ideias apresentadas, permanecem de responsabilidade dos autores.
 
 ## Versionamento 
 

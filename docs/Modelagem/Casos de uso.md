@@ -57,7 +57,7 @@ As tabelas de 2 a 6 apresentam as especializações dos casos de uso mostrados n
 | Pós-condições | O apostante tem a opção de selecionar o jogo que estava procurando. |  |
 
 *<p style= "text-align: center;"> Fonte: <a href= "https://github.com/TerminaKng05">Samuel Felipe</a> </p>*
-
+<a id="UC03"></a>
 ### *<p style="test-align: center;"> Tabela 4:Pagamento dos jogos (Implementado) </p>*
 
 | UC03 | Informações | Rastreabilidade |
@@ -72,7 +72,7 @@ As tabelas de 2 a 6 apresentam as especializações dos casos de uso mostrados n
 | Pós-condições | O apostante pode pagar seus jogos. |  |
 
 *<p style= "text-align: center;"> Fonte: <a href= "https://github.com/TerminaKng05">Samuel Felipe</a> </p>*
-
+<a id="UC04"></a>
 ### *<p style="test-align: center;"> Tabela 5: Acompanhar os resultados em tempo real (Não Implementado) </p>*
 
 | UC04 | Informações | Rastreabilidade |
@@ -87,7 +87,7 @@ As tabelas de 2 a 6 apresentam as especializações dos casos de uso mostrados n
 | Pós-condições | O apostante consegue saber se o seu jogo deu ganho ou não. |  |
 
 *<p style= "text-align: center;"> Fonte: <a href= "https://github.com/TerminaKng05">Samuel Felipe</a> </p>*
-
+<a id="UC05"></a>
 ### *<p style="test-align: center;"> Tabela 6: Ver comprovante dos jogos cadastrados (Não Implementado) </p>*
 
 | UC05 | Informações | Rastreabilidade |

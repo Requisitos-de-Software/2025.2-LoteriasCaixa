@@ -51,7 +51,7 @@ A legenda para cada sigla:
 | **RF20** | O aplicativo deve permitir adicionar o jogo ao carrinho de apostas | Implementado | [OBS09](../Elicitação/Técnicas/Observação.md) |
 | **RF21** | O aplicativo deve calcular automaticamente o valor da aposta | Implementado | [OBS10](../Elicitação/Técnicas/Observação.md) |
 | **RF22** | O aplicativo deve possibilitar pagamento via cartão de crédito ou PIX | Implementado | [OBS11](../Elicitação/Técnicas/Observação.md) |
-| **RF23** | O aplicativo deve permitir pagamento de apostas utilizando carteiras digitais como Google Pay, Apple Pay e Mercado Pago | Não Implementado | [OBS12](../Elicitação/Técnicas/Observação.md) |
+| **RF23** | O aplicativo deve permitir pagamento de apostas utilizando carteiras digitais como Google Pay, Apple Pay | Não Implementado | [OBS]() |
 | **RF24** | O aplicativo deve mostrar se o pagamento foi confirmado | Implementado | [OBS12](../Elicitação/Técnicas/Observação.md) |
 | **RF25** | O aplicativo deve permitir visualizar sua aposta | Implementado | [OBS13](../Elicitação/Técnicas/Observação.md) |
 | **RF26** | O aplicativo deve permitir gerar o comprovante da aposta em "minhas apostas" | Implementado | [OBS14](../Elicitação/Técnicas/Observação.md) |
@@ -75,15 +75,15 @@ A legenda para cada sigla:
 |:---|:---|:---|:---|
 | **RNF01** | O software deve ter telas simples com poucos textos | Implementado | [ENT01](../Elicitação/Técnicas/Entrevista.md) |
 | **RNF02** | O software deve ter imagens explicativas | Não Implementado | [ENT08](../Elicitação/Técnicas/Entrevista.md) |
-| **RNF03** | A navegação entre a seleção de jogos, o preenchimento do volante e o carrinho de compras deve ser intuitiva, exigindo no máximo 3 toques | Implementado | [OBS16](../Elicitação/Técnicas/Observação.md) |
-| **RNF04** | O resultado de uma loteria deve ser carregado e exibido na tela em menos de 3 segundos sob uma conexão 4G/5G padrão | Implementado | [OBS17](../Elicitação/Técnicas/Observação.md) |
-| **RNF05** | O sistema deve proteger o acesso às funcionalidades transacionais exigindo a autenticação do usuário no início da sessão | Implementado | [OBS18](../Elicitação/Técnicas/Observação.md) |
-| **RNF06** | Os números selecionados no volante digital devem ser claramente diferenciados dos não selecionados, através de cor e contraste | Implementado | [OBS19](../Elicitação/Técnicas/Observação.md) |
-| **RNF07** | O aplicativo não deve apresentar erros ou fechar inesperadamente durante o processo de criação e pagamento de uma aposta | Implementado | [OBS20](../Elicitação/Técnicas/Observação.md) |
-| **RNF08** | A transição de telas durante o fluxo de aposta deve ser fluida e sem travamentos perceptíveis | Implementado | [OBS21](../Elicitação/Técnicas/Observação.md) |
-| **RNF09** | O sistema deve fornecer feedback visual imediato quando o usuário adiciona uma aposta ao carrinho | Implementado | [OBS22](../Elicitação/Técnicas/Observação.md) |
-| **RNF10** | A sessão do usuário deve expirar automaticamente após 15 minutos de inatividade para proteger a conta | Implementado | [OBS23](../Elicitação/Técnicas/Observação.md) |
-| **RNF11** | O sistema deve garantir que o acesso a funcionalidades primárias seja feito através de componentes de interface autoexplicativos. Ícones de navegação, como o menu principal, devem ser acompanhados por um rótulo textual (ex: "Menu"). | Não Implementado | [OBS24](../Elicitação/Técnicas/Observação.md) |
+| **RNF03** | A navegação entre a seleção de jogos, o preenchimento do volante e o carrinho de compras deve ser intuitiva, exigindo no máximo 3 toques | Implementado | [OBS17](../Elicitação/Técnicas/Observação.md) |
+| **RNF04** | O resultado de uma loteria deve ser carregado e exibido na tela em menos de 3 segundos sob uma conexão 4G/5G padrão | Implementado | [OBS18](../Elicitação/Técnicas/Observação.md) |
+| **RNF05** | O sistema deve proteger o acesso às funcionalidades transacionais exigindo a autenticação do usuário no início da sessão | Implementado | [OBS19](../Elicitação/Técnicas/Observação.md) |
+| **RNF06** | Os números selecionados no volante digital devem ser claramente diferenciados dos não selecionados, através de cor e contraste | Implementado | [OBS20](../Elicitação/Técnicas/Observação.md) |
+| **RNF07** | O aplicativo não deve apresentar erros ou fechar inesperadamente durante o processo de criação e pagamento de uma aposta | Implementado | [OBS21](../Elicitação/Técnicas/Observação.md) |
+| **RNF08** | A transição de telas durante o fluxo de aposta deve ser fluida e sem travamentos perceptíveis | Implementado | [OBS22](../Elicitação/Técnicas/Observação.md) |
+| **RNF09** | O sistema deve fornecer feedback visual imediato quando o usuário adiciona uma aposta ao carrinho | Implementado | [OBS23](../Elicitação/Técnicas/Observação.md) |
+| **RNF10** | A sessão do usuário deve expirar automaticamente após 15 minutos de inatividade para proteger a conta | Implementado | [OBS24](../Elicitação/Técnicas/Observação.md) |
+| **RNF11** | O sistema deve garantir que o acesso a funcionalidades primárias seja feito através de componentes de interface autoexplicativos. Ícones de navegação, como o menu principal, devem ser acompanhados por um rótulo textual (ex: "Menu"). | Não Implementado | [OBS25](../Elicitação/Técnicas/Observação.md) |
 | **RNF12** | O aplicativo segue a questão de disponibilidade em plataformas que os usuários tem acesso (IOS/Apple Store, Android/Play Store); | Implementado | [AD05](../Elicitação/Técnicas/Análise%20de%20Documentos.md) |
 | **RNF13** | O aplicativo utiliza o sistema da própria empresa para que o usuário consiga acessar os seus dados no sistema; | Implementado | [AD06](../Elicitação/Técnicas/Análise%20de%20Documentos.md) |
 | **RNF14** | O aplicativo entrega as facilidades para realizar as mesmas funções que o site ou ir pessoalmente a uma lotérica; | Implementado | [AD07](../Elicitação/Técnicas/Análise%20de%20Documentos.md) |
@@ -104,6 +104,8 @@ A legenda para cada sigla:
 | **RNF29** | O termo de uso especifica o acesso aos dados do aplicativo para o usuário | Implementado |(../Elicitação/Técnicas/Entrevista.md) |
 | **RNF30** | O usuário consegue achar com facilidade o que procura no aplicativo | Implementado | [ENT24](../Elicitação/Técnicas/Entrevista.md) |
 
+## Agradecimentos
+O grupo 7 agradece o apoio das ferramentas de inteligência artificial generativa - chatGPT, Google Gemini - na revisão gramatical e estilo de algumas partes do texto. As tecnologias foram utilizadas para organizar e deixar o texto mais claro, além de fornecer alguns exemplos de códigos de mkdocs para servir de referência para os autores. Todo o conteúdo, assim como a precisão técnica e as ideias apresentadas, permanecem de responsabilidade dos autores.
 
 ## Versionamento 
 
