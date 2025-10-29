@@ -229,6 +229,123 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 
 *<p style= "text-align: center;"> Fonte: <a href= "https://github.com/Kael-web7">Miquéias Ezequiel</a> </p>*
 
+## RF20 - O aplicativo deve permitir adicionar o jogo ao carrinho de apostas
+
+| Artefato Analisado | Classificação do Artefato Analisado |
+| --- | --- |
+| Tipos de Elo | Artefatos Relacionados |
+| Satisfação | - |
+| Recurso | [CN02](../Modelagem/Cenários.md#CN02) |
+| Representação | - |
+| Alocado | [L17*](../Modelagem/Léxicos.md/#L17) |
+| Agregação | [HU35](../Modelagem/Ágil/História%20de%20usuário.md#HU35) |
+
+*<p style= "text-align: center;"> Fonte: <a href= "https://github.com/luannvi">Luan Vinícius</a> </p>*
+
+## RF21 - O aplicativo deve calcular automaticamente o valor da aposta
+
+| Artefato Analisado | Classificação do Artefato Analisado |
+| --- | --- |
+| Tipos de Elo | Artefatos Relacionados |
+| Satisfação | - |
+| Recurso | - |
+| Representação | - |
+| Alocado | [UC04](../Modelagem/Casos%20de%20uso.md#UC04), [L17*](../Modelagem/Léxicos.md/#L17) |
+| Agregação | - |
+
+*<p style= "text-align: center;"> Fonte: <a href= "https://github.com/luannvi">Luan Vinícius</a> </p>*
+
+## RF22 - O aplicativo deve possibilitar pagamento via cartão de crédito ou PIX
+
+| Artefato Analisado | Classificação do Artefato Analisado |
+| --- | --- |
+| Tipos de Elo | Artefatos Relacionados |
+| Satisfação | - |
+| Recurso | - |
+| Representação | - |
+| Alocado | [UC05](../Modelagem/Casos%20de%20uso.md#UC05), [L18](../Modelagem/Léxicos.md/#L18) |
+| Agregação | - |
+
+*<p style= "text-align: center;"> Fonte: <a href= "https://github.com/luannvi">Luan Vinícius</a> </p>*
+
+## RF23 - O aplicativo deve permitir pagamento de apostas utilizando carteiras digitais como Google Pay, Apple Pay e Mercado Pago
+
+| Artefato Analisado | Classificação do Artefato Analisado |
+| --- | --- |
+| Tipos de Elo | Artefatos Relacionados |
+| Satisfação | - |
+| Recurso | [CN05](../Modelagem/Cenários.md#CN05) |
+| Representação | - |
+| Alocado | [L18](../Modelagem/Léxicos.md/#L18) |
+| Agregação | [HU17](../Modelagem/Ágil/História%20de%20usuário.md#HU17) |
+
+*<p style= "text-align: center;"> Fonte: <a href= "https://github.com/luannvi">Luan Vinícius</a> </p>*
+
+## RF24 - O aplicativo deve mostrar se o pagamento foi confirmado
+
+| Artefato Analisado | Classificação do Artefato Analisado |
+| --- | --- |
+| Tipos de Elo | Artefatos Relacionados |
+| Satisfação | - |
+| Recurso | - |
+| Representação | - |
+| Alocado | - |
+| Agregação | - |
+
+*<p style= "text-align: center;"> Fonte: <a href= "https://github.com/luannvi">Luan Vinícius</a> </p>*
+
+## RF25 - O aplicativo deve permitir visualizar sua aposta
+
+| Artefato Analisado | Classificação do Artefato Analisado |
+| --- | --- |
+| Tipos de Elo | Artefatos Relacionados |
+| Satisfação | - |
+| Recurso | [CN04](../Modelagem/Cenários.md#CN04) |
+| Representação | - |
+| Alocado | [UC03](../Modelagem/Casos%20de%20uso.md#UC03) |
+| Agregação | - |
+
+*<p style= "text-align: center;"> Fonte: <a href= "https://github.com/luannvi">Luan Vinícius</a> </p>*
+
+## RF26 - O aplicativo deve permitir gerar o comprovante da aposta em "minhas apostas"
+
+| Artefato Analisado | Classificação do Artefato Analisado |
+| --- | --- |
+| Tipos de Elo | Artefatos Relacionados |
+| Satisfação | - |
+| Recurso | - |
+| Representação | - |
+| Alocado | - |
+| Agregação | - |
+
+*<p style= "text-align: center;"> Fonte: <a href= "https://github.com/luannvi">Luan Vinícius</a> </p>*
+
+## RF27 - O aplicativo deve possibilitar logout do usuário
+
+| Artefato Analisado | Classificação do Artefato Analisado |
+| --- | --- |
+| Tipos de Elo | Artefatos Relacionados |
+| Satisfação | - |
+| Recurso | - |
+| Representação | - |
+| Alocado | [L14](../Modelagem/Léxicos.md/#L14) |
+| Agregação | - |
+
+*<p style= "text-align: center;"> Fonte: <a href= "https://github.com/luannvi">Luan Vinícius</a> </p>*
+
+## RF28 - O aplicativo deve permitir o cancelamento de apostas antes do sorteio.
+
+| Artefato Analisado | Classificação do Artefato Analisado |
+| --- | --- |
+| Tipos de Elo | Artefatos Relacionados |
+| Satisfação | - |
+| Recurso | [CN06](../Modelagem/Cenários.md#CN06) |
+| Representação | - |
+| Alocado | [L19](../Modelagem/Léxicos.md/#L19) |
+| Agregação | [HU20](../Modelagem/Ágil/História%20de%20usuário.md#HU20) |
+
+*<p style= "text-align: center;"> Fonte: <a href= "https://github.com/luannvi">Luan Vinícius</a> </p>*
+
 ## RF29 - A realização de pagamento das apostas são acessíveis a quem usa o aplicativo, sendo cartão de crédito e débito ou Pix
 
 | Artefato Analisado | Classificação do Artefato Analisado |
@@ -433,6 +550,58 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 | Agregação | [HU11](../Modelagem/Ágil/História%20de%20usuário.md), [CNFR10](../Modelagem/Ágil/NFR.md) |
 
 *<p style= "text-align: center;"> Fonte: <a href= "https://github.com/Kael-web7">Miquéias Ezequiel</a> </p>*
+
+## RNF08 - A transição de telas durante o fluxo de aposta deve ser fluida e sem travamentos perceptíveis
+
+| Artefato Analisado | Classificação do Artefato Analisado |
+| --- | --- |
+| Tipos de Elo | Artefatos Relacionados |
+| Satisfação | [Usabilidade](../Modelagem/Especificação%20Suplementar.md), [Desempenho](../Modelagem/Especificação%20Suplementar.md) |
+| Recurso | - |
+| Representação | - |
+| Alocado | - |
+| Agregação | [HU12](../Modelagem/Ágil/História%20de%20usuário.md#HU12), [CNFR02](../Modelagem/Ágil/NFR.md#CNFR02) |
+
+*<p style= "text-align: center;"> Fonte: <a href= "https://github.com/luannvi">Luan Vinícius</a> </p>*
+
+## RNF09 - O sistema deve fornecer feedback visual imediato quando o usuário adiciona uma aposta ao carrinho
+
+| Artefato Analisado | Classificação do Artefato Analisado |
+| --- | --- |
+| Tipos de Elo | Artefatos Relacionados |
+| Satisfação | [Usabilidade](../Modelagem/Especificação%20Suplementar.md) |
+| Recurso | - |
+| Representação | - |
+| Alocado | - |
+| Agregação | [CNFR05](../Modelagem/Ágil/NFR.md#CNFR05) |
+
+*<p style= "text-align: center;"> Fonte: <a href= "https://github.com/luannvi">Luan Vinícius</a> </p>*
+
+## RNF10 - A sessão do usuário deve expirar automaticamente após 15 minutos de inatividade para proteger a conta
+
+| Artefato Analisado | Classificação do Artefato Analisado |
+| --- | --- |
+| Tipos de Elo | Artefatos Relacionados |
+| Satisfação | [Confiabilidade*](../Modelagem/Especificação%20Suplementar.md) |
+| Recurso | - |
+| Representação | - |
+| Alocado | - |
+| Agregação | [HU21](../Modelagem/Ágil/História%20de%20usuário.md#HU21), [CNFR06](../Modelagem/Ágil/NFR.md#CNFR06) |
+
+*<p style= "text-align: center;"> Fonte: <a href= "https://github.com/luannvi">Luan Vinícius</a> </p>*
+
+## RNF11 - O sistema deve garantir que o acesso a funcionalidades primárias seja feito através de componentes de interface autoexplicativos. Ícones de navegação, como o menu principal, devem ser acompanhados por um rótulo textual (ex: "Menu").
+
+| Artefato Analisado | Classificação do Artefato Analisado |
+| --- | --- |
+| Tipos de Elo | Artefatos Relacionados |
+| Satisfação | [Usabilidade](../Modelagem/Especificação%20Suplementar.md) |
+| Recurso | - |
+| Representação | - |
+| Alocado | - |
+| Agregação | [HU32](../Modelagem/Ágil/História%20de%20usuário.md#HU32), [CNFR11](../Modelagem/Ágil/NFR.md#CNFR11), [CNFR07](../Modelagem/Ágil/NFR.md#CNFR07) |
+
+*<p style= "text-align: center;"> Fonte: <a href= "https://github.com/luannvi">Luan Vinícius</a> </p>*
 
 ## RNF12 - O aplicativo segue a questão de disponibilidade em plataformas que os usuários tem acesso (IOS/Apple Store, Android/Play Store)
 
