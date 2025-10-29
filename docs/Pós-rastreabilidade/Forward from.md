@@ -80,6 +80,9 @@ A rastreabilidade é capacidade de rastrear ou encontrar algo ou alguem baseado 
 | **RNF29** | O termo de uso especifica o acesso aos dados do aplicativo para o usuário | - | [HU07](../Modelagem/Ágil/História%20de%20usuário.md#HU07) | [CNFR10](../Modelagem/Ágil/NFR.md#CNFR10) | [Confiabilidade](../Modelagem/Especificação%20Suplementar.md#Confiabilidade) | [CN13](../Modelagem/Cenários.md#CN13) | - |
 | **RNF30** | O usuário consegue achar com facilidade o que procura no aplicativo | - | - | [CNFR13](../Modelagem/Ágil/NFR.md#CNFR13) | [Usabilidade](../Modelagem/Especificação%20Suplementar.md#Usabilidade) | - | - |
 
+## Agradecimentos
+O grupo 7 agradece o apoio das ferramentas de inteligência artificial generativa - chatGPT, Google Gemini - na revisão gramatical e estilo de algumas partes do texto. As tecnologias foram utilizadas para organizar e deixar o texto mais claro, além de fornecer alguns exemplos de códigos de mkdocs para servir de referência para os autores. Todo o conteúdo, assim como a precisão técnica e as ideias apresentadas, permanecem de responsabilidade dos autores.
+
 ## Versionamento 
 
 | Versão | Data       | Autor               | Descrição                                    | Revisor |

@@ -2,7 +2,7 @@
 O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao longo de todo o ciclo de vida do sistema, permitindo identificar as relações entre artefatos como requisitos, código, casos de uso e testes. Ele utiliza diferentes tipos de elos — satisfação, recurso, representação, alocação e agregação — para garantir a rastreabilidade bidirecional (forward e backward), possibilitando acompanhar a implementação, verificar impactos de mudanças e assegurar a consistência entre os artefatos do projeto.
 
 
-## RF01 
+## RF01 O usuário deve receber Comprovantes de seus ganhos e apostas
 
 
 | **RF01**  | Classificação do Artefato Analisado |
@@ -14,7 +14,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 | Alocado | - |
 | Agregação | -|
 
-##  RF02
+##  RF02  O usuário deve ter mais de uma opção de aposta
 
 | **RF02**  | Classificação do Artefato Analisado |
 | --- | --- |
@@ -25,7 +25,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 | Alocado | - |
 | Agregação | -|
 
-## RF03 
+## RF03  O usuário deve poder acompanhar jogos pelo software
 
 | **RF03**  | Classificação do Artefato Analisado |
 | --- | --- |
@@ -36,7 +36,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 | Alocado | - |
 | Agregação | -|
 
-## RF04
+## RF04 O software deve ter poucas telas 
 
 | **RF04**  | Classificação do Artefato Analisado |
 | --- | --- |
@@ -48,9 +48,9 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 | Agregação | -|
 
 
-## RF04 
+## RF05 O usuário deve poder consultar seus ganhos
 
-| **RF04**  | Classificação do Artefato Analisado |
+| **RF05**  | O usuário deve poder consultar seus ganhos |
 | --- | --- |
 | Tipos de Elo | Artefatos Relacionados |
 | Satisfação | - |
@@ -59,7 +59,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 | Alocado | - |
 | Agregação | -|
 
-## RF06
+## RF06 O software deve ter opções de modo escuro e claro
 
 | **RF06**  | Classificação do Artefato Analisado |
 | --- | --- |
@@ -70,7 +70,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 | Alocado | - |
 | Agregação |  [HU01](../Modelagem/Ágil/História%20de%20usuário.md) |
 
-## RF07
+## RF07 O usuário deve receber o resultado das apostas
 
 | **RF07** | Classificação do Artefato Analisado |
 | --- | --- |
@@ -81,7 +81,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 | Alocado | - |
 | Agregação | [HU03](../Modelagem/Ágil/História%20de%20usuário.md) |
 
-## RF08
+## RF08  O usuário deve poder fazer login no aplicativo
 
 | Artefato Analisado | Classificação do Artefato Analisado |
 | --- | --- |
@@ -92,7 +92,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 | Alocado | - |
 | Agregação | -|
 
-## RF09
+## RF09  O usuário deve poder acessar o próprio perfil
 
 | Artefato Analisado | Classificação do Artefato Analisado |
 | --- | --- |
@@ -103,7 +103,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 | Alocado | - |
 | Agregação | [HU02](../Modelagem/Ágil/História%20de%20usuário.md) |
 
-## RF10 
+## RF10 O usuário deve poder acessar o próprio perfil
 
 | Artefato Analisado | Classificação do Artefato Analisado |
 | --- | --- |
@@ -114,7 +114,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 | Alocado | - |
 | Agregação | [HU23](../Modelagem/Ágil/História%20de%20usuário.md) |
 
-## RF11
+## RF11  O usuário deve poder fazer logout no aplicativo
 
 | Artefato Analisado | Classificação do Artefato Analisado |
 | --- | --- |

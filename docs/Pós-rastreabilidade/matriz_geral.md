@@ -12,6 +12,14 @@ Organizada segundo o meta-modelo de Toranzo, esta matriz categoriza os elos de r
 
 ---
 
+## Metodologia 
+
+Para fazer a rastreabilidade da matriz geral foi utilizado uma tabela para organizar os requisitos elecitados junto com sua origem e os artefatos que se originam dela.
+
+| **ID** | **Descrição**                   |   **Implementado** | **Pré-Rastreabilidade**| **Artefatos Criados**            | **Elos**       |
+| ----- | -------------------------------- | ---------------------- | ----------- | ---------------------------- | ---------- |
+|ID do requisito | xxxxxxxxxxxxxx | implementado/não implementado | Sua origem | Artefatos que se baseiam nele | Elo do modelo toranzo |
+
 
 
 ## Tabela de rastreabilidade
@@ -23,7 +31,7 @@ Organizada segundo o meta-modelo de Toranzo, esta matriz categoriza os elos de r
 | **RF03** | O usuário deve poder acompanhar jogos pelo software | Não implementado | [ENT04](./Técnicas/Entrevista.md/#pela-entrevista-1-foi-identificado) | - | [**RF03**](../Pós-rastreabilidade/modelo_toranzo.md) |
 | **RF04** | O software deve ter poucas telas | Implementado | [ENT05](./Técnicas/Entrevista.md/#pela-entrevista-1-foi-identificado) | - | [**RF04**](../Pós-rastreabilidade/modelo_toranzo.md) |
 | **RF05** | O usuário deve poder consultar seus ganhos | Implementado | [ENT06](./Técnicas/Entrevista.md/#pela-entrevista-1-foi-identificado) | - | [**RF05**](../Pós-rastreabilidade/modelo_toranzo.md) | 
-| **RF06** | O software deve ter opções de cores escuras e claras | Não Implementado | [ENT07](./Técnicas/Entrevista.md/#pela-entrevista-1-foi-identificado) | [HU01](../Modelagem/Ágil/História%20de%20usuário.md) | [**RF06**](../Pós-rastreabilidade/modelo_toranzo.md)|
+| **RF06** | O software deve ter opções de modo escuro e claro | Não Implementado | [ENT07](./Técnicas/Entrevista.md/#pela-entrevista-1-foi-identificado) | [HU01](../Modelagem/Ágil/História%20de%20usuário.md) | [**RF06**](../Pós-rastreabilidade/modelo_toranzo.md)|
 | **RF07** | O usuário deve receber o resultado das apostas | Implementado | [ENT09](./Técnicas/Entrevista.md/#pela-entrevista-1-foi-identificado) | [HU03](../Modelagem/Ágil/História%20de%20usuário.md) | [**RF07**](../Pós-rastreabilidade/modelo_toranzo.md) |
 | **RF08** | O usuário deve poder fazer login no aplicativo | Implementado | [ENT10](./Técnicas/Entrevista.md/#pela-entrevista-1-foi-identificado) | - | [**RF08**](../Pós-rastreabilidade/modelo_toranzo.md) | 
 | **RF09** | Deve haver uma verificação de identidade para login no aplicativo | Implementado | [ENT11](./Técnicas/Entrevista.md/#pela-entrevista-1-foi-identificado) | [HU02](../Modelagem/Ágil/História%20de%20usuário.md) | [**RF09**](../Pós-rastreabilidade/modelo_toranzo.md) |
@@ -46,7 +54,7 @@ Organizada segundo o meta-modelo de Toranzo, esta matriz categoriza os elos de r
 | **RF26** | O aplicativo deve permitir gerar o comprovante da aposta em "minhas apostas" | Implementado | [OBS14](./Técnicas/Observações.md#OBS14) | - | [RF26](../Pós-rastreabilidade/modelo_toranzo.md) |
 | **RF27** | O aplicativo deve possibilitar logout do usuário | Implementado | [OBS15](./Técnicas/Observações.md#OBS15) | [L14](../Modelagem/Léxicos.md/#L14) | [RF27](../Pós-rastreabilidade/modelo_toranzo.md) |
 | **RF28** | O aplicativo deve permitir o cancelamento de apostas antes do sorteio. | Não Implementado | [OBS16](./Técnicas/Observações.md#OBS16) | [HU20](../Modelagem/Ágil/História%20de%20usuário.md#HU20), [CN06](../Modelagem/Cenários.md#CN06), [L19](../Modelagem/Léxicos.md/#L19) | [RF28](../Pós-rastreabilidade/modelo_toranzo.md) |
-| **RF29** | A realização de pagamento das apostas são acessíveis a quem usa o aplicativo, sendo cartão de crédito e débito ou Pix; | Implementado | [AD01]() | [CN29](../Modelagem/Cenários.md), [L19](../Modelagem/Léxicos.md), [L25](../Modelagem/Léxicos.md) | [**RF29**](../Pós-rastreabilidade/modelo_toranzo.md) |
+| **RF29** | A realização de pagamento das apostas são acessíveis a quem usa o aplicativo, sendo cartão de crédito e débito ou Pix; | Implementado | [AD01]() | [CN06](../Modelagem/Cenários.md/#CN06), [L19](../Modelagem/Léxicos.md), [L25](../Modelagem/Léxicos.md) | [**RF29**](../Pós-rastreabilidade/modelo_toranzo.md) |
 | **RF30** | As apostas são registradas dentro do app com base no CPF do usuário; | Implementado | [AD02]() | [CN08](../Modelagem/Cenários.md), [L01](../Modelagem/Léxicos.md), [L26](../Modelagem/Léxicos.md) | [**RF30**](../Pós-rastreabilidade/modelo_toranzo.md) |
 | **RF31** | O aplicativo apresenta todos os resultados e as arrecadações dos concursos, como também estimativa para os próximos sorteios; | Implementado | [AD03]() | [CN12](../Modelagem/Cenários.md), [L27](../Modelagem/Léxicos.md) | [**RF31**](../Pós-rastreabilidade/modelo_toranzo.md) |
 | **RF32** | O aplicativo apresenta uma aba de transparência e prestação de contas à sociedade chamada de "Repasses Sociais", onde há os valores repassados pelas Loterias CAIXA em áreas de desenvolvimento social; | Implementado | [AD04]() | [CN13](../Modelagem/Cenários.md) | [**RF32**](../Pós-rastreabilidade/modelo_toranzo.md) |
