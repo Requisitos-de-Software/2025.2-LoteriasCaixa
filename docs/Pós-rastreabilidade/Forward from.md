@@ -21,7 +21,7 @@ A rastreabilidade é capacidade de rastrear ou encontrar algo ou alguem baseado 
 | CNXX | Cenário |
 | LXXX | Léxico |
 
-## Rastreabilidade
+## Ratreabilidade
 
 | ID | Descrição | UC | HU | CNFR | ES | CN | L |
 |:---|:---|:---|:---|:---|:---|:---|:---|
@@ -44,19 +44,15 @@ A rastreabilidade é capacidade de rastrear ou encontrar algo ou alguem baseado 
 | **RF17** | O aplicativo deve possibilitar a escolha de números para fazer uma aposta. | - | [HU33](../Modelagem/Ágil/História%20de%20usuário.md/#HU33) | - | - | - | [L05](../Modelagem/Léxicos.md) |
 | **RF18** | O aplicativo deve permitir limpar a seleção feita. | - | - | - | - | - | [L11](../Modelagem/Léxicos.md/#L05) |
 | **RF19** | O aplicativo deve permitir completar a aposta com números aleatórios. | - | [HU34](../Modelagem/Ágil/História%20de%20usuário.md/#HU34) | - | - | [CN01](../Modelagem/Cenários.md/#CN01) | [L09](../Modelagem/Léxicos.md/#L09) |
-| **RF20** | O aplicativo deve permitir adicionar o jogo ao carrinho de apostas | - | [HU35](../Modelagem/Ágil/História%20de%20usuário.md#HU35) | - | - | [CN02](../Modelagem/Cenários.md#CN02) | [L17*](../Modelagem/Léxicos.md/#L17) |
-| **RF21** | O aplicativo deve calcular automaticamente o valor da aposta | [UC04](../Modelagem/Casos%20de%20uso.md#UC04) | - | - | - | - | [L17*](../Modelagem/Léxicos.md/#L17) |
-| **RF22** | O aplicativo deve possibilitar pagamento via cartão de crédito ou PIX | [UC05](../Modelagem/Casos%20de%20uso.md#UC05) | - | - | - | - | [L18](../Modelagem/Léxicos.md/#L18) |
-| **RF23** | O aplicativo deve permitir pagamento de apostas utilizando carteiras digitais como Google Pay, Apple Pay | - | [HU17](../Modelagem/Ágil/História%20de%20usuário.md#HU17) | - | - | [CN05](../Modelagem/Cenários.md#CN05) | [L18](../Modelagem/Léxicos.md/#L18) |
-| **RF24** | O aplicativo deve mostrar se o pagamento foi confirmado | - | - | - | - | - | - |
-| **RF25** | O aplicativo deve permitir visualizar sua aposta | [UC03](../Modelagem/Casos%20de%20uso.md#UC03) | - | - | - | [CN04](../Modelagem/Cenários.md#CN04) | - |
-| **RF26** | O aplicativo deve permitir gerar o comprovante da aposta em "minhas apostas" | - | - | - | - | - | - |
-| **RF27** | O aplicativo deve possibilitar logout do usuário | - | - | - | - | - | [L14](../Modelagem/Léxicos.md/#L14) |
-| **RF28** | O aplicativo deve permitir o cancelamento de apostas antes do sorteio. | - | [HU20](../Modelagem/Ágil/História%20de%20usuário.md#HU20) | - | - | [CN06](../Modelagem/Cenários.md#CN06) | [L19](../Modelagem/Léxicos.md/#L19) |
 | **RF29** | A realização de pagamento das apostas são acessíveis a quem usa o aplicativo, sendo cartão de crédito e débito ou Pix; | - | - | - | - | [CN29](../Modelagem/Cenários.md) |  [L19](../Modelagem/Léxicos.md/#L19), [L25](../Modelagem/Léxicos.md/#L25) |
 | **RF30** |As apostas são registradas dentro do app com base no CPF do usuário; | - | - | - | - | [CN08](../Modelagem/Cenários.md/#CN08) | [L01](../Modelagem/Léxicos.md/#L01), [L26](../Modelagem/Léxicos.md/#L26) |
 | **RF31** | O aplicativo apresenta todos os resultados e as arrecadações dos concursos, como também estimativa para os próximos sorteios; | - | [HU28](../Modelagem/Ágil/História%20de%20usuário.md/#HU28) | - | - | [CN12](../Modelagem/Cenários.md/#CN12) | [L27](../Modelagem/Léxicos.md/#L27) |
 | **RF32** | O aplicativo apresenta uma aba de transparência e prestação de contas à sociedade chamada de "Repasses Sociais", onde há os valores repassados pelas Loterias CAIXA em áreas de desenvolvimento social; | - | [HU28](../Modelagem/Ágil/História%20de%20usuário.md/#HU28) | - | - | [CN13](../Modelagem/Cenários.md/#CN13) |  - |
+| **RF33** | O aplicativo apresenta funções de acessibilidade aos idosos e deficientes | - | [HU08](../Modelagem/Ágil/História%20de%20usuário.md#HU08) | [CNFR03](../Modelagem/Ágil/NFR.md#CNFR03) | [Usabilidade](../Modelagem/Especificação%20Suplementar.md#Usabilidade) | [CN09](../Modelagem/Cenários.md#CN09) | [L02](../Modelagem/Léxicos.md#L02) |
+| **RF34** | As opções de ações dentro do aplicativo estão facilmente disponíveis | - | - | - | [Usabilidade](../Modelagem/Especificação%20Suplementar.md#Usabilidade) | [CN11](../Modelagem/Cenários.md#CN11) | [L04](../Modelagem/Léxicos.md#L04) |
+| **RF35** | Os dados do usuário são mantidos em sigilo e protegidos | - | [HU26](../Modelagem/Ágil/História%20de%20usuário.md#HU26) | - | [Confiabilidade](../Modelagem/Especificação%20Suplementar.md#Confiabilidade) | - | - |
+| **RF36** | As páginas do aplicativo mais usadas pelo usuário estão em destaque na tela | - | [HU09](../Modelagem/Ágil/História%20de%20usuário.md#HU09) | - | [Usabilidade](../Modelagem/Especificação%20Suplementar.md#Usabilidade) | - | - |
+| **RF37** | O sistema fornece avisos ao usuário sobre seu limite diário de apostas | - | [HU10](../Modelagem/Ágil/História%20de%20usuário.md#HU10) | - | [Confiabilidade](../Modelagem/Especificação%20Suplementar.md#Confiabilidade) | - | - |
 | **RNF01** | O software deve ter telas simples com poucos textos |- | - | [CNFR01](../Modelagem/Ágil/NFR.md/#CNFR01) | [suportabilidade](../Modelagem/Especificação%20Suplementar.md)  | - |  - |
 | **RNF02** | O software deve ter imagens explicativas |- | [Hu13](../Modelagem/Ágil/História%20de%20usuário.md/#HU13)| - | - | [CN02](../Modelagem/Cenários.md/#CN02) |  - |
 | **RNF03** | A navegação entre a seleção de jogos, o preenchimento do volante e o carrinho de compras deve ser intuitiva, exigindo no máximo 3 toques para ir de uma seção a outra. | - | - | [CNFR07](../Modelagem/Ágil/NFR.md/#CNFR07) | Usabilidade | - | [L30](../Modelagem/Léxicos.md/#L30--sistema-de-resgate) |
@@ -64,10 +60,6 @@ A rastreabilidade é capacidade de rastrear ou encontrar algo ou alguem baseado 
 | **RNF05** | O sistema deve proteger o acesso às funcionalidades transacionais exigindo a autenticação do usuário no início da sessão. | - | - | - | - | - | - |
 | **RNF06** | Os números selecionados no volante digital devem ser claramente diferenciados dos não selecionados, através de cor e contraste. | - | [HU07](../Modelagem/Ágil/História%20de%20usuário.md/#HU07), [HU33](../Modelagem/Ágil/História%20de%20usuário.md/#HU33) | [CNFR09](../Modelagem/Ágil/NFR.md/#CNFR09) | Usabilidade | - | - |
 | **RNF07** | O aplicativo não deve apresentar erros ou fechar inesperadamente durante o processo de criação e pagamento de uma aposta. | - | [HU11](../Modelagem/Ágil/História%20de%20usuário.md/#HU11) | [CNFR10](../Modelagem/Ágil/NFR.md/#CNFR10) | Desempenho - Usabilidade | - | - |
-| **RNF08** | A transição de telas durante o fluxo de aposta deve ser fluida e sem travamentos perceptíveis | - | [HU12](../Modelagem/Ágil/História%20de%20usuário.md#HU12) | [CNFR02](../Modelagem/Ágil/NFR.md#CNFR02) | [Usabilidade](../Modelagem/Especificação%20Suplementar.md), [Desempenho](../Modelagem/Especificação%20Suplementar.md) | - | -|
-| **RNF09** | O sistema deve fornecer feedback visual imediato quando o usuário adiciona uma aposta ao carrinho | - | - | [CNFR05](../Modelagem/Ágil/NFR.md#CNFR05) | [Usabilidade](../Modelagem/Especificação%20Suplementar.md) | - | -|
-| **RNF10** | A sessão do usuário deve expirar automaticamente após 15 minutos de inatividade para proteger a conta | - | [HU21](../Modelagem/Ágil/História%20de%20usuário.md#HU21) | [CNFR06](../Modelagem/Ágil/NFR.md#CNFR06) | [Confiabilidade*](../Modelagem/Especificação%20Suplementar.md) | - | -|
-| **RNF11** | O sistema deve garantir que o acesso a funcionalidades primárias seja feito através de componentes de interface autoexplicativos. Ícones de navegação, como o menu principal, devem ser acompanhados por um rótulo textual (ex: "Menu"). | - | [HU32](../Modelagem/Ágil/História%20de%20usuário.md#HU32) | [CNFR11](../Modelagem/Ágil/NFR.md#CNFR11) | [Usabilidade](../Modelagem/Especificação%20Suplementar.md) | [CNFR07](../Modelagem/Ágil/NFR.md#CNFR07) | - |
 | **RNF12** | O aplicativo segue a lei federal onde apenas maiores de 18 anos podem utilizar as funções que o mesmo oferece; | - | - | [CNFR14](../Modelagem/Ágil/NFR.md/#CNFR14) | [Suportabilidade](../Modelagem/Especificação%20Suplementar.md) | - |  - |
 | **RNF13** | O aplicativo segue a lei federal onde apenas maiores de 18 anos podem utilizar as funções que o mesmo oferece; | - | - | - | [Confiabilidade](../Modelagem/Especificação%20Suplementar.md) | - |  - |
 | **RNF14** | O aplicativo segue a lei federal onde apenas maiores de 18 anos podem utilizar as funções que o mesmo oferece; | - | - | - | - | - | [L28](../Modelagem/Léxicos.md/#L28) |
@@ -79,10 +71,14 @@ A rastreabilidade é capacidade de rastrear ou encontrar algo ou alguem baseado 
 | **RNF20** | 	O aplicativo poderia apresentar uma forma de baixar o comprovante da compra dos jogos cadastrados; | - | [HU31](../Modelagem/Ágil/História%20de%20usuário.md/#HU31) | - | [Implementação](../Modelagem/Especificação%20Suplementar.md) | [CN10](../Modelagem/Cenários.md/#CN10) | [L03](../Modelagem/Léxicos.md/#l03--termo-de-responsabilidade), [L23](../Modelagem/Léxicos.md/#L23) |
 | **RNF21** | O aplicativo não apresenta uma forma de mostrar os resultado em tempo real; | - | [HU39](../Modelagem/Ágil/História%20de%20usuário.md/#HU39) | - | [Implementação](../Modelagem/Especificação%20Suplementar.md) | [CN10](../Modelagem/Cenários.md/#CN10) | [L08](../Modelagem/Léxicos.md/#l08--acompanhamento-de-jogos) |
 | **RNF22** | O aplicativo ainda apresenta lentidão em aparelhos de smartphones antigos; | - | - | [CNFR04](../Modelagem/Ágil/NFR.md/#CNFR04) | [Desempenho](../Modelagem/Especificação%20Suplementar.md) | [CN15](../Modelagem/Cenários.md/#CN15) |  - |
-| **RNF23** | O aplicativo ainda apresenta problemas de desconexão ao se conectar em internet 4G/5G; | - | [HU42](../Modelagem/Ágil/História%20de%20usuário.md/#HU42) | - | [Desempenho](../Modelagem/Especificação%20Suplementar.md) | [CNFR04](../Modelagem/Ágil/NFR.md/#CNFR04) | - | - |
-
-## Agradecimentos
-O grupo 7 agradece o apoio das ferramentas de inteligência artificial generativa - chatGPT, Google Gemini - na revisão gramatical e estilo de algumas partes do texto. As tecnologias foram utilizadas para organizar e deixar o texto mais claro, além de fornecer alguns exemplos de códigos de mkdocs para servir de referência para os autores. Todo o conteúdo, assim como a precisão técnica e as ideias apresentadas, permanecem de responsabilidade dos autores.
+| **RNF23** | O aplicativo ainda apresenta problemas de desconexão ao se conectar em internet 4G/5G; | - | [HU42](../Modelagem/Ágil/História%20de%20usuário.md/#HU42) | - | [Desempenho](../Modelagem/Especificação%20Suplementar.md) | [CNFR04](../Modelagem/Ágil/NFR.md/#CNFR04) | - |
+| **RNF24** | O aplicativo é de fácil acesso ao usuário | - | [HU23](../Modelagem/Ágil/História%20de%20usuário.md#HU23) | [CNFR10](../Modelagem/Ágil/NFR.md#CNFR10) | [Design](../Modelagem/Especificação%20Suplementar.md#Design) | [CN15](../Modelagem/Cenários.md#CN15) | - |
+| **RNF25** | O aplicativo é de uma fonte confiável para o usuário | - | [HU27](../Modelagem/Ágil/História%20de%20usuário.md#HU27) | [CNFR12](../Modelagem/Ágil/NFR.md#CNFR12) | [Confiabilidade](../Modelagem/Especificação%20Suplementar.md#Confiabilidade) | [CN14](../Modelagem/Cenários.md#CN14) | - |
+| **RNF26** | Há um termo de uso | - | [HU07](../Modelagem/Ágil/História%20de%20usuário.md#HU07) | [CNFR10](../Modelagem/Ágil/NFR.md#CNFR10) | [Design](../Modelagem/Especificação%20Suplementar.md#Design) | [CN13](../Modelagem/Cenários.md#CN13) | - |
+| **RNF27** | O termo de uso especifica os riscos para o usuário | - | [HU07](../Modelagem/Ágil/História%20de%20usuário.md#HU07) | [CNFR10](../Modelagem/Ágil/NFR.md#CNFR10) | [Confiabilidade](../Modelagem/Especificação%20Suplementar.md#Confiabilidade) | - | - |
+| **RNF28** | O termo de uso especifica a classificação indicativa para o usuário | - | [HU07](../Modelagem/Ágil/História%20de%20usuário.md#HU07) | [CNFR14](../Modelagem/Ágil/NFR.md#CNFR14) | [Design](../Modelagem/Especificação%20Suplementar.md#Design) | [CN13](../Modelagem/Cenários.md#CN13) | - |
+| **RNF29** | O termo de uso especifica o acesso aos dados do aplicativo para o usuário | - | [HU07](../Modelagem/Ágil/História%20de%20usuário.md#HU07) | [CNFR10](../Modelagem/Ágil/NFR.md#CNFR10) | [Confiabilidade](../Modelagem/Especificação%20Suplementar.md#Confiabilidade) | [CN13](../Modelagem/Cenários.md#CN13) | - |
+| **RNF30** | O usuário consegue achar com facilidade o que procura no aplicativo | - | - | [CNFR13](../Modelagem/Ágil/NFR.md#CNFR13) | [Usabilidade](../Modelagem/Especificação%20Suplementar.md#Usabilidade) | - | - |
 
 ## Versionamento 
 
@@ -92,3 +88,4 @@ O grupo 7 agradece o apoio das ferramentas de inteligência artificial generativ
 | ``1.1``     | 11/10/2025 | [Samuel Felipe](https://github.com/TerminaKng05)    | Adição Foward-From dos RF de Análise de Documento (RF29 a 32, RNF 12 a 23) | [Luan Vinícius](https://github.com/luannvi) |
 | ``1.2``     | 11/10/2025 | [Miquéias Ezequiel](https://github.com/Kael-web7)    | Adição Foward-From dos RF de Análise de Documento (RF12 a 19, RNF 03 a 07) | [Luan Vinícius](https://github.com/luannvi) |
 | ``1.3``     | 28/10/2025 | [Nayra Silva Nery](https://github.com/NayraNery127)    | Adição Foward-From dos RF de Análise de Documento (RF01, RF03,RF04, RF05, RF08) | [Luan Vinícius](https://github.com/luannvi) |
+| ``1.4``     | 28/10/2025 | [João Pedro](https://github.com/Jadequilin)    | Adição dos requisitos RF33-37 e RNF24-30 | [Rivadalvio Joaquim](https://github.com/RivaFilho) |

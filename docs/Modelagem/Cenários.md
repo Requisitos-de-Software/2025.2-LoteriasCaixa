@@ -130,7 +130,7 @@ Autor: [Nayra Nery](https://github.com/NayraNery127)
 |------|------------|
 | **Título** | Integração com Carteiras Digitais para Pagamento |
 | **Código** | CN05 |
-| **Requisito trabalhado** | RF23 – O sistema deve permitir que o usuário realize o pagamento de suas apostas utilizando carteiras digitais como Google Pay, Apple Pay e similares. |
+| **Requisito trabalhado** | RF25 – O sistema deve permitir que o usuário realize o pagamento de suas apostas utilizando carteiras digitais como Google Pay, Apple Pay, Mercado Pago e similares. |
 | **Atores** | Daniela, 32 anos, utiliza o aplicativo Loterias Caixa com frequência, mas prefere usar carteiras digitais para realizar pagamentos em vez de inserir os dados do cartão manualmente. Ela valoriza a praticidade e a segurança oferecidas por esses meios modernos. |
 | **Ambiente (Contexto)** | Daniela está tentando realizar uma nova aposta pelo aplicativo Loterias Caixa, mas percebe que o sistema só aceita cartão de crédito ou débito. Como está acostumada a pagar outras compras com Google Pay, sente falta dessa opção e considera o processo atual pouco prático e desatualizado. |
 | **Objetivos** | - Permitir que o usuário efetue o pagamento de suas apostas utilizando carteiras digitais populares (Google Pay, Apple Pay, Mercado Pago etc.).<br>- Melhorar a conveniência e segurança durante o processo de pagamento.<br>- Modernizar o sistema, alinhando-o às práticas atuais de mercado em aplicativos de compra e pagamento. |
@@ -151,7 +151,7 @@ Autor: [Luan Vinícius](https://github.com/luannvi)
 | :--------------- | :---------- |
 | **Título**  | Cancelamento de apostas antes do sorteio     |
 | **Código** | CN06  |
-| **Requisito trabalhado** | RF28 – O sistema deve permitir o cancelamento de apostas antes do sorteio |
+| **Requisito trabalhado** | RF29 – O sistema deve permitir o cancelamento de apostas antes do sorteio |
 | **Ator(es)**   | Ribamar da Silva, 29 anos, analista de dados. Aposta ocasionalmente por diversão, gosta de observar estatísticas e padrões numéricos. Costuma fazer suas apostas pelo celular durante o intervalo do trabalho.    |
 | **Ambiente (Contexto)**  | Ribamar utiliza o aplicativo de loteria em seu smartphone Android. Após realizar o pagamento via PIX, o sistema registra automaticamente sua aposta. Ele está em casa revisando suas apostas antes do encerramento das apostas do dia.    |
 | **Objetivos**   | Cancelar completamente a aposta que acabou de realizar, pois decidiu não participar mais do sorteio daquela rodada. Ele acredita que o cancelamento devolveria o valor pago.    |
@@ -172,7 +172,7 @@ Autor: [Luan Vinícius](https://github.com/luannvi)
 | :--------------- | :---------- |
 | **Título**  | Acessibilidade e clareza na identificação do menu principal  |
 | **Código** | CN07 |
-| **Requisito trabalhado** | RNF11 - O sistema deve ter ícones com rótulos textuais para melhor identificação |
+| **Requisito trabalhado** | RNF19 - O sistema deve ter ícones com rótulos textuais para melhor identificação |
 | **Ator(es)**   | Antônio Ribeiro, 58 anos, aposentado e ex-motorista de transporte escolar. Gosta de acompanhar os resultados da Mega-Sena e da Quina pelo aplicativo Loterias Caixa. Não tem muita familiaridade com aplicativos modernos e costuma se confundir com ícones pouco explicativos.   |
 | **Ambiente (Contexto)**  | Antônio instala o aplicativo Loterias Caixa em seu celular novo, com o objetivo de conferir os resultados do último sorteio e talvez realizar uma nova aposta. Ao abrir o app, percebe um ícone de três listras (☰) no canto superior esquerdo, mas não entende que aquilo é o menu principal, pois não há nenhum texto indicando isso. Ele acaba navegando confusamente por outras telas tentando encontrar as opções de aposta e resultados.  |
 | **Objetivos**   | <ul><li>Identificar de forma clara o menu principal do aplicativo.</li><li>Conseguir acessar funcionalidades básicas sem precisar explorar por tentativa e erro.</li><li>Ter uma navegação simples, autoexplicativa e acessível mesmo para usuários com menor familiaridade digital.</li></ul>  |

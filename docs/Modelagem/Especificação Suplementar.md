@@ -138,7 +138,7 @@ Nessa seção são apresentados os requisitos que influenciam a usabilidade do s
 | RF12 | O aplicativo deve apresentar funções de acessibilidade voltadas a idosos e pessoas com deficiência. | Não Implementado | [ENT15](../Elicitação/Técnicas/Entrevista.md/#requisitos-funcionais) |
 | RF13 | As opções de ações dentro do aplicativo devem estar facilmente disponíveis. | Implementado | [ENT16](../Elicitação/Técnicas/Entrevista.md/#requisitos-funcionais) |
 | RF15 | As páginas do aplicativo mais usadas pelo usuário devem estar em destaque na tela. | Não Implementado | [ENT23](../Elicitação/Técnicas/Entrevista.md/#requisitos-funcionais) |
-| RNF30 | O usuário consegue achar com facilidade o que procura no aplicativo. | Implementado | [ENT24](../Elicitação/Técnicas/Entrevista.md/#requisitos-não-funcionais) |
+| RNF09 | O usuário consegue achar com facilidade o que procura no aplicativo. | Implementado | [ENT24](../Elicitação/Técnicas/Entrevista.md/#requisitos-não-funcionais) |
 
 
 ###  Confiabilidade  
@@ -185,7 +185,7 @@ Para essa categoria os requisitos identificados estão representados na tabela 8
 |  RNF04 | O resultado de uma loteria deve ser carregado e exibido na tela em menos de 3 segundos sob uma conexão 4G/5G padrão      | Implementado     | [OBS17](../Elicitação/Técnicas/Observação.md/#requisitos-não-funcionais) |
 |  RNF07 | O aplicativo não deve apresentar erros ou fechar inesperadamente durante o processo de criação e pagamento de uma aposta | Implementado    | [OBS20](../Elicitação/Técnicas/Observação.md/#requisitos-não-funcionais) |
 |  RNF08 | A transição de telas durante o fluxo de aposta deve ser fluida e sem travamentos perceptíveis                            | Implementado     | [OBS21](../Elicitação/Técnicas/Observação.md/#requisitos-não-funcionais) |
-|  RNF22 | O aplicativo ainda apresenta lentidão em aparelhos de smartphones antigos                                                | Não Implementado | [AD15](../Elicitação/Técnicas/Análise%20de%20Documentos.md) |
+|  RNF11 | O aplicativo ainda apresenta lentidão em aparelhos de smartphones antigos                                                | Não Implementado | [AD15](../Elicitação/Técnicas/Análise%20de%20Documentos.md) |
 |  RNF12 | O aplicativo ainda apresenta problemas de desconexão ao se conectar em internet 4G/5G                                    | Não Implementado | [AD16](../Elicitação/Técnicas/Análise%20de%20Documentos.md) |
 
 #### Validação com o Usuário (Desempenho)

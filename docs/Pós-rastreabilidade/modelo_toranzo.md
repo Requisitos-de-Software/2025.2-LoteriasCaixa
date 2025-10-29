@@ -280,7 +280,71 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 | Agregação | - |
 
 *<p style= "text-align: center;"> Fonte: <a href= "https://github.com/TerminaKng05">Samuel Felipe</a> </p>*
-| ``1.2``     | 11/10/2025 | [Miquéias Ezequiel](https://github.com/Kael-web7)    | Adição Matriz Geral dos RF de Análise de Documento (RF12 a 19, RNF 03 a 07) | [Luan Vinícius](https://github.com/luannvi) |
+
+## RF33 - O aplicativo apresenta funções de acessibilidade aos idosos e deficientes
+
+| Artefato Analisado | Classificação do Artefato Analisado |
+| --- | --- |
+| Tipos de Elo | Artefatos Relacionados |
+| Satisfação | [Usabilidade](../Modelagem/Especificação%20Suplementar.md#Usabilidade) |
+| Recurso | [CN09](../Modelagem/Cenários.md#CN09) |
+| Representação | - |
+| Alocado | [L02](../Modelagem/Léxicos.md#L02) |
+| Agregação | [HU08](../Modelagem/Ágil/História%20de%20usuário.md#HU08), [CNFR03](../Modelagem/Ágil/NFR.md#CNFR03) |
+
+*<p style= "text-align: center;"> Fonte: <a href= "https://github.com/Jadequilin">João Pedro</a> </p>*
+
+## RF34 - As opções de ações dentro do aplicativo estão facilmente disponíveis
+
+| Artefato Analisado | Classificação do Artefato Analisado |
+| --- | --- |
+| Tipos de Elo | Artefatos Relacionados |
+| Satisfação | [Usabilidade](../Modelagem/Especificação%20Suplementar.md#Usabilidade) |
+| Recurso | [CN11](../Modelagem/Cenários.md#CN11) |
+| Representação | - |
+| Alocado | [L04](../Modelagem/Léxicos.md#L04) |
+| Agregação | - |
+
+*<p style= "text-align: center;"> Fonte: <a href= "https://github.com/Jadequilin">João Pedro</a> </p>*
+
+## RF35 - Os dados do usuário são mantidos em sigilo e protegidos
+
+| Artefato Analisado | Classificação do Artefato Analisado |
+| --- | --- |
+| Tipos de Elo | Artefatos Relacionados |
+| Satisfação | [Confiabilidade](../Modelagem/Especificação%20Suplementar.md#Confiabilidade) |
+| Recurso | - |
+| Representação | - |
+| Alocado | [BKL08](../Modelagem/Ágil/Backlog.md#BKL08) |
+| Agregação | [HU26](../Modelagem/Ágil/História%20de%20usuário.md#HU26) |
+
+*<p style= "text-align: center;"> Fonte: <a href= "https://github.com/Jadequilin">João Pedro</a> </p>*
+
+## RF36 - As páginas do aplicativo mais usadas pelo usuário estão em destaque na tela
+
+| Artefato Analisado | Classificação do Artefato Analisado |
+| --- | --- |
+| Tipos de Elo | Artefatos Relacionados |
+| Satisfação | [Usabilidade](../Modelagem/Especificação%20Suplementar.md#Usabilidade) |
+| Recurso | - |
+| Representação | - |
+| Alocado | [BKL12](../Modelagem/Ágil/Backlog.md#BKL12) |
+| Agregação | [HU09](../Modelagem/Ágil/História%20de%20usuário.md#HU09) |
+
+*<p style= "text-align: center;"> Fonte: <a href= "https://github.com/Jadequilin">João Pedro</a> </p>*
+
+## RF37 - O sistema fornece avisos ao usuário sobre seu limite diário de apostas
+
+| Artefato Analisado | Classificação do Artefato Analisado |
+| --- | --- |
+| Tipos de Elo | Artefatos Relacionados |
+| Satisfação | [Confiabilidade](../Modelagem/Especificação%20Suplementar.md#Confiabilidade) |
+| Recurso | - |
+| Representação | - |
+| Alocado | [BKL17](../Modelagem/Ágil/Backlog.md#BKL17) |
+| Agregação | [HU10](../Modelagem/Ágil/História%20de%20usuário.md#HU10) |
+
+*<p style= "text-align: center;"> Fonte: <a href= "https://github.com/Jadequilin">João Pedro</a> </p>*
 
 ## RNF01 
 
@@ -527,6 +591,97 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 
 *<p style= "text-align: center;"> Fonte: <a href= "https://github.com/TerminaKng05">Samuel Felipe</a> </p>*
 
+## RNF24 - O aplicativo é de fácil acesso ao usuário
+
+| Artefato Analisado | Classificação do Artefato Analisado |
+| --- | --- |
+| Tipos de Elo | Artefatos Relacionados |
+| Satisfação | [Design](../Modelagem/Especificação%20Suplementar.md#Design) |
+| Recurso | [CN15](../Modelagem/Cenários.md#CN15) |
+| Representação | - |
+| Alocado | [CNFR10](../Modelagem/Ágil/NFR.md#CNFR10) |
+| Agregação | [HU23](../Modelagem/Ágil/História%20de%20usuário.md#HU23) |
+
+*<p style= "text-align: center;"> Fonte: <a href= "https://github.com/Jadequilin">João Pedro</a> </p>*
+
+## RNF25 - O aplicativo é de uma fonte confiável para o usuário
+
+| Artefato Analisado | Classificação do Artefato Analisado |
+| --- | --- |
+| Tipos de Elo | Artefatos Relacionados |
+| Satisfação | [Confiabilidade](../Modelagem/Especificação%20Suplementar.md#Confiabilidade) |
+| Recurso | [CN14](../Modelagem/Cenários.md#CN14) |
+| Representação | - |
+| Alocado | [CNFR12](../Modelagem/Ágil/NFR.md#CNFR12) |
+| Agregação | [HU27](../Modelagem/Ágil/História%20de%20usuário.md#HU27) |
+
+*<p style= "text-align: center;"> Fonte: <a href= "https://github.com/Jadequilin">João Pedro</a> </p>*
+
+## RNF26 - Há um termo de uso
+
+| Artefato Analisado | Classificação do Artefato Analisado |
+| --- | --- |
+| Tipos de Elo | Artefatos Relacionados |
+| Satisfação | [Design](../Modelagem/Especificação%20Suplementar.md#Design) |
+| Recurso | [CN13](../Modelagem/Cenários.md#CN13) |
+| Representação | - |
+| Alocado | [CNFR10](../Modelagem/Ágil/NFR.md#CNFR10) |
+| Agregação | [HU07](../Modelagem/Ágil/História%20de%20usuário.md#HU07) |
+
+*<p style= "text-align: center;"> Fonte: <a href= "https://github.com/Jadequilin">João Pedro</a> </p>*
+
+## RNF27 - O termo de uso especifica os riscos para o usuário
+
+| Artefato Analisado | Classificação do Artefato Analisado |
+| --- | --- |
+| Tipos de Elo | Artefatos Relacionados |
+| Satisfação | [Confiabilidade](../Modelagem/Especificação%20Suplementar.md#Confiabilidade) |
+| Recurso | - |
+| Representação | - |
+| Alocado | [CNFR10](../Modelagem/Ágil/NFR.md#CNFR10) |
+| Agregação | [HU07](../Modelagem/Ágil/História%20de%20usuário.md#HU07) |
+
+*<p style= "text-align: center;"> Fonte: <a href= "https://github.com/Jadequilin">João Pedro</a> </p>*
+
+## RNF28 - O termo de uso especifica a classificação indicativa para o usuário
+
+| Artefato Analisado | Classificação do Artefato Analisado |
+| --- | --- |
+| Tipos de Elo | Artefatos Relacionados |
+| Satisfação | [Design](../Modelagem/Especificação%20Suplementar.md#Design) |
+| Recurso | [CN13](../Modelagem/Cenários.md#CN13) |
+| Representação | - |
+| Alocado | [CNFR14](../Modelagem/Ágil/NFR.md#CNFR14) |
+| Agregação | [HU07](../Modelagem/Ágil/História%20de%20usuário.md#HU07) |
+
+*<p style= "text-align: center;"> Fonte: <a href= "https://github.com/Jadequilin">João Pedro</a> </p>*
+
+## RNF29 - O termo de uso especifica o acesso aos dados do aplicativo para o usuário
+
+| Artefato Analisado | Classificação do Artefato Analisado |
+| --- | --- |
+| Tipos de Elo | Artefatos Relacionados |
+| Satisfação | [Confiabilidade](../Modelagem/Especificação%20Suplementar.md#Confiabilidade) |
+| Recurso | [CN13](../Modelagem/Cenários.md#CN13) |
+| Representação | - |
+| Alocado | [CNFR10](../Modelagem/Ágil/NFR.md#CNFR10) |
+| Agregação | [HU07](../Modelagem/Ágil/História%20de%20usuário.md#HU07) |
+
+*<p style= "text-align: center;"> Fonte: <a href= "https://github.com/Jadequilin">João Pedro</a> </p>*
+
+## RNF30 - O usuário consegue achar com facilidade o que procura no aplicativo
+
+| Artefato Analisado | Classificação do Artefato Analisado |
+| --- | --- |
+| Tipos de Elo | Artefatos Relacionados |
+| Satisfação | [Usabilidade](../Modelagem/Especificação%20Suplementar.md#Usabilidade) |
+| Recurso | - |
+| Representação | - |
+| Alocado | [CNFR13](../Modelagem/Ágil/NFR.md#CNFR13) |
+| Agregação | - |
+
+*<p style= "text-align: center;"> Fonte: <a href= "https://github.com/Jadequilin">João Pedro</a> </p>*
+
 ## Agradecimentos
 O grupo 7 agradece o apoio das ferramentas de inteligência artificial generativa - chatGPT, Google Gemini - na revisão gramatical e estilo de algumas partes do texto. As tecnologias foram utilizadas para organizar e deixar o texto mais claro, além de fornecer alguns exemplos de códigos de mkdocs para servir de referência para os autores. Todo o conteúdo, assim como a precisão técnica e as ideias apresentadas, permanecem de responsabilidade dos autores.
 
@@ -538,3 +693,4 @@ O grupo 7 agradece o apoio das ferramentas de inteligência artificial generativ
 | ``1.1``     | 11/10/2025 | [Samuel Felipe](https://github.com/TerminaKng05)    | Adição Modelo de Toranzo dos RF de Análise de Documento (RF29 a 32, RNF 12 a 23) | [Luan Vinícius](https://github.com/luannvi) |
 | ``1.3``     | 11/10/2025 | [Miquéias Ezequiel](https://github.com/Kael-web7)    | Adição Modelo de Toranzo dos RF de Análise de Documento (RF29 a 32, RNF 12 a 23) | [Luan Vinícius](https://github.com/luannvi) |
 | ``1.4``     | 28/10/2025 | [Nayra Silva Nery](https://github.com/NayraNery127)    | Adição da Introdução  | [Luan Vinícius](https://github.com/luannvi) |
+| ``1.5``     | 28/10/2025 | [João Pedro](https://github.com/Jadequilin)    | Adição dos elos de RF33-37 e RNF24-30  | [Rivadalvio Joaquim](https://github.com/RivaFilho) |

@@ -131,7 +131,7 @@ Autor: [João Pedro](https://github.com/Jadequilin)
 | **Tipo** | Objeto |
 | **Noção** | Documento digital que comprova a realização de uma aposta, contendo números selecionados, valor e identificação única |
 | **Impacto** | - Gera registro oficial da transação<br>- Permite verificação posterior<br>- Serve como comprovante para resgate<br>- Armazena em "Minhas Apostas" |
-| **Rastreabilidade** | RF01, RF23 |
+| **Rastreabilidade** | RF01, RF25 |
 
 ### L07 – Multi-modalidade de Apostas
 
@@ -251,7 +251,7 @@ Autor: [João Pedro](https://github.com/Jadequilin)
 | **Tipo** | Verbo |
 | **Noção** | Processo de encerramento seguro da sessão do usuário no aplicativo, garantindo que os dados permaneçam protegidos |
 | **Impacto** | - Protege conta em dispositivos compartilhados<br>- Encerra sessão ativa<br>- Limpa cache sensível<br>- Previne acesso indevido |
-| **Rastreabilidade** | RF27 |
+| **Rastreabilidade** | RF24 |
 
 ### L15 – Cadastro com Dados Pessoais
 
@@ -311,7 +311,7 @@ Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 | **Tipo** | Verbo |
 | **Noção** | Sistema de processamento de pagamentos que aceita múltiplas formas, incluindo cartão de crédito/débito e PIX |
 | **Impacto** | - Oferece flexibilidade de pagamento<br>- Processa transações seguras<br>- Confirma pagamento instantaneamente<br>- Integra com sistemas bancários |
-| **Rastreabilidade** | RF22, RF23 |
+| **Rastreabilidade** | RF25 |
 
 ### L19 – Cancelamento de Aposta
 
@@ -327,7 +327,7 @@ Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 | **Tipo** | Verbo |
 | **Noção** | Funcionalidade que permite ao usuário cancelar apostas realizadas antes do sorteio ocorrer |
 | **Impacto** | - Oferece flexibilidade ao usuário<br>- Permite correção de erros<br>- Devolve valor apostado<br>- Registra cancelamento no histórico |
-| **Rastreabilidade** | RF28 |
+| **Rastreabilidade** | RF29 |
 
 ### L20 – Navegação Intuitiva
 

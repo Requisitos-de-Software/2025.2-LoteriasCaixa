@@ -278,7 +278,7 @@ Autor: [João Pedro](https://github.com/Jadequilin)
 | **Prioridade** | Média |
 | **Status** | Implementado |
 
-<a id="HU17"></a>
+
 ## HU17 - Pagamento com Carteiras Digitais
 **Autora:** [Nayra Nery](https://github.com/NayraNery127)
 
