@@ -65,6 +65,10 @@ nav:
       - $100: Elicitação/Priorização/$100.md
       - MoSCoW: Elicitação/Priorização/MoSCoW.md
 
+  - Validacao: 
+    - Prototipacao: Validacao/Prototipacao.md
+    - Validacao informal: Validacao/Validacao informal.md
+
   - Modelagem: 
     - Modelagem/Casos de uso.md
     - Modelagem/Cenários.md
@@ -144,8 +148,6 @@ nav:
       - Grupo 7:
         - Verificação/Etapa 6/Grupo 7/Listas de Verificações.md
         - Verificação/Etapa 6/Grupo 7/Inspeção.md
-        
-  - Validação: Validação.md
 
   - Pós-Rastreabilidade: 
     - Pós-rastreabilidade/Forward from.md
