@@ -10,6 +10,8 @@ A prototipagem pode ser classificada de acordo com seu nível de fidelidade, que
 
 Foi feito pelos estudantes uma prototipação de alta fidelidade para cada requisito funcional não implementado utilizando o site figma, uma ferramenta de design online e colaborativa usada para criar interfaces (UI), websites e aplicativos. Cada prototipo possui uma tabela tal qual o modelo abaixo:
 
+Link do projeto figma: [clique aqui](https://www.figma.com/design/CzSvBeUjJEhxiKMdd5ogea/Requisitos?node-id=0-1&p=f&t=1fsB75n44YYAcj6u-0)
+
 tabela 1 - modelo
 autor: heyttor augusto
 
@@ -19,8 +21,34 @@ autor: heyttor augusto
 |Descrição | - |
 |Representação | - |
 
+os requisitos Representados são
+- RF03 - O usuário deve poder acompanhar jogos pelo software
+- RF06 - O software deve ter opções de modo claro e escuro 
+- RF23 - O aplicativo deve permitir pagamento de apostas utilizando carteiras digitais como Google Pay, Apple Pay
+- RF28 - O aplicativo deve permitir o cancelamento de apostas antes do sorteio
+- RF33 - O aplicativo apresenta funções de acessibilidade aos idosos e deficientes
+- RF36 - As páginas do aplicativo mais usadas pelo usuário estão em destaque na tela
+- RF37 - O sistema fornece avisos ao usuário sobre seu limite diário de apostas 
+
+## Tabela de contribuição 
+
+|Aluno| Contribuição|
+|-----|-------------|
+|Heyttor augusto| prototipação do [RF06](#rf06)|
 
 
+
+
+
+## Prototipações
+
+## RF06 
+
+|Item | Descrição |
+|-----|-----------|
+|id Requisito| -RF06 |
+|Descrição | O software deve ter opções de modo claro e escuro  |
+|Representação | ![img rf06](../images/validação/RF06.png)|
 
 
 
@@ -37,6 +65,14 @@ autor: heyttor augusto
 
 ## Validação com o usuário
 
+## RF06
+
+<a id = "RF06"></a>
+
+Foi feita a validação com o usuário marcio junior, que aprovou o requisito prototipado
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CZsvbXj02ow?si=x-n3-AK15ylOqrmv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Agradecimentos 
 
 O grupo 7 agradece o apoio das ferramentas de inteligência artificial generativa - chatGPT, Google Gemini - na revisão gramatical e estilo de algumas partes do texto. As tecnologias foram utilizadas para organizar e deixar o texto mais claro, além de fornecer alguns exemplos de códigos de mkdocs para servir de referência para os autores. Todo o conteúdo, assim como a precisão técnica e as ideias apresentadas, permanecem de responsabilidade dos autores.
@@ -50,3 +86,4 @@ O grupo 7 agradece o apoio das ferramentas de inteligência artificial generativ
 | Versão | Data | Descrição | Autor | Revisor |
 |--------|------|-----------|-------|---------|
 |1.0| 04/11/2025 | inicialização do artefato| [Heyttor Augusto](https://github.com/H3ytt0r62) | -|
+|2.0| 06/11/2025 | Adicição do RF06 | [Heyttor Augusto](https://github.com/H3ytt0r62) | -|
