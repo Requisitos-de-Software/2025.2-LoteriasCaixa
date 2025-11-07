@@ -19,7 +19,7 @@ autor: heyttor augusto
 |-----|-----------|
 |id Requisito| -  |
 |Descrição | - |
-|Representação | - |
+|Representação | -- |
 
 os requisitos Representados são
 
