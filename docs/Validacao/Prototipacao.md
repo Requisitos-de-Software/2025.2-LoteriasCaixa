@@ -22,20 +22,21 @@ autor: heyttor augusto
 |Representação | - |
 
 os requisitos Representados são
-- RF03 - O usuário deve poder acompanhar jogos pelo software
+
 - RF06 - O software deve ter opções de modo claro e escuro 
 - RF23 - O aplicativo deve permitir pagamento de apostas utilizando carteiras digitais como Google Pay, Apple Pay
 - RF28 - O aplicativo deve permitir o cancelamento de apostas antes do sorteio
 - RF33 - O aplicativo apresenta funções de acessibilidade aos idosos e deficientes
 - RF36 - As páginas do aplicativo mais usadas pelo usuário estão em destaque na tela
 - RF37 - O sistema fornece avisos ao usuário sobre seu limite diário de apostas 
+- RF38 - O sistema apresenta uma tela chamada "favoritos", onde o apostante consegue realizar jogos com base nas suas preferências de aposta
 
 ## Tabela de contribuição 
 
 |Aluno| Contribuição|
 |-----|-------------|
 |Heyttor augusto| prototipação do [RF06](#rf06)|
-
+|Samuel Felipe| prototipação do [RF38](#rf38) |
 
 
 
@@ -50,7 +51,12 @@ os requisitos Representados são
 |Descrição | O software deve ter opções de modo claro e escuro  |
 |Representação | ![img rf06](../images/validação/RF06.png)|
 
-
+## RF38
+| Item | Descrição |
+| ---- | --------- |
+| id Requisito | RF38 |
+| Descrição | O sistema apresenta uma tela chamada "favoritos", onde o apostante consegue realizar jogos com base nas suas preferências de aposta |
+| Representação | ![img rf38](../images/validação/RF38.png) |
 
 
 
@@ -86,4 +92,5 @@ O grupo 7 agradece o apoio das ferramentas de inteligência artificial generativ
 | Versão | Data | Descrição | Autor | Revisor |
 |--------|------|-----------|-------|---------|
 |1.0| 04/11/2025 | inicialização do artefato| [Heyttor Augusto](https://github.com/H3ytt0r62) | -|
-|2.0| 06/11/2025 | Adicição do RF06 | [Heyttor Augusto](https://github.com/H3ytt0r62) | -|
+|2.0| 06/11/2025 | Adição do RF06 | [Heyttor Augusto](https://github.com/H3ytt0r62) | -|
+| ``2.1`` | 07/11/2025 | Adição do RF38 | [Samuel Felipe](https://github.com/TerminaKng05) | [Heyttor Augusto](https://github.com/H3ytt0r62) |

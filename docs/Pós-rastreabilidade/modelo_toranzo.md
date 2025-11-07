@@ -463,6 +463,19 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 
 *<p style= "text-align: center;"> Fonte: <a href= "https://github.com/Jadequilin">João Pedro</a> </p>*
 
+## RF38 - O sistema apresenta uma tela chamada "favoritos", onde o apostante consegue realizar jogos com base nas suas preferências de aposta
+
+| Artefato Analisado | Classificação do Artefato Analisado |
+| --- | --- |
+| Tipos de Elo | Artefatos Relacionados |
+| Satisfação | |
+| Recurso | - |
+| Representação | - |
+| Alocado | |
+| Agregação | |
+
+*<p style= "text-align: center;"> Fonte: <a href= "https://github.com/TerminaKng05">Samuel Felipe</a> </p>*
+
 ## RNF01 
 
 | Artefato Analisado | Classificação do Artefato Analisado |
@@ -863,3 +876,4 @@ O grupo 7 agradece o apoio das ferramentas de inteligência artificial generativ
 | ``1.3``     | 11/10/2025 | [Miquéias Ezequiel](https://github.com/Kael-web7)    | Adição Modelo de Toranzo dos RF de Análise de Documento (RF29 a 32, RNF 12 a 23) | [Luan Vinícius](https://github.com/luannvi) |
 | ``1.4``     | 28/10/2025 | [Nayra Silva Nery](https://github.com/NayraNery127)    | Adição da Introdução  | [Luan Vinícius](https://github.com/luannvi) |
 | ``1.5``     | 28/10/2025 | [João Pedro](https://github.com/Jadequilin)    | Adição dos elos de RF33-37 e RNF24-30  | [Rivadalvio Joaquim](https://github.com/RivaFilho) |
+| ``1.6`` | 07/11/2025 | [Samuel Felipe](https://github.com/TerminaKng05) | Adição Modelo de Toranzo do RF38 de Análise de Documento | [Heyttor Augusto](https://github.com/H3ytt0r62) |

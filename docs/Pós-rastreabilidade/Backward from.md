@@ -66,6 +66,7 @@ A legenda para cada sigla:
 | **RF35** | Os dados do usuário são mantidos em sigilo e protegidos | Implementado | [ENT18](../Elicitação/Técnicas/Entrevista.md) |
 | **RF36** | As páginas do aplicativo mais usadas pelo usuário estão em destaque na tela | Não implementado | [ENT23](../Elicitação/Técnicas/Entrevista.md) |
 | **RF37** | O sistema fornece avisos ao usuário sobre seu limite diário de apostas | Não Implementado | [ENT25](../Elicitação/Técnicas/Entrevista.md) |
+| **RF38** | O sistema apresenta uma tela chamada "favoritos", onde o apostante consegue realizar jogos com base nas suas preferências de aposta; | Não Implementado | [AD05](./Técnicas/Análise%20de%20Documentos.md/#requisitos-não-funcionais) |
 
 ### Requisitos Não-Funcionais
 
@@ -112,3 +113,4 @@ O grupo 7 agradece o apoio das ferramentas de inteligência artificial generativ
 | Versão | Data       | Autor               | Descrição                                    | Revisor |
 |:--------:|:------------:|:---------------------:|:----------------------------------------------:|:---------:|
 | ``1.0``    | 28/10/2025 | [Heyttor Augusto](https://github.com/H3ytt0r62)   | Criação da página com os requistos| [Samuel Felipe](https://github.com/TerminaKng05) |
+| ``1.1`` | 07/11/2025 | [Samuel Felipe](https://github.com/TerminaKng05) | Adição do RF38 de Análise de Documento | [Heyttor Augusto](https://github.com/H3ytt0r62) |
