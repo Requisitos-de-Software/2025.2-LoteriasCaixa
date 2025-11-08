@@ -38,7 +38,7 @@ os requisitos Representados são
 |Heyttor augusto| prototipação do [RF06](#rf06)|
 |Samuel Felipe| prototipação do [RF38](#rf38) |
 |Miqueias Ezequiel| prototipação do [RF33](#rf33) |
-
+| Luan Vinícius | prototipação do [RF28](#rf28) |
 
 
 
@@ -52,12 +52,12 @@ os requisitos Representados são
 |Descrição | O software deve ter opções de modo claro e escuro  |
 |Representação | ![img rf06](../images/validação/RF06.png)|
 
-## RF38
+## RF28
 | Item | Descrição |
 | ---- | --------- |
-| id Requisito | RF38 |
-| Descrição | O sistema apresenta uma tela chamada "favoritos", onde o apostante consegue realizar jogos com base nas suas preferências de aposta |
-| Representação | ![img rf38](../images/validação/RF38.png) |
+| id Requisito | RF28 |
+| Descrição | O aplicativo deve permitir o cancelamento de apostas antes do sorteio |
+| Representação | ![img rf28](../images/validação/RF28.gif) |
 
 ## RF33
 | Item | Descrição |
@@ -65,6 +65,15 @@ os requisitos Representados são
 | id Requisito | RF33 |
 | Descrição | O aplicativo apresenta funções de acessibilidade aos idosos e deficientes |
 | Representação | ![img rf33](../images/validação/telaacessibilidade.png) |
+
+## RF38
+| Item | Descrição |
+| ---- | --------- |
+| id Requisito | RF38 |
+| Descrição | O sistema apresenta uma tela chamada "favoritos", onde o apostante consegue realizar jogos com base nas suas preferências de aposta |
+| Representação | ![img rf38](../images/validação/RF38.png) |
+
+
 
 
 
@@ -97,7 +106,8 @@ O grupo 7 agradece o apoio das ferramentas de inteligência artificial generativ
 
 | Versão | Data | Descrição | Autor | Revisor |
 |--------|------|-----------|-------|---------|
-|1.0| 04/11/2025 | inicialização do artefato| [Heyttor Augusto](https://github.com/H3ytt0r62) | -|
-|2.0| 06/11/2025 | Adição do RF06 | [Heyttor Augusto](https://github.com/H3ytt0r62) | -|
+|``1.0``| 04/11/2025 | inicialização do artefato| [Heyttor Augusto](https://github.com/H3ytt0r62) | -|
+|``2.0``| 06/11/2025 | Adição do RF06 | [Heyttor Augusto](https://github.com/H3ytt0r62) | -|
 | ``2.1`` | 07/11/2025 | Adição do RF38 | [Samuel Felipe](https://github.com/TerminaKng05) | [Heyttor Augusto](https://github.com/H3ytt0r62) |
-| ``3.0``     | 07/11/2025 | Adição do RF33 | [Miquéias Ezequiel](https://github.com/Kael-web7) | [Luan Vinícius](https://github.com/luannvi) |
+| ``2.2``     | 07/11/2025 | Adição do RF33 | [Miquéias Ezequiel](https://github.com/Kael-web7) | [Luan Vinícius](https://github.com/luannvi) |
+| ``2.3``     | 07/11/2025 | Adição do RF28 | [Luan Vinícius](https://github.com/luannvi) | [Miquéias Ezequiel](https://github.com/Kael-web7) |
