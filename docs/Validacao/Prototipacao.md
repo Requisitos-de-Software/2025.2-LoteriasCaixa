@@ -37,6 +37,7 @@ os requisitos Representados são
 |-----|-------------|
 |Heyttor augusto| prototipação do [RF06](#rf06)|
 |Samuel Felipe| prototipação do [RF38](#rf38) |
+|Miqueias Ezequiel| prototipação do [RF33](#rf33) |
 
 
 
@@ -58,7 +59,12 @@ os requisitos Representados são
 | Descrição | O sistema apresenta uma tela chamada "favoritos", onde o apostante consegue realizar jogos com base nas suas preferências de aposta |
 | Representação | ![img rf38](../images/validação/RF38.png) |
 
-
+## RF33
+| Item | Descrição |
+| ---- | --------- |
+| id Requisito | RF33 |
+| Descrição | O aplicativo apresenta funções de acessibilidade aos idosos e deficientes |
+| Representação | ![img rf33](../images/validação/telaacessibilidade.png) |
 
 
 
@@ -94,3 +100,4 @@ O grupo 7 agradece o apoio das ferramentas de inteligência artificial generativ
 |1.0| 04/11/2025 | inicialização do artefato| [Heyttor Augusto](https://github.com/H3ytt0r62) | -|
 |2.0| 06/11/2025 | Adição do RF06 | [Heyttor Augusto](https://github.com/H3ytt0r62) | -|
 | ``2.1`` | 07/11/2025 | Adição do RF38 | [Samuel Felipe](https://github.com/TerminaKng05) | [Heyttor Augusto](https://github.com/H3ytt0r62) |
+| ``3.0``     | 07/11/2025 | Adição do RF33 | [Miquéias Ezequiel](https://github.com/Kael-web7) | [Luan Vinícius](https://github.com/luannvi) |
