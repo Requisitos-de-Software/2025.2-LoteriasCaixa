@@ -17,6 +17,13 @@ os niveis são:
 
 Os integrantes pegaram todos os requisitos elecitados pelo grupo e os classificaram colocando em niveis de importancia.
 
+|Aluno| Contribuição|
+|-----|-------------|
+|Heyttor augusto| priorização dos requisitos rf01 a RF13 |
+|João pedro| priorização dos requisitos RF12 ao RF14 e RNF03 ao RNF09 |
+|Samuel| priorização dos requisitos AD01 a AD06  |
+| miqueias| priorização dos requisitos Obs1 a 0bs09 |
+
 
 ## video da entrevista
 

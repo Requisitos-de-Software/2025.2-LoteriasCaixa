@@ -6,6 +6,12 @@ O glossário a seguir reúne os principais termos utilizados no **Aplicativo Lot
 
 Essas definições ajudam o usuário a entender como o aplicativo organiza informações, apresenta resultados e gerencia serviços digitais como apostas online, bilhetes eletrônicos e premiações. A consulta ao glossário é recomendada sempre que houver dúvidas sobre a terminologia utilizada na documentação ou no próprio aplicativo.  
 
+## Tabela de contribuição
+
+|Aluno| Contribuição|
+|-----|-------------|
+|Miqueias| Tecnica glossario |
+
 ### Aposta
 - **Significado:** Registro oficial de um jogo realizado pelo usuário em uma das modalidades de loteria disponíveis.  
 - **Contexto:** O usuário seleciona números, paga o valor correspondente e recebe um comprovante digital da aposta.  

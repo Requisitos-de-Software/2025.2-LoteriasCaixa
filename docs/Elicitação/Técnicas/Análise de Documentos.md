@@ -10,6 +10,12 @@ Para fazer essa análise de documentos, foi feito uma busca em escopo nas docume
 - O site da Caixa relatando a visão geral sobre o aplicativo.
 - Comentários de notas e avaliações do aplicativo no Google Play
 
+## Tabela de contribuição
+
+|Aluno| Contribuição|
+|-----|-------------|
+|Samuel| Tecnica analise de documentos|
+
 A análise foi feita pelos integrantes [Samuel Felipe](https://github.com/TerminaKng05) e  [Heyttor Augusto](https://github.com/H3ytt0r62)
 
 ## Resultado da Análise de documentação

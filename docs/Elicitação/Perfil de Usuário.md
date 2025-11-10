@@ -12,6 +12,14 @@ A técnica usada para a montagem do perfil de usuário foi a análise de documen
 
 Os documentos foram analisados pelos integrantes [Heyttor Augusto](https://github.com/H3ytt0r62) e [Samuel Felipe](https://github.com/TerminaKng05)
 
+
+## Tabela de contribuição
+
+|Aluno| Contribuição|
+|-----|-------------|
+|Heyttor Augusto| Analise de documentos, construção do perfis de usuario |
+|Samuel | Auxilio na analise dos documentos |
+
 ## Resultados encontrados
 
 Ao analisar os materiais promocionais feitos pela empresa, foi notado um grande foco em esportes e apostas esportivas, concluindo assim que um dos possiveis usuários tem um gosto por esportes ou acompanha esportes durante entrevistas tambem foi encontrado pessoas que jogavam mais em outros tipos de apostas e com menos frequencia como Mega-sena ou quina e tambem foi obsersado aqueles usuarios que jogavam tanto apostas esportivas mas sem nenhuma estrategia envolvida e mais pela sorte, diferente do primeiro perfil citado e tambem jogava em loterias que o segundo perfil tambem prefere jogar. foram analisadas estáticas demográficas dos esportes para montar um dos perfis encontrados, tambem foram analisadas estaticas de pessoas que apostam para poder montar ou outros dois perfis de usuario que não se relacionam tanto com esportes quanto o primeiro.

@@ -17,6 +17,11 @@ Priorização é muito importante para a organização de empresas e trabalhos, 
 
 A entrevista foi feita pelo integrante Heyttor Augusto, na data 26/09/2025 as 20:30 ás 21:30 com o usuário Marcio Junio. Nesta reunião O usuário foi informado de como funciona a tecncia de priorização e foi informando ao entrevistador quais tecnicas deveriam ser priorizadas.
 
+## Tabela de contribuição
+
+|Aluno| Contribuição|
+|-----|-------------|
+|Heyttor augusto| Tecnica three level scale |
 
 ## video da entrevista
 

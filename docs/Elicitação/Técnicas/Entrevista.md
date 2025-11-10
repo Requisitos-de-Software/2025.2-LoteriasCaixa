@@ -3,6 +3,14 @@
 
 A entrevista é uma das técnicas mais fundamentais e amplamente utilizadas para elicitação de requisitos de software. Trata-se de um processo estruturado ou semi-estruturado de comunicação direta entre o analista de requisitos e os stakeholders (partes interessadas) do projeto, com o objetivo principal de coletar, compreender e validar as necessidades, expectativas e restrições que moldarão o sistema a ser desenvolvido.
 
+## Tabela de contribuição
+
+|Aluno| Contribuição|
+|-----|-------------|
+|Heyttor augusto| Itens ENT01 a ENT13 |
+|João pedro| Itens Ent15 a ENT25|
+|Riva | Itens Ent15 a ENT25 | 
+
 ## **Entrevista 1**
 
 ## Participantes

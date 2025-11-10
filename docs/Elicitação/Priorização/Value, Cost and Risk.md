@@ -17,6 +17,12 @@ A priorização de requisitos é uma etapa crucial no desenvolvimento de softwar
 
 A entrevista foi conduzida por João Pedro Araújo no dia 30/09/2025, no horário 11:40 às 12:10, com a usuária Janice José Araújo. Durante a reunião, foram apresentados os conceitos de priorização baseada em valor, risco e custo, e o usuário colaborou na classificação dos requisitos com base nesses critérios, também permitindo a filmagem durante o processo.
 
+## Tabela de contribuição
+
+|Aluno| Contribuição|
+|-----|-------------|
+|João pedro| Tecnica valor,custo e risco |
+
 ## Técnica Utilizada
 
 A técnica aplicada combina três dimensões principais:
