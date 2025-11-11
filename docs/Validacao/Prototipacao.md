@@ -17,11 +17,11 @@ autor: heyttor augusto
 
 |Item | Descrição |
 |-----|-----------|
-|id Requisito| -  |
+|ID do Requisito| -  |
 |Descrição | - |
-|Representação | -- |
+|Representação | - |
 
-os requisitos Representados são
+Os requisitos representados são:
 
 - RF06 - O software deve ter opções de modo claro e escuro 
 - RF23 - O aplicativo deve permitir pagamento de apostas utilizando carteiras digitais como Google Pay, Apple Pay
@@ -30,6 +30,7 @@ os requisitos Representados são
 - RF36 - As páginas do aplicativo mais usadas pelo usuário estão em destaque na tela
 - RF37 - O sistema fornece avisos ao usuário sobre seu limite diário de apostas 
 - RF38 - O sistema apresenta uma tela chamada "favoritos", onde o apostante consegue realizar jogos com base nas suas preferências de aposta
+- RNF11 - O sistema deve garantir que o acesso a funcionalidades primárias seja feito através de componentes de interface autoexplicativos. Ícones de navegação, como o menu principal, devem ser acompanhados por um rótulo textual (ex: "Menu").
 
 ## Tabela de contribuição 
 
@@ -38,7 +39,7 @@ os requisitos Representados são
 |Heyttor augusto| prototipação do [RF06](#rf06)|
 |Samuel Felipe| prototipação do [RF38](#rf38) |
 |Miqueias Ezequiel| prototipação do [RF33](#rf33) |
-| Luan Vinícius | prototipação do [RF28](#rf28) |
+| Luan Vinícius | prototipação do [RF28](#rf28), [RNF11](#rnf11) |
 
 
 
@@ -73,6 +74,12 @@ os requisitos Representados são
 | Descrição | O sistema apresenta uma tela chamada "favoritos", onde o apostante consegue realizar jogos com base nas suas preferências de aposta |
 | Representação | ![img rf38](../images/validação/RF38.png) |
 
+## RNF11
+| Item | Descrição |
+| ---- | --------- |
+| id Requisito | RNF11 |
+| Descrição | O sistema deve garantir que o acesso a funcionalidades primárias seja feito através de componentes de interface autoexplicativos. Ícones de navegação, como o menu principal, devem ser acompanhados por um rótulo textual (ex: "Menu"). |
+| Representação | ![img rnf11.1](../images/validação/RNF11.1.png)![img rnf11.2](../images/validação/RNF11.2.png){.center} | 
 
 
 
@@ -112,3 +119,4 @@ O grupo 7 agradece o apoio das ferramentas de inteligência artificial generativ
 | ``2.1`` | 07/11/2025 | Adição do RF38 | [Samuel Felipe](https://github.com/TerminaKng05) | [Heyttor Augusto](https://github.com/H3ytt0r62) |
 | ``2.2``     | 07/11/2025 | Adição do RF33 | [Miquéias Ezequiel](https://github.com/Kael-web7) | [Luan Vinícius](https://github.com/luannvi) |
 | ``2.3``     | 07/11/2025 | Adição do RF28 | [Luan Vinícius](https://github.com/luannvi) | [Miquéias Ezequiel](https://github.com/Kael-web7) |
+| ``2.4``     | 11/11/2025 | Adição do RNF11 | [Luan Vinícius](https://github.com/luannvi) | [Miquéias Ezequiel](https://github.com/Kael-web7) |
