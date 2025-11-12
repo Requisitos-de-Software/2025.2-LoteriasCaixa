@@ -59,6 +59,23 @@
 | 15 | Todos os stakeholders confirmaram que compreendem e utilizam o glossário durante as discussões de requisitos? <a id="anchor_3" href="#REF3">[3]</a> | [Luan Vinícius](https://github.com/luannvi), [Samuel Felipe](https://github.com/TerminaKng05), [Miquéias Ezequiel](https://github.com/Kael-web7), [Heyttor Augusto](https://github.com/H3ytt0r62), [João Pedro](https://github.com/Jadequilin) | [Ver Imagem](../../../images/Glossário/15.png){ data-glightbox } |
 | 16 | Há consistência terminológica entre o glossário e os documentos de requisitos?  <a id="anchor_3" href="#REF3">[3]</a> | [Luan Vinícius](https://github.com/luannvi), [Samuel Felipe](https://github.com/TerminaKng05), [Miquéias Ezequiel](https://github.com/Kael-web7), [Heyttor Augusto](https://github.com/H3ytt0r62), [João Pedro](https://github.com/Jadequilin) | [Ver Imagem](../../../images/Glossário/16.png){ data-glightbox } |
 
+## Técnica de Priorização - Three Level Scale
+
+*<p style="text-align: center;">Tabela 7: Checklist Three Level Scale do grupo 7</p>*
+
+| ID  | Descrição | Autor(res) |
+|-----|-----------|----------|
+| 1   | Os requisitos foram separados nos níveis de alta, média e baixa prioridade? | [Heyttor Augusto](https://github.com/H3ytt0r62) |
+| 2   | Os requisitos de alta prioridade são de extrema urgência e importância? | [Heyttor Augusto](https://github.com/H3ytt0r62) |
+| 3   | Os requisitos de alta prioridade podem ser implementados em outro momento? | [Heyttor Augusto](https://github.com/H3ytt0r62) |
+| 4   | Os requisitos de média prioridade podem ser feitos em outro momento? | [Heyttor Augusto](https://github.com/H3ytt0r62) |
+| 5   | Os requisitos considerados de baixa prioridade podem ser implementados em outro momento, além de não serem importantes para o cliente? | [Heyttor Augusto](https://github.com/H3ytt0r62) |
+| 6   | Foi incluída a prioridade do requisito junto ao próprio documento de requisitos de usuário? | [Heyttor Augusto](https://github.com/H3ytt0r62) |
+| 7   | Foram feitas subdivisões de requisitos por prioridade? | [Heyttor Augusto](https://github.com/H3ytt0r62) |
+| 8   | Os requisitos dependentes de outros estão em um nível igual ou inferior de prioridade? | [Heyttor Augusto](https://github.com/H3ytt0r62) |
+
+Fonte: <https://docs.google.com/document/d/13GI1jPB-gPHaFYhGgmODryBbIc_GqqzV2BTKWY5WUpY/edit?tab=t.0>
+
 
 ## Referências Bibliográficas 
 
@@ -72,3 +89,4 @@
 |:--------:|:------------:|:---------------:|:-------------------------------:|:---------:|
 | ``1.0``    | 12/11/2025 | [Luan Vinícius](https://github.com/luannvi)  | Abertura do documento | |
 | ``2.0``    | 12/11/2025 | [Miquéias Ezequiel](https://github.com/Kael-web7)  | Listas Moscow,100$, Glossário | |
+| ``3.0``    | 12/11/2025 | [Samuel Felipe](https://github.com/Kael-web7)  | Lista Three Level Scale | |

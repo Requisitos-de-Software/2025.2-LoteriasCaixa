@@ -65,6 +65,22 @@
 
 *<p style="text-align: center;">Fonte: [Miquéias Ezequiel](https://github.com/Kael-web7). </p>*
 
+## Técnica de Priorização - Three Level Scale
+
+*<p style="text-align: center;">Tabela 7: Checklist Three Level Scale do grupo 3</p>*
+
+| ID  | Descrição | Cumpriu? |
+|-----|-----------|----------|
+| 1   | Os requisitos foram separados nos níveis de alta, média e baixa prioridade? | Sim |
+| 2   | Os requisitos de alta prioridade são de extrema urgência e importância? | Sim |
+| 3   | Os requisitos de alta prioridade podem ser implementados em outro momento? | Sim |
+| 4   | Os requisitos de média prioridade podem ser feitos em outro momento? | Sim |
+| 5   | Os requisitos considerados de baixa prioridade podem ser implementados em outro momento, além de não serem importantes para o cliente? | Sim |
+| 6   | Foi incluída a prioridade do requisito junto ao próprio documento de requisitos de usuário? | Sim |
+| 7   | Foram feitas subdivisões de requisitos por prioridade? | Não |
+| 8   | Os requisitos dependentes de outros estão em um nível igual ou inferior de prioridade? | Sim|
+
+*<p style="text-align: center;">Fonte: [Samuel Felipe](https://github.com/H3ytt0r62) </p>*
 
 
 
@@ -74,3 +90,4 @@
 |:--------:|:------------:|:---------------:|:-------------------------------:|:---------:|
 | ``1.0``    | 12/11/2025 | [Luan Vinícius](https://github.com/luannvi)  | Abertura do documento | |
 | ``2.0``    | 12/11/2025 | [Miquéias Ezequiel](https://github.com/Kael-web7)  | Listas Moscow,100$, Glossário preenchidas | |
+|``3.0``    | 12/11/2025 | [Samuel Felipe](https://github.com/Kael-web7)  | Lista Three Level Scale | |
