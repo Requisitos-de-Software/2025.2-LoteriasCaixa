@@ -134,6 +134,12 @@ nav:
           - Verificação/Etapa 4/Grupo + 1/Inspeção/Histórias de Usuário.md
           - Verificação/Etapa 4/Grupo + 1/Inspeção/Backlog.md
           - Verificação/Etapa 4/Grupo + 1/Inspeção/Geral.md
+
+      - Grupo 3:
+        - Verificação/Etapa 4/Grupo 3/listas de verificacao.md
+        - Inspeções:
+          - Verificação/Etapa 4/Grupo 3/inspeções/historias de usuario.md
+
       - Grupo 7:
         - Verificação/Etapa 4/Grupo 7/Listas de Verificações.md
         - Inspeção:

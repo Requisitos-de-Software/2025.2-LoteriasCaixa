@@ -476,7 +476,6 @@ Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 | **Prioridade** | Média |
 | **Status** | Implementado |
 
-<a id="HU31"></a>
 ### HU31 - Baixar Comprovante de Aposta
 Autor: [Luan Vinícius](https://github.com/luannvi)
 

@@ -14,6 +14,7 @@
 | 8 | Há uma preocupação em complementar as histórias de usuário para cobrir Requisitos Não-Funcionais? <a id="anchor_13" href="#REF13">[13]</a> | Não |
 | 9 | As histórias de usuários e os critérios de aceitação são a principal forma de especificar requisitos no projeto? <a id="anchor_14" href="#REF14">[14]</a> | Sim |
 | 10 | As histórias de usuários são priorizadas individualmente (ex: por valor ou risco)? <a id="anchor_11" href="#REF11">[11]</a>| Sim |
+| 11 | As hisrórias de usuário foram validadas com usuários?  <a id="anchor_12" href="#REF12">[12]</a>| Sim  |
 
 *<p style="text-align: center;">Fonte: [Autoria Própria](../Listas%20de%20Verificações.md) </p>*
 
@@ -42,3 +43,4 @@ Porto Alegre: AMGH, 2011. Cap. 3, p. 92.
 | ``1.0``    | 20/10/2025 | [Luan Vinícius](https://github.com/luannvi)  | Abertura da documentação | |
 | ``1.1``    | 22/10/2025 | [Luan Vinícius](https://github.com/luannvi)  | Adição das checklists | |
 | ``1.2``    | 22/10/2025 | [Luan Vinícius](https://github.com/luannvi)  | Adição das respostas em grupo nas checklists |
+| ``1.3``   | 11/11/2025  | Heyttor Augusto| adição de um item extra |
