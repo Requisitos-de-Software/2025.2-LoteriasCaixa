@@ -126,22 +126,26 @@ A etapa de verificação tem papel fundamental no desenvolvimento de um projeto,
 
 ## Técnica de Priorização - Value, Cost and Risk
 
-*<p style="text-align: center;">Tabela 8: Checklist Value, Cost and Risk do grupo 7</p>*
+*Tabela 8: Checklist Value, Cost and Risk do grupo 7*
 
-| ID  | Descrição                                                                                                                                      | Cumpriu? |
-|:---:|:-----------------------------------------------------------------------------------------------------------------------------------------------|:--------:|
-| 1   | Todos os itens listados para priorização (requisitos, casos de uso, user stories) estão no mesmo nível de abstração e sem mistura de categorias diferentes? |       |
-| 2   | Foram identificadas dependências entre requisitos (A precisa de B antes, etc.) e apenas o requisito condutor foi incluído na priorização?       |      |
-| 3   | Os representantes do cliente atribuíram notas de 1 a 9 para o benefício de cada requisito, de acordo com o valor para o negócio?                |        |
-| 4   | Foi atribuída uma nota de 1 a 9 para a penalidade caso o requisito não seja implementado?                                                       |        |
-| 5   | Ao avaliar a penalidade, foram considerados impactos como concorrência, requisitos legais, padrões de mercado e expectativas dos usuários?      |          |
-| 6   | A equipe de desenvolvimento atribuiu notas de 1 a 9 para o custo de implementação de cada requisito, considerando complexidade, interface, reutilização e testes? |        |
-| 7   | A equipe técnica atribuiu notas de 1 a 9 para o risco técnico de implementação (complexidade, ferramentas novas, incertezas de viabilidade)?     |        |
-| 8   | A planilha calculou automaticamente o valor total, o percentual de valor, custo e risco de cada requisito?                                      |        |
-| 9   | Foi utilizada a fórmula recomendada para cálculo da prioridade de cada requisito?                                                               |         |
-| 10  | A lista final foi ordenada em ordem decrescente de prioridade calculada, destacando os itens com melhor relação valor/custo/risco?              |       |
-| 11  | Foram considerados ajustes de pesos (benefício, penalidade, custo, risco) de acordo com a realidade do projeto?                                |        |
-| 12  | Os stakeholders revisaram e validaram os resultados da priorização, discutindo divergências e chegando a consenso?                             |         |
+| ID | Descrição | Cumpriu? |
+|----|-----------|----------|
+| 1  | Todos os itens listados para priorização (requisitos, casos de uso, user stories) estão no mesmo nível de abstração e sem mistura de categorias diferentes? |  |
+| 2  | Foram identificadas dependências entre requisitos (A precisa de B antes, etc.) e apenas o requisito condutor foi incluído na priorização? |  |
+| 3  | Os representantes do cliente atribuíram notas de 1 a 9 para o benefício de cada requisito, de acordo com o valor para o negócio? |  |
+| 4  | Foi atribuída uma nota de 1 a 9 para a penalidade caso o requisito não seja implementado? |  |
+| 5  | Ao avaliar a penalidade, foram considerados impactos como concorrência, requisitos legais, padrões de mercado e expectativas dos usuários? |  |
+| 6  | A equipe de desenvolvimento atribuiu notas de 1 a 9 para o custo de implementação de cada requisito, considerando complexidade, interface, reutilização e testes? |  |
+| 7  | A equipe técnica atribuiu notas de 1 a 9 para o risco técnico de implementação (complexidade, ferramentas novas, incertezas de viabilidade)? |  |
+| 8  | A planilha calculou automaticamente o valor total, o percentual de valor, custo e risco de cada requisito? |  |
+| 9  | Foi utilizada a fórmula recomendada para cálculo da prioridade de cada requisito? |  |
+| 10 | A lista final foi ordenada em ordem decrescente de prioridade calculada, destacando os itens com melhor relação valor/custo/risco? |  |
+| 11 | Foram considerados ajustes de pesos (benefício, penalidade, custo, risco) de acordo com a realidade do projeto? |  |
+| 12 | Os stakeholders revisaram e validaram os resultados da priorização, discutindo divergências e chegando a consenso? |  |
+| 13 | As escalas de 1 a 9 para benefício, penalidade, custo e risco foram definidas explicitamente (por exemplo, o que significa nota 1, 5 e 9) e comunicadas a todos os participantes antes da priorização? |  |
+| 14 | Há registro de justificativas (em comentários na planilha ou documento) para notas extremas de benefício ou penalidade, especialmente em requisitos legais, regulatórios ou críticos para o negócio? |  |
+| 15 | As notas de custo e risco passaram por pelo menos uma rodada de revisão ou calibração pela equipe técnica, para reduzir discrepâncias grandes de percepção entre os avaliadores? |  |
+
 
 - Autor: [Luan Vinícius](https://github.com/luannvi)
 - Fonte: <https://docs.google.com/document/d/1tXrIZul7nlKVKTM2NKG1WzAI4OfIeFn919VZZNAIMuY/edit?tab=t.0>
@@ -216,3 +220,4 @@ A etapa de verificação tem papel fundamental no desenvolvimento de um projeto,
 |:--------:|:------------:|:---------------:|:-------------------------------:|:---------:|
 | ``1.0``    | 24/09/2025 | [Luan Vinícius](https://github.com/luannvi)  | Abertura da documentação | [Heyttor Augusto](https://github.com/H3ytt0r62) |
 |  ``1.1``   | 01/10/2025 | [Luan Vinícius](https://github.com/luannvi) | Adição das checklists   | [Heyttor Augusto](https://github.com/H3ytt0r62) |
+|  ``1.2``   | 01/10/2025 | [Luan Vinícius](https://github.com/luannvi) | correção checlist value   | [Heyttor Augusto](https://github.com/H3ytt0r62) |
