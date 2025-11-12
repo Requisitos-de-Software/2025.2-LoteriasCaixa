@@ -65,9 +65,9 @@ nav:
       - $100: Elicitação/Priorização/$100.md
       - MoSCoW: Elicitação/Priorização/MoSCoW.md
 
-  - Validacao: 
-    - Prototipacao: Validacao/Prototipacao.md
-    - Validacao informal: Validacao/Validacao informal.md
+  - Validação: 
+    - Prototipação: Validação/Prototipação.md
+    - Validação informal: Validação/Validação informal.md
 
   - Modelagem: 
     - Modelagem/Casos de uso.md
@@ -150,10 +150,36 @@ nav:
 
   
     - Etapa 5:
+
+      - Etapa 1:
+          - Verificação/Etapa 5/Etapa 1/grupo_3.md
+          - Verificação/Etapa 5/Etapa 1/grupo_7.md
+          - Verificação/Etapa 5/Etapa 1/listas_de_verificações.md
+
+      - Etapa 2:
+          - Verificação/Etapa 5/Etapa 2/grupo_3.md
+          - Verificação/Etapa 5/Etapa 2/grupo_7.md
+          - Verificação/Etapa 5/Etapa 2/listas_de_verificações.md
+
+      - Etapa 3:
+          - Verificação/Etapa 5/Etapa 3/grupo_3.md
+          - Verificação/Etapa 5/Etapa 3/grupo_7.md
+          - Verificação/Etapa 5/Etapa 3/listas_de_verificações.md
+
+      - Etapa 4:
+          - Verificação/Etapa 5/Etapa 4/grupo_3.md
+          - Verificação/Etapa 5/Etapa 4/grupo_7.md
+          - Verificação/Etapa 5/Etapa 4/listas_de_verificações.md
+
+      - Etapa 5:
+          - Verificação/Etapa 5/Etapa 5/grupo_3.md
+          - Verificação/Etapa 5/Etapa 5/grupo_7.md
+          - Verificação/Etapa 5/Etapa 5/listas_de_verificações.md
+
       - Etapa 6:
-          - Verificação/Etapa 5/etapa 6/grupo_3.md
-          - Verificação/Etapa 5/etapa 6/grupo_7.md
-          - Verificação/Etapa 5/etapa 6/listas_de_verificacoes.md
+          - Verificação/Etapa 5/Etapa 6/grupo_3.md
+          - Verificação/Etapa 5/Etapa 6/grupo_7.md
+          - Verificação/Etapa 5/Etapa 6/listas_de_verificações.md
 
     - Etapa 6:
       - Grupo + 1:

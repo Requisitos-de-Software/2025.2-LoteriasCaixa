@@ -1,8 +1,6 @@
-## Prototipação 
-
 ## Introdução 
 
-A prototipação é muito para o desenvlvimento de um projeto, pois permite a construção de modelos inciais que antececipam como o produto final deve ser comportar. Estes prototipos tambem servem de ferramenta para validar os requisitos elicitados, pois ao longo do processo feedbacks são coletados de usuarios a respeito dos prototipos e com eles podem se originar melhorias e correções no projeto.
+A prototipação é muito importante para o desenvolvimento de um projeto, pois permite a construção de modelos inciais que antececipam como o produto final deve ser comportar. Estes prototipos tambem servem de ferramenta para validar os requisitos elicitados, pois ao longo do processo feedbacks são coletados de usuarios a respeito dos prototipos e com eles podem se originar melhorias e correções no projeto.
 
 A prototipagem pode ser classificada de acordo com seu nível de fidelidade, que varia desde representações simples em papel (baixa fidelidade) até modelos digitais altamente interativos (alta fidelidade), conforme o propósito e a fase do projeto. Os protótipos de baixa fidelidade são mais indicados nas etapas iniciais de concepção, pois facilitam a exploração de ideias de forma ágil e econômica. Já os de alta fidelidade são empregados em estágios mais avançados, proporcionando testes mais próximos da experiência real do usuário. Assim, a escolha do tipo de prototipagem tem impacto direto na qualidade das decisões relacionadas ao design, à usabilidade e à engenharia durante o desenvolvimento da solução.
 
