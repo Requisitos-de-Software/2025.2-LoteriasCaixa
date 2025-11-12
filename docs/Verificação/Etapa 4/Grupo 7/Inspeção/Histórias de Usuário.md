@@ -43,4 +43,4 @@ Porto Alegre: AMGH, 2011. Cap. 3, p. 92.
 | ``1.0``    | 20/10/2025 | [Luan Vinícius](https://github.com/luannvi)  | Abertura da documentação | |
 | ``1.1``    | 22/10/2025 | [Luan Vinícius](https://github.com/luannvi)  | Adição das checklists | |
 | ``1.2``    | 22/10/2025 | [Luan Vinícius](https://github.com/luannvi)  | Adição das respostas em grupo nas checklists |
-| ``1.3``   | 11/11/2025  | Heyttor Augusto| adição de um item extra |
+| ``1.3``   | 11/11/2025  | Heyttor Augusto| adição de um item extra | --  |

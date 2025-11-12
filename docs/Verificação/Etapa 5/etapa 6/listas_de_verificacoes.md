@@ -1,7 +1,3 @@
-## Introdução 
-
-A etapa de verificação tem papel fundamental no desenvolvimento de um projeto, pois consiste na análise dos artefatos produzidos para assegurar que estejam em conformidade com os requisitos previamente definidos. Nesse contexto, o presente artefato tem como objetivo apresentar o planejamento destinado à verificação de cada um dos artefatos elaborados na sexta fase do projeto do grupo 1 (Pós-rastreabilidade).
-
 ## Lista de Verificação - Matriz de rastreabilidade 
 
 *<p style="text-align: center;">Tabela 1: Checklist de matriz de rastreabilidade para o grupo 1</p>*
@@ -36,9 +32,6 @@ A etapa de verificação tem papel fundamental no desenvolvimento de um projeto,
 | 13 | O elo de Agregação foi utilizado para representar a composição de elementos do sistema (ex: cenários compostos por sub-cenários)? <a id="anchor_2" href="#REF2">[2]</a> | [Luan Vinícius](https://github.com/luannvi), [Samuel Felipe](https://github.com/TerminaKng05), [Miquéias Ezequiel](https://github.com/Kael-web7), [João Pedro](https://github.com/Jadequilin) | [Ver Imagem](../../../images/inspecao-etapa5/id13-elo.png){ data-glightbox } |
 | 14 | O meta-modelo de rastreabilidade foi representado graficamente (ex: UML), detalhando a notação (classes, setas, etc.)? <a id="anchor_1" href="#REF1">[1]</a> | [Samuel Felipe](https://github.com/TerminaKng05), [Heyttor Augusto](https://github.com/H3ytt0r62) | [Ver Imagem](../../../images/inspecao-etapa5/id14-elo.png){ data-glightbox } |
 
-## Verificação
-
-A verificação das duas listas acima foram feita pelo aluno heyttor augusto, na qual não foi dectectado nenhum erro ou falta de algum assunto na lista, logo a verificação da etapa 5 será feita usando as mesmas listas ja feita.
 
 ## Referências Bibliográficas 
 
@@ -57,10 +50,8 @@ Católica do Rio de Janeiro, 2005. (Monografias em Ciência da Computação, n. 
 > <a id="REF5" href="#anchor_5">5.</a> SAYÃO, Miriam; LEITE, Julio Cesar Sampaio do Prado. Rastreabilidade de Requisitos. Rio de Janeiro: Pontifícia Universidade
 Católica do Rio de Janeiro, 2005. (Monografias em Ciência da Computação, n. 20/05). Cap. 2 p. 14. Acesso em: 27 out. 2025.
 
-## Versionamento
+## Versionamento 
 
 | Versão | Data       | Autor               | Descrição                       | Revisor |
 |:--------:|:------------:|:---------------:|:-------------------------------:|:---------:|
-| ``1.0``    | 27/10/2025 | [Luan Vinícius](https://github.com/luannvi)  | Abertura da documentação | |
-| ``1.1``    | 27/10/2025 | [Luan Vinícius](https://github.com/luannvi)  | Adição das checklists | |
-| ``1.2``    | 28/10/2025 | [Luan Vinícius](https://github.com/luannvi)  | Adição de conteúdo na checklist e correções | |
+| 1.0| 12/11/25| heyttor augusto | Criação do artefato | --|
