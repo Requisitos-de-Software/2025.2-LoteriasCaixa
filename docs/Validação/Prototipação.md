@@ -28,6 +28,7 @@ Os requisitos representados são:
 - RF36 - As páginas do aplicativo mais usadas pelo usuário estão em destaque na tela
 - RF37 - O sistema fornece avisos ao usuário sobre seu limite diário de apostas 
 - RF38 - O sistema apresenta uma tela chamada "favoritos", onde o apostante consegue realizar jogos com base nas suas preferências de aposta
+- RF39 - O aplicativo deve permitir mudar e remover foto de perfil
 - RNF11 - O sistema deve garantir que o acesso a funcionalidades primárias seja feito através de componentes de interface autoexplicativos. Ícones de navegação, como o menu principal, devem ser acompanhados por um rótulo textual (ex: "Menu").
 
 ## Tabela de contribuição 
@@ -36,7 +37,7 @@ Os requisitos representados são:
 |-----|-------------|
 |Heyttor augusto| prototipação do [RF06](#rf06)|
 |Samuel Felipe| prototipação do [RF38](#rf38) |
-|Miqueias Ezequiel| prototipação do [RF33](#rf33) |
+|Miqueias Ezequiel| prototipação do [RF33](#rf33), [RF39](#rf39) |
 | Luan Vinícius | prototipação do [RF28](#rf28), [RNF11](#rnf11) |
 
 
@@ -79,10 +80,12 @@ Os requisitos representados são:
 | Descrição | O sistema deve garantir que o acesso a funcionalidades primárias seja feito através de componentes de interface autoexplicativos. Ícones de navegação, como o menu principal, devem ser acompanhados por um rótulo textual (ex: "Menu"). |
 | Representação | ![img rnf11.1](../images/validação/RNF11.1.png)![img rnf11.2](../images/validação/RNF11.2.png){.center} | 
 
-
-
-
-
+## RF39
+| Item | Descrição |
+| ---- | --------- |
+| id Requisito | RF39 |
+| Descrição | O aplicativo deve permitir mudar e remover foto de perfil |
+| Representação | ![img rf39](../images/validação/Dadospessoais.png) |
 
 
 
@@ -118,3 +121,4 @@ O grupo 7 agradece o apoio das ferramentas de inteligência artificial generativ
 | ``2.2``     | 07/11/2025 | Adição do RF33 | [Miquéias Ezequiel](https://github.com/Kael-web7) | [Luan Vinícius](https://github.com/luannvi) |
 | ``2.3``     | 07/11/2025 | Adição do RF28 | [Luan Vinícius](https://github.com/luannvi) | [Miquéias Ezequiel](https://github.com/Kael-web7) |
 | ``2.4``     | 11/11/2025 | Adição do RNF11 | [Luan Vinícius](https://github.com/luannvi) | [Miquéias Ezequiel](https://github.com/Kael-web7) |
+| ``2.5``     | 07/11/2025 | Adição do RF39 | [Miquéias Ezequiel](https://github.com/Kael-web7) | [Luan Vinícius](https://github.com/luannvi) |
