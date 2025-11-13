@@ -1,3 +1,35 @@
+## Lista de Verificação – Diagrama de Caso de Uso (Grupo 7)
+
+| ID | Descrição | Cumpriu? |
+|----|-----------|----------|
+| 1  | O sistema está claramente identificado e delimitado? | Sim |
+| 2  | Todas as funcionalidades internas estão contidas dentro dos limites do sistema? | Sim |
+| 3  | Elementos externos não aparecem dentro do retângulo do sistema? | Sim |
+| 4  | Os atores principais foram definidos? | Sim |
+| 5  | Os atores secundários foram definidos? | Sim |
+| 6  | Atores estão representados como classes/categorias e não como indivíduos específicos? | Sim |
+| 7  | Atores principais estão posicionados à esquerda do sistema? | Sim |
+| 8  | Atores secundários estão posicionados à direita do sistema? | Sim |
+| 9  | Cada caso de uso está nomeado com um verbo + ação? | Não |
+| 10 | Casos de uso estão organizados em ordem lógica? | Sim |
+| 11 | Associações (linhas sólidas) conectam atores aos casos de uso relevantes? | Sim |
+| 12 | O diagrama não contém atores ou casos de uso redundantes? | Sim |
+| 13 | Cada caso de uso possui pelo menos um ator associado? | Não |
+| 14 | O diagrama é compreensível para stakeholders não técnicos? | Sim |
+| 15 | Quando há «include», o caso base aponta por linha tracejada com seta para o caso incluído e o estereótipo está correto? | Sim |
+| 16 | Quando há «extend», a seta vai do caso estendido para o caso base e o estereótipo está correto? | Não |
+| 17 | O caso de uso incluído representa um comportamento obrigatório quando o caso base ocorre? | Sim |
+| 18 | Quando há pontos de extensão/extend, existem condições claras para ativação? | Não |
+| 19 | A generalização entre casos de uso, quando existente, é usada corretamente? | Sim |
+| 20 | A generalização entre atores, quando existente, é usada de forma coerente? | Sim |
+| 21 | Os atores são representados pelo boneco palito padrão UML? | Sim |
+| 22 | O sistema está representado por um retângulo com o nome do sistema? | Sim |
+| 23 | Cada caso de uso é representado por uma elipse/oval? | Sim |
+
+
+*<p style="text-align: center;">Fonte:  [Nayra Nery](https://github.com/NayraNery127) </p>*
+
+
 ## Lista de Verificação - Léxico (LAL)
 
 *<p style="text-align: center;">Tabela 1: Checklist preenchido - Léxico (LAL) do grupo 7</p>*
