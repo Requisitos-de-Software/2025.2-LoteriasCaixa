@@ -23,15 +23,15 @@
 
 | ID | Descrição | Autor(es) | Referências |
 | :---: | :--- | :---: | :---: |
-| 1 | Há identificação clara do ator principal e do objetivo principal no cenário? <a id="anchor_13" href="#REF13">[13]</a> | [Miquéias Ezequiel](https://github.com/Kael-web7) | [Ver Imagem](../../../images/inspecao-etapa5/id01-cn.png) |
-| 2 | O cenário inclui os elementos essenciais: ambiente/contexto, atores, objetivos, planejamento, ações, eventos e avaliação? <a id="anchor_13" href="#REF13">[13]</a> | [Miquéias Ezequiel](https://github.com/Kael-web7) | [Ver Imagem](../../../images/inspecao-etapa5/id02-cn.png) |
-| 3 | O título do cenário descreve brevemente a situação sem entrar em muitos detalhes? <a id="anchor_13" href="#REF13">[13]</a> | [Miquéias Ezequiel](https://github.com/Kael-web7) | [Ver Imagem](../../../images/inspecao-etapa5/id03-cn.png) |
-| 4 | O cenário cobre também exceções ou situações raras que possam gerar problemas de uso? <a id="anchor_13" href="#REF13">[13]</a> | [Miquéias Ezequiel](https://github.com/Kael-web7) | [Ver Imagem](../../../images/inspecao-etapa5/id04-cn.png) |
-| 5 | O conjunto de cenários cobre diferentes segmentos de público e experiências de usuários? <a id="anchor_13" href="#REF13">[13]</a> | [Miquéias Ezequiel](https://github.com/Kael-web7) | [Ver Imagem](../../../images/inspecao-etapa5/id05-cn.png) |
-| 6 | O conjunto de cenários contempla as principais funções do produto e suas variações de uso? <a id="anchor_13" href="#REF13">[13]</a> | [Miquéias Ezequiel](https://github.com/Kael-web7) | [Ver Imagem](../../../images/inspecao-etapa5/id06-cn.png) |
-| 7 | Há distinção entre cenários de uso diário (frequentes) e cenários de tarefas esporádicas (raras)? <a id="anchor_13" href="#REF13">[13]</a> | [Miquéias Ezequiel](https://github.com/Kael-web7) | [Ver Imagem](../../../images/inspecao-etapa5/id07-cn.png) |
-| 8 | Foram aplicadas perguntas sistemáticas (Por quê? Como? O que é? etc.) para identificar lacunas no cenário? <a id="anchor_13" href="#REF13">[13]</a> | [Miquéias Ezequiel](https://github.com/Kael-web7) | [Ver Imagem](../../../images/inspecao-etapa5/id08-cn.png) |
-| 9 | O cenário foi enriquecido com perguntas específicas relacionadas a cada elemento (objetivos, ambiente, atores, planejamento, ações, eventos, avaliação)? <a id="anchor_13" href="#REF13">[13]</a> | [Miquéias Ezequiel](https://github.com/Kael-web7) | [Ver Imagem](../../../images/inspecao-etapa5/id09-cn.png) |
+| 1 | Há identificação clara do ator principal e do objetivo principal no cenário? <a id="anchor_13" href="#REF13">[13]</a> | [Miquéias Ezequiel](https://github.com/Kael-web7) | [Ver Imagem](../../../images/inspecao-etapa3/id01-cn.png) |
+| 2 | O cenário inclui os elementos essenciais: ambiente/contexto, atores, objetivos, planejamento, ações, eventos e avaliação? <a id="anchor_13" href="#REF13">[13]</a> | [Miquéias Ezequiel](https://github.com/Kael-web7) | [Ver Imagem](../../../images/inspecao-etapa3/id02-cn.png) |
+| 3 | O título do cenário descreve brevemente a situação sem entrar em muitos detalhes? <a id="anchor_13" href="#REF13">[13]</a> | [Miquéias Ezequiel](https://github.com/Kael-web7) | [Ver Imagem](../../../images/inspecao-etapa3/id03-cn.png) |
+| 4 | O cenário cobre também exceções ou situações raras que possam gerar problemas de uso? <a id="anchor_13" href="#REF13">[13]</a> | [Miquéias Ezequiel](https://github.com/Kael-web7) | [Ver Imagem](../../../images/inspecao-etapa3/id04-cn.png) |
+| 5 | O conjunto de cenários cobre diferentes segmentos de público e experiências de usuários? <a id="anchor_13" href="#REF13">[13]</a> | [Miquéias Ezequiel](https://github.com/Kael-web7) | [Ver Imagem](../../../images/inspecao-etapa3/id05-cn.png) |
+| 6 | O conjunto de cenários contempla as principais funções do produto e suas variações de uso? <a id="anchor_13" href="#REF13">[13]</a> | [Miquéias Ezequiel](https://github.com/Kael-web7) | [Ver Imagem](../../../images/inspecao-etapa3/id06-cn.png) |
+| 7 | Há distinção entre cenários de uso diário (frequentes) e cenários de tarefas esporádicas (raras)? <a id="anchor_13" href="#REF13">[13]</a> | [Miquéias Ezequiel](https://github.com/Kael-web7) | [Ver Imagem](../../../images/inspecao-etapa3/id07-cn.png) |
+| 8 | Foram aplicadas perguntas sistemáticas (Por quê? Como? O que é? etc.) para identificar lacunas no cenário? <a id="anchor_13" href="#REF13">[13]</a> | [Miquéias Ezequiel](https://github.com/Kael-web7) | [Ver Imagem](../../../images/inspecao-etapa3/id08-cn.png) |
+| 9 | O cenário foi enriquecido com perguntas específicas relacionadas a cada elemento (objetivos, ambiente, atores, planejamento, ações, eventos, avaliação)? <a id="anchor_13" href="#REF13">[13]</a> | [Miquéias Ezequiel](https://github.com/Kael-web7) | [Ver Imagem](../../../images/inspecao-etapa3/id09-cn.png) |
 
 ## Bibliografia 
 
