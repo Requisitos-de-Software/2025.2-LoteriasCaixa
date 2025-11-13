@@ -19,9 +19,28 @@
 
 *<p style="text-align: center;">Fonte:  [joão Pedro](https://github.com/Jadequilin) </p>*
 
+## Lista de Verificação - Cenários
+
+*<p style="text-align: center;">Tabela 1: Checklist preenchido - Cenários do grupo 7</p>*
+
+| ID | Descrição | Cumpriu? |
+| --- | --- | --- |
+| 1 | Há identificação clara do ator principal e do objetivo principal no cenário? | Sim |
+| 2 | O cenário inclui os elementos essenciais: ambiente/contexto, atores, objetivos, planejamento, ações, eventos e avaliação? |Sim |
+| 3 | O título do cenário descreve brevemente a situação sem entrar em muitos detalhes? | Sim |
+| 4 | O cenário cobre também exceções ou situações raras que possam gerar problemas de uso? | Não |
+| 5 | O conjunto de cenários cobre diferentes segmentos de público e experiências de usuários? | Sim |
+| 6 | O conjunto de cenários contempla as principais funções do produto e suas variações de uso? |Sim  |
+| 7 | Há distinção entre cenários de uso diário (frequentes) e cenários de tarefas esporádicas (raras)? | Não  |
+| 8 | Foram aplicadas perguntas sistemáticas (Por quê? Como? O que é? etc.) para identificar lacunas no cenário? | Sim |
+| 9 | O cenário foi enriquecido com perguntas específicas relacionadas a cada elemento (objetivos, ambiente, atores, planejamento, ações, eventos, avaliação)? | Sim |
+
+*<p style="text-align: center;">Fonte: [Miquéias Ezequiel](https://github.com/Kael-web7) </p>*
+
 ## Versionamento
 
 | Versão | Data       | Autor               | Descrição                       | Revisor |
 |:--------:|:------------:|:---------------:|:-------------------------------:|:---------:|
 | ``1.0``    | 12/11/2025 | [Luan Vinícius](https://github.com/luannvi)  | Abertura do documento | |
 | ``1.1``    | 12/11/2025 | [joão Pedro](https://github.com/Jadequilin)  | Adição léxicos | [Rivadalvio Joaquim](https://github.com/RivaFilho)  |
+| ``1.2``    | 12/11/2025 | [Luan Vinícius](https://github.com/luannvi)  | Adição cenários | |

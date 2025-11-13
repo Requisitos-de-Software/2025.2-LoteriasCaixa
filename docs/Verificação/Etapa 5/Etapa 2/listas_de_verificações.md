@@ -76,6 +76,24 @@
 
 Fonte: <https://docs.google.com/document/d/13GI1jPB-gPHaFYhGgmODryBbIc_GqqzV2BTKWY5WUpY/edit?tab=t.0>
 
+## Lista de Verificação - Observação 
+
+*<p style="text-align: center;">Tabela 1: Checklist de Observação do grupo 7</p>*
+
+| ID | Descrição | Autor(es) | Referências |
+| :---: | :--- | :---: | :---: |
+| 1 | Foram estabelecidos os objetivos da observação antes de iniciá-la? <a id="anchor_3" href="#REF3">[3]</a> | [Luan Vinícius](https://github.com/luannvi) | [Ver Imagem](../../../images/inspecao-etapa2/id01-obs.png) |
+| 2 | O grupo de pessoas e a janela de tempo para observação foram escolhidos com base nas necessidades de informação? <a id="anchor_3" href="#REF3">[3]</a> | [Luan Vinícius](https://github.com/luannvi) | [Ver Imagem](../../../images/inspecao-etapa2/id02-obs.png) |
+| 3 | A observação cobre tanto o escopo (tarefas e serviços existentes) quanto a profundidade (regras e interações)? <a id="anchor_3" href="#REF3">[3]</a> | [Luan Vinícius](https://github.com/luannvi) | [Ver Imagem](../../../images/inspecao-etapa2/id03-obs.png) |
+| 4 | Foram consultados documentos como organogramas ou fluxos operacionais antes da observação? <a id="anchor_3" href="#REF3">[3]</a> | [Luan Vinícius](https://github.com/luannvi) | [Ver Imagem](../../../images/inspecao-etapa2/id04-obs.png) |
+| 5 | As questões a serem respondidas durante ou após a observação foram previamente formuladas? <a id="anchor_3" href="#REF3">[3]</a> | [Luan Vinícius](https://github.com/luannvi) | [Ver Imagem](../../../images/inspecao-etapa2/id05-obs.png) |
+| 6 | A seleção de usuários observados contempla diferentes perfis de experiência (especialistas e novatos)? <a id="anchor_3" href="#REF3">[3]</a> | [Luan Vinícius](https://github.com/luannvi) | [Ver Imagem](../../../images/inspecao-etapa2/id06-obs.png) |
+| 7 | O período de observação foi definido para capturar eventos previsíveis e excepcionais? <a id="anchor_3" href="#REF3">[3]</a> | [Luan Vinícius](https://github.com/luannvi) | [Ver Imagem](../../../images/inspecao-etapa2/id07-obs.png) |
+| 8 | O analista decidiu previamente se atuaria de forma passiva (apenas observando) ou ativa (interagindo)? <a id="anchor_3" href="#REF3">[3]</a> | [Luan Vinícius](https://github.com/luannvi) | [Ver Imagem](../../../images/inspecao-etapa2/id08-obs.png) |
+| 9 | O processo foi observado em mais de uma oportunidade para garantir consistência? <a id="anchor_3" href="#REF3">[3]</a> | [Luan Vinícius](https://github.com/luannvi) | [Ver Imagem](../../../images/inspecao-etapa2/id09-obs.png) |
+| 10 | O analista se apresentou, explicou objetivos e garantiu que o trabalho não seria criticado? <a id="anchor_3" href="#REF3">[3]</a> | [Luan Vinícius](https://github.com/luannvi) | [Ver Imagem](../../../images/inspecao-etapa2/id10-obs.png) |
+| 11 | Durante a observação, foram feitas anotações completas das tarefas e interações observadas? <a id="anchor_3" href="#REF3">[3]</a> | [Luan Vinícius](https://github.com/luannvi) | [Ver Imagem](../../../images/inspecao-etapa2/id11-obs.png) |
+| 12 | Os achados foram documentados, revisados e discutidos com os participantes para confirmação? <a id="anchor_3" href="#REF3">[3]</a> | [Luan Vinícius](https://github.com/luannvi) | [Ver Imagem](../../../images/inspecao-etapa2/id12-obs.png) |
 
 ## Referências Bibliográficas 
 
@@ -90,3 +108,4 @@ Fonte: <https://docs.google.com/document/d/13GI1jPB-gPHaFYhGgmODryBbIc_GqqzV2BTK
 | ``1.0``    | 12/11/2025 | [Luan Vinícius](https://github.com/luannvi)  | Abertura do documento | |
 | ``2.0``    | 12/11/2025 | [Miquéias Ezequiel](https://github.com/Kael-web7)  | Listas Moscow,100$, Glossário | |
 | ``3.0``    | 12/11/2025 | [Samuel Felipe](https://github.com/Kael-web7)  | Lista Three Level Scale | |
+| ``4.0``    | 12/11/2025 | [Luan Vinícius](https://github.com/luannvi) | Lista Observação | |

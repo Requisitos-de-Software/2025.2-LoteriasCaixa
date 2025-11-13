@@ -80,7 +80,26 @@
 
 *<p style="text-align: center;">Fonte: [Samuel Felipe](https://github.com/H3ytt0r62) </p>*
 
+## Lista de Verificação - Observação
 
+*<p style="text-align: center;">Tabela 1: Checklist preenchido de Observação do grupo 7</p>*
+
+| ID  | Descrição | Cumpriu? |
+|-----|-----------|----------|
+| 1   | Foram estabelecidos os objetivos da observação antes de iniciá-la?  | Sim |
+| 2   | O grupo de pessoas e a janela de tempo para observação foram escolhidos com base nas necessidades de informação?  | Sim |
+| 3   | A observação cobre tanto o escopo (tarefas e serviços existentes) quanto a profundidade (regras e interações)?  | Sim |
+| 4   | Foram consultados documentos como organogramas ou fluxos operacionais antes da observação?  | Não |
+| 5   | As questões a serem respondidas durante ou após a observação foram previamente formuladas?  | Sim |
+| 6   | A seleção de usuários observados contempla diferentes perfis de experiência (especialistas e novatos)?  |  Não |
+| 7   | O período de observação foi definido para capturar eventos previsíveis e excepcionais?  | Sim |
+| 8   | O analista decidiu previamente se atuaria de forma passiva (apenas observando) ou ativa (interagindo)? | Sim |
+| 9   | O processo foi observado em mais de uma oportunidade para garantir consistência? | Não |
+| 10  | O analista se apresentou, explicou objetivos e garantiu que o trabalho não seria criticado? | Sim |
+| 11  | Durante a observação, foram feitas anotações completas das tarefas e interações observadas? | Incompleto |
+| 12  | Os achados foram documentados, revisados e discutidos com os participantes para confirmação? | Sim |
+
+*<p style="text-align: center;">Fonte: [Luan Vinícius](https://github.com/luannvi) </p>*
 
 ## Versionamento
 
@@ -89,3 +108,4 @@
 | ``1.0``    | 12/11/2025 | [Luan Vinícius](https://github.com/luannvi)  | Abertura do documento | |
 | ``2.0``    | 12/11/2025 | [Miquéias Ezequiel](https://github.com/Kael-web7)  | Listas Moscow,100$, Glossário preenchidas | |
 |``3.0``    | 12/11/2025 | [Samuel Felipe](https://github.com/Kael-web7)  | Lista Three Level Scale | |
+|``4.0``    | 12/11/2025 | [Luan Vinícius](https://github.com/luannvi)  | Lista Observação | |
