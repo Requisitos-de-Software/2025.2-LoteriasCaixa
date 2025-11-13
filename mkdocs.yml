@@ -135,10 +135,6 @@ nav:
           - Verificação/Etapa 4/Grupo + 1/Inspeção/Backlog.md
           - Verificação/Etapa 4/Grupo + 1/Inspeção/Geral.md
 
-      - Grupo 3:
-        - Verificação/Etapa 4/Grupo 3/listas de verificacao.md
-        - Inspeções:
-          - Verificação/Etapa 4/Grupo 3/inspeções/historias de usuario.md
 
       - Grupo 7:
         - Verificação/Etapa 4/Grupo 7/Listas de Verificações.md
@@ -170,11 +166,6 @@ nav:
           - Verificação/Etapa 5/Etapa 4/grupo_3.md
           - Verificação/Etapa 5/Etapa 4/grupo_7.md
           - Verificação/Etapa 5/Etapa 4/listas_de_verificações.md
-
-      - Etapa 5:
-          - Verificação/Etapa 5/Etapa 5/grupo_3.md
-          - Verificação/Etapa 5/Etapa 5/grupo_7.md
-          - Verificação/Etapa 5/Etapa 5/listas_de_verificações.md
 
       - Etapa 6:
           - Verificação/Etapa 5/Etapa 6/grupo_3.md
