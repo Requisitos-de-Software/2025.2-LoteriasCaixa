@@ -36,6 +36,34 @@
 
 *<p style="text-align: center;">Fonte: [Samuel Felipe](../Listas%20de%20Verificações.md) </p>*
 
+## Lista de Verificação - NFR Framework 
+
+*<p style="text-align: center;">Tabela 1: Checklist preenchido - NFR Framework do grupo 7</p>*
+
+| ID | Item de Verificação | Cumpriu? |
+| :---: | :--- | :---: |
+| 1 | O modelo representa os Requisitos Não-Funcionais (RNFs) utilizando o NFR Framework conforme proposto por Chung et al. (2000)? <a id="anchor_1" href="#REF1">[1]</a> | Sim |
+| 2 | O NFR Framework é utilizado para apoiar a análise e implementação de soluções personalizadas, considerando as características do domínio e do sistema? <a id="anchor_1" href="#REF1">[1]</a> | Sim |
+| 3 | A análise considera características específicas do sistema (como Requisitos Funcionais, prioridades, carga de trabalho e alternativas de desenvolvimento) para a modelagem dos RNFs? <a id="anchor_2" href="#REF2">[2]</a>| Sim |
+| 4 | O NFR Framework utiliza o conceito de *softgoal* (um objetivo que não possui uma clara definição nem critérios de satisfação precisos) para representar os RNFs? <a id="anchor_1" href="#REF1">[1]</a> | Sim |
+| 5 | Os catálogos são utilizados para organizar o conhecimento sobre RNFs específicos, suas interdependências, trade-offs e alternativas de desenvolvimento? <a id="anchor_1" href="#REF1">[1]</a> | Sim |
+| 6 | Os softgoals e seus inter-relacionamentos são representados em um Grafo de Interdependência de Softgoals (SIG)? <a id="anchor_1" href="#REF1">[1]</a> | Sim |
+| 7 | O SIG registra as decisões de desenvolvimento, justificativas e interdependências entre os softgoals de forma gráfica? <a id="anchor_2" href="#REF2">[2]</a> | Sim |
+| 8 | O modelo utiliza os três tipos de softgoals: Softgoals NFR, Softgoals de Operacionalização e Softgoals de Afirmação? <a id="anchor_2" href="#REF2">[2]</a> | Sim |
+| 9 | Os Softgoals NFR representam requisitos não funcionais abstratos? <a id="anchor_3" href="#REF3">[3]</a> | Sim |
+| 10 | Os Softgoals de Operacionalização apresentam soluções ou alternativas técnicas para satisfazer os Softgoals NFR? <a id="anchor_2" href="#REF2">[2]</a> | Sim |
+| 11 | Os Softgoals de Afirmação são utilizados para justificar decisões, apoiar ou negar o uso de outros softgoals? <a id="anchor_2" href="#REF2">[2]</a> | Sim |
+| 12 | As interdependências entre softgoals são representadas através de refinamentos (decomposição) e contribuições? <a id="anchor_4" href="#REF4">[4]</a> | Sim |
+| 13 | As decomposições de softgoals refinam/transformam as softgoals em outras menores? <a id="anchor_4" href="#REF4">[4]</a> | Não |
+| 14 | O modelo especifica os tipos de contribuição (ex: MAKE, BREAK, HELP, HURT, AND, OR, SOME, etc.) para avaliar os impactos entre RNFs? <a id="anchor_5" href="#REF5">[5]</a> | Sim |
+| 15 | O Framework possui um procedimento de avaliação qualitativa para determinar o grau de satisfação (status) dos softgoals? <a id="anchor_6" href="#REF6">[6]</a> | Sim |
+| 16 | O modelo aplica rótulos de avaliação (ex: Satisfeito, Negado, Conflitante, Indeterminado) aos softgoals do SIG? <a id="anchor_6" href="#REF6">[6]</a>| Não |
+| 17 | A representação gráfica dos softgoals segue o padrão (NFR: nuvem fina, Operacionalização: nuvem grossa, Afirmação: nuvem tracejada)? <a id="anchor_2" href="#REF2">[2]</a> | Sim |
+| 18 | A representação gráfica das interdependências segue o padrão (Decomposição: seta sólida, Contribuição: seta sólida com AND ou OR)? <a id="anchor_7" href="#REF7">[7]</a>| Sim |
+| 19 | O grafo (SIG) possui uma legenda clara explicando os símbolos utilizados? <a id="anchor_8" href="#REF8">[8]</a> | Não |
+
+*<p style="text-align: center;">Fonte:  [joão Pedro](https://github.com/Jadequilin) </p>*
+
 ## Versionamento
 
 | Versão | Data       | Autor               | Descrição                       | Revisor |
@@ -43,3 +71,4 @@
 | ``1.0``    | 12/11/2025 | [Luan Vinícius](https://github.com/luannvi)  | Abertura do documento | |
 |``2.0``| 11 e 12/11/2025| [Heyttor Augusto](https://github.com/H3ytt0r62)| adição da lista de verificação HU atualizada | --|
 | ``3.0``    | 12/11/2025 | [Samuel Felipe](https://github.com/Kael-web7)  | Lista Backlog | |
+| ``4.0``    | 12/11/2025 | [joão Pedro](https://github.com/Jadequilin)  | Adição NFR| [Rivadalvio Joaquim](https://github.com/RivaFilho)  |
