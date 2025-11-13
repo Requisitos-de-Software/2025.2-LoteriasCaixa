@@ -1,4 +1,4 @@
-## Lista de Verificação – Diagrama de Caso de Uso (Grupo 7)
+## Lista de Verificação – Diagrama de Caso de Uso 
 
 | ID | Descrição | Cumpriu? |
 |----|-----------|----------|
