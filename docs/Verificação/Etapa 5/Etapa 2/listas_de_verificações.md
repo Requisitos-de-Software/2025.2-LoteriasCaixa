@@ -34,9 +34,7 @@
 | 11 | Foi definido um critério objetivo para decidir a prioridade de cada requisito, já que o método não fornece essa orientação de forma explícita? <a id="anchor_2" href="#REF2">[2]</a> | [Luan Vinícius](https://github.com/luannvi), [Samuel Felipe](https://github.com/TerminaKng05), [Miquéias Ezequiel](https://github.com/Kael-web7), [Heyttor Augusto](https://github.com/H3ytt0r62), [João Pedro](https://github.com/Jadequilin) | [Ver Imagem](../../../images/Moscow/11.png){ data-glightbox } |
 | 12 | Foi considerada a limitação da técnica quanto à sua ambiguidade temporal (por exemplo, “Won’t” pode significar “não na próxima versão” ou “nunca”)? <a id="anchor_2" href="#REF2">[2]</a> | [Luan Vinícius](https://github.com/luannvi), [Samuel Felipe](https://github.com/TerminaKng05), [Miquéias Ezequiel](https://github.com/Kael-web7), [Heyttor Augusto](https://github.com/H3ytt0r62), [João Pedro](https://github.com/Jadequilin) | [Ver Imagem](../../../images/Moscow/12.png){ data-glightbox } |
 
-## Lista de Verificação – Moscow
-
-*<p style="text-align: center;">Tabela 2: Checklist de Glossário para o grupo 1</p>*
+## Lista de Verificação – Glossário
 
 *<p style="text-align: center;">Tabela 2: Checklist de Glossário para o grupo 1</p>*
 

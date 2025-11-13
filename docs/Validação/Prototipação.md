@@ -110,6 +110,12 @@ Foi feita a validação com o usuário marcio junior, que aprovou o requisito pr
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CZsvbXj02ow?si=x-n3-AK15ylOqrmv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+## RF33 - RF39
+
+Foi feita a validação com o usuário Matheus Queiroz, que aprovou o requisito prototipado.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m_0x1l_aEvA?si=FZEw1v2PD716ONmq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Agradecimentos 
 
 O grupo 7 agradece o apoio das ferramentas de inteligência artificial generativa - chatGPT, Google Gemini - na revisão gramatical e estilo de algumas partes do texto. As tecnologias foram utilizadas para organizar e deixar o texto mais claro, além de fornecer alguns exemplos de códigos de mkdocs para servir de referência para os autores. Todo o conteúdo, assim como a precisão técnica e as ideias apresentadas, permanecem de responsabilidade dos autores.
