@@ -142,9 +142,9 @@ A etapa de verificação tem papel fundamental no desenvolvimento de um projeto,
 | 10 | A lista final foi ordenada em ordem decrescente de prioridade calculada, destacando os itens com melhor relação valor/custo/risco? |  |
 | 11 | Foram considerados ajustes de pesos (benefício, penalidade, custo, risco) de acordo com a realidade do projeto? |  |
 | 12 | Os stakeholders revisaram e validaram os resultados da priorização, discutindo divergências e chegando a consenso? |  |
-| 13 | As escalas de 1 a 9 para benefício, penalidade, custo e risco foram definidas explicitamente (por exemplo, o que significa nota 1, 5 e 9) e comunicadas a todos os participantes antes da priorização? |  |
-| 14 | Há registro de justificativas (em comentários na planilha ou documento) para notas extremas de benefício ou penalidade, especialmente em requisitos legais, regulatórios ou críticos para o negócio? |  |
-| 15 | As notas de custo e risco passaram por pelo menos uma rodada de revisão ou calibração pela equipe técnica, para reduzir discrepâncias grandes de percepção entre os avaliadores? |  |
+
+
+
 
 
 - Autor: [Luan Vinícius](https://github.com/luannvi)
