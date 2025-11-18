@@ -79,6 +79,8 @@ nav:
       - Histórias de usuário: Modelagem/Ágil/História de usuário.md
       - Backlog: Modelagem/Ágil/Backlog.md
   
+  
+  
   - Verificação:   
     - Etapa 1:
       - Verificação/Inspeção Grupo 1 - Etapa 1.md
@@ -185,6 +187,19 @@ nav:
     - Pós-rastreabilidade/Backward from.md
     - Pós-rastreabilidade/matriz_geral.md
     - Pós-rastreabilidade/modelo_toranzo.md
+  
+  - Entrega final:
+    - app selecionado: Entrega final/app selecionado.md
+    - apresentacoes: Entrega final/apresentacoes.md
+    - artefatos criados: Entrega final/artefatos criados.md
+    - Consideracoes finais: Entrega final/Consideracoes finais.md
+    - ferramentas utilizadas: Entrega final/ferramentas utilizadas.md
+    - planekamento: Entrega final/planejamento.md
+    - Resultado alcancados: Entrega final/Resultado alcancados.md
+    - tecnicas utilizadas: Entrega final/tecnicas utilizadas.md
+    - validacao: Entrega final/validacao.md
+    - vereficacao: Entrega final/verificacao.md
+
   
   - Apresentações: Apresentações.md
   
