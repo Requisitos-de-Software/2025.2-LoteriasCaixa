@@ -22,7 +22,9 @@ autor: heyttor augusto
 Os requisitos representados são:
 
 - RF06 - O software deve ter opções de modo claro e escuro 
+- RNF20 - O aplicativo não apresenta uma forma de mostrar os resultado em tempo real
 - RF23 - O aplicativo deve permitir pagamento de apostas utilizando carteiras digitais como Google Pay, Apple Pay
+- RNF26 - O termo de uso especifica os riscos para o usuário
 - RF28 - O aplicativo deve permitir o cancelamento de apostas antes do sorteio
 - RF33 - O aplicativo apresenta funções de acessibilidade aos idosos e deficientes
 - RF36 - As páginas do aplicativo mais usadas pelo usuário estão em destaque na tela
@@ -32,6 +34,8 @@ Os requisitos representados são:
 - RF40 - O sistema notifica o apostante quando sua aposta foi premiada
 - RNF11 - O sistema deve garantir que o acesso a funcionalidades primárias seja feito através de componentes de interface autoexplicativos. Ícones de navegação, como o menu principal, devem ser acompanhados por um rótulo textual (ex: "Menu").
 
+
+
 ## Tabela de contribuição 
 
 |Aluno| Contribuição|
@@ -40,6 +44,7 @@ Os requisitos representados são:
 |Samuel Felipe| prototipação do [RF38](#rf38), [RF40](#rf40) |
 |Miqueias Ezequiel| prototipação do [RF33](#rf33), [RF39](#rf39) |
 | Luan Vinícius | prototipação do [RF28](#rf28), [RNF11](#rnf11) |
+| João Pedro | prototipação do [RNF20](#rnf20), [RNF26](#rnf26) |
 
 
 
@@ -52,6 +57,29 @@ Os requisitos representados são:
 |id Requisito| -RF06 |
 |Descrição | O software deve ter opções de modo claro e escuro  |
 |Representação | ![img rf06](../images/validação/RF06.png)|
+
+## RNF20
+
+| Item | Descrição |
+| ---- | --------- |
+| id Requisito | RNF20 |
+| Descrição | O aplicativo não apresenta uma forma de mostrar os resultado em tempo real |
+| Representação | ![img rnf20](../images/Req%20-%20prototipagem-Joao/RNF20.jpeg) |
+
+## RF23
+| Item | Descrição |
+| ---- | --------- |
+| id Requisito | RF23 |
+| Descrição | O aplicativo deve permitir pagamento de apostas utilizando carteiras digitais como Google Pay, Apple Pay |
+| Representação | ![img rf23](../images/validação/RF23.png) |
+
+## RNF26
+
+| Item | Descrição |
+| ---- | --------- |
+| id Requisito | RNF26 |
+| Descrição | O termo de uso especifica os riscos para o usuário |
+| Representação | ![img rnf26](../images/Req%20-%20prototipagem-Joao/RNF26.jpeg) |
 
 ## RF28
 | Item | Descrição |
@@ -95,7 +123,6 @@ Os requisitos representados são:
 | Descrição | O sistema notifica o apostante quando sua aposta foi premiada. |
 | Representação | ![img_Rf40](../images/validação/rf40.png) |
 
-
 ## Protótipo de alta fidelidade 
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/CzSvBeUjJEhxiKMdd5ogea/Requisitos?node-id=8-17&p=f&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=8%3A17&show-proto-sidebar=1&embed-host=share" allowfullscreen></iframe>
@@ -115,6 +142,10 @@ Foi feita a validação com o usuário marcio junior, que aprovou o requisito pr
 Foi feita a validação com o usuário Matheus Queiroz, que aprovou o requisito prototipado.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m_0x1l_aEvA?si=FZEw1v2PD716ONmq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## RNF20 e RNF 26
+
+Foi feita a validação com o usuário ...
 
 ## Agradecimentos 
 
@@ -136,3 +167,5 @@ O grupo 7 agradece o apoio das ferramentas de inteligência artificial generativ
 | ``2.4``     | 11/11/2025 | Adição do RNF11 | [Luan Vinícius](https://github.com/luannvi) | [Miquéias Ezequiel](https://github.com/Kael-web7) |
 | ``2.5``     | 12/11/2025 | Adição do RF39 | [Miquéias Ezequiel](https://github.com/Kael-web7) | [Luan Vinícius](https://github.com/luannvi) |
 | ``2.6`` | 12/11/2025| Adição do RF40 | [Samuel Felipe](https://github.com/TerminaKng05) | [Heyttor Augusto](https://github.com/H3ytt0r62) |
+| ``2.7`` | 19/11/2025 | Adição do RNF20 | [João Pedro](https://github.com/Jadequilin) | - |
+| ``2.8`` | 19/11/2025 | Adição do RNF26 | [João Pedro](https://github.com/Jadequilin) | - |
