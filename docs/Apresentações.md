@@ -42,5 +42,5 @@
 |:--------:|:------------:|:---------------:|:---------------------:|
 | 1.0 | 09/09/2025 | Gravação da apresentação 1 | Todos os integrantes |
 | 1.1 | 09/09/2025 | Upload vídeo de apresentação 1 | [Samuel Felipe](https://github.com/TerminaKng05)  |
-|1.2| 12/09/2025 | Upload vídeo de apresentação 2 en3 | [Heyttor Augusto](https://github.com/H3ytt0r62) |
+|1.2| 12/09/2025 | Upload vídeo de apresentação 2 e 3 | [Heyttor Augusto](https://github.com/H3ytt0r62) |
 
