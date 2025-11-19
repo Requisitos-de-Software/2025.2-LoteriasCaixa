@@ -44,7 +44,7 @@ Os requisitos representados são:
 |Samuel Felipe| prototipação do [RF38](#rf38), [RF40](#rf40) |
 |Miqueias Ezequiel| prototipação do [RF33](#rf33), [RF39](#rf39) |
 | Luan Vinícius | prototipação do [RF28](#rf28), [RNF11](#rnf11) |
-| João Pedro | prototipação do [RNF20](#rnf20), [RNF26](#rnf26) |
+| João Pedro | prototipação do [RNF20](#rnf20),  [RNF26](#rnf26) |
 
 
 
