@@ -27,12 +27,12 @@ Os requisitos representados são:
 - RF23 - O aplicativo deve permitir pagamento de apostas utilizando carteiras digitais como Google Pay, Apple Pay
 - RNF26 - O termo de uso especifica os riscos para o usuário
 - RF28 - O aplicativo deve permitir o cancelamento de apostas antes do sorteio
-- RF33 - O aplicativo apresenta funções de acessibilidade aos idosos e deficientes
-- RF36 - As páginas do aplicativo mais usadas pelo usuário estão em destaque na tela
-- RF37 - O sistema fornece avisos ao usuário sobre seu limite diário de apostas 
-- RF38 - O sistema apresenta uma tela chamada "favoritos", onde o apostante consegue realizar jogos com base nas suas preferências de aposta
-- RF39 - O aplicativo deve permitir mudar e remover foto de perfil
-- RF40 - O sistema notifica o apostante quando sua aposta foi premiada
+- RF32 - O aplicativo apresenta funções de acessibilidade aos idosos e deficientes
+- RF35 - As páginas do aplicativo mais usadas pelo usuário estão em destaque na tela
+- RF36 - O sistema fornece avisos ao usuário sobre seu limite diário de apostas 
+- RF37 - O sistema apresenta uma tela chamada "favoritos", onde o apostante consegue realizar jogos com base nas suas preferências de aposta
+- RF38 - O aplicativo deve permitir mudar e remover foto de perfil
+- RF39 - O sistema notifica o apostante quando sua aposta foi premiada
 - RNF11 - O sistema deve garantir que o acesso a funcionalidades primárias seja feito através de componentes de interface autoexplicativos. Ícones de navegação, como o menu principal, devem ser acompanhados por um rótulo textual (ex: "Menu").
 
 
@@ -42,8 +42,8 @@ Os requisitos representados são:
 |Aluno| Contribuição|
 |-----|-------------|
 |Heyttor augusto| prototipação do [RF06](#rf06), [RN02]|
-|Samuel Felipe| prototipação do [RF38](#rf38), [RF40](#rf40) |
-|Miqueias Ezequiel| prototipação do [RF33](#rf33), [RF39](#rf39) |
+|Samuel Felipe| prototipação do [RF37](#rf37), [RF39](#rf39) |
+|Miqueias Ezequiel| prototipação do [RF32](#rf32), [RF38](#rf38) |
 | Luan Vinícius | prototipação do [RF28](#rf28), [RNF11](#rnf11) |
 | João Pedro | prototipação do [RNF20](#rnf20),  [RNF26](#rnf26) |
 
@@ -89,17 +89,17 @@ Os requisitos representados são:
 | Descrição | O aplicativo deve permitir o cancelamento de apostas antes do sorteio |
 | Representação | ![img rf28](../images/validação/RF28.gif) |
 
-## RF33
+## RF32
 | Item | Descrição |
 | ---- | --------- |
-| id Requisito | RF33 |
+| id Requisito | RF32 |
 | Descrição | O aplicativo apresenta funções de acessibilidade aos idosos e deficientes |
 | Representação | ![img rf33](../images/validação/telaacessibilidade.png) |
 
-## RF38
+## RF37
 | Item | Descrição |
 | ---- | --------- |
-| id Requisito | RF38 |
+| id Requisito | RF37 |
 | Descrição | O sistema apresenta uma tela chamada "favoritos", onde o apostante consegue realizar jogos com base nas suas preferências de aposta |
 | Representação | ![img rf38](../images/validação/RF38.png) |
 
@@ -110,17 +110,17 @@ Os requisitos representados são:
 | Descrição | O sistema deve garantir que o acesso a funcionalidades primárias seja feito através de componentes de interface autoexplicativos. Ícones de navegação, como o menu principal, devem ser acompanhados por um rótulo textual (ex: "Menu"). |
 | Representação | ![img rnf11.1](../images/validação/RNF11.1.png)![img rnf11.2](../images/validação/RNF11.2.png){.center} | 
 
-## RF39
+## RF38
 | Item | Descrição |
 | ---- | --------- |
-| id Requisito | RF39 |
+| id Requisito | RF38 |
 | Descrição | O aplicativo deve permitir mudar e remover foto de perfil |
 | Representação | ![img rf39](../images/validação/Dadospessoais.png) |
 
-## RF40
+## RF39
 | Item | Descrição |
 | ---- |---------- |
-| id Requisito | RF40 |
+| id Requisito | RF39 |
 | Descrição | O sistema notifica o apostante quando sua aposta foi premiada. |
 | Representação | ![img_Rf40](../images/validação/rf40.png) |
 
@@ -138,7 +138,7 @@ Foi feita a validação com o usuário marcio junior, que aprovou o requisito pr
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CZsvbXj02ow?si=x-n3-AK15ylOqrmv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## RF33 - RF39
+## RF32 - RF38
 
 Foi feita a validação com o usuário Matheus Queiroz, que aprovou o requisito prototipado.
 
@@ -173,3 +173,4 @@ O grupo 7 agradece o apoio das ferramentas de inteligência artificial generativ
 | ``2.7`` | 19/11/2025 | Adição do RNF20 | [João Pedro](https://github.com/Jadequilin) | - |
 | ``2.8`` | 19/11/2025 | Adição do RNF26 | [João Pedro](https://github.com/Jadequilin) | - |
 | `` 2.9 `` | 20/11/2025 | Adição da seção de validação com o usuário | [João Pedro](https://github.com/Jadequilin) | - |
+| ``3.0`` | 20/11/2025 | atualização da numeração dos rfs | [Samuel Felipe](https://github.com/TerminaKng05) | [Heyttor Augusto](https://github.com/H3ytt0r62) |

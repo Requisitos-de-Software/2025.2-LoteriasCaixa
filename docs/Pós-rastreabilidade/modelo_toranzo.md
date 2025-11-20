@@ -359,20 +359,8 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 
 *<p style= "text-align: center;"> Fonte: <a href= "https://github.com/TerminaKng05">Samuel Felipe</a> </p>*
 
-## RF30 - As apostas são registradas dentro do app com base no CPF do usuário
 
-| Artefato Analisado | Classificação do Artefato Analisado |
-| --- | --- |
-| Tipos de Elo | Artefatos Relacionados |
-| Satisfação | - |
-| Recurso | [CN08](../Modelagem/Cenários.md) |
-| Representação | - |
-| Alocado | [LX01](../Modelagem/Léxicos.md), [LX26](../Modelagem/Léxicos.md) |
-| Agregação | - |
-
-*<p style= "text-align: center;"> Fonte: <a href= "https://github.com/TerminaKng05">Samuel Felipe</a> </p>*
-
-## RF31 - O aplicativo apresenta todos os resultados e as arrecadações dos concursos, como também estimativa para os próximos sorteios
+## RF30 - O aplicativo apresenta todos os resultados e as arrecadações dos concursos, como também estimativa para os próximos sorteios
 
 | Artefato Analisado | Classificação do Artefato Analisado |
 | --- | --- |
@@ -385,7 +373,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 
 *<p style= "text-align: center;"> Fonte: <a href= "https://github.com/TerminaKng05">Samuel Felipe</a> </p>*
 
-## RF32 - O aplicativo apresenta uma aba de transparência e prestação de contas à sociedade chamada de "Repasses Sociais", onde há os valores repassados pelas Loterias CAIXA em áreas de desenvolvimento social
+## RF31 - O aplicativo apresenta uma aba de transparência e prestação de contas à sociedade chamada de "Repasses Sociais", onde há os valores repassados pelas Loterias CAIXA em áreas de desenvolvimento social
 
 | Artefato Analisado | Classificação do Artefato Analisado |
 | --- | --- |
@@ -398,7 +386,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 
 *<p style= "text-align: center;"> Fonte: <a href= "https://github.com/TerminaKng05">Samuel Felipe</a> </p>*
 
-## RF33 - O aplicativo apresenta funções de acessibilidade aos idosos e deficientes
+## RF32 - O aplicativo apresenta funções de acessibilidade aos idosos e deficientes
 
 | Artefato Analisado | Classificação do Artefato Analisado |
 | --- | --- |
@@ -411,7 +399,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 
 *<p style= "text-align: center;"> Fonte: <a href= "https://github.com/Jadequilin">João Pedro</a> </p>*
 
-## RF34 - As opções de ações dentro do aplicativo estão facilmente disponíveis
+## RF33 - As opções de ações dentro do aplicativo são acessíveis em 3 cliques para o apostante;
 
 | Artefato Analisado | Classificação do Artefato Analisado |
 | --- | --- |
@@ -424,7 +412,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 
 *<p style= "text-align: center;"> Fonte: <a href= "https://github.com/Jadequilin">João Pedro</a> </p>*
 
-## RF35 - Os dados do usuário são mantidos em sigilo e protegidos
+## RF34 - Os dados do usuário são mantidos em sigilo e protegidos
 
 | Artefato Analisado | Classificação do Artefato Analisado |
 | --- | --- |
@@ -437,7 +425,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 
 *<p style= "text-align: center;"> Fonte: <a href= "https://github.com/Jadequilin">João Pedro</a> </p>*
 
-## RF36 - As páginas do aplicativo mais usadas pelo usuário estão em destaque na tela
+## RF35 - As páginas do aplicativo mais usadas pelo usuário estão em destaque na tela
 
 | Artefato Analisado | Classificação do Artefato Analisado |
 | --- | --- |
@@ -450,7 +438,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 
 *<p style= "text-align: center;"> Fonte: <a href= "https://github.com/Jadequilin">João Pedro</a> </p>*
 
-## RF37 - O sistema fornece avisos ao usuário sobre seu limite diário de apostas
+## RF36 - O sistema fornece avisos ao usuário sobre seu limite diário de apostas
 
 | Artefato Analisado | Classificação do Artefato Analisado |
 | --- | --- |
@@ -463,7 +451,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 
 *<p style= "text-align: center;"> Fonte: <a href= "https://github.com/Jadequilin">João Pedro</a> </p>*
 
-## RF38 - O sistema apresenta uma tela chamada "favoritos", onde o apostante consegue realizar jogos com base nas suas preferências de aposta
+## RF37 - O sistema apresenta uma tela chamada "favoritos", onde o apostante consegue realizar jogos com base nas suas preferências de aposta
 
 | Artefato Analisado | Classificação do Artefato Analisado |
 | --- | --- |
@@ -473,6 +461,19 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 | Representação | - |
 | Alocado | |
 | Agregação | |
+
+*<p style= "text-align: center;"> Fonte: <a href= "https://github.com/TerminaKng05">Samuel Felipe</a> </p>*
+
+## RF39 - O aplicativo apresenta uma falta de alerta para o usuário sobre uma aposta premiada que ainda não foi resgatada
+
+| Artefato Analisado | Classificação do Artefato Analisado |
+| --- | --- |
+| Tipos de Elo | Artefatos Relacionados |
+| Satisfação | -  |
+| Recurso | [CN07](../Modelagem/Cenários.md) |
+| Representação | - |
+| Alocado | [LX20](../Modelagem/Léxicos.md), [LX24](../Modelagem/Léxicos.md) |
+| Agregação | - |
 
 *<p style= "text-align: center;"> Fonte: <a href= "https://github.com/TerminaKng05">Samuel Felipe</a> </p>*
 
@@ -616,7 +617,20 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 
 *<p style= "text-align: center;"> Fonte: <a href= "https://github.com/luannvi">Luan Vinícius</a> </p>*
 
-## RNF12 - O aplicativo segue a questão de disponibilidade em plataformas que os usuários tem acesso (IOS/Apple Store, Android/Play Store)
+## RNF12 - As apostas são registradas dentro do app com base no CPF do usuário
+
+| Artefato Analisado | Classificação do Artefato Analisado |
+| --- | --- |
+| Tipos de Elo | Artefatos Relacionados |
+| Satisfação | - |
+| Recurso | [CN08](../Modelagem/Cenários.md) |
+| Representação | - |
+| Alocado | [LX01](../Modelagem/Léxicos.md), [LX26](../Modelagem/Léxicos.md) |
+| Agregação | - |
+
+*<p style= "text-align: center;"> Fonte: <a href= "https://github.com/TerminaKng05">Samuel Felipe</a> </p>*
+
+## RNF13 - O aplicativo segue a questão de disponibilidade em plataformas que os usuários tem acesso (IOS 15.1 ou superior/Apple Store, Android 5.1 ou superior/Play Store);
 
 | Artefato Analisado | Classificação do Artefato Analisado |
 | --- | --- |
@@ -629,7 +643,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 
 *<p style= "text-align: center;"> Fonte: <a href= "https://github.com/TerminaKng05">Samuel Felipe</a> </p>*
 
-## RNF13 - O aplicativo utiliza o sistema da própria empresa para que o usuário consiga acessar os seus dados no sistema
+## RNF14 - O aplicativo utiliza o sistema da própria empresa para que o usuário consiga acessar os seus dados no sistema
 
 | Artefato Analisado | Classificação do Artefato Analisado |
 | --- | --- |
@@ -642,7 +656,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 
 *<p style= "text-align: center;"> Fonte: <a href= "https://github.com/TerminaKng05">Samuel Felipe</a> </p>*
 
-## RNF14 - O aplicativo entrega as facilidades para realizar as mesmas funções que o site ou ir pessoalmente a uma lotérica
+## RNF15 - O aplicativo entrega as facilidades para realizar as mesmas funções que o site ou ir pessoalmente a uma lotérica
 
 | Artefato Analisado | Classificação do Artefato Analisado |
 | --- | --- |
@@ -655,7 +669,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 
 *<p style= "text-align: center;"> Fonte: <a href= "https://github.com/TerminaKng05">Samuel Felipe</a> </p>*
 
-## RNF15 - O aplicativo segue a lei federal onde apenas maiores de 18 anos podem utilizar as funções que o mesmo oferece
+## RNF16 - O aplicativo segue a lei federal onde apenas maiores de 18 anos podem utilizar as funções que o mesmo oferece
 
 | Artefato Analisado | Classificação do Artefato Analisado |
 | --- | --- |
@@ -668,7 +682,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 
 *<p style= "text-align: center;"> Fonte: <a href= "https://github.com/TerminaKng05">Samuel Felipe</a> </p>*
 
-## RNF16 - O aplicativo apresenta uma funcionalidade chamada "rapidão", onde é montada uma aposta com base nas preferências do usuário
+## RNF17 - O aplicativo apresenta uma funcionalidade chamada "rapidão", onde é montada uma aposta com base nas preferências do usuário
 
 | Artefato Analisado | Classificação do Artefato Analisado |
 | --- | --- |
@@ -681,7 +695,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 
 *<p style= "text-align: center;"> Fonte: <a href= "https://github.com/TerminaKng05">Samuel Felipe</a> </p>*
 
-## RNF17 - O resgate dos prêmios são apenas disponibilizados nos canais oficiais da empresa, como uma Unidade Lotérica ou Agência Caixa, e no Mercado Pago (Sendo o valor disponível na conta do usuário e ser transferido conforme as regras próprias do meio de pagamento)
+## RNF18 - O resgate dos prêmios são apenas disponibilizados nos canais oficiais da empresa, como uma Unidade Lotérica ou Agência Caixa, e no Mercado Pago (Sendo o valor disponível na conta do usuário e ser transferido conforme as regras próprias do meio de pagamento)
 
 | Artefato Analisado | Classificação do Artefato Analisado |
 | --- | --- |
@@ -695,7 +709,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 *<p style= "text-align: center;"> Fonte: <a href= "https://github.com/TerminaKng05">Samuel Felipe</a> </p>*
 
 
-## RNF18 - O aplicativo apresenta uma falta de opção de filtro para consulta de apostas premiadas ou concursos não realizados
+## RNF19 - O aplicativo apresenta a opção de filtrar as apostas premiadas ou concursos não realizados;
 
 | Artefato Analisado | Classificação do Artefato Analisado |
 | --- | --- |
@@ -708,20 +722,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 
 *<p style= "text-align: center;"> Fonte: <a href= "https://github.com/TerminaKng05">Samuel Felipe</a> </p>*
 
-## RNF19 - O aplicativo apresenta uma falta de alerta para o usuário sobre uma aposta premiada que ainda não foi resgatada
-
-| Artefato Analisado | Classificação do Artefato Analisado |
-| --- | --- |
-| Tipos de Elo | Artefatos Relacionados |
-| Satisfação | -  |
-| Recurso | [CN07](../Modelagem/Cenários.md) |
-| Representação | - |
-| Alocado | [LX20](../Modelagem/Léxicos.md), [LX24](../Modelagem/Léxicos.md) |
-| Agregação | - |
-
-*<p style= "text-align: center;"> Fonte: <a href= "https://github.com/TerminaKng05">Samuel Felipe</a> </p>*
-
-## RNF20 - O aplicativo poderia apresentar uma forma de baixar o comprovante da compra dos jogos cadastrados
+## RNF20 - O aplicativo permite que o apostante baixe o comprovante da compra dos jogos cadastrados;
 
 | Artefato Analisado | Classificação do Artefato Analisado |
 | --- | --- |
@@ -734,7 +735,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 
 *<p style= "text-align: center;"> Fonte: <a href= "https://github.com/TerminaKng05">Samuel Felipe</a> </p>*
 
-## RNF21 - O aplicativo não apresenta uma forma de mostrar os resultado em tempo real
+## RNF21 - O aplicativo mostra os resultado dos jogos realizados em "tempo real", com 5 segundos de atraso máximo; 
 
 | Artefato Analisado | Classificação do Artefato Analisado |
 | --- | --- |
@@ -747,7 +748,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 
 *<p style= "text-align: center;"> Fonte: <a href= "https://github.com/TerminaKng05">Samuel Felipe</a> </p>*
 
-## RNF22 - O aplicativo ainda apresenta lentidão em aparelhos de smartphones antigos
+## RNF22 - Em dispositivos anteriores ao Android 5.1 e iOS 15.1, o aplicativo é estável para uso; 
 
 | Artefato Analisado | Classificação do Artefato Analisado |
 | --- | --- |
@@ -760,7 +761,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 
 *<p style= "text-align: center;"> Fonte: <a href= "https://github.com/TerminaKng05">Samuel Felipe</a> </p>*
 
-## RNF23 - O aplicativo ainda apresenta problemas de desconexão ao se conectar em internet 4G/5G
+## RNF23 - O aplicativo funciona ao utilizar conexão de internet 4G/5G; 
 
 | Artefato Analisado | Classificação do Artefato Analisado |
 | --- | --- |
@@ -773,7 +774,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 
 *<p style= "text-align: center;"> Fonte: <a href= "https://github.com/TerminaKng05">Samuel Felipe</a> </p>*
 
-## RNF24 - O aplicativo é de fácil acesso ao usuário
+## RNF24 - O aplicativo é encontrado, pesquisado e utilizado de forma que o apostante sabe o que procura; 
 
 | Artefato Analisado | Classificação do Artefato Analisado |
 | --- | --- |
@@ -877,4 +878,5 @@ O grupo 7 agradece o apoio das ferramentas de inteligência artificial generativ
 | ``1.4``     | 28/10/2025 | [Nayra Silva Nery](https://github.com/NayraNery127)    | Adição da Introdução  | [Luan Vinícius](https://github.com/luannvi) |
 | ``1.5``     | 28/10/2025 | [João Pedro](https://github.com/Jadequilin)    | Adição dos elos de RF33-37 e RNF24-30  | [Rivadalvio Joaquim](https://github.com/RivaFilho) |
 | ``1.6`` | 07/11/2025 | [Samuel Felipe](https://github.com/TerminaKng05) | Adição Modelo de Toranzo do RF38 de Análise de Documento | [Heyttor Augusto](https://github.com/H3ytt0r62) |
-| ``2.0``     | 20/11/2025 | [Miquéias Ezequiel](https://github.com/Kael-web7)    | Especificação aprimorada RNF09 e RNF30 | [Luan Vinícius](https://github.com/luannvi) |
+| ``1.7``     | 20/11/2025 | [Miquéias Ezequiel](https://github.com/Kael-web7)    | Especificação aprimorada RNF09 e RNF30 | [Luan Vinícius](https://github.com/luannvi) |
+| ``1.8`` | 20/11/2025 | [Samuel Felipe](https://github.com/TerminaKng05) | atualização e modificação dos rfs e rnfs | [Heyttor Augusto](https://github.com/H3ytt0r62) |
