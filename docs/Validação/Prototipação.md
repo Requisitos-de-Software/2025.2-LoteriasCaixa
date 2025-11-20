@@ -146,7 +146,9 @@ Foi feita a validação com o usuário Matheus Queiroz, que aprovou o requisito 
 
 ## RNF20 e RNF 26
 
-Foi feita a validação com o usuário ...
+Foi feita a validação com o usuário Janice José Araújo, que aprovou o requisito prototipado.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ntJu3T2l-Ag?si=30oja7dDXbRRzVmW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Agradecimentos 
 
@@ -170,3 +172,4 @@ O grupo 7 agradece o apoio das ferramentas de inteligência artificial generativ
 | ``2.6`` | 12/11/2025| Adição do RF40 | [Samuel Felipe](https://github.com/TerminaKng05) | [Heyttor Augusto](https://github.com/H3ytt0r62) |
 | ``2.7`` | 19/11/2025 | Adição do RNF20 | [João Pedro](https://github.com/Jadequilin) | - |
 | ``2.8`` | 19/11/2025 | Adição do RNF26 | [João Pedro](https://github.com/Jadequilin) | - |
+| `` 2.9 `` | 20/11/2025 | Adição da seção de validação com o usuário | [João Pedro](https://github.com/Jadequilin) | - |
