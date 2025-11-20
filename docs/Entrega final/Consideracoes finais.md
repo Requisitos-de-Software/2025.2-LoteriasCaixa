@@ -15,8 +15,9 @@ Tivemos algumas problemas com organização e comprometimento de alguns membros 
 
 Acho tambem que conseguimos entregar tudo dentro do prazo não deixando nada atrasado.
 
+## João Pedro Lyra
 
-
+Ao decorrer do projeto, enfrentei algumas dificuldades relacionadas a gestão de tempo e organização das tarefas. Contudo, acredito que não somente eu, mas todo o grupo conseguiu entregar tudo dentro do prazo realizando o melhor trabalho possível em nossas respecitivas situações.Aprendemos muito durante o curso, não somente do conteúdo, mas gestão de projetos e trabalho em equipe também.
 
 ## Dificuldades gerais
 
@@ -24,9 +25,13 @@ Acho tambem que conseguimos entregar tudo dentro do prazo não deixando nada atr
 - Adaptação a mudança de aplicativo
 - Organização
 
+## Facilidades gerais 
+- Material de apoio
+
 
 ## Versionamento
 
 | Versão | Data       | Autor               | Descrição                       | Revisor |
 |:--------:|:------------:|:---------------:|:-------------------------------:|:---------:|
 | ``1.0``    | 19/11/2025 | [Heyttor Augusto](https://github.com/H3ytt0r62)|  | Abertura do documento | |
+| ``1.1`` | 20/11/2025| [João Pedro](https://github.com/Jadequilin) | Adição da minha consideração final |-|
