@@ -1,3 +1,9 @@
+
+|Aluno| Contribuição|
+|-----|-------------|
+|Heyttor| Revisão da Historias de usuario e inspeção do grupo 3 das respectiva listas |
+|João | Revisão da lista de backlog e NFR e inspeção do grupo 3 das respectivas listas |
+
 ## Lista de verificação historias de usuário - etapa 5
 
 A verificação dessa lista foi feita pelo aluno Heyttor augusto, que não reparou nenhum erro na lista de verificação feita pelo grupo, mas sentiu falta de um item que confirmasse que as historias foram validadas pelo usuário, essa sendo sua modificação feita na lista

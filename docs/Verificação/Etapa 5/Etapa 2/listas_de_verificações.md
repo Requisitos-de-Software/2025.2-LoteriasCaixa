@@ -1,3 +1,32 @@
+
+|Aluno| Contribuição|
+|-----|-------------|
+|luan Vinicius| Revisão da lista de observação e inspeção do grupo 3 das respectivas listas |
+| Miqueias | Revisão da lista Glossario,Moscow e $100 dolares e inspeção do grupo 3 das respectivas listas |
+|João | Three level scale e inspeção do grupo 3 das respectivas listas |
+| Heyttor | REvisão da lista de perfil de usuário e inspeção do grupo 3 |
+| Nayra | Revisão da lista de valor custo e risco |
+
+
+
+## Lista de Verificação - Perfil de Usuário 
+
+*<p style="text-align: center;">Tabela 1: Checklist Perfil de Usuário do grupo 7</p>*
+
+| ID  | Descrição | Autor(es)   | Cumpriu? |
+|-----|-----------|----------|
+| 1   | O perfil de usuário identifica claramente os objetivos do usuário? |  |
+| 2   | As características de interesse (cargo, função, experiência, nível de instrução etc.) foram coletadas e analisadas? | |
+| 3   | Os dados foram agrupados em faixas e categorias (ex.: idade, experiência) para facilitar priorização? | |
+| 4   | Foi calculada a proporção de usuários que se encaixam em cada perfil, permitindo priorizar grupos mais representativos? | |
+| 5   | O processo de elaboração do perfil de usuário foi iterativo, refinado ao longo do projeto? | |
+| 6   | As características do perfil de usuário foram priorizadas conforme a relevância para o produto e projeto? |  |
+| 7   | Os recursos foram direcionados para capturar as características-chave mais importantes para o projeto? |  |
+| 8   | Foram consideradas múltiplas dimensões do usuário (dados pessoais, relação com tecnologia, conhecimento do domínio, tarefas)? | |
+| 9   | Os usuários foram categorizados em grupos significativos (idade, experiência, atitudes, tarefas primárias)? | |
+| 10  | O perfil de usuário cobre a maioria dos grupos, evitando deixar uma porcentagem significativa de usuários sem representação? |  |   
+
+
 ## Lista de Verificação – Técnica dos 100 Dólares
 
 *<p style="text-align: center;">Tabela 1: Checklist de técnica de 100$ dólares para o grupo 1</p>*
@@ -93,6 +122,28 @@ Fonte: <https://docs.google.com/document/d/13GI1jPB-gPHaFYhGgmODryBbIc_GqqzV2BTK
 | 11 | Durante a observação, foram feitas anotações completas das tarefas e interações observadas? <a id="anchor_3" href="#REF3">[3]</a> | [Luan Vinícius](https://github.com/luannvi) | [Ver Imagem](../../../images/inspecao-etapa2/id11-obs.png) |
 | 12 | Os achados foram documentados, revisados e discutidos com os participantes para confirmação? <a id="anchor_3" href="#REF3">[3]</a> | [Luan Vinícius](https://github.com/luannvi) | [Ver Imagem](../../../images/inspecao-etapa2/id12-obs.png) |
 
+## Técnica de Priorização - Value, Cost and Risk
+
+*Tabela 8: Checklist Value, Cost and Risk do grupo 7*
+
+| ID | Descrição | Cumpriu? |
+|----|-----------|----------|
+| 1  | Todos os itens listados para priorização (requisitos, casos de uso, user stories) estão no mesmo nível de abstração e sem mistura de categorias diferentes? |  |
+| 2  | Foram identificadas dependências entre requisitos (A precisa de B antes, etc.) e apenas o requisito condutor foi incluído na priorização? |  |
+| 3  | Os representantes do cliente atribuíram notas de 1 a 9 para o benefício de cada requisito, de acordo com o valor para o negócio? |  |
+| 4  | Foi atribuída uma nota de 1 a 9 para a penalidade caso o requisito não seja implementado? |  |
+| 5  | Ao avaliar a penalidade, foram considerados impactos como concorrência, requisitos legais, padrões de mercado e expectativas dos usuários? |  |
+| 6  | A equipe de desenvolvimento atribuiu notas de 1 a 9 para o custo de implementação de cada requisito, considerando complexidade, interface, reutilização e testes? |  |
+| 7  | A equipe técnica atribuiu notas de 1 a 9 para o risco técnico de implementação (complexidade, ferramentas novas, incertezas de viabilidade)? |  |
+| 8  | A planilha calculou automaticamente o valor total, o percentual de valor, custo e risco de cada requisito? |  |
+| 9  | Foi utilizada a fórmula recomendada para cálculo da prioridade de cada requisito? |  |
+| 10 | A lista final foi ordenada em ordem decrescente de prioridade calculada, destacando os itens com melhor relação valor/custo/risco? |  |
+| 11 | Foram considerados ajustes de pesos (benefício, penalidade, custo, risco) de acordo com a realidade do projeto? |  |
+| 12 | Os stakeholders revisaram e validaram os resultados da priorização, discutindo divergências e chegando a consenso? |  |
+| 13 | As escalas de 1 a 9 para benefício, penalidade, custo e risco foram definidas explicitamente (por exemplo, o que significa nota 1, 5 e 9) e comunicadas a todos os participantes antes da priorização? |  |
+| 14 | Há registro de justificativas (em comentários na planilha ou documento) para notas extremas de benefício ou penalidade, especialmente em requisitos legais, regulatórios ou críticos para o negócio? |  |
+| 15 | As notas de custo e risco passaram por pelo menos uma rodada de revisão ou calibração pela equipe técnica, para reduzir discrepâncias grandes de percepção entre os avaliadores? |  |
+
 ## Referências Bibliográficas 
 
 > <a id="REF1" href="#anchor_1">1.</a> Wiegers, K. E., & Beatty, J. (2013). Software Requirements (3rd ed.). Redmond, WA: Microsoft Press. Acesso em: 11 Nov. 2025.
@@ -107,3 +158,4 @@ Fonte: <https://docs.google.com/document/d/13GI1jPB-gPHaFYhGgmODryBbIc_GqqzV2BTK
 | ``2.0``    | 12/11/2025 | [Miquéias Ezequiel](https://github.com/Kael-web7)  | Listas Moscow,100$, Glossário | |
 | ``3.0``    | 12/11/2025 | [Samuel Felipe](https://github.com/Kael-web7)  | Lista Three Level Scale | |
 | ``4.0``    | 12/11/2025 | [Luan Vinícius](https://github.com/luannvi) | Lista Observação | |
+|``5.0``    | 12/11/2025 | [Heyttor augusto](https://github.com/Kael-web7)  | Lista Perfil de usuario | |

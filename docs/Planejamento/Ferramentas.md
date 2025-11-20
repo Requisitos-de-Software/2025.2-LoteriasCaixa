@@ -3,7 +3,7 @@
 ## Introdução 
 
 <p style="text-align: justify;">
-Os softwares escolhidos servirão como ferramentas de apoio para a equipe do projeto, auxiliando no gerenciamento, na comunicação e na elaboração da documentação necessária para o tema abordado na disciplina, cujo foco será a análise de requisitos do aplicativo Game da Cidadania.
+Os softwares escolhidos servirão como ferramentas de apoio para a equipe do projeto, auxiliando no gerenciamento, na comunicação e na elaboração da documentação necessária para o tema abordado na disciplina, cujo foco será a análise de requisitos do aplicativo Loterias Caixa.
 </p>
 
 ## Ferramentas utilizadas 

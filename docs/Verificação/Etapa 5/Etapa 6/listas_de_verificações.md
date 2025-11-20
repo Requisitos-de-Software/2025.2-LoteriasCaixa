@@ -1,3 +1,9 @@
+|Aluno| Contribuição|
+|-----|-------------|
+|Heyttor| Revisão da lista de MAtris de rastreabilidade e Pós-rastreabilidade e inspeção do grupo 3 das respectivas listas |
+
+
+
 ## Lista de Verificação - Matriz de rastreabilidade 
 
 *<p style="text-align: center;">Tabela 1: Checklist de matriz de rastreabilidade para o grupo 1</p>*

@@ -75,8 +75,8 @@ A legenda para cada sigla:
 
 | ID | Descrição | Status | Rastreabilidade |
 |:---|:---|:---|:---|
-| **RNF01** | O software deve ter telas simples com poucos textos | Implementado | [ENT01](../Elicitação/Técnicas/Entrevista.md) |
-| **RNF02** | O software deve ter imagens explicativas | Não Implementado | [ENT08](../Elicitação/Técnicas/Entrevista.md) |
+| **RNF01** | O software deve ter telas simples com poucos elementos| Implementado | [ENT01](../Elicitação/Técnicas/Entrevista.md) |
+| **RNF02** | O software deve ter imagens explicativas que mostrem as funções principais do palicativo, em uma aba especial so para elas  | Não Implementado | [ENT08](../Elicitação/Técnicas/Entrevista.md) |
 | **RNF03** | A navegação entre a seleção de jogos, o preenchimento do volante e o carrinho de compras deve ser intuitiva, exigindo no máximo 3 toques | Implementado | [OBS17](../Elicitação/Técnicas/Observação.md) |
 | **RNF04** | O resultado de uma loteria deve ser carregado e exibido na tela em menos de 3 segundos sob uma conexão 4G/5G padrão | Implementado | [OBS18](../Elicitação/Técnicas/Observação.md) |
 | **RNF05** | O sistema deve proteger o acesso às funcionalidades transacionais exigindo a autenticação do usuário no início da sessão | Implementado | [OBS19](../Elicitação/Técnicas/Observação.md) |

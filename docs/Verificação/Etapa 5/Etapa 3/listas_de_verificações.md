@@ -1,3 +1,40 @@
+
+|Aluno| Contribuição|
+|-----|-------------|
+|luan Vinicius| Revisão da lista de Cenarios e inspeção do grupo 3 das respectivas listas |
+|João | Revisão da lista de léxicos e inspeção do grupo 3 das respectivas listas |
+|Heyttor |  Revisão da lista de Casos de uso e inspeção do grupo 3 das respectivas listas |
+
+
+## Lista de Verificação - Casos de Uso
+
+*<p style="text-align: center;">Tabela 1: Checklist Casos de Uso do grupo 7</p>*
+
+| ID | Descrição | Cumpriu? |
+| --- | --- | --- |
+| 1 | O sistema está claramente identificado e delimitado (ex.: "Aplicativo Bancário")? |  |
+| 2 | Todas as funcionalidades internas estão contidas dentro dos limites do sistema? |  |
+| 3 | Elementos externos não aparecem dentro do retângulo do sistema? |  |
+| 4 | Os atores principais foram definidos (ex.: Cliente)? |  |
+| 5 | Os atores secundários foram definidos (ex.: Banco)? |  |
+| 6 | Atores estão representados como classes/categorias e não como indivíduos específicos? |  |
+| 7 | Atores principais estão posicionados à esquerda do sistema? |  |
+| 8 | Atores secundários estão posicionados à direita do sistema? |  |
+| 9 | Cada caso de uso está nomeado com um verbo + ação? |  |
+| 10 | Casos de uso estão organizados em ordem lógica? |  |
+| 11 | Associações (linhas sólidas) conectam atores aos casos de uso relevantes? |  |
+| 12 | O diagrama não contém atores ou casos de uso redundantes? |  |
+| 13 | Cada caso de uso possui pelo menos um ator associado? |  |
+| 14 | O diagrama é compreensível para stakeholders não técnicos? |  |
+| 15 | O caso base possui um caso incluído para ser completo? |  |
+| 16 | O caso base está direcionando para um caso incluído por uma linha tracejada? |  |
+| 17 | Há uma linha tracejada com seta apontando do caso de uso estendido para o caso de uso base? |  |
+| 18 | O caso de uso incluído é executado sempre, de forma inevitável? |  |
+| 19 | Cada caso de uso especializado herda características do geral acrescentando novas funcionalidades? |  |
+| 20 | O caso de uso contém uma seção de pontos de extensão? |  |
+| 21 | Os pontos de extensão estão listados abaixo da linha do caso de uso? |  |
+| 22 | Existem condições claras que determinam quando o ponto de extensão será ativado? |  |
+
 ## Lista de Verificação - Léxico (LAL)
 
 *<p style="text-align: center;">Tabela 4: Checklist Léxico (LAL) do grupo 7</p>*

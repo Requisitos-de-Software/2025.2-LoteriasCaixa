@@ -1,3 +1,34 @@
+
+## Lista de Verificação - Casos de Uso
+
+*<p style="text-align: center;">Tabela 1: Checklist Casos de Uso do grupo 7</p>*
+
+| ID | Descrição | Cumpriu? |
+| --- | --- | --- |
+| 1 | O sistema está claramente identificado e delimitado (ex.: "Aplicativo Bancário")? | Sim |
+| 2 | Todas as funcionalidades internas estão contidas dentro dos limites do sistema? | Não |
+| 3 | Elementos externos não aparecem dentro do retângulo do sistema? | Sim |
+| 4 | Os atores principais foram definidos (ex.: Cliente)? | Sim |
+| 5 | Os atores secundários foram definidos (ex.: Banco)? | Sim |
+| 6 | Atores estão representados como classes/categorias e não como indivíduos específicos? | Sim |
+| 7 | Atores principais estão posicionados à esquerda do sistema? | Sim |
+| 8 | Atores secundários estão posicionados à direita do sistema? | Não |
+| 9 | Cada caso de uso está nomeado com um verbo + ação? | Sim |
+| 10 | Casos de uso estão organizados em ordem lógica? |Sim  |
+| 11 | Associações (linhas sólidas) conectam atores aos casos de uso relevantes? | Não |
+| 12 | O diagrama não contém atores ou casos de uso redundantes? | Sim |
+| 13 | Cada caso de uso possui pelo menos um ator associado? |Sim  |
+| 14 | O diagrama é compreensível para stakeholders não técnicos? |Sim  |
+| 15 | O caso base possui um caso incluído para ser completo? | Não |
+| 16 | O caso base está direcionando para um caso incluído por uma linha tracejada? |Não  |
+| 17 | Há uma linha tracejada com seta apontando do caso de uso estendido para o caso de uso base? | Sim |
+| 18 | O caso de uso incluído é executado sempre, de forma inevitável? | Sim |
+| 19 | Cada caso de uso especializado herda características do geral acrescentando novas funcionalidades? | Sim |
+| 20 | O caso de uso contém uma seção de pontos de extensão? | Sim |
+| 21 | Os pontos de extensão estão listados abaixo da linha do caso de uso? | Sim |
+| 22 | Existem condições claras que determinam quando o ponto de extensão será ativado? | Sim  |
+
+
 ## Lista de Verificação - Léxico (LAL)
 
 *<p style="text-align: center;">Tabela 1: Checklist preenchido - Léxico (LAL) do grupo 7</p>*

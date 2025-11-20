@@ -1,4 +1,14 @@
+
+
+## Tabela de contribuição
+
+|Aluno| Contribuição|
+|-----|-------------|
+|luan Vinicius| Revisão da lista de rich picture e inspeção do grupo 3 |
+
 ## Lista de Verificação - RichPicture
+
+
 
 *<p style="text-align: center;">Tabela 1: Checklist de RichPicture</p>*
 

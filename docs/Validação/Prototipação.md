@@ -22,6 +22,7 @@ autor: heyttor augusto
 Os requisitos representados são:
 
 - RF06 - O software deve ter opções de modo claro e escuro 
+- RNF02 - O software deve ter imagens explicativas que mostrem as funções principais do palicativo, em uma aba especial so para elas 
 - RNF20 - O aplicativo não apresenta uma forma de mostrar os resultado em tempo real
 - RF23 - O aplicativo deve permitir pagamento de apostas utilizando carteiras digitais como Google Pay, Apple Pay
 - RNF26 - O termo de uso especifica os riscos para o usuário
@@ -40,7 +41,7 @@ Os requisitos representados são:
 
 |Aluno| Contribuição|
 |-----|-------------|
-|Heyttor augusto| prototipação do [RF06](#rf06)|
+|Heyttor augusto| prototipação do [RF06](#rf06), [RN02]|
 |Samuel Felipe| prototipação do [RF38](#rf38), [RF40](#rf40) |
 |Miqueias Ezequiel| prototipação do [RF33](#rf33), [RF39](#rf39) |
 | Luan Vinícius | prototipação do [RF28](#rf28), [RNF11](#rnf11) |

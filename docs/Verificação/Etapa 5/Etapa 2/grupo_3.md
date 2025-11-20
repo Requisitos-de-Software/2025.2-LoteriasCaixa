@@ -1,3 +1,22 @@
+
+
+## Lista de Verificação - Perfil de Usuário 
+
+*<p style="text-align: center;">Tabela 1: Checklist Perfil de Usuário do grupo 7</p>*
+
+| ID  | Descrição | Cumpriu? |
+|-----|-----------|----------|
+| 1   | O perfil de usuário identifica claramente os objetivos do usuário? |Sim  |
+| 2   | As características de interesse (cargo, função, experiência, nível de instrução etc.) foram coletadas e analisadas? | Sim |
+| 3   | Os dados foram agrupados em faixas e categorias (ex.: idade, experiência) para facilitar priorização? |Sim |
+| 4   | Foi calculada a proporção de usuários que se encaixam em cada perfil, permitindo priorizar grupos mais representativos? |Sim |
+| 5   | O processo de elaboração do perfil de usuário foi iterativo, refinado ao longo do projeto? |Sim |
+| 6   | As características do perfil de usuário foram priorizadas conforme a relevância para o produto e projeto? | Sim |
+| 7   | Os recursos foram direcionados para capturar as características-chave mais importantes para o projeto? |Sim  |
+| 8   | Foram consideradas múltiplas dimensões do usuário (dados pessoais, relação com tecnologia, conhecimento do domínio, tarefas)? |Sim |
+| 9   | Os usuários foram categorizados em grupos significativos (idade, experiência, atitudes, tarefas primárias)? | Sim|
+| 10  | O perfil de usuário cobre a maioria dos grupos, evitando deixar uma porcentagem significativa de usuários sem representação? | Sim |
+
 ## Lista de Verificação - 100$
 
 *<p style="text-align: center;">Tabela 1: Checklist preenchido - 100$ do grupo 3</p>*
@@ -91,3 +110,4 @@
 | ``1.0``    | 12/11/2025 | [Luan Vinícius](https://github.com/luannvi)  | Abertura do documento | |
 | ``2.0``    | 12/11/2025 | [Miquéias Ezequiel](https://github.com/Kael-web7)  | Listas Moscow,100$, Glossário preenchidas | |
 |``3.0``    | 12/11/2025 | [Samuel Felipe](https://github.com/Kael-web7)  | Lista Three Level Scale | |
+|``4.0``    | 12/11/2025 | [Heyttor augusto](https://github.com/Kael-web7)  | Lista Perfil de usuario | |
