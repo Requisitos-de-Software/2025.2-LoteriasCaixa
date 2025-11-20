@@ -73,7 +73,7 @@ Depois das anotações do observador e com as ações do usuário dentro do apli
 | RNF04 | Os números selecionados no volante digital devem ser claramente diferenciados dos não selecionados, através de cor e contraste. | OBS20 |
 | RNF05 | O aplicativo não deve apresentar erros ou fechar inesperadamente durante o processo de criação e pagamento de uma aposta. | OBS21 |
 | RNF06 | A transição de telas durante o fluxo de aposta deve ser fluida e sem travamentos perceptíveis. | OBS22 |
-| RNF07 | O sistema deve fornecer feedback visual imediato quando o usuário adiciona uma aposta ao carrinho. | OBS23 |
+| RNF07 | O sistema deve exibir feedback visual em até 1 segundo, destacando o carrinho e mostrando uma confirmação na tela sempre que o usuário adicionar uma aposta. | OBS23 |
 | RNF08 | A sessão do usuário deve expirar automaticamente após 15 minutos de inatividade para proteger a conta. | OBS24 |
 | RNF09 | O sistema deve garantir que o acesso a funcionalidades primárias seja feito através de componentes de interface autoexplicativos. Ícones de navegação, como o menu principal, devem ser acompanhados por um rótulo textual (ex: "Menu") para facilitar a descoberta por parte do usuário. | OBS25 |
 
@@ -94,3 +94,4 @@ Depois das anotações do observador e com as ações do usuário dentro do apli
 |:--------:|:------------:|:---------------:|:-------------------------------:|:---------:|
 | ``1.0``    | 24/09/2025 | [Luan Vinícius](https://github.com/luannvi)  | Abertura da documentação | [Miquéias Ezequiel](https://github.com/Kael-web7) |
 | ``1.1``    | 29/09/2025 | [Luan Vinícius](https://github.com/luannvi)  | Adição de conteúdo       | [Miquéias Ezequiel](https://github.com/Kael-web7) |
+| ``2.0``     | 20/11/2025 | [Miquéias Ezequiel](https://github.com/Kael-web7)    | Especificação aprimorada RNF09 | [Luan Vinícius](https://github.com/luannvi) |

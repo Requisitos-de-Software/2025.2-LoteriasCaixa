@@ -73,7 +73,7 @@ Após a entrevista foi possível elicitar os seguintes requisitos:
 | RF | O usuário deve poder acessar o próprio perfil | 5 | 5 | 2 | 5.0 | ENT12 |
 | RF | O usuário deve poder fazer logout no aplicativo | 5 | 5 | 2 | 5.0 | ENT13 |
 | RNF | O aplicativo é de fácil acesso ao usuário | 5 | 5 | 2 | 5.0 | ENT14 |
-| RNF | O usuário consegue achar com facilidade o que procura no aplicativo | 5 | 5 | 2 | 5.0 | ENT24 |
+| RNF | O aplicativo deve permitir que o usuário encontre qualquer modalidade de loteria ou resultado desejado em no máximo 2 toques e 3 segundos, com itens do menu claramente rotulados na tela inicial. | 5 | 5 | 2 | 5.0 | ENT24 |
 | RF | O aplicativo deve permitir que o usuário realize o cadastro com dados pessoais | 5 | 5 | 2 | 5.0 | OBS RF01 |
 | RF | O aplicativo deve permitir login com CPF e senha ou com biometria | 5 | 5 | 2 | 5.0 | OBS RF03 |
 | RF | O aplicativo deve exibir o último resultado do sorteio de cada loteria | 5 | 5 | 2 | 5.0 | OBS RF05 |
@@ -81,7 +81,7 @@ Após a entrevista foi possível elicitar os seguintes requisitos:
 | RF | O aplicativo deve permitir visualizar sua aposta | 5 | 5 | 2 | 5.0 | OBS RF13 |
 | RF | O usuário deve ter mais de uma opção de aposta | 4 | 5 | 2 | 4.5 | ENT03 |
 | RF | As opções de ações dentro do aplicativo estão facilmente disponíveis | 5 | 4 | 2 | 4.5 | ENT16 |
-| RNF | O sistema deve fornecer feedback visual imediato quando o usuário adiciona uma aposta ao carrinho | 5 | 4 | 2 | 4.5 | OBS RNF07 |
+| RNF | O sistema deve exibir feedback visual em até 1 segundo, destacando o carrinho e mostrando uma confirmação na tela sempre que o usuário adicionar uma aposta. | 5 | 4 | 2 | 4.5 | OBS RNF07 |
 | RF | O software deve ter poucas telas | 4 | 4 | 2 | 4.0 | ENT05 |
 | RF | O aplicativo deve calcular automaticamente o valor da aposta | 4 | 4 | 2 | 4.0 | OBS RF10 |
 | RF | O aplicativo deve possibilitar logout do usuário | 4 | 4 | 2 | 4.0 | OBS RF15 |
@@ -130,6 +130,7 @@ SERRANO, Milene; SERRANO, Maurício. **Requisitos (Aula 07): Elicitação, Model
 | Versão | Data | Autor | Descrição | Revisor |
 |--------|------|-------|------------|---------|
 | ``1.0`` | 30/09/2025 |  [João Pedro Araújo](https://github.com/Jadequilin) | Priorização com base em valor, risco e custo |[Rivadalvio Joaquim](https://github.com/RivaFilho) |
+| ``2.0``     | 20/11/2025 | [Miquéias Ezequiel](https://github.com/Kael-web7)    | Especificação aprimorada RNF09 e RNF30 | [Luan Vinícius](https://github.com/luannvi) |
 
 
 

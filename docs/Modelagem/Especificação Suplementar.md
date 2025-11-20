@@ -159,13 +159,13 @@ A usabilidade abrange aspectos relacionados à facilidade de uso, experiência d
 | [RNF06](../../Pós-rastreabilidade/Backward%20from.md#rnf06) | Os números selecionados no volante digital devem ser claramente diferenciados dos não selecionados, através de cor e contraste | Implementado | [OBS20](../Elicitação/Técnicas/Observação.md) |
 | [RNF07](../../Pós-rastreabilidade/Backward%20from.md#rnf07) | O aplicativo não deve apresentar erros ou fechar inesperadamente durante o processo de criação e pagamento de apostas | Implementado | [OBS21](../Elicitação/Técnicas/Observação.md) |
 | [RNF08](../../Pós-rastreabilidade/Backward%20from.md#rnf08) | A transição de telas durante o fluxo de aposta deve ser fluida e sem travamentos perceptíveis | Implementado | [OBS22](../Elicitação/Técnicas/Observação.md) |
-| [RNF09](../../Pós-rastreabilidade/Backward%20from.md#rnf09) | O sistema deve fornecer feedback visual imediato quando o usuário adiciona uma aposta ao carrinho | Implementado | [OBS23](../Elicitação/Técnicas/Observação.md) |
+| [RNF09](../../Pós-rastreabilidade/Backward%20from.md#rnf09) | O sistema deve exibir feedback visual em até 1 segundo, destacando o carrinho e mostrando uma confirmação na tela sempre que o usuário adicionar uma aposta. | Implementado | [OBS23](../Elicitação/Técnicas/Observação.md) |
 | [RNF11](../../Pós-rastreabilidade/Backward%20from.md#rnf11) | O sistema deve garantir que o acesso às funcionalidades primárias seja feito através de componentes de interface autoexplicativos. Ícones de navegação devem ser acompanhados por rótulos textuais | Não Implementado | [OBS25](../Elicitação/Técnicas/Observação.md) |
 | [RNF23](../../Pós-rastreabilidade/Backward%20from.md#rnf23) | O aplicativo é de fácil acesso ao usuário | Implementado | [ENT14](../Elicitação/Técnicas/Entrevista.md) |
 | [RF33](../../Pós-rastreabilidade/Backward%20from.md#rf33) | O aplicativo deve apresentar funções de acessibilidade voltadas a idosos e pessoas com deficiência | Não Implementado | [ENT15](../Elicitação/Técnicas/Entrevista.md) |
 | [RF34](../../Pós-rastreabilidade/Backward%20from.md#rf34) | As opções de ações dentro do aplicativo devem estar facilmente disponíveis | Implementado | [ENT16](../Elicitação/Técnicas/Entrevista.md) |
 | [RF36](../../Pós-rastreabilidade/Backward%20from.md#rf36) | As páginas do aplicativo mais usadas pelo usuário devem estar em destaque na tela | Não Implementado | [ENT23](../Elicitação/Técnicas/Entrevista.md) |
-| [RNF29](../../Pós-rastreabilidade/Backward%20from.md#rnf29) | O usuário consegue achar com facilidade o que procura no aplicativo | Implementado | [ENT24](../Elicitação/Técnicas/Entrevista.md) |
+| [RNF29](../../Pós-rastreabilidade/Backward%20from.md#rnf29) | O aplicativo deve permitir que o usuário encontre qualquer modalidade de loteria ou resultado desejado em no máximo 2 toques e 3 segundos, com itens do menu claramente rotulados na tela inicial. | Implementado | [ENT24](../Elicitação/Técnicas/Entrevista.md) |
 
 
 ###  R - Confiabilidade
@@ -272,3 +272,4 @@ O grupo 7 agradece o apoio das ferramentas de inteligência artificial generativ
 | `2.0` | 12/10/2025 | [João Pedro](https://github.com/Jadequilin) | Adição de vídeos da validação | [Rivadalvio Joaquim](https://github.com/RivaFilho) |
 | `2.1` | 21/10/2025 | [João Pedro](https://github.com/Jadequilin) | Correção dos IDs de referência à requisitos | [Rivadalvio Joaquim](https://github.com/RivaFilho) |
 | `2.2` | 18/11/2025 | [João Pedro](https://github.com/Jadequilin) e [Rivadalvio Joaquim](https://github.com/RivaFilho) | Adição de explicação detalhada de FURPS+, correção de todas as referências, adição de hyperlinks e agradecimentos à IA | [Luan Vinícius](https://github.com/luannvi) |
+| ``2.3``     | 20/11/2025 | [Miquéias Ezequiel](https://github.com/Kael-web7)    | Especificação aprimorada RNF09 e RNF30 | [Luan Vinícius](https://github.com/luannvi) |

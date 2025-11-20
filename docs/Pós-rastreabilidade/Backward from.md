@@ -83,7 +83,7 @@ A legenda para cada sigla:
 | **RNF06** | Os números selecionados no volante digital devem ser claramente diferenciados dos não selecionados, através de cor e contraste | Implementado | [OBS20](../Elicitação/Técnicas/Observação.md) |
 | **RNF07** | O aplicativo não deve apresentar erros ou fechar inesperadamente durante o processo de criação e pagamento de uma aposta | Implementado | [OBS21](../Elicitação/Técnicas/Observação.md) |
 | **RNF08** | A transição de telas durante o fluxo de aposta deve ser fluida e sem travamentos perceptíveis | Implementado | [OBS22](../Elicitação/Técnicas/Observação.md) |
-| **RNF09** | O sistema deve fornecer feedback visual imediato quando o usuário adiciona uma aposta ao carrinho | Implementado | [OBS23](../Elicitação/Técnicas/Observação.md) |
+| **RNF09** | O sistema deve exibir feedback visual em até 1 segundo, destacando o carrinho e mostrando uma confirmação na tela sempre que o usuário adicionar uma aposta. | Implementado | [OBS23](../Elicitação/Técnicas/Observação.md) |
 | **RNF10** | A sessão do usuário deve expirar automaticamente após 15 minutos de inatividade para proteger a conta | Implementado | [OBS24](../Elicitação/Técnicas/Observação.md) |
 | **RNF11** | O sistema deve garantir que o acesso a funcionalidades primárias seja feito através de componentes de interface autoexplicativos. Ícones de navegação, como o menu principal, devem ser acompanhados por um rótulo textual (ex: "Menu"). | Não Implementado | [OBS25](../Elicitação/Técnicas/Observação.md) |
 | **RNF12** | O aplicativo segue a questão de disponibilidade em plataformas que os usuários tem acesso (IOS/Apple Store, Android/Play Store); | Implementado | [AD05](../Elicitação/Técnicas/Análise%20de%20Documentos.md) |
@@ -103,7 +103,7 @@ A legenda para cada sigla:
 | **RNF26** | O termo de uso especifica os riscos para o usuário | Não Implementado | [ENT20](../Elicitação/Técnicas/Entrevista.md)|
 | **RNF27** | O termo de uso especifica a classificação indicativa para o usuário | Implementado | [ENT21](../Elicitação/Técnicas/Entrevista.md) |
 | **RNF28** | O termo de uso especifica o acesso aos dados do aplicativo para o usuário | Implementado |(../Elicitação/Técnicas/Entrevista.md) |
-| **RNF29** | O usuário consegue achar com facilidade o que procura no aplicativo | Implementado | [ENT24](../Elicitação/Técnicas/Entrevista.md) |
+| **RNF29** | O aplicativo deve permitir que o usuário encontre qualquer modalidade de loteria ou resultado desejado em no máximo 2 toques e 3 segundos, com itens do menu claramente rotulados na tela inicial. | Implementado | [ENT24](../Elicitação/Técnicas/Entrevista.md) |
 
 ## Agradecimentos
 O grupo 7 agradece o apoio das ferramentas de inteligência artificial generativa - chatGPT, Google Gemini - na revisão gramatical e estilo de algumas partes do texto. As tecnologias foram utilizadas para organizar e deixar o texto mais claro, além de fornecer alguns exemplos de códigos de mkdocs para servir de referência para os autores. Todo o conteúdo, assim como a precisão técnica e as ideias apresentadas, permanecem de responsabilidade dos autores.
@@ -115,3 +115,4 @@ O grupo 7 agradece o apoio das ferramentas de inteligência artificial generativ
 | ``1.0``    | 28/10/2025 | [Heyttor Augusto](https://github.com/H3ytt0r62)   | Criação da página com os requistos| [Samuel Felipe](https://github.com/TerminaKng05) |
 | ``1.1`` | 07/11/2025 | [Samuel Felipe](https://github.com/TerminaKng05) | Adição do RF38 de Análise de Documento | [Heyttor Augusto](https://github.com/H3ytt0r62) |
 | ``1.2`` | 07/11/2025 | [Samuel Felipe](https://github.com/TerminaKng05) | Alteração do RNF19 para RF40 | [Heyttor Augusto](https://github.com/H3ytt0r62) |
+| ``2.0``     | 20/11/2025 | [Miquéias Ezequiel](https://github.com/Kael-web7)    | Especificação aprimorada RNF09 e RNF30 | [Luan Vinícius](https://github.com/luannvi) |

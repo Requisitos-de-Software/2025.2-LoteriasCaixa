@@ -577,7 +577,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 
 *<p style= "text-align: center;"> Fonte: <a href= "https://github.com/luannvi">Luan Vinícius</a> </p>*
 
-## RNF09 - O sistema deve fornecer feedback visual imediato quando o usuário adiciona uma aposta ao carrinho
+## RNF09 - O sistema deve exibir feedback visual em até 1 segundo, destacando o carrinho e mostrando uma confirmação na tela sempre que o usuário adicionar uma aposta.
 
 | Artefato Analisado | Classificação do Artefato Analisado |
 | --- | --- |
@@ -851,7 +851,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 
 *<p style= "text-align: center;"> Fonte: <a href= "https://github.com/Jadequilin">João Pedro</a> </p>*
 
-## RNF30 - O usuário consegue achar com facilidade o que procura no aplicativo
+## RNF30 - O aplicativo deve permitir que o usuário encontre qualquer modalidade de loteria ou resultado desejado em no máximo 2 toques e 3 segundos, com itens do menu claramente rotulados na tela inicial.
 
 | Artefato Analisado | Classificação do Artefato Analisado |
 | --- | --- |
@@ -877,3 +877,4 @@ O grupo 7 agradece o apoio das ferramentas de inteligência artificial generativ
 | ``1.4``     | 28/10/2025 | [Nayra Silva Nery](https://github.com/NayraNery127)    | Adição da Introdução  | [Luan Vinícius](https://github.com/luannvi) |
 | ``1.5``     | 28/10/2025 | [João Pedro](https://github.com/Jadequilin)    | Adição dos elos de RF33-37 e RNF24-30  | [Rivadalvio Joaquim](https://github.com/RivaFilho) |
 | ``1.6`` | 07/11/2025 | [Samuel Felipe](https://github.com/TerminaKng05) | Adição Modelo de Toranzo do RF38 de Análise de Documento | [Heyttor Augusto](https://github.com/H3ytt0r62) |
+| ``2.0``     | 20/11/2025 | [Miquéias Ezequiel](https://github.com/Kael-web7)    | Especificação aprimorada RNF09 e RNF30 | [Luan Vinícius](https://github.com/luannvi) |

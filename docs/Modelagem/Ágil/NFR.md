@@ -211,7 +211,7 @@ Autor: [Nayra Nery](https://github.com/NayraNery127)
 |-------------------------|------------------|
 | **Nr Requisito**        | NFR05 |
 | **Classificação**       | Usabilidade |
-| **Descrição**           | O sistema deve fornecer feedback visual imediato quando o usuário adiciona uma aposta ao carrinho, por meio de uma animação, mensagem ou alteração no ícone do carrinho. |
+| **Descrição**           |O sistema deve exibir feedback visual em até 1 segundo, destacando o carrinho e mostrando uma confirmação na tela sempre que o usuário adicionar uma aposta. |
 | **Justificativa**       | Garante que o usuário perceba claramente que sua ação foi realizada com sucesso, evitando confusão e múltiplos cliques. Melhora a experiência e a confiança na interação com o sistema. |
 | **Origem**              | [RNF09](../../Elicitação/Requisitos%20Elicitados.md) |
 | **Critério de Ajuste**  | - Exibir confirmação visual em até 1 segundo após adicionar a aposta<br>- Feedback deve permanecer visível por pelo menos 2 segundos<br>- Mensagem ou ícone deve ser compreensível e não intrusivo |
@@ -494,3 +494,4 @@ O grupo 7 agradece o apoio das ferramentas de inteligencia artificial generativa
 | ``1.9`` | 21/10/2025 | [Luan Vinícius](https://github.com/luannvi) | Adição da validação com o usuário (CNFR 09 - 11) | [Miqueias Ezequiel](https://github.com/Kael-web7) |
 | ``2.0`` | 21/10/2025 | [Samuel Felipe](https://github.com/TerminaKng05) | Criação da CNFR 14 e do diagrama de confiabilidade | [Heyttor Augusto](https://github.com/H3ytt0r62)
 | ``2.1`` | 21/10/2025 | [Miqueias Ezequiel](https://github.com/Kael-web7) | adição link CNFR's 7-8  | [Luan Vinícius](https://github.com/luannvi) |
+| ``2.2``     | 20/11/2025 | [Miquéias Ezequiel](https://github.com/Kael-web7)    | Especificação aprimorada RNF09 | [Luan Vinícius](https://github.com/luannvi) |
