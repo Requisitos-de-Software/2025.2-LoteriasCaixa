@@ -49,6 +49,24 @@ Foram realizadas no dia 20/10/2025 pelo estudante Miqueias Ezequiel e o usuario 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SVruBZdvBSo?si=HUrAKsoEW5n2xg3v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+#### Validação com o Usuário (HU31 - HU36)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uKSW9J8dO30?si=ZpOZLo81cj6Sg9Rn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+| Participante | Função | Data | Horário | Local |
+| ------------ | ----- | ----- | ------ | -------|
+| [Luan Vinícius](https://github.com/luannvi) | Integrante do grupo, responsável por coordenar a validação com o usuário. | 21/10/2025 | 16:45 | Presencial
+| Matheus Queiroz | Estudante de engenharia de software e usuário do app Loterias Caixa, responsável por validar as histórias de usuários desenvolvidos para o artefato. | 21/10/2025 | 16:45 | Presencial |
+
+#### Validação com o Usuário (Histórias de usuário - HU07 à HU12)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4vKn7kZS1Us?si=bbYpQtaFP1Cy7mub" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+| Participante | Função | Data | Horário | Local | 
+| ------------ | ----- | ----- | ------ | -------|
+| [João Pedro](https://github.com/Jadequilin) | Integrante do grupo, responsável por coordenar a validação com o usuário. | 20/10/2025 | 20:20 | Presencial, residência
+| Janice José Araújo | 49 anos, funcionária pública e usuária do app Loterias Caixa, responsável por validar as histórias de  usuário desenvolvidas para o artefato. | 20/10/2025 | 20:20 | Presencial, residência |
+
 ## Histórias de usuários
 
 <a id="HU01"></a>
@@ -212,15 +230,6 @@ Autor: [João Pedro](https://github.com/Jadequilin)
 | **Rastreabilidade** | [RNF08](../../Elicitação/Requisitos%20Elicitados.md) |
 | **Prioridade** | Média |
 | **Status** | Não Implementado |
-
-#### Validação com o Usuário (Histórias de usuário - HU07 à HU12)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4vKn7kZS1Us?si=bbYpQtaFP1Cy7mub" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-| Participante | Função | Data | Horário | Local | 
-| ------------ | ----- | ----- | ------ | -------|
-| [João Pedro](https://github.com/Jadequilin) | Integrante do grupo, responsável por coordenar a validação com o usuário. | 20/10/2025 | 20:20 | Presencial, residência
-| Janice José Araújo | 49 anos, funcionária pública e usuária do app Loterias Caixa, responsável por validar as histórias de  usuário desenvolvidas para o artefato. | 20/10/2025 | 20:20 | Presencial, residência |
 
 <a id="HU13"></a>
 ## HU13 - Imagens Explicativas no Aplicativo
@@ -559,14 +568,7 @@ Autor: [Luan Vinícius](https://github.com/luannvi)
 | **Prioridade** | Média |
 | **Status** | Implementado |
 
-#### Validação com o Usuário (HU31 - HU36)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uKSW9J8dO30?si=ZpOZLo81cj6Sg9Rn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-| Participante | Função | Data | Horário | Local |
-| ------------ | ----- | ----- | ------ | -------|
-| [Luan Vinícius](https://github.com/luannvi) | Integrante do grupo, responsável por coordenar a validação com o usuário. | 21/10/2025 | 16:45 | Presencial
-| Matheus Queiroz | Estudante de engenharia de software e usuário do app Loterias Caixa, responsável por validar as histórias de usuários desenvolvidos para o artefato. | 21/10/2025 | 16:45 | Presencial |
 
 <a id="HU37"></a>
 ### HU37 - Função "Rapidão"
@@ -678,3 +680,4 @@ O grupo 7 agradece o apoio das ferramentas de inteligencia artificial generativa
 | ``1.9``    | 21/10/2025 | [João Pedro](https://github.com/Jadequilin)   | Correção dos IDs de referência à requisitos |[Rivadalvio Joaquim](https://github.com/RivaFilho)  |
 | ``2.0`` | 21/10/2025 | [Luan Vinícius](https://github.com/luannvi) | Adição da validação com o usuário (HU31 - HU36) | [Miqueias Ezequiel](https://github.com/Kael-web7) |
 | ``2.1`` | 21/10/2025 | [Miqueias Ezequiel](https://github.com/Kael-web7) | adição links de validação historia de usuario (19-24)| [Luan Vinícius](https://github.com/luannvi) |
+| ``2.2``    | 21/10/2025 | [João Pedro](https://github.com/Jadequilin)   | Padronização do local dos vídeos |[Rivadalvio Joaquim](https://github.com/RivaFilho)  |
