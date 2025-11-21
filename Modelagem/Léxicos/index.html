@@ -5762,7 +5762,19 @@
 <h2 id="introducao">Introdução</h2>
 <p>Este documento apresenta a especificação dos léxicos do sistema Loterias Caixa utilizando a técnica <strong>LAL (Léxico Ampliado da Linguagem)</strong>. Os léxicos têm como objetivo definir de forma precisa e não ambígua os termos e conceitos do domínio do aplicativo, garantindo um vocabulário comum entre desenvolvedores, stakeholders e usuários finais, seguindo a metodologia apresentada no material da disciplina.</p>
 <h2 id="metodologia">Metodologia</h2>
-<p>Foi utilizada a técnica <strong>LAL (Léxico Ampliado da Linguagem)</strong> conforme apresentado por Serrano e Serrano (2010) para especificação dos símbolos do domínio. Cada léxico é composto pelos seguintes elementos:</p>
+<p>O léxico funciona como uma notação que lista e define os símbolos (palavras ou expressões) usados em uma linguagem. Em Engenharia de Requisitos, seu papel central é identificar termos ou frases próprios do contexto social em que o sistema será aplicado <a id="anchor_1" href="#REF1">[1]</a> . Cada símbolo do léxico é caracterizado por:</p>
+<ul>
+<li><strong>Noção</strong>: o seu significado literal, aquilo que ele denota <a id="anchor_2" href="#REF2">[2]</a>.</li>
+<li><strong>Impacto</strong>: a sua conotação ou efeito prático, ou seja, a resposta gerada quando o símbolo é utilizado <a id="anchor_2" href="#REF2">[2]</a>.</li>
+</ul>
+<p>Para elaborar os léxicos do Loterias Caixa, adotamos a abordagem do <strong>Léxico Ampliado da Linguagem (LAL)</strong>, conforme proposta por Sayão e Carvalho. Nesse modelo, cada símbolo é classificado em uma das quatro categorias:</p>
+<ul>
+<li><strong>Sujeito</strong>: identifica quem é o agente ou entidade responsável pela ação, enquanto o impacto descreve quais operações esse agente executa sobre o sistema ou ambiente.</li>
+<li><strong>Verbo</strong>: detalha quem realiza determinada ação, em que momento ela ocorre e quais procedimentos a compõem; o impacto mapeia os efeitos dessa ação no contexto e os novos estados que podem emergir.</li>
+<li><strong>Objeto</strong>: define o elemento ou recurso do sistema e suas associações com outros objetos; o impacto especifica que tipos de operações podem ser aplicadas a esse objeto.</li>
+<li><strong>Estado</strong>: descreve a condição ou situação atual do sistema, indicando quais eventos o levaram a tal ponto, e o impacto projeta os estados seguintes possíveis a partir dessa condição.</li>
+</ul>
+<p>Cada léxico é estruturado com os seguintes campos:</p>
 <ul>
 <li><strong>Símbolo</strong>: Nome do termo/conceito do domínio</li>
 <li><strong>Tipo</strong>: Classificação em Verbo, Objeto ou Estado</li>
@@ -7037,8 +7049,10 @@ Autor: <a href="https://github.com/RivaFilho">Rivadalvio Joaquim</a></p>
 <p>O grupo 7 agradece o apoio das ferramentas de inteligência artificial generativa - chatGPT, Google Gemini - na revisão gramatical e estilo de algumas partes do texto. As tecnologias foram utilizadas para organizar e deixar o texto mais claro, além de fornecer exemplos de sinônimos e melhorias na estrutura dos léxicos. Todo o conteúdo, assim como a precisão técnica e as ideias apresentadas, permanecem de responsabilidade dos autores.</p>
 <h2 id="referencias-bibliograficas">Referências Bibliográficas</h2>
 <blockquote>
-<p>SERRANO, Milene; SERRANO, Maurício. <strong>Requisitos - Aula 10</strong>. Disponível em: <a href="https://aprender3.unb.br/pluginfile.php/3210627/mod_resource/content/1/Aula%2010.pdf">https://aprender3.unb.br/pluginfile.php/3210627/mod_resource/content/1/Aula%2010.pdf</a>. Acesso em: 11/10/2025.</p>
-<p>LÉXICOS. [S. l.], 2023. Disponível em: <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/lexicos">https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/lexicos</a>. Acesso em: 12 out. 2025.</p>
+<p><a id="REF1" href="#anchor_1">1.</a> SERRANO M., SERRANO M. Requisitos - Aula 10 - p. 13 - Disponível em: https://aprender3.unb.br/pluginfile.php/3096108/mod_resource/content/1/Aula%2010.pdf. Acesso em: 11/10/2025</p>
+<p><a id="REF2" href="#anchor_2">2.</a> SERRANO M., SERRANO M. Requisitos - Aula 10 - p. 14 - Disponível em: https://aprender3.unb.br/pluginfile.php/3096108/mod_resource/content/1/Aula%2010.pdf. Acesso em: 11/10/2025.</p>
+<p>3.SAYÃO, Miriam, CARVALHO, Gustavo. Construção do léxico de aplicações. Information and Human Language Technology, 4th Workshop, Ribeirão Preto, 2006. Disponível em: http://www.nilc.icmc.usp.br/til/til2006/0030.pdf. Acesso em: 10/05/2025.</p>
+<p>4.LÉXICOS. [S. l.], 2023. Disponível em: <a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/lexicos">https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/lexicos</a>. Acesso em: 12 out. 2025.</p>
 </blockquote>
 <h2 id="bibliografia">Bibliografia</h2>
 <blockquote>
@@ -7103,6 +7117,13 @@ Autor: <a href="https://github.com/RivaFilho">Rivadalvio Joaquim</a></p>
 <td>18/11/2025</td>
 <td><a href="https://github.com/Jadequilin">João Pedro</a> e <a href="https://github.com/RivaFilho">Rivadalvio Joaquim</a></td>
 <td>Adição de hyperlinks em todos os IDs de requisitos permitindo navegação para Backward from</td>
+<td><a href="https://github.com/luannvi">Luan Vinícius</a></td>
+</tr>
+<tr>
+<td><code>1.7</code></td>
+<td>18/11/2025</td>
+<td><a href="https://github.com/Jadequilin">João Pedro</a> e <a href="https://github.com/RivaFilho">Rivadalvio Joaquim</a></td>
+<td>Adição de hyperlinks nas referências</td>
 <td><a href="https://github.com/luannvi">Luan Vinícius</a></td>
 </tr>
 </tbody>
