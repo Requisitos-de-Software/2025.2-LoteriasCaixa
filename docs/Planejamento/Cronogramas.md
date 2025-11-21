@@ -11,17 +11,18 @@ A Tabelas mostram as atividades planejadas para as apresentações do projeto e 
 | Atividade | Início | Fim | Data limite |Autores | Revisores |
 |-----------|--------|-----|-----|---------|-----------|
 | Heatmap | 02/09 | 08/09 | 09/09 | [Heyttor](https://github.com/H3ytt0r62) |[Samuel Felipe](https://github.com/TerminaKng05)
-| Cronograma |  02/09 | 08/09 | 09/09| [Nayra Nery](https://github.com/NayraNery127)  | [Rivadalvo Filho](https://github.com/RivaFilho)
-| Rich Picture | 02/09 | 08/09 | 09/09 | [João Pedro](https://github.com/Jadequilin), [Miquéias Ezequiel](https://github.com/Kael-web7) | [Rivadalvo Filho](https://github.com/RivaFilho)
-| Lista de sites avaliados | 02/09 | 08/09 | 09/09 |  [Rivadalvo Filho](https://github.com/RivaFilho) | [Samuel Felipe](https://github.com/TerminaKng05)
-| Lista de ferramentas utilizadas | 02/09 | 08/09 | 09/09 | [Miquéias Ezequiel](https://github.com/Kael-web7) | [Nayra Nery](https://github.com/NayraNery127)
+| Cronograma |  02/09 | 08/09 | 09/09| [Nayra Nery](https://github.com/NayraNery127),[Rivadalvo Filho](https://github.com/RivaFilho)  | [Rivadalvo Filho](https://github.com/RivaFilho)
+| Rich Picture | 02/09 | 08/09 | 09/09 | [Luan Vinícius](https://github.com/luannvi) | [Rivadalvo Filho](https://github.com/RivaFilho)
+| Lista de sites avaliados | 02/09 | 08/09 | 09/09 |  [Nayra Nery](https://github.com/NayraNery127) | [Samuel Felipe](https://github.com/TerminaKng05)
+| Lista de ferramentas utilizadas | 02/09 | 08/09 | 09/09 | [Samuel Felipe](https://github.com/TerminaKng05) | [Nayra Nery](https://github.com/NayraNery127)
 | GitPage | 02/09 | 08/09 |09/09 | [Samuel Felipe](https://github.com/TerminaKng05) | [João Pedro](https://github.com/Jadequilin)
 | Checkup da entrega | 08/09 | 09/09 | 09/09 | [Heyttor](https://github.com/H3ytt0r62), [João Pedro](https://github.com/Jadequilin), [Miquéias Ezequiel](https://github.com/Kael-web7), [Nayra Nery](https://github.com/NayraNery127), [Rivadalvo Filho](https://github.com/RivaFilho) e [Samuel Felipe](https://github.com/TerminaKng05) |  [Heyttor](https://github.com/H3ytt0r62), [João Pedro](https://github.com/Jadequilin), [Miquéias Ezequiel](https://github.com/Kael-web7), [Nayra Nery](https://github.com/NayraNery127), [Rivadalvo Filho](https://github.com/RivaFilho) e [Samuel Felipe](https://github.com/TerminaKng05) |
 | Gravação da apresentação | 09/09 | 09/09 | 09/09 | [Heyttor](https://github.com/H3ytt0r62), [João Pedro](https://github.com/Jadequilin), [Miquéias Ezequiel](https://github.com/Kael-web7), [Nayra Nery](https://github.com/NayraNery127), [Rivadalvo Filho](https://github.com/RivaFilho) e [Samuel Felipe](https://github.com/TerminaKng05) | [Heyttor](https://github.com/H3ytt0r62), [João Pedro](https://github.com/Jadequilin), [Miquéias Ezequiel](https://github.com/Kael-web7), [Nayra Nery](https://github.com/NayraNery127), [Rivadalvo Filho](https://github.com/RivaFilho) e [Samuel Felipe](https://github.com/TerminaKng05) |
 |Correções apontadas | 07/09 | 09/09 | 09/09 |  [Heyttor](https://github.com/H3ytt0r62), [João Pedro](https://github.com/Jadequilin), [Miquéias Ezequiel](https://github.com/Kael-web7), [Nayra Nery](https://github.com/NayraNery127), [Rivadalvo Filho](https://github.com/RivaFilho) e [Samuel Felipe](https://github.com/TerminaKng05) | [Heyttor](https://github.com/H3ytt0r62), [João Pedro](https://github.com/Jadequilin), [Miquéias Ezequiel](https://github.com/Kael-web7), [Nayra Nery](https://github.com/NayraNery127), [Rivadalvo Filho](https://github.com/RivaFilho) e [Samuel Felipe](https://github.com/TerminaKng05)|
 
 <p style="text-align: center;">
-  Fonte: <a href="https://github.com/NayraNery127" target="_blank">Nayra Nery</a>, 2025
+  Autores: <a href="https://github.com/NayraNery127" target="_blank">Nayra Nery</a>,
+  <a href="https://github.com/RivaFilho" target="_blank">Rivdalvio Filho</a>,2025
 </p>
 
 ### Etapa 2
@@ -34,7 +35,7 @@ A Tabelas mostram as atividades planejadas para as apresentações do projeto e 
 | Persona | 10/09 | 20/09 | 29/09 | [Rivadalvo Filho](https://github.com/RivaFilho) | [Heyttor](https://github.com/H3ytt0r62) |
 | Análise de documentos | 10/09 | 20/09 | 29/09 | [Samuel Felipe](https://github.com/TerminaKng05) | [Nayra Nery](https://github.com/NayraNery127) |
 | Glossário | 10/09 | 20/09 | 29/09 | [Miquéias Ezequiel](https://github.com/Kael-web7) e [Samuel Felipe](https://github.com/TerminaKng05) | [Nayra Nery](https://github.com/NayraNery127) |
-| Entrevista | 10/09 | 20/09 | 29/09 | [Heyttor](https://github.com/H3ytt0r62), [Rivadalvo Filho](https://github.com/RivaFilho) e [João Pedro](https://github.com/Jadequilin) | [Luan Vinícius](https://github.com/luannvi) |
+| Entrevista | 10/09 | 20/09 | 29/09 | [Heyttor](https://github.com/H3ytt0r62), [João Pedro](https://github.com/Jadequilin), [Miquéias Ezequiel](https://github.com/Kael-web7), [Nayra Nery](https://github.com/NayraNery127), [Rivadalvo Filho](https://github.com/RivaFilho), [Luan Vinícius](https://github.com/luannvi) e [Samuel Felipe](https://github.com/TerminaKng05) | [Heyttor](https://github.com/H3ytt0r62), [João Pedro](https://github.com/Jadequilin), [Miquéias Ezequiel](https://github.com/Kael-web7), [Nayra Nery](https://github.com/NayraNery127), [Rivadalvo Filho](https://github.com/RivaFilho), [Luan Vinícius](https://github.com/luannvi) e [Samuel Felipe](https://github.com/TerminaKng05)
 | Observação | 10/09 | 20/09 | 29/09 | [Luan Vinícius](https://github.com/luannvi) | [Heyttor](https://github.com/H3ytt0r62) |
 | 3 Levels de importância | 23/09 | 26/09 | 29/09 | [Heyttor](https://github.com/H3ytt0r62) | [Miquéias Ezequiel](https://github.com/Kael-web7) |
 | MoSCoW | 23/09 | 26/09 | 29/09 | [Heyttor](https://github.com/H3ytt0r62), [João Pedro](https://github.com/Jadequilin), [Miquéias Ezequiel](https://github.com/Kael-web7), [Nayra Nery](https://github.com/NayraNery127), [Rivadalvo Filho](https://github.com/RivaFilho), [Luan Vinícius](https://github.com/luannvi) e [Samuel Felipe](https://github.com/TerminaKng05) | [Heyttor](https://github.com/H3ytt0r62), [João Pedro](https://github.com/Jadequilin), [Miquéias Ezequiel](https://github.com/Kael-web7), [Nayra Nery](https://github.com/NayraNery127), [Rivadalvo Filho](https://github.com/RivaFilho), [Luan Vinícius](https://github.com/luannvi) e [Samuel Felipe](https://github.com/TerminaKng05) |
@@ -47,14 +48,10 @@ A Tabelas mostram as atividades planejadas para as apresentações do projeto e 
 
 
 
-
-
-
-
 <p style="text-align: center;">
-  Fonte: <a href="https://github.com/NayraNery127" target="_blank">Nayra Nery</a>, 2025
+  Autores: <a href="https://github.com/NayraNery127" target="_blank">Nayra Nery</a>,
+  <a href="https://github.com/RivaFilho" target="_blank">Rivdalvio Filho</a>,2025
 </p>
-
 
 ### Etapa 3
 #### Tabela 3 - Itens planejados ponto de controle 3.
@@ -63,25 +60,19 @@ A Tabelas mostram as atividades planejadas para as apresentações do projeto e 
 
 | Atividade | Início | Fim | Data limite | Autores | Revisores |
 |------------|--------|-----|--------------|----------|------------|
-| Casos de uso | 01/10 | 11/10 | 12/10 | [Samuel Felipe](https://github.com/TerminaKng05) | [João Pedro](https://github.com/Jadequilin) e [Heyttor](https://github.com/H3ytt0r62) |
+| Casos de uso | 01/10 | 11/10 | 12/10 | [Heyttor](https://github.com/H3ytt0r62), [João Pedro](https://github.com/Jadequilin), [Miquéias Ezequiel](https://github.com/Kael-web7), [Nayra Nery](https://github.com/NayraNery127), [Rivadalvo Filho](https://github.com/RivaFilho), [Luan Vinícius](https://github.com/luannvi) e [Samuel Felipe](https://github.com/TerminaKng05) | [Heyttor](https://github.com/H3ytt0r62), [João Pedro](https://github.com/Jadequilin), [Miquéias Ezequiel](https://github.com/Kael-web7), [Nayra Nery](https://github.com/NayraNery127), [Rivadalvo Filho](https://github.com/RivaFilho), [Luan Vinícius](https://github.com/luannvi) e [Samuel Felipe](https://github.com/TerminaKng05) |
 | Cenários | 03/10 | 11/10 | 12/10 | [Heyttor](https://github.com/H3ytt0r62), [João Pedro](https://github.com/Jadequilin), [Miquéias Ezequiel](https://github.com/Kael-web7), [Nayra Nery](https://github.com/NayraNery127), [Rivadalvo Filho](https://github.com/RivaFilho), [Luan Vinícius](https://github.com/luannvi) e [Samuel Felipe](https://github.com/TerminaKng05) | [Miquéias Ezequiel](https://github.com/Kael-web7) e [Rivadalvo Filho](https://github.com/RivaFilho) |
-| Léxico | 03/10 | 11/10 | 12/10 | [João Pedro](https://github.com/Jadequilin) | [Heyttor](https://github.com/H3ytt0r62) |
-| Especificação suplementar | 02/10 | 11/10 | 12/10 | [Heyttor](https://github.com/H3ytt0r62), [João Pedro](https://github.com/Jadequilin), [Miquéias Ezequiel](https://github.com/Kael-web7), [Nayra Nery](https://github.com/NayraNery127), [Rivadalvo Filho](https://github.com/RivaFilho), [Luan Vinícius](https://github.com/luannvi) e [Samuel Felipe](https://github.com/TerminaKng05) | [Samuel Felipe](https://github.com/TerminaKng05) |
+| Léxico | 03/10 | 11/10 | 12/10 | [Heyttor](https://github.com/H3ytt0r62), [João Pedro](https://github.com/Jadequilin), [Miquéias Ezequiel](https://github.com/Kael-web7), [Nayra Nery](https://github.com/NayraNery127), [Rivadalvo Filho](https://github.com/RivaFilho), [Luan Vinícius](https://github.com/luannvi) e [Samuel Felipe](https://github.com/TerminaKng05) | [Heyttor](https://github.com/H3ytt0r62), [João Pedro](https://github.com/Jadequilin), [Miquéias Ezequiel](https://github.com/Kael-web7), [Nayra Nery](https://github.com/NayraNery127), [Rivadalvo Filho](https://github.com/RivaFilho), [Luan Vinícius](https://github.com/luannvi) e [Samuel Felipe](https://github.com/TerminaKng05) |
+| Especificação suplementar | 02/10 | 11/10 | 12/10 | [Heyttor](https://github.com/H3ytt0r62), [João Pedro](https://github.com/Jadequilin), [Miquéias Ezequiel](https://github.com/Kael-web7), [Nayra Nery](https://github.com/NayraNery127), [Rivadalvo Filho](https://github.com/RivaFilho), [Luan Vinícius](https://github.com/luannvi) e [Samuel Felipe](https://github.com/TerminaKng05) | [Heyttor](https://github.com/H3ytt0r62), [João Pedro](https://github.com/Jadequilin), [Miquéias Ezequiel](https://github.com/Kael-web7), [Nayra Nery](https://github.com/NayraNery127), [Rivadalvo Filho](https://github.com/RivaFilho), [Luan Vinícius](https://github.com/luannvi) e [Samuel Felipe](https://github.com/TerminaKng05) 
 | Checkup da entrega | 11/10 | 11/10 | 11/10 | [Heyttor](https://github.com/H3ytt0r62), [João Pedro](https://github.com/Jadequilin), [Miquéias Ezequiel](https://github.com/Kael-web7), [Nayra Nery](https://github.com/NayraNery127), [Rivadalvo Filho](https://github.com/RivaFilho), [Luan Vinícius](https://github.com/luannvi) e [Samuel Felipe](https://github.com/TerminaKng05) | [Heyttor](https://github.com/H3ytt0r62), [João Pedro](https://github.com/Jadequilin), [Miquéias Ezequiel](https://github.com/Kael-web7), [Nayra Nery](https://github.com/NayraNery127), [Rivadalvo Filho](https://github.com/RivaFilho), [Luan Vinícius](https://github.com/luannvi) e [Samuel Felipe](https://github.com/TerminaKng05) |
 | Gravação da apresentação | 12/10 | 12/10 | 12/10 | [Heyttor](https://github.com/H3ytt0r62), [João Pedro](https://github.com/Jadequilin), [Miquéias Ezequiel](https://github.com/Kael-web7), [Nayra Nery](https://github.com/NayraNery127), [Rivadalvo Filho](https://github.com/RivaFilho), [Luan Vinícius](https://github.com/luannvi) e [Samuel Felipe](https://github.com/TerminaKng05) | [Heyttor](https://github.com/H3ytt0r62), [João Pedro](https://github.com/Jadequilin), [Miquéias Ezequiel](https://github.com/Kael-web7), [Nayra Nery](https://github.com/NayraNery127), [Rivadalvo Filho](https://github.com/RivaFilho), [Luan Vinícius](https://github.com/luannvi) e [Samuel Felipe](https://github.com/TerminaKng05) |
 | Correções | 11/10 | 11/10 | 11/10 | [Heyttor](https://github.com/H3ytt0r62), [João Pedro](https://github.com/Jadequilin), [Miquéias Ezequiel](https://github.com/Kael-web7), [Nayra Nery](https://github.com/NayraNery127), [Rivadalvo Filho](https://github.com/RivaFilho), [Luan Vinícius](https://github.com/luannvi) e [Samuel Felipe](https://github.com/TerminaKng05) | [Heyttor](https://github.com/H3ytt0r62), [João Pedro](https://github.com/Jadequilin), [Miquéias Ezequiel](https://github.com/Kael-web7), [Nayra Nery](https://github.com/NayraNery127), [Rivadalvo Filho](https://github.com/RivaFilho), [Luan Vinícius](https://github.com/luannvi) e [Samuel Felipe](https://github.com/TerminaKng05) |
 
 
-
-
-
-
-
-
 <p style="text-align: center;">
-  Fonte: <a href="https://github.com/NayraNery127" target="_blank">Nayra Nery</a>, 2025
+  Autores: <a href="https://github.com/NayraNery127" target="_blank">Nayra Nery</a>,
+  <a href="https://github.com/RivaFilho" target="_blank">Rivdalvio Filho</a>,2025
 </p>
-
 
 ## Etapa 4
 ### Tabela 4 - Itens planejados ponto de controle 4
@@ -89,14 +80,17 @@ A Tabelas mostram as atividades planejadas para as apresentações do projeto e 
 
 | Atividade                | Início | Fim   | Data limite | Autores                                                                                                                                                                                                                                                    | Revisores                                                                                                                                                                                                                                                   |
 |--------------------------|:------:|:-----:|:-----------:|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Histórias de usuário     | 13/10  | 20/10 | 21/10       | [Heyttor](https://github.com/H3ytt0r62), [João Pedro](https://github.com/Jadequilin), [Miquéias Ezequiel](https://github.com/Kael-web7), [Nayra Nery](https://github.com/NayraNery127), [Rivadalvo Filho](https://github.com/RivaFilho), [Samuel Felipe](https://github.com/TerminaKng05) e [Luan Vinícius](https://github.com/luannvi) | Rivadalvo Filho, Miquéias Ezequiel                                                                                                                                                                                                                         |
-| Backlog                  | 13/10  | 20/10 | 21/10       | [Heyttor](https://github.com/H3ytt0r62), [João Pedro](https://github.com/Jadequilin), [Miquéias Ezequiel](https://github.com/Kael-web7), [Nayra Nery](https://github.com/NayraNery127), [Rivadalvo Filho](https://github.com/RivaFilho), [Samuel Felipe](https://github.com/TerminaKng05) e [Luan Vinícius](https://github.com/luannvi) | João Pedro                                                                                                                                                                                                                                                 |
-| NFR Framework            | 13/10  | 20/10 | 21/10       | [Heyttor](https://github.com/H3ytt0r62), [João Pedro](https://github.com/Jadequilin), [Miquéias Ezequiel](https://github.com/Kael-web7), [Nayra Nery](https://github.com/NayraNery127), [Rivadalvo Filho](https://github.com/RivaFilho), [Samuel Felipe](https://github.com/TerminaKng05) e [Luan Vinícius](https://github.com/luannvi) | Samuel Felipe                                                                                                                                                                                                                                              |
+| Histórias de usuário     | 13/10  | 20/10 | 21/10       | [Heyttor](https://github.com/H3ytt0r62), [João Pedro](https://github.com/Jadequilin), [Miquéias Ezequiel](https://github.com/Kael-web7), [Nayra Nery](https://github.com/NayraNery127), [Rivadalvo Filho](https://github.com/RivaFilho), [Samuel Felipe](https://github.com/TerminaKng05) e [Luan Vinícius](https://github.com/luannvi) |[Heyttor](https://github.com/H3ytt0r62), [João Pedro](https://github.com/Jadequilin), [Miquéias Ezequiel](https://github.com/Kael-web7), [Nayra Nery](https://github.com/NayraNery127), [Rivadalvo Filho](https://github.com/RivaFilho), [Luan Vinícius](https://github.com/luannvi) e [Samuel Felipe](https://github.com/TerminaKng05)                                                                                                                                                                                                                    |
+| Backlog                  | 13/10  | 20/10 | 21/10       | [Heyttor](https://github.com/H3ytt0r62), [João Pedro](https://github.com/Jadequilin), [Miquéias Ezequiel](https://github.com/Kael-web7), [Nayra Nery](https://github.com/NayraNery127), [Rivadalvo Filho](https://github.com/RivaFilho), [Samuel Felipe](https://github.com/TerminaKng05) e [Luan Vinícius](https://github.com/luannvi) | [Heyttor](https://github.com/H3ytt0r62), [João Pedro](https://github.com/Jadequilin), [Miquéias Ezequiel](https://github.com/Kael-web7), [Nayra Nery](https://github.com/NayraNery127), [Rivadalvo Filho](https://github.com/RivaFilho), [Luan Vinícius](https://github.com/luannvi) e [Samuel Felipe](https://github.com/TerminaKng05)                                                                                                                                                                                                                                                |
+| NFR Framework            | 13/10  | 20/10 | 21/10       | [Heyttor](https://github.com/H3ytt0r62), [João Pedro](https://github.com/Jadequilin), [Miquéias Ezequiel](https://github.com/Kael-web7), [Nayra Nery](https://github.com/NayraNery127), [Rivadalvo Filho](https://github.com/RivaFilho), [Samuel Felipe](https://github.com/TerminaKng05) e [Luan Vinícius](https://github.com/luannvi) | [Heyttor](https://github.com/H3ytt0r62), [João Pedro](https://github.com/Jadequilin), [Miquéias Ezequiel](https://github.com/Kael-web7), [Nayra Nery](https://github.com/NayraNery127), [Rivadalvo Filho](https://github.com/RivaFilho), [Luan Vinícius](https://github.com/luannvi) e [Samuel Felipe](https://github.com/TerminaKng05)                                                                                                                                                                                                                                              |
 | Checkup da entrega       | 20/10  | 20/10 | 21/10       | [Heyttor](https://github.com/H3ytt0r62), [João Pedro](https://github.com/Jadequilin), [Miquéias Ezequiel](https://github.com/Kael-web7), [Nayra Nery](https://github.com/NayraNery127), [Rivadalvo Filho](https://github.com/RivaFilho), [Samuel Felipe](https://github.com/TerminaKng05) e [Luan Vinícius](https://github.com/luannvi) | [Heyttor](https://github.com/H3ytt0r62), [João Pedro](https://github.com/Jadequilin), [Miquéias Ezequiel](https://github.com/Kael-web7), [Nayra Nery](https://github.com/NayraNery127), [Rivadalvo Filho](https://github.com/RivaFilho), [Samuel Felipe](https://github.com/TerminaKng05) e [Luan Vinícius](https://github.com/luannvi) |
 | Gravação da apresentação | 21/10  | 21/10 | 21/10       | [Heyttor](https://github.com/H3ytt0r62), [João Pedro](https://github.com/Jadequilin), [Miquéias Ezequiel](https://github.com/Kael-web7), [Nayra Nery](https://github.com/NayraNery127), [Rivadalvo Filho](https://github.com/RivaFilho), [Samuel Felipe](https://github.com/TerminaKng05) e [Luan Vinícius](https://github.com/luannvi) | [Heyttor](https://github.com/H3ytt0r62), [João Pedro](https://github.com/Jadequilin), [Miquéias Ezequiel](https://github.com/Kael-web7), [Nayra Nery](https://github.com/NayraNery127), [Rivadalvo Filho](https://github.com/RivaFilho), [Samuel Felipe](https://github.com/TerminaKng05) e [Luan Vinícius](https://github.com/luannvi) |
 | Correções      | 21/10  | 21/10 | 21/10       | [Heyttor](https://github.com/H3ytt0r62), [João Pedro](https://github.com/Jadequilin), [Miquéias Ezequiel](https://github.com/Kael-web7), [Nayra Nery](https://github.com/NayraNery127), [Rivadalvo Filho](https://github.com/RivaFilho), [Samuel Felipe](https://github.com/TerminaKng05) e [Luan Vinícius](https://github.com/luannvi) | [Heyttor](https://github.com/H3ytt0r62), [João Pedro](https://github.com/Jadequilin), [Miquéias Ezequiel](https://github.com/Kael-web7), [Nayra Nery](https://github.com/NayraNery127), [Rivadalvo Filho](https://github.com/RivaFilho), [Samuel Felipe](https://github.com/TerminaKng05) e [Luan Vinícius](https://github.com/luannvi) |
 
-*Fonte: Nayra Nery, 2025.*
+<p style="text-align: center;">
+  Autores: <a href="https://github.com/NayraNery127" target="_blank">Nayra Nery</a>,
+  <a href="https://github.com/RivaFilho" target="_blank">Rivdalvio Filho</a>,2025
+</p>
 
 ## Etapa 5 – Itens planejados ponto de controle 5
 ### Atividade 5 – Fase: Pós-Rastreabilidade e Gerência (29/10–13/11)
@@ -110,8 +104,10 @@ A Tabelas mostram as atividades planejadas para as apresentações do projeto e 
 | Gravação da prévia (apresentação)  | 11/11  | 11/11 | 13/11       | [Heyttor](https://github.com/H3ytt0r62), [João Pedro](https://github.com/Jadequilin), [Miquéias Ezequiel](https://github.com/Kael-web7), [Nayra Nery](https://github.com/NayraNery127), [Rivadalvo Filho](https://github.com/RivaFilho), [Samuel Felipe](https://github.com/TerminaKng05) e [Luan Vinícius](https://github.com/luannvi) | [Heyttor](https://github.com/H3ytt0r62), [João Pedro](https://github.com/Jadequilin), [Miquéias Ezequiel](https://github.com/Kael-web7), [Nayra Nery](https://github.com/NayraNery127), [Rivadalvo Filho](https://github.com/RivaFilho), [Samuel Felipe](https://github.com/TerminaKng05) e [Luan Vinícius](https://github.com/luannvi) |
 | Correções                          | 11/11  | 12/11 | 13/11       | [Heyttor](https://github.com/H3ytt0r62), [João Pedro](https://github.com/Jadequilin), [Miquéias Ezequiel](https://github.com/Kael-web7), [Nayra Nery](https://github.com/NayraNery127), [Rivadalvo Filho](https://github.com/RivaFilho), [Samuel Felipe](https://github.com/TerminaKng05) e [Luan Vinícius](https://github.com/luannvi) | [Heyttor](https://github.com/H3ytt0r62), [João Pedro](https://github.com/Jadequilin), [Miquéias Ezequiel](https://github.com/Kael-web7), [Nayra Nery](https://github.com/NayraNery127), [Rivadalvo Filho](https://github.com/RivaFilho), [Samuel Felipe](https://github.com/TerminaKng05) e [Luan Vinícius](https://github.com/luannvi) |
 
-*Fonte: Nayra Nery, 2025.*
-
+<p style="text-align: center;">
+  Autores: <a href="https://github.com/NayraNery127" target="_blank">Nayra Nery</a>,
+  <a href="https://github.com/RivaFilho" target="_blank">Rivdalvio Filho</a>,2025
+</p>
 
 ### Etapa 6
 #### Tabela 6 - Itens planejados ponto de controle 6
@@ -125,7 +121,8 @@ A Tabelas mostram as atividades planejadas para as apresentações do projeto e 
 | Gravação da apresentação     | 23/11  | 23/11 | 24/11       | [Heyttor](https://github.com/H3ytt0r62), [João Pedro](https://github.com/Jadequilin), [Miquéias Ezequiel](https://github.com/Kael-web7), [Nayra Nery](https://github.com/NayraNery127), [Rivadalvo Filho](https://github.com/RivaFilho), [Samuel Felipe](https://github.com/TerminaKng05) e [Luan Vinícius](https://github.com/luannvi) | [Heyttor](https://github.com/H3ytt0r62), [João Pedro](https://github.com/Jadequilin), [Miquéias Ezequiel](https://github.com/Kael-web7), [Nayra Nery](https://github.com/NayraNery127), [Rivadalvo Filho](https://github.com/RivaFilho), [Samuel Felipe](https://github.com/TerminaKng05) e [Luan Vinícius](https://github.com/luannvi) |
 
 <p style="text-align: center;">
-  Fonte: <a href="https://github.com/NayraNery127" target="_blank">Nayra Nery</a>, 2025
+  Autores: <a href="https://github.com/NayraNery127" target="_blank">Nayra Nery</a>,
+  <a href="https://github.com/RivaFilho" target="_blank">Rivdalvio Filho</a>,2025
 </p>
 
 
