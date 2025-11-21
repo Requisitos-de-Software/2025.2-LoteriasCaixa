@@ -165,10 +165,10 @@ O grupo 7 agradece o apoio das ferramentas de inteligência artificial generativ
 |``1.0``| 04/11/2025 | inicialização do artefato| [Heyttor Augusto](https://github.com/H3ytt0r62) | -|
 |``2.0``| 06/11/2025 | Adição do RF06 | [Heyttor Augusto](https://github.com/H3ytt0r62) | -|
 | ``2.1`` | 07/11/2025 | Adição do RF38 | [Samuel Felipe](https://github.com/TerminaKng05) | [Heyttor Augusto](https://github.com/H3ytt0r62) |
-| ``2.2``     | 07/11/2025 | Adição do RF33 | [Miquéias Ezequiel](https://github.com/Kael-web7) | [Luan Vinícius](https://github.com/luannvi) |
-| ``2.3``     | 07/11/2025 | Adição do RF28 | [Luan Vinícius](https://github.com/luannvi) | [Miquéias Ezequiel](https://github.com/Kael-web7) |
-| ``2.4``     | 11/11/2025 | Adição do RNF11 | [Luan Vinícius](https://github.com/luannvi) | [Miquéias Ezequiel](https://github.com/Kael-web7) |
-| ``2.5``     | 12/11/2025 | Adição do RF39 | [Miquéias Ezequiel](https://github.com/Kael-web7) | [Luan Vinícius](https://github.com/luannvi) |
+| ``2.2`` | 07/11/2025 | Adição do RF33 | [Miquéias Ezequiel](https://github.com/Kael-web7) | [Luan Vinícius](https://github.com/luannvi) |
+| ``2.3`` | 07/11/2025 | Adição do RF28 | [Luan Vinícius](https://github.com/luannvi) | [Miquéias Ezequiel](https://github.com/Kael-web7) |
+| ``2.4`` | 11/11/2025 | Adição do RNF11 | [Luan Vinícius](https://github.com/luannvi) | [Miquéias Ezequiel](https://github.com/Kael-web7) |
+| ``2.5`` | 12/11/2025 | Adição do RF39 | [Miquéias Ezequiel](https://github.com/Kael-web7) | [Luan Vinícius](https://github.com/luannvi) |
 | ``2.6`` | 12/11/2025| Adição do RF40 | [Samuel Felipe](https://github.com/TerminaKng05) | [Heyttor Augusto](https://github.com/H3ytt0r62) |
 | ``2.7`` | 19/11/2025 | Adição do RNF20 | [João Pedro](https://github.com/Jadequilin) | - |
 | ``2.8`` | 19/11/2025 | Adição do RNF26 | [João Pedro](https://github.com/Jadequilin) | - |

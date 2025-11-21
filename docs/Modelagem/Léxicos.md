@@ -4,7 +4,19 @@ Este documento apresenta a especificação dos léxicos do sistema Loterias Caix
 
 ## Metodologia
 
-Foi utilizada a técnica **LAL (Léxico Ampliado da Linguagem)** conforme apresentado por Serrano e Serrano (2010) para especificação dos símbolos do domínio. Cada léxico é composto pelos seguintes elementos:
+O léxico funciona como uma notação que lista e define os símbolos (palavras ou expressões) usados em uma linguagem. Em Engenharia de Requisitos, seu papel central é identificar termos ou frases próprios do contexto social em que o sistema será aplicado <a id="anchor_1" href="#REF1">[1]</a> . Cada símbolo do léxico é caracterizado por:
+
+* **Noção**: o seu significado literal, aquilo que ele denota <a id="anchor_2" href="#REF2">[2]</a>.
+* **Impacto**: a sua conotação ou efeito prático, ou seja, a resposta gerada quando o símbolo é utilizado <a id="anchor_2" href="#REF2">[2]</a>.
+
+Para elaborar os léxicos do Loterias Caixa, adotamos a abordagem do **Léxico Ampliado da Linguagem (LAL)**, conforme proposta por Sayão e Carvalho. Nesse modelo, cada símbolo é classificado em uma das quatro categorias:
+
+* **Sujeito**: identifica quem é o agente ou entidade responsável pela ação, enquanto o impacto descreve quais operações esse agente executa sobre o sistema ou ambiente.
+* **Verbo**: detalha quem realiza determinada ação, em que momento ela ocorre e quais procedimentos a compõem; o impacto mapeia os efeitos dessa ação no contexto e os novos estados que podem emergir.
+* **Objeto**: define o elemento ou recurso do sistema e suas associações com outros objetos; o impacto especifica que tipos de operações podem ser aplicadas a esse objeto.
+* **Estado**: descreve a condição ou situação atual do sistema, indicando quais eventos o levaram a tal ponto, e o impacto projeta os estados seguintes possíveis a partir dessa condição.
+
+Cada léxico é estruturado com os seguintes campos:
 
 - **Símbolo**: Nome do termo/conceito do domínio
 - **Tipo**: Classificação em Verbo, Objeto ou Estado
@@ -579,9 +591,13 @@ O grupo 7 agradece o apoio das ferramentas de inteligência artificial generativ
 
 ##  Referências Bibliográficas
 
-> SERRANO, Milene; SERRANO, Maurício. **Requisitos - Aula 10**. Disponível em: <https://aprender3.unb.br/pluginfile.php/3210627/mod_resource/content/1/Aula%2010.pdf>. Acesso em: 11/10/2025.
+> <a id="REF1" href="#anchor_1">1.</a> SERRANO M., SERRANO M. Requisitos - Aula 10 - p. 13 - Disponível em: https://aprender3.unb.br/pluginfile.php/3096108/mod_resource/content/1/Aula%2010.pdf. Acesso em: 11/10/2025
 
-> LÉXICOS. [S. l.], 2023. Disponível em: <https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/lexicos>. Acesso em: 12 out. 2025.
+> <a id="REF2" href="#anchor_2">2.</a> SERRANO M., SERRANO M. Requisitos - Aula 10 - p. 14 - Disponível em: https://aprender3.unb.br/pluginfile.php/3096108/mod_resource/content/1/Aula%2010.pdf. Acesso em: 11/10/2025.
+
+> 3.SAYÃO, Miriam, CARVALHO, Gustavo. Construção do léxico de aplicações. Information and Human Language Technology, 4th Workshop, Ribeirão Preto, 2006. Disponível em: http://www.nilc.icmc.usp.br/til/til2006/0030.pdf. Acesso em: 10/05/2025.
+
+> 4.LÉXICOS. [S. l.], 2023. Disponível em: <https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/lexicos>. Acesso em: 12 out. 2025.
 
 ##  Bibliografia
 
@@ -598,3 +614,4 @@ O grupo 7 agradece o apoio das ferramentas de inteligência artificial generativ
 | ``1.4``    | 18/11/2025 | [João Pedro](https://github.com/Jadequilin) e [Rivadalvio Joaquim](https://github.com/RivaFilho)   | Adição de autoria das tabelas como próprio do grupo, inclusão de sinônimos em todos os léxicos e seção de agradecimentos à IA | [Luan Vinícius](https://github.com/luannvi) |
 | ``1.5``    | 18/11/2025 | [João Pedro](https://github.com/Jadequilin) e [Rivadalvio Joaquim](https://github.com/RivaFilho)   | Remoção de "Não implementado obrigatório", mudança de L02 para "Aba de Favoritos", correção de requisitos conforme numeração consolidada e adição de L31 | [Luan Vinícius](https://github.com/luannvi) |
 | ``1.6``    | 18/11/2025 | [João Pedro](https://github.com/Jadequilin) e [Rivadalvio Joaquim](https://github.com/RivaFilho)   | Adição de hyperlinks em todos os IDs de requisitos permitindo navegação para Backward from | [Luan Vinícius](https://github.com/luannvi) |
+| ``1.7``    | 18/11/2025 | [João Pedro](https://github.com/Jadequilin) e [Rivadalvio Joaquim](https://github.com/RivaFilho)   | Adição de hyperlinks nas referências | [Luan Vinícius](https://github.com/luannvi) |

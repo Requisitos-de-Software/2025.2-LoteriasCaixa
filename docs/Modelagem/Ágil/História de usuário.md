@@ -680,4 +680,4 @@ O grupo 7 agradece o apoio das ferramentas de inteligencia artificial generativa
 | ``1.9``    | 21/10/2025 | [João Pedro](https://github.com/Jadequilin)   | Correção dos IDs de referência à requisitos |[Rivadalvio Joaquim](https://github.com/RivaFilho)  |
 | ``2.0`` | 21/10/2025 | [Luan Vinícius](https://github.com/luannvi) | Adição da validação com o usuário (HU31 - HU36) | [Miqueias Ezequiel](https://github.com/Kael-web7) |
 | ``2.1`` | 21/10/2025 | [Miqueias Ezequiel](https://github.com/Kael-web7) | adição links de validação historia de usuario (19-24)| [Luan Vinícius](https://github.com/luannvi) |
-| ``2.2``    | 21/10/2025 | [João Pedro](https://github.com/Jadequilin)   | Padronização do local dos vídeos |[Rivadalvio Joaquim](https://github.com/RivaFilho)  |
+| ``2.2``    | 21/10/2025 | [João Pedro](https://github.com/Jadequilin)   | Padronização do local dos vídeos |[Rivadalvio Joaquim](https://github.com/RivaFilho) |
