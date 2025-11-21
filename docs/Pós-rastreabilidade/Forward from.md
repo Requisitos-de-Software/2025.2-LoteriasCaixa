@@ -30,7 +30,7 @@ A rastreabilidade é capacidade de rastrear ou encontrar algo ou alguem baseado 
 | **RF01** | O usuário deve receber Comprovantes de seus ganhos e apostas | - | [HU06](../Modelagem/Ágil/História%20de%20usuário.md#HU06) | - | - | - | [L06](../Modelagem/Léxicos.md#L06) |
 | **RF02** | O usuário deve ter mais de uma opção de aposta | - | - | - | - | [CN03](../Modelagem/Cenários.md#CN03) | - |
 | **RF03** | O usuário deve poder acompanhar jogos pelo software | - | [HU19](../Modelagem/Ágil/História%20de%20usuário.md#HU19) | - | - | - | [L27](../Modelagem/Léxicos.md#L27) |
-| **RF04** | O software deve ter poucas telas | - | [HU24](../Modelagem/Ágil/História%20de%20usuário.md#HU24) | - | - | - | - |
+| **RF04** | O software deve ter poucas telas (menos que 20)| - | [HU24](../Modelagem/Ágil/História%20de%20usuário.md#HU24) | - | - | - | - |
 | **RF05** | O usuário deve poder consultar seus ganhos | - | [HU16](../Modelagem/Ágil/História%20de%20usuário.md#HU16) | - | - | - | - |
 | **RF06** | O software deve ter opções de modo claro e escuro | - | [HU01](../Modelagem/Ágil/História%20de%20usuário.md#HU01) | [CNFR01](../Modelagem/Ágil/NFR.md#CNFR01) | - | - | [L09](../Modelagem/Léxicos.md#L09) |
 | **RF07** | O usuário deve receber o resultado das apostas | - | [HU03](../Modelagem/Ágil/História%20de%20usuário.md#HU03) | - | - | - | - |
@@ -61,7 +61,7 @@ A rastreabilidade é capacidade de rastrear ou encontrar algo ou alguem baseado 
 | **RF32** | O aplicativo apresenta funções de acessibilidade aos idosos e deficientes | Não Implementado | [ENT15](../Elicitação/Técnicas/Entrevista.md) |
 | **RF33** | As opções de ações dentro do aplicativo são acessíveis em 3 cliques para o apostante | Implementado | [ENT16](../Elicitação/Técnicas/Entrevista.md) |
 | **RF34** | Os dados do usuário são mantidos em sigilo e protegidos | Implementado | [ENT18](../Elicitação/Técnicas/Entrevista.md) |
-| **RF35** | As páginas do aplicativo mais usadas pelo usuário estão em destaque na tela | Não implementado | [ENT23](../Elicitação/Técnicas/Entrevista.md) |
+| **RF35** | As apostas do aplicativo mais jogadas pelo usuário estão em destaque na tela | Não implementado | [ENT23](../Elicitação/Técnicas/Entrevista.md) |
 | **RF36** | O sistema fornece avisos ao usuário sobre seu limite diário de apostas | Não Implementado | [ENT25](../Elicitação/Técnicas/Entrevista.md) |
 | **RF37** | O sistema apresenta uma tela chamada "favoritos", onde o apostante consegue realizar jogos com base nas suas preferências de aposta; | Não Implementado | [AD05](./Técnicas/Análise%20de%20Documentos.md/#requisitos-não-funcionais) |
 | **RF39** | O sistema notifica o apostante quando sua aposta foi premiada; | Não implementado | [AD12](../Elicitação/Técnicas/Análise%20de%20Documentos.md) |
@@ -70,8 +70,8 @@ A rastreabilidade é capacidade de rastrear ou encontrar algo ou alguem baseado 
 
 | ID | Descrição | UC | HU | CNFR | ES | CN | L |
 |:---|:---|:---|:---|:---|:---|:---|:---|
-| **RNF01** | O software deve ter telas simples com poucos textos | - | - | [CNFR01](../Modelagem/Ágil/NFR.md#CNFR01) | [Suportabilidade](../Modelagem/Especificação%20Suplementar.md#Suportabilidade) | - | - |
-| **RNF02** | O software deve ter imagens explicativas | - | [HU13](../Modelagem/Ágil/História%20de%20usuário.md#HU13) | - | - | [CN02](../Modelagem/Cenários.md#CN02) | - |
+| **RNF01** | O software deve ter telas simples com poucos elementos | - | - | [CNFR01](../Modelagem/Ágil/NFR.md#CNFR01) | [Suportabilidade](../Modelagem/Especificação%20Suplementar.md#Suportabilidade) | - | - |
+| **RNF02** | O software deve ter imagens explicativas que mostrem as funções principais do palicativo, em uma aba especial so para elas | - | [HU13](../Modelagem/Ágil/História%20de%20usuário.md#HU13) | - | - | [CN02](../Modelagem/Cenários.md#CN02) | - |
 | **RNF03** | A navegação entre a seleção de jogos, o preenchimento do volante e o carrinho de compras deve ser intuitiva | - | - | [CNFR07](../Modelagem/Ágil/NFR.md#CNFR07) | [Usabilidade](../Modelagem/Especificação%20Suplementar.md#Usabilidade) | - | [L30](../Modelagem/Léxicos.md#L30) |
 | **RNF04** | O resultado de uma loteria deve ser carregado e exibido na tela em menos de 3 segundos sob uma conexão 4G/5G padrão | - | [HU36](../Modelagem/Ágil/História%20de%20usuário.md#HU36) | [CNFR08](../Modelagem/Ágil/NFR.md#CNFR08) | [Desempenho](../Modelagem/Especificação%20Suplementar.md#Desempenho) | - | - |
 | **RNF05** | O sistema deve proteger o acesso às funcionalidades transacionais exigindo a autenticação do usuário no início da sessão | - | - | - | - | - | - |
@@ -101,6 +101,7 @@ A rastreabilidade é capacidade de rastrear ou encontrar algo ou alguem baseado 
 | **RNF29** | O termo de uso especifica o acesso aos dados do aplicativo para o usuário. | Implementado | [ENT21](../Elicitação/Técnicas/Entrevista.md) |
 | **RNF30** | O aplicativo deve permitir que o usuário encontre qualquer modalidade de loteria ou resultado desejado em no máximo 2 toques e 3 segundos, com itens do menu claramente rotulados na tela inicial. | Implementado | [ENT24](../Elicitação/Técnicas/Entrevista.md) |
 
+
 ## Agradecimentos
 O grupo 7 agradece o apoio das ferramentas de inteligência artificial generativa - chatGPT, Google Gemini - na revisão gramatical e estilo de algumas partes do texto. As tecnologias foram utilizadas para organizar e deixar o texto mais claro, além de fornecer alguns exemplos de códigos de mkdocs para servir de referência para os autores. Todo o conteúdo, assim como a precisão técnica e as ideias apresentadas, permanecem de responsabilidade dos autores.
 
@@ -116,3 +117,4 @@ O grupo 7 agradece o apoio das ferramentas de inteligência artificial generativ
 | ``1.5``     | 19/11/2025 | [João Pedro](https://github.com/Jadequilin)    | Correção de duplicados, inclusão de requisitos faltantes e alinhamento com backward from e restante do documento| [João Pedro](https://github.com/Jadequilin) |
 | ``1.6``     | 20/11/2025 | [Miquéias Ezequiel](https://github.com/Kael-web7)    | Especificação aprimorada RNF09 e RNF30 | [Luan Vinícius](https://github.com/luannvi) |
 | ``1.7`` | 20/11/2025 | [Samuel Felipe](https://github.com/TerminaKng05) | atualização e modificação dos rfs e rnfs | [Heyttor Augusto](https://github.com/H3ytt0r62) |
+|``1.8``| 21/11/2015/ | [Heyttor Augusto](https://github.com/H3ytt0r62) | atualização dos requisitos RF04,RF35,RNF01 e NNF02 | [Samuel Felipe](https://github.com/TerminaKng05) |

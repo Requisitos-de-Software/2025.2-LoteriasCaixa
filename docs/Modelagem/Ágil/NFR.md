@@ -130,7 +130,7 @@ Autor: [Heyttor Augusto](https://github.com/H3ytt0r62)
 | **Classificação**       | usabilidade                                                               |
 | **Descrição**           | O sistema deve ter telas simples com poucos textos |
 | **Justificativa**       | Garante  dinamismo, acessibilidade para pessoas com pouca experiência com tecnologia e facilita o entendimento |
-| **Origem**              | [RNF01](../../Elicitação/Requisitos%20Elicitados.md)                                                                  |
+| **Origem**              | [RNF01](../../Pós-rastreabilidade/matriz_geral.md)                                                                  |
 | **Critério de Ajuste**  | -                          |
 | **Dependências**       |-                                                             |
 | **Prioridade**          | 6                                                                           |
@@ -147,9 +147,9 @@ Autor: [Heyttor Augusto](https://github.com/H3ytt0r62)
 | **Classificação**       | Desempenho                                                                      |
 | **Descrição**            |	A transição de telas durante o fluxo de aposta deve ser fluida e sem travamentos perceptíveis|
 | **Justificativa**       | Garante  dinamismo e fluidez durante o uso |
-| **Origem**              | [RNF08](../../Elicitação/Requisitos%20Elicitados.md)                                                                  |
+| **Origem**              | [RNF08](../../Pós-rastreabilidade/matriz_geral.md)                                                                  |
 | **Critério de Ajuste**  | -                          |
-| **Dependências**       | [RNF04 O resultado de uma loteria deve ser carregado e exibido na tela em menos de 3 segundos sob uma conexão 4G/5G](../../Elicitação/Requisitos%20Elicitados.md)                                                         |
+| **Dependências**       | [RNF04 O resultado de uma loteria deve ser carregado e exibido na tela em menos de 3 segundos sob uma conexão 4G/5G](../../Pós-rastreabilidade/matriz_geral.md)                                                         |
 | **Prioridade**          | 7                                                                  |
 | **Conflitos**           | —                                                                                |
 | **História**            | Criado em 19/10/2025                                                            |
@@ -170,11 +170,11 @@ Autor: [João Pedro](https://github.com/Jadequilin)
 | **Classificação**       | Usabilidade/Acessibilidade |
 | **Descrição**           | O sistema deve ser acessível para idosos e pessoas com deficiência visual, com texto aumentável, alto contraste e compatibilidade com leitores de tela. |
 | **Justificativa**       | Inclusão digital e conformidade com leis de acessibilidade; atendimento a usuários com baixa visão ou limitações motoras. |
-| **Origem**              | [RF33](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Origem**              | [RF33](../../Pós-rastreabilidade/matriz_geral.md) |
 | **Critério de Ajuste**  | - Texto aumentável em 200%<br>- Contraste mínimo 7:1<br>- Compatível com VoiceOver/TalkBack<br>- Navegação por voz funcional |
-| **Dependências**        | [RNF11](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Dependências**        | [RNF11](../../Pós-rastreabilidade/matriz_geral.md) |
 | **Prioridade**          | 6 |
-| **Conflitos**           | [RNF01](../../Elicitação/Requisitos%20Elicitados.md) - Telas simples podem limitar opções de acessibilidade |
+| **Conflitos**           | [RNF01](../../Pós-rastreabilidade/matriz_geral.md) - Telas simples podem limitar opções de acessibilidade |
 | **História**            | Criado em 19/10/2025 |
 
 <a id="CNFR04"></a>
@@ -187,11 +187,11 @@ Autor: [João Pedro](https://github.com/Jadequilin)
 | **Classificação**       | Desempenho |
 | **Descrição**           | O sistema deve funcionar adequadamente em dispositivos Android/iOS com mais de 3 anos, mesmo com hardware limitado e conexões instáveis. |
 | **Justificativa**       | Grande parcela de usuários possui dispositivos antigos; performance ruim leva ao abandono do aplicativo. |
-| **Origem**              | [RNF22](../../Elicitação/Requisitos%20Elicitados.md), [RNF23](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Origem**              | [RNF22](../../Pós-rastreabilidade/matriz_geral.md), [RNF23](../../Pós-rastreabilidade/matriz_geral.md) |
 | **Critério de Ajuste**  | - Funcionamento em Android 8+ e iOS 12+<br>- Uso de RAM ≤150MB<br>- Carregamento ≤5s em 3G<br>- Estável com 3% de perda de pacotes |
-| **Dependências**        | [RNF04](../../Elicitação/Requisitos%20Elicitados.md), [RNF08](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Dependências**        | [RNF04](../../Pós-rastreabilidade/matriz_geral.md), [RNF08](../../Pós-rastreabilidade/matriz_geral.md) |
 | **Prioridade**          | 7 |
-| **Conflitos**           | [RNF06](../../Elicitação/Requisitos%20Elicitados.md) - Interface rica pode impactar performance |
+| **Conflitos**           | [RNF06](../../Pós-rastreabilidade/matriz_geral.md) - Interface rica pode impactar performance |
 | **História**            | Criado em 19/10/2025 |
 
 ### Validação com o Usuário (NRFs - CNFR03 e CNFR04)
@@ -213,11 +213,11 @@ Autor: [Nayra Nery](https://github.com/NayraNery127)
 | **Classificação**       | Usabilidade |
 | **Descrição**           |O sistema deve exibir feedback visual em até 1 segundo, destacando o carrinho e mostrando uma confirmação na tela sempre que o usuário adicionar uma aposta. |
 | **Justificativa**       | Garante que o usuário perceba claramente que sua ação foi realizada com sucesso, evitando confusão e múltiplos cliques. Melhora a experiência e a confiança na interação com o sistema. |
-| **Origem**              | [RNF09](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Origem**              | [RNF09](../../Pós-rastreabilidade/matriz_geral.md) |
 | **Critério de Ajuste**  | - Exibir confirmação visual em até 1 segundo após adicionar a aposta<br>- Feedback deve permanecer visível por pelo menos 2 segundos<br>- Mensagem ou ícone deve ser compreensível e não intrusivo |
-| **Dependências**        | [RNF03](../../Elicitação/Requisitos%20Elicitados.md), [RNF08](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Dependências**        | [RNF03](../../Pós-rastreabilidade/matriz_geral.md), [RNF08](../../Pós-rastreabilidade/matriz_geral.md) |
 | **Prioridade**          | 6 |
-| **Conflitos**           | [RNF06](../../Elicitação/Requisitos%20Elicitados.md) - Feedback sonoro pode ser redundante ou distrativo |
+| **Conflitos**           | [RNF06](../../Pós-rastreabilidade/matriz_geral.md) - Feedback sonoro pode ser redundante ou distrativo |
 | **História**            | Criado em 20/10/2025 |
 
 <a id="CNFR06"></a>
@@ -230,11 +230,11 @@ Autor: [Nayra Nery](https://github.com/NayraNery127)
 | **Classificação**       | Segurança |
 | **Descrição**           | A sessão do usuário deve expirar automaticamente após 15 minutos de inatividade, exigindo novo login para continuar o uso do aplicativo. |
 | **Justificativa**       | Protege informações pessoais e financeiras do usuário em caso de esquecimento do aplicativo aberto, evitando acessos indevidos. |
-| **Origem**              | [RNF10](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Origem**              | [RNF10](../../Pós-rastreabilidade/matriz_geral.md) |
 | **Critério de Ajuste**  | - Encerrar sessão após 15±1 minutos sem interação<br>- Exibir mensagem de aviso antes da expiração<br>- Redirecionar automaticamente para a tela de login |
-| **Dependências**        | [RNF05](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Dependências**        | [RNF05](../../Pós-rastreabilidade/matriz_geral.md) |
 | **Prioridade**          | 8 |
-| **Conflitos**           | [RNF03](../../Elicitação/Requisitos%20Elicitados.md) - Persistência de dados temporários pode impedir o encerramento completo da sessão |
+| **Conflitos**           | [RNF03](../../Pós-rastreabilidade/matriz_geral.md) - Persistência de dados temporários pode impedir o encerramento completo da sessão |
 | **História**            | Criado em 20/10/2025 |
 
 ### Validação - CNFR05 e CNFR06
@@ -291,9 +291,9 @@ Autor: [Luan Vinícius](https://github.com/luannvi)
 | **Classificação** | Usabilidade |
 | **Descrição** | Os números selecionados no volante digital devem ser claramente diferenciados dos não selecionados, através de cor e contraste. |
 | **Justificativa** | Melhorar a clareza visual e reduzir erros de seleção durante a escolha dos números da aposta. |
-| **Origem** | [RNF06](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Origem** | [RNF06](../../Pós-rastreabilidade/matriz_geral.md) |
 | **Critério de Ajuste** | Pelo menos 95% dos usuários devem ser capazes de identificar corretamente os números selecionados durante testes de usabilidade. |
-| **Dependências** | [RF17](../../Elicitação/Requisitos%20Elicitados.md), [RF18](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Dependências** | [RF17](../../Pós-rastreabilidade/matriz_geral.md), [RF18](../../Pós-rastreabilidade/matriz_geral.md) |
 | **Prioridade** | 8 |
 | **Conflitos** | Nenhum identificado |
 | **História** | Criado em 21/10/2025 |
@@ -308,9 +308,9 @@ Autor: [Luan Vinícius](https://github.com/luannvi)
 | **Classificação** | Confiabilidade |
 | **Descrição** | O aplicativo não deve apresentar erros ou fechar inesperadamente durante o processo de criação e pagamento de uma aposta. |
 | **Justificativa** | Garantir a continuidade das operações e a confiança do usuário em processos financeiros críticos. |
-| **Origem** | [RNF07](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Origem** | [RNF07](../../Pós-rastreabilidade/matriz_geral.md) |
 | **Critério de Ajuste** | O sistema não deve apresentar falhas ou travamentos em 99% dos testes de criação e pagamento de apostas. |
-| **Dependências** | [RF17](../../Elicitação/Requisitos%20Elicitados.md), [RF22](../../Elicitação/Requisitos%20Elicitados.md), [RF24](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Dependências** | [RF17](../../Pós-rastreabilidade/matriz_geral.md), [RF22](../../Pós-rastreabilidade/matriz_geral.md), [RF24](../../Pós-rastreabilidade/matriz_geral.md) |
 | **Prioridade** | 10 |
 | **Conflitos** | Nenhum identificado |
 | **História** | Criado em 21/10/2025 |
@@ -325,9 +325,9 @@ Autor: [Luan Vinícius](https://github.com/luannvi)
 | **Classificação** | Usabilidade |
 | **Descrição** | O sistema deve garantir que o acesso a funcionalidades primárias seja feito através de componentes de interface autoexplicativos. Ícones de navegação, como o menu principal, devem ser acompanhados por um rótulo textual (ex: “Menu”). |
 | **Justificativa** | Facilitar o uso do aplicativo, especialmente para novos usuários e pessoas com pouca familiaridade tecnológica. |
-| **Origem** | [RNF11](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Origem** | [RNF11](../../Pós-rastreabilidade/matriz_geral.md) |
 | **Critério de Ajuste** | Todos os ícones principais devem possuir um rótulo textual visível. Testes de usabilidade devem indicar 90% de sucesso em encontrar funções básicas. |
-| **Dependências** | [RF13](../../Elicitação/Requisitos%20Elicitados.md), [RF30](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Dependências** | [RF13](../../Pós-rastreabilidade/matriz_geral.md), [RF30](../../Pós-rastreabilidade/matriz_geral.md) |
 | **Prioridade** | 8 |
 | **Conflitos** | Nenhum identificado |
 | **História** | Criado em 21/10/2025 |
@@ -351,11 +351,11 @@ Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 | **Classificação**       | Compatibilidade |
 | **Descrição**           | O sistema deve funcionar de forma consistente e com a mesma qualidade em dispositivos Android e iOS, mantendo todas as funcionalidades principais em ambas as plataformas. |
 | **Justificativa**       | Garantir que todos os usuários, independente do sistema operacional, tenham acesso às mesmas funcionalidades e qualidade de experiência, ampliando o alcance do aplicativo. |
-| **Origem**              | [RNF12](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Origem**              | [RNF12](../../Pós-rastreabilidade/matriz_geral.md) |
 | **Critério de Ajuste**  | - Funcionalidades idênticas em Android e iOS<br>- Interface adaptada às diretrizes de cada plataforma<br>- Atualizações lançadas simultaneamente<br>- Performance similar em dispositivos equivalentes |
-| **Dependências**        | [RNF11](../../Elicitação/Requisitos%20Elicitados.md), [RNF12](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Dependências**        | [RNF11](../../Pós-rastreabilidade/matriz_geral.md), [RNF12](../../Pós-rastreabilidade/matriz_geral.md) |
 | **Prioridade**          | 7 |
-| **Conflitos**           | [RNF02](../../Elicitação/Requisitos%20Elicitados.md) - Recursos específicos de plataforma podem limitar a uniformidade |
+| **Conflitos**           | [RNF02](../../Pós-rastreabilidade/matriz_geral.md) - Recursos específicos de plataforma podem limitar a uniformidade |
 | **História**            | Criado em 20/10/2025 |
 
 <a id="CNFR13"></a>
@@ -368,11 +368,11 @@ Autor: [Rivadalvio Joaquim](https://github.com/RivaFilho)
 | **Classificação**       | Usabilidade |
 | **Descrição**           | O sistema deve oferecer um tutorial interativo para novos usuários, explicando as funcionalidades principais de forma clara e objetiva, com opção de pular e revisitar posteriormente. |
 | **Justificativa**       | Reduz a curva de aprendizado para novos usuários, aumenta a retenção e garante que todas as funcionalidades sejam conhecidas e utilizadas adequadamente. |
-| **Origem**              | [RNF30](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Origem**              | [RNF30](../../Pós-rastreabilidade/matriz_geral.md) |
 | **Critério de Ajuste**  | - Tutorial exibido na primeira execução<br>- Cobertura de pelo menos 80% das funcionalidades principais<br>- Duração máxima de 3 minutos<br>- Opção de pular e acessar depois via menu de ajuda |
-| **Dependências**        | [RNF03](../../Elicitação/Requisitos%20Elicitados.md), [RNF01](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Dependências**        | [RNF03](../../Pós-rastreabilidade/matriz_geral.md), [RNF01](../../Pós-rastreabilidade/matriz_geral.md) |
 | **Prioridade**          | 5 |
-| **Conflitos**           | [RNF08](../../Elicitação/Requisitos%20Elicitados.md) - Conteúdo adicional pode impactar performance inicial |
+| **Conflitos**           | [RNF08](../../Pós-rastreabilidade/matriz_geral.md) - Conteúdo adicional pode impactar performance inicial |
 | **História**            | Criado em 20/10/2025 |
 
 <a id="CNFR14"></a>
@@ -385,9 +385,9 @@ Autor: [Samuel Felipe](https://github.com/TerminaKng05)
 | **Classificação** | Confiabilidade |
 | **Descrição** | O sistema deve especificar a classificação indicativa de uso em seus termos de uso e ao utilizá-lo; |
 | **Justificativa** | Garantir que os usuários do sistema são o público alvo e que a lei permite; |
-| **Origem** | [RNF15](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Origem** | [RNF15](../../Pós-rastreabilidade/matriz_geral.md) |
 | **Critério de Ajuste**  | - Notificação de término da sessão por inatividade. |
-| **Dependências**       |- [RF30](../../Elicitação/Requisitos%20Elicitados.md), [RF12](../../Elicitação/Requisitos%20Elicitados.md), [RF14](../../Elicitação/Requisitos%20Elicitados.md) |
+| **Dependências**       |- [RF30](../../Pós-rastreabilidade/matriz_geral.md), [RF12](../../Pós-rastreabilidade/matriz_geral.md), [RF14](../../Pós-rastreabilidade/matriz_geral.md) |
 | **Prioridade**          | 10 |
 | **Conflitos**           | — |
 | **História** | Criado em 21/10/2025 |

@@ -32,7 +32,7 @@ A legenda para cada sigla:
 | **RF01** | O usuário deve receber Comprovantes de seus ganhos e apostas | Implementado | [ENT02](../Elicitação/Técnicas/Entrevista.md) |
 | **RF02** | O usuário deve ter mais de uma opção de aposta | Implementado | [ENT03](../Elicitação/Técnicas/Entrevista.md)  |
 | **RF03** | O usuário deve poder acompanhar jogos pelo software | Não implementado | [ENT04](../Elicitação/Técnicas/Entrevista.md)  |
-| **RF04** | O software deve ter poucas telas | Implementado | [ENT05](../Elicitação/Técnicas/Entrevista.md)  |
+| **RF04** | O software deve ter poucas telas(menos que 20) | Implementado | [ENT05](../Elicitação/Técnicas/Entrevista.md)  |
 | **RF05** | O usuário deve poder consultar seus ganhos | Implementado | [ENT06](../Elicitação/Técnicas/Entrevista.md)  |
 | <a id="RF06"></a> **RF06** | O software deve ter opções de modo claro e escuro | Não Implementado | [ENT07](../Elicitação/Técnicas/Entrevista.md)  |
 | **RF07** | O usuário deve receber o resultado das apostas | Implementado | [ENT09](../Elicitação/Técnicas/Entrevista.md)  |
@@ -63,9 +63,10 @@ A legenda para cada sigla:
 | <a id="RF32"></a> **RF32** | O aplicativo apresenta funções de acessibilidade aos idosos e deficientes | Não Implementado | [ENT15](../Elicitação/Técnicas/Entrevista.md) |
 | **RF33** | As opções de ações dentro do aplicativo são acessíveis em 3 cliques para o apostante; | Implementado | [ENT16](../Elicitação/Técnicas/Entrevista.md) |
 | **RF34** | Os dados do usuário são mantidos em sigilo e protegidos | Implementado | [ENT18](../Elicitação/Técnicas/Entrevista.md) |
-| **RF35** | As páginas do aplicativo mais usadas pelo usuário estão em destaque na tela | Não implementado | [ENT23](../Elicitação/Técnicas/Entrevista.md) |
+| **RF35** | As apostas do aplicativo mais jogadas pelo usuário estão em destaque na tela | Não implementado | [ENT23](../Elicitação/Técnicas/Entrevista.md) |
 | <a id="RF36"></a> **RF36** | O sistema fornece avisos ao usuário sobre seu limite diário de apostas | Não Implementado | [ENT25](../Elicitação/Técnicas/Entrevista.md) |
 | <a id="RF37"></a> **RF37** | O sistema apresenta uma tela chamada "favoritos", onde o apostante consegue realizar jogos com base nas suas preferências de aposta; | Não Implementado | [AD05](./Técnicas/Análise%20de%20Documentos.md/#requisitos-não-funcionais) |
+| <a id="RF38"></a> **RF38** | O aplicativo deve permitir mudar e remover foto de perfil. | Não Implementado | [OBS18](../Elicitação/Técnicas/Observação.md #requisitos-não-funcionais) |
 | <a id="RF39"></a> **RF39** | O sistema notifica o apostante quando sua aposta foi premiada; | Não implementado | [AD12](../Elicitação/Técnicas/Análise%20de%20Documentos.md) |
 | <a id="RF40"></a> **RF40** | O aplicativo notifica o usuário dentro do próprio app quando sua aposta é premiada; | Não implementado | []() |
 
@@ -107,6 +108,7 @@ A legenda para cada sigla:
 | **RNF29** | O termo de uso especifica o acesso aos dados do aplicativo para o usuário | Implementado |(../Elicitação/Técnicas/Entrevista.md) |
 | **RNF30** | O aplicativo deve permitir que o usuário encontre qualquer modalidade de loteria ou resultado desejado em no máximo 2 toques e 3 segundos, com itens do menu claramente rotulados na tela inicial. | Implementado | [ENT24](../Elicitação/Técnicas/Entrevista.md) |
 
+
 ## Agradecimentos
 O grupo 7 agradece o apoio das ferramentas de inteligência artificial generativa - chatGPT, Google Gemini - na revisão gramatical e estilo de algumas partes do texto. As tecnologias foram utilizadas para organizar e deixar o texto mais claro, além de fornecer alguns exemplos de códigos de mkdocs para servir de referência para os autores. Todo o conteúdo, assim como a precisão técnica e as ideias apresentadas, permanecem de responsabilidade dos autores.
 
@@ -119,3 +121,4 @@ O grupo 7 agradece o apoio das ferramentas de inteligência artificial generativ
 | ``1.2`` | 07/11/2025 | [Samuel Felipe](https://github.com/TerminaKng05) | Alteração do RNF19 para RF40 | [Heyttor Augusto](https://github.com/H3ytt0r62) |
 | ``2.0``     | 20/11/2025 | [Miquéias Ezequiel](https://github.com/Kael-web7)    | Especificação aprimorada RNF09 e RNF30 | [Luan Vinícius](https://github.com/luannvi) |
 | ``2.1`` | 20/11/2025 | [Samuel Felipe](https://github.com/TerminaKng05) | atualização e modificação dos rfs e rnfs | [Heyttor Augusto](https://github.com/H3ytt0r62) |
+|``2.2``| 21/11/2015/ | [Heyttor Augusto](https://github.com/H3ytt0r62) | atualização dos requisitos RF04,RF35,RNF01 e NNF02 | [Samuel Felipe](https://github.com/TerminaKng05) |

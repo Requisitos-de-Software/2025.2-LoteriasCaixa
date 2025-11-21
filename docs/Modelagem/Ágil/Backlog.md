@@ -96,11 +96,11 @@ Este épico busca incluir aquelas histórias de usuário que tratam de detalhar 
 
 |Id |  Historia de usuario | Requisito trabalhado | Prioridade|
 |---| ---------------------| ---------------------| ----------|
-| <a id="BKL01"></a> BKL01 |  [#HU01 - Modo Claro e modo Escuro](../Ágil/História%20de%20usuário.md/#hu1---modo-claro-e-modo-escuro) |[#RF06](../../Elicitação/Requisitos%20Elicitados.md) | Baixa|
-| <a id="BKL02"></a> BKL02 |  [## HU03 - Resultado das apostas](../Ágil/História%20de%20usuário.md/#hu1---modo-claro-e-modo-escuro) |[#RF07](../../Elicitação/Requisitos%20Elicitados.md) | Media|
-|<a id="BKL03"></a> BKL03 |  [## HU05 Ultimo Resultado de cada sorteio](../Ágil/História%20de%20usuário.md/#hu1---modo-claro-e-modo-escuro) | [#RF16](../../Elicitação/Requisitos%20Elicitados.md) | Media|
-| <a id="BKL04"></a> BKL04 | [HU23 - Acesso ao Perfil do Usuário]() | [RF10](../../Elicitação/Requisitos%20Elicitados.md) | Média |
-| <a id="BKL05"></a> BKL05 | [#HU37 - Função "Rapidão"](História%20de%20usuário.md#HU37) | [RNF16](../../Elicitação/Requisitos%20Elicitados.md) | Média |
+| <a id="BKL01"></a> BKL01 |  [#HU01 - Modo Claro e modo Escuro](../Ágil/História%20de%20usuário.md/#hu1---modo-claro-e-modo-escuro) |[#RF06](../../Pós-rastreabilidade/matriz_geral.md) | Baixa|
+| <a id="BKL02"></a> BKL02 |  [## HU03 - Resultado das apostas](../Ágil/História%20de%20usuário.md/#hu1---modo-claro-e-modo-escuro) |[#RF07](../../Pós-rastreabilidade/matriz_geral.md) | Media|
+|<a id="BKL03"></a> BKL03 |  [## HU05 Ultimo Resultado de cada sorteio](../Ágil/História%20de%20usuário.md/#hu1---modo-claro-e-modo-escuro) | [#RF16](../../Pós-rastreabilidade/matriz_geral.md) | Media|
+| <a id="BKL04"></a> BKL04 | [HU23 - Acesso ao Perfil do Usuário]() | [RF10](../../Pós-rastreabilidade/matriz_geral.md) | Média |
+| <a id="BKL05"></a> BKL05 | [#HU37 - Função "Rapidão"](História%20de%20usuário.md#HU37) | [RNF16](../../Pós-rastreabilidade/matriz_geral.md) | Média |
 
 ## Épico 2 - Controle de dados
 autor:[heyttor augusto ](https://github.com/H3ytt0r62)
@@ -109,10 +109,10 @@ Este épico esta relacionado ao gerenciamento dos dados inseridos no aplicativo,
 
 |Id |  Historia de usuario | Requisito trabalhado | Prioridade|
 |---| ---------------------| ---------------------| ----------|
-|<a id="BKL06"></a> BKL06 |  [## HU02 - Login](../Ágil/História%20de%20usuário.md/#hu1---modo-claro-e-modo-escuro) |[#RF08](../../Elicitação/Requisitos%20Elicitados.md)| Alta|
-|<a id="BKL07"></a> BKL07 |  [## HU04 - Cadastro](../Ágil/História%20de%20usuário.md/#hu1---modo-claro-e-modo-escuro) |[#RF12](../../Elicitação/Requisitos%20Elicitados.md)| Alta|
-| <a id="BKL08"></a> BKL08 | [#HU26 - Recuperação de Senha](../../Ágil/Histórias%20de%20usuário.md#hu26---recuperação-de-senha)   | [#RF35](../../Elicitação/Requisitos%20Elicitados.md#rf35)   | Alta       |
-| <a id="BKL09"></a> BKL09 | [#HU38 - Logout do Sistema](História%20de%20usuário.md#HU38) | [RF27](../../Elicitação/Requisitos%20Elicitados.md) | Média |
+|<a id="BKL06"></a> BKL06 |  [## HU02 - Login](../Ágil/História%20de%20usuário.md/#hu1---modo-claro-e-modo-escuro) |[#RF08](../../Pós-rastreabilidade/matriz_geral.md)| Alta|
+|<a id="BKL07"></a> BKL07 |  [## HU04 - Cadastro](../Ágil/História%20de%20usuário.md/#hu1---modo-claro-e-modo-escuro) |[#RF12](../../Pós-rastreabilidade/matriz_geral.md)| Alta|
+| <a id="BKL08"></a> BKL08 | [#HU26 - Recuperação de Senha](../../Ágil/Histórias%20de%20usuário.md#hu26---recuperação-de-senha)   | [#RF35](../../Pós-rastreabilidade/matriz_geral.md#rf35)   | Alta       |
+| <a id="BKL09"></a> BKL09 | [#HU38 - Logout do Sistema](História%20de%20usuário.md#HU38) | [RF27](../../Pós-rastreabilidade/matriz_geral.md) | Média |
 
 
 
@@ -123,13 +123,13 @@ Este épico aborda requisitos relacionados à acessibilidade, usabilidade e expe
 
 | Id | História de Usuário | Requisito Trabalhado | Prioridade |
 |----|---------------------|---------------------|------------|
-| <a id="BKL10"></a> BKL10 | [#HU07 - Termo de Uso com Especificação de Riscos](./História%20de%20usuário.md/#hu07---termo-de-uso-com-especificação-de-riscos) | [#RNF06](../../Elicitação/Requisitos%20Elicitados.md) | Média|
-| <a id="BKL11"></a> BKL11 | [#HU08 - Funções de Acessibilidade](./História%20de%20usuário.md/#hu08---funções-de-acessibilidade) | [#RF33](../../Elicitação/Requisitos%20Elicitados.md) | Média |
-| <a id="BKL12"></a> BKL12 | [#HU09 - Páginas Frequentes em Destaque](./História%20de%20usuário.md/#hu09---páginas-frequentes-em-destaque) | [#RF36](../../Elicitação/Requisitos%20Elicitados.md) | Média |
-| <a id="BKL13"></a> BKL13 | [HU22 - Feedback Visual ao Adicionar Aposta ao Carrinho]() | [RNF09](../../Elicitação/Requisitos%20Elicitados.md) | Média |
-| <a id="BKL14"></a> BKL14 | [#HU29 - Tutorial Interativo](../../Ágil/Histórias%20de%20usuário.md#hu29---tutorial-interativo)     | [#RNF14](../../Elicitação/Requisitos%20Elicitados.md#rnf14) | Baixa      |
-| <a id="BKL15"></a> BKL15 | [HU32 - Navegação com Rótulos nos Ícones](História%20de%20usuário.md#HU32) | [RNF11](../../Elicitação/Requisitos%20Elicitados.md) | Média |   
-| <a id="BKL16"></a> BKL16 | [#HU41 - Interação com o menu de loterias ao clicar em "experimentar"](História%20de%20usuário.md#HU41) | [RF13](../../Elicitação/Requisitos%20Elicitados.md) | Média |
+| <a id="BKL10"></a> BKL10 | [#HU07 - Termo de Uso com Especificação de Riscos](./História%20de%20usuário.md/#hu07---termo-de-uso-com-especificação-de-riscos) | [#RNF06](../../Pós-rastreabilidade/matriz_geral.md) | Média|
+| <a id="BKL11"></a> BKL11 | [#HU08 - Funções de Acessibilidade](./História%20de%20usuário.md/#hu08---funções-de-acessibilidade) | [#RF33](../../Pós-rastreabilidade/matriz_geral.md) | Média |
+| <a id="BKL12"></a> BKL12 | [#HU09 - Páginas Frequentes em Destaque](./História%20de%20usuário.md/#hu09---páginas-frequentes-em-destaque) | [#RF36](../../Pós-rastreabilidade/matriz_geral.md) | Média |
+| <a id="BKL13"></a> BKL13 | [HU22 - Feedback Visual ao Adicionar Aposta ao Carrinho]() | [RNF09](../../Pós-rastreabilidade/matriz_geral.md) | Média |
+| <a id="BKL14"></a> BKL14 | [#HU29 - Tutorial Interativo](../../Ágil/Histórias%20de%20usuário.md#hu29---tutorial-interativo)     | [#RNF14](../../Pós-rastreabilidade/matriz_geral.md#rnf14) | Baixa      |
+| <a id="BKL15"></a> BKL15 | [HU32 - Navegação com Rótulos nos Ícones](História%20de%20usuário.md#HU32) | [RNF11](../../Pós-rastreabilidade/matriz_geral.md) | Média |   
+| <a id="BKL16"></a> BKL16 | [#HU41 - Interação com o menu de loterias ao clicar em "experimentar"](História%20de%20usuário.md#HU41) | [RF13](../../Pós-rastreabilidade/matriz_geral.md) | Média |
 
 ## Épico 4 - Controle de informações
 Autor: [João Pedro](https://github.com/Jadequilin)
@@ -138,10 +138,10 @@ Este épico trata de funcionalidades de controle financeiro, segurança e gestã
 
 | Id | História de Usuário | Requisito Trabalhado | Prioridade |
 |----|---------------------|---------------------|------------|
-| <a id="BKL17"></a> BKL17 | [#HU10 - Avisos de Limite de Apostas](./História%20de%20usuário.md/#hu10---avisos-de-limite-de-apostas) | [#RF37](../../Elicitação/Requisitos%20Elicitados.md) | Alta |
-| <a id="BKL18"></a> BKL18 | [#HU11 - Filtro de Apostas Premiadas](./História%20de%20usuário.md/#hu11---filtro-de-apostas-premiadas) | [#RNF07](../../Elicitação/Requisitos%20Elicitados.md) | Média |
-| <a id="BKL19"></a> BKL19 | [#HU12 - Alertas de Apostas Premiadas](./História%20de%20usuário.md/#hu12---alertas-de-apostas-premiadas) | [#RNF08](../../Elicitação/Requisitos%20Elicitados.md) | Média |
-| <a id="BKL20"></a> BKL20 |  [## HU06 - comprovante de pagamento](../Ágil/História%20de%20usuário.md/#hu1---modo-claro-e-modo-escuro) |[#RF01](../../Elicitação/Requisitos%20Elicitados.md) | Media|
+| <a id="BKL17"></a> BKL17 | [#HU10 - Avisos de Limite de Apostas](./História%20de%20usuário.md/#hu10---avisos-de-limite-de-apostas) | [#RF37](../../Pós-rastreabilidade/matriz_geral.md) | Alta |
+| <a id="BKL18"></a> BKL18 | [#HU11 - Filtro de Apostas Premiadas](./História%20de%20usuário.md/#hu11---filtro-de-apostas-premiadas) | [#RNF07](../../Pós-rastreabilidade/matriz_geral.md) | Média |
+| <a id="BKL19"></a> BKL19 | [#HU12 - Alertas de Apostas Premiadas](./História%20de%20usuário.md/#hu12---alertas-de-apostas-premiadas) | [#RNF08](../../Pós-rastreabilidade/matriz_geral.md) | Média |
+| <a id="BKL20"></a> BKL20 |  [## HU06 - comprovante de pagamento](../Ágil/História%20de%20usuário.md/#hu1---modo-claro-e-modo-escuro) |[#RF01](../../Pós-rastreabilidade/matriz_geral.md) | Media|
 
 ## Épico 5 - Desempenho e Estabilidade
 **Autora:** [Nayra Nery](https://github.com/NayraNery127)
@@ -150,11 +150,11 @@ Este épico aborda histórias relacionadas ao desempenho do aplicativo e à esta
 
 | **Id** | **História de Usuário** | **Requisito Trabalhado** | **Prioridade** |
 |--------|--------------------------|---------------------------|----------------|
-| <a id="BKL21"></a> BKL21 | [#HU13 - Performance em Dispositivos Antigos](História%20de%20usuário.md#hu13---performance-em-dispositivos-antigos) | [#RNF22](../../Elicitação/Requisitos%20Elicitados.md) | Média |
-| <a id="BKL22"></a> BKL22 | [#HU14 - Conexão Estável com Internet Móvel](História%20de%20usuário.md#hu14---conexão-estável-com-internet-móvel) | [#RNF23](../../Elicitação/Requisitos%20Elicitados.md) | Média |
-| <a id="BKL23"></a> BKL23 | [#HU15 - Transição de Telas Fluida](História%20de%20usuário.md#hu15---transição-de-telas-fluida) | [#RNF08](../../Elicitação/Requisitos%20Elicitados.md) | Alta |
-| <a id="BKL24"></a> BKL24 | [HU36 - Desempenho Rápido na Consulta de Resultados](História%20de%20usuário.md#HU36) | [RNF04](../../Elicitação/Requisitos%20Elicitados.md) | Média |   
-| <a id="BKL25"></a> BKL25 | [#HU42 - Desconexão via 4G/5G](História%20de%20usuário.md#HU42) | [RNF23](../../Elicitação/Requisitos%20Elicitados.md) | Média |
+| <a id="BKL21"></a> BKL21 | [#HU13 - Performance em Dispositivos Antigos](História%20de%20usuário.md#hu13---performance-em-dispositivos-antigos) | [#RNF22](../../Pós-rastreabilidade/matriz_geral.md) | Média |
+| <a id="BKL22"></a> BKL22 | [#HU14 - Conexão Estável com Internet Móvel](História%20de%20usuário.md#hu14---conexão-estável-com-internet-móvel) | [#RNF23](../../Pós-rastreabilidade/matriz_geral.md) | Média |
+| <a id="BKL23"></a> BKL23 | [#HU15 - Transição de Telas Fluida](História%20de%20usuário.md#hu15---transição-de-telas-fluida) | [#RNF08](../../Pós-rastreabilidade/matriz_geral.md) | Alta |
+| <a id="BKL24"></a> BKL24 | [HU36 - Desempenho Rápido na Consulta de Resultados](História%20de%20usuário.md#HU36) | [RNF04](../../Pós-rastreabilidade/matriz_geral.md) | Média |   
+| <a id="BKL25"></a> BKL25 | [#HU42 - Desconexão via 4G/5G](História%20de%20usuário.md#HU42) | [RNF23](../../Pós-rastreabilidade/matriz_geral.md) | Média |
 
 ## Épico 6 -Controle do Usuário
 Autor: [Miqueias Ezequiel](https://github.com/Kael-web7)
@@ -163,11 +163,11 @@ Este épico abrange histórias relacionadas às ações que o usuário pode real
 
 | Id | História de Usuário | Requisito Trabalhado | Prioridade |
 | --- | --- | --- | --- |
-| <a id="BKL26"></a> BKL26 | [HU19 - Acompanhar Jogos pelo Aplicativo](História%20de%20usuário.md) | [RF03](../../Elicitação/Requisitos%20Elicitados.md) | Média |
-| <a id="BKL27"></a> BKL27 | [HU20 - Cancelar Apostas Antes do Sorteio](História%20de%20usuário.md) | [RF28](../../Elicitação/Requisitos%20Elicitados.md) | Alta |
-| <a id="BKL28"></a> BKL28 | [HU31 - Baixar Comprovante de Aposta](História%20de%20usuário.md#HU31) | [RNF20](../../Elicitação/Requisitos%20Elicitados.md) | Alta |   
-| <a id="BKL29"></a> BKL29 | [#HU39 - Resultado em tempo real](História%20de%20usuário.md#HU39) | [RNF21](../../Elicitação/Requisitos%20Elicitados.md) | Média |
-| <a id="BKL30"></a> BKL30 | [#HU40 - Receber comprovante de apostas e jogos ganhos](História%20de%20usuário.md#HU40) | [RF01](../../Elicitação/Requisitos%20Elicitados.md) | Alta |
+| <a id="BKL26"></a> BKL26 | [HU19 - Acompanhar Jogos pelo Aplicativo](História%20de%20usuário.md) | [RF03](../../Pós-rastreabilidade/matriz_geral.md) | Média |
+| <a id="BKL27"></a> BKL27 | [HU20 - Cancelar Apostas Antes do Sorteio](História%20de%20usuário.md) | [RF28](../../Pós-rastreabilidade/matriz_geral.md) | Alta |
+| <a id="BKL28"></a> BKL28 | [HU31 - Baixar Comprovante de Aposta](História%20de%20usuário.md#HU31) | [RNF20](../../Pós-rastreabilidade/matriz_geral.md) | Alta |   
+| <a id="BKL29"></a> BKL29 | [#HU39 - Resultado em tempo real](História%20de%20usuário.md#HU39) | [RNF21](../../Pós-rastreabilidade/matriz_geral.md) | Média |
+| <a id="BKL30"></a> BKL30 | [#HU40 - Receber comprovante de apostas e jogos ganhos](História%20de%20usuário.md#HU40) | [RF01](../../Pós-rastreabilidade/matriz_geral.md) | Alta |
 
 ## Épico 7 -Interação com o usuário
 Autor: [Miqueias Ezequiel](https://github.com/Kael-web7)
@@ -176,10 +176,10 @@ Este épico reúne histórias que tratam da proteção da sessão do usuário e 
 
 | Id | História de Usuário | Requisito Trabalhado | Prioridade |
 | --- | --- | --- | --- |
-| <a id="BKL31"></a> BKL31 | [HU21 - Expiração Automática da Sessão](História%20de%20usuário.md) | [RNF10](../../Elicitação/Requisitos%20Elicitados.md) | Alta |
-| <a id="BKL32"></a> BKL32 | [HU33 - Selecionar Números no Volante Digital](História%20de%20usuário.md#HU33) | [RF17](../../Elicitação/Requisitos%20Elicitados.md), [RNF06](../../Elicitação/Requisitos%20Elicitados.md) | Alta |   
-| <a id="BKL33"></a> BKL33 | [HU34 - Completar Aposta com Números Aleatórios](História%20de%20usuário.md#HU34) | [RF19](../../Elicitação/Requisitos%20Elicitados.md) | Baixa |   
-| <a id="BKL34"></a> BKL34 | [HU35 - Adicionar Aposta ao Carrinho](História%20de%20usuário.md#HU35) | [RF20](../../Elicitação/Requisitos%20Elicitados.md)  | Alta |   
+| <a id="BKL31"></a> BKL31 | [HU21 - Expiração Automática da Sessão](História%20de%20usuário.md) | [RNF10](../../Pós-rastreabilidade/matriz_geral.md) | Alta |
+| <a id="BKL32"></a> BKL32 | [HU33 - Selecionar Números no Volante Digital](História%20de%20usuário.md#HU33) | [RF17](../../Pós-rastreabilidade/matriz_geral.md), [RNF06](../../Pós-rastreabilidade/matriz_geral.md) | Alta |   
+| <a id="BKL33"></a> BKL33 | [HU34 - Completar Aposta com Números Aleatórios](História%20de%20usuário.md#HU34) | [RF19](../../Pós-rastreabilidade/matriz_geral.md) | Baixa |   
+| <a id="BKL34"></a> BKL34 | [HU35 - Adicionar Aposta ao Carrinho](História%20de%20usuário.md#HU35) | [RF20](../../Pós-rastreabilidade/matriz_geral.md)  | Alta |   
 
 
 ## Épico 8 -Responsabilidade social
@@ -189,7 +189,7 @@ Este épico contempla funcionalidades que reforçam a credibilidade e o papel so
 
 | Id | História de Usuário | Requisito Trabalhado | Prioridade |
 | --- | --- | --- | --- |
-|   <a id="BKL35"></a> BKL35 | [HU24 - Exibir Repasses Sociais das Loterias](História%20de%20usuário.md) | [RF04](../../Elicitação/Requisitos%20Elicitados.md) | Média |
+|   <a id="BKL35"></a> BKL35 | [HU24 - Exibir Repasses Sociais das Loterias](História%20de%20usuário.md) | [RF04](../../Pós-rastreabilidade/matriz_geral.md) | Média |
 
 ## Épico 9 - Gestão de Conta e Personalização
 
@@ -199,10 +199,10 @@ Este épico abrange funcionalidades voltadas à gestão da conta do usuário e �
 
 | Id    | História de Usuário                                                                                  | Requisito Trabalhado                                        | Prioridade |
 | ----- | ---------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- | ---------- |
-| <a id="BKL36"></a> BKL36 | [#HU25 - Histórico de Apostas](../../Ágil/Histórias%20de%20usuário.md#hu25---histórico-de-apostas)   | [#RF38](../../Elicitação/Requisitos%20Elicitados.md#rf34)   | Alta       |
-| <a id="BKL37"></a> BKL37 | [#HU27 - Compatibilidade de SO](../../Ágil/Histórias%20de%20usuário.md#hu27---compatibilidade-de-so) | [#RNF31](../../Elicitação/Requisitos%20Elicitados.md#rnf13) | Média      |
-| <a id="BKL38"></a> BKL38 | [#HU28 - Apostas Favoritas](../../Ágil/Histórias%20de%20usuário.md#hu28---apostas-favoritas)         | [#RF40](../../Elicitação/Requisitos%20Elicitados.md#rf36)   | Média      |
-| <a id="BKL39"></a> BKL39 | [#HU30 - Notificações Push](../../Ágil/Histórias%20de%20usuário.md#hu30---notificações-push)         | [#RF41](../../Elicitação/Requisitos%20Elicitados.md#rf37)   | Média      |
+| <a id="BKL36"></a> BKL36 | [#HU25 - Histórico de Apostas](../../Ágil/Histórias%20de%20usuário.md#hu25---histórico-de-apostas)   | [#RF38](../../Pós-rastreabilidade/matriz_geral.md#rf34)   | Alta       |
+| <a id="BKL37"></a> BKL37 | [#HU27 - Compatibilidade de SO](../../Ágil/Histórias%20de%20usuário.md#hu27---compatibilidade-de-so) | [#RNF31](../../Pós-rastreabilidade/matriz_geral.md#rnf13) | Média      |
+| <a id="BKL38"></a> BKL38 | [#HU28 - Apostas Favoritas](../../Ágil/Histórias%20de%20usuário.md#hu28---apostas-favoritas)         | [#RF40](../../Pós-rastreabilidade/matriz_geral.md#rf36)   | Média      |
+| <a id="BKL39"></a> BKL39 | [#HU30 - Notificações Push](../../Ágil/Histórias%20de%20usuário.md#hu30---notificações-push)         | [#RF41](../../Pós-rastreabilidade/matriz_geral.md#rf37)   | Média      |
 
 ## Agradecimentos
 O grupo 7 agradece o apoio das ferramentas de inteligencia artificial generativa - chatGPT, Google Gemini - na revisão gramatical e estilo de algumas partes do texto. As tecnologias foram utilzizadas para organizar e deixar o texto mais claro, alem de que fornecer alguns exemplos de codigos de mkdocs para servir de referencia para os autores. Todo o conteudo, assim como a precisão técnica e as ideias apresentadas, permanecem de responsabilidade dos autores.

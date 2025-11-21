@@ -26,6 +26,8 @@ Tabela 1 - artefatos da etapa 1
 | Ferramentas | ferramentas utilizadas no aplicativo|[João Pedro](https://github.com/Jadequilin), [Miquéias Ezequiel](https://github.com/Kael-web7) | |
 |Heatmap| heatmap dos membros |[Heyttor Augusto](https://github.com/H3ytt0r62) |  |
 
+autor: [heyttor augusto](https://github.com/H3ytt0r62)
+
 
 ## Etapa 2
 
@@ -50,7 +52,7 @@ Tabela 2 - artefatos da etapa 2
 |three level scale| tecnica de priorização| [Heyttor Augusto](https://github.com/H3ytt0r62) | [Samuel Felipe](https://github.com/TerminaKng05) |
 |value,Cost and risk|  tecnica de priorização de valor custo e risco|  [João Pedro Araújo](https://github.com/Jadequilin) | |[Rivadalvio Joaquim](https://github.com/RivaFilho)|
 
-
+autor: [heyttor augusto](https://github.com/H3ytt0r62)
 
 ## Etapa 3
 
@@ -69,6 +71,7 @@ Tabela 3 - artefatos da etapa 3
 |Lexicos| criação do lexicos| [João Pedro](https://github.com/Jadequilin)| [Rivadalvio Joaquim](https://github.com/RivaFilho) |
 
 
+autor: [heyttor augusto](https://github.com/H3ytt0r62)
 
 ## Etapa 4
 
@@ -86,6 +89,7 @@ Tabela 4 - artefatos da etapa 4
 |Historias de usuarios| Historias de usuarios do projeto| todos os membros | todos |
 | NFR | Analise usando a tecnica NFR| Todos os membros| Todos|
 
+autor: [heyttor augusto](https://github.com/H3ytt0r62)
 
 ## Etapa 5
 
@@ -105,6 +109,8 @@ Tabela 5 - artefatos da etapa 5
 |Verificação da etapa 6| verificão das listas de verificação da etapa 2 e inspeção do grupo 3 |[Heyttor Augusto](https://github.com/H3ytt0r62)| todos |
 
 
+autor: [heyttor augusto](https://github.com/H3ytt0r62)
+
 ## Etapa 6
 
 
@@ -120,9 +126,11 @@ Tabela 6 - artefatos da etapa 6
 |prototipação| protoripação de requisitos | todos| todos|
 |Validação informal| contato com os desenvolvedores do aplicativo| [Heyttor Augusto](https://github.com/H3ytt0r62)|  |
 
+autor: [heyttor augusto](https://github.com/H3ytt0r62)
+
 
 ## Versionamento
 
 | Versão | Data       | Autor               | Descrição                       | Revisor |
 |:--------:|:------------:|:---------------:|:-------------------------------:|:---------:|
-| ``1.0``    | 19/11/2025 | [Heyttor Augusto](https://github.com/H3ytt0r62)|  | Abertura do documento | |
+| ``1.0``    | 19/11/2025 | [Heyttor Augusto](https://github.com/H3ytt0r62)|  | Abertura do documento | [luan vinicius](https://github.com/luannvi)|
