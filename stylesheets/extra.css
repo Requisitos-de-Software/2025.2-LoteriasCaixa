@@ -29,3 +29,11 @@ img.center {
   margin-right: auto;
   width: auto;
 }
+
+img[src$=".gif"] {
+    width: 300px;      /* ajuste como quiser */
+    height: auto;      /* mantém proporção */
+    display: block;    /* permite centralizar */
+    margin: 0 auto;    /* centraliza horizontalmente */
+}
+
