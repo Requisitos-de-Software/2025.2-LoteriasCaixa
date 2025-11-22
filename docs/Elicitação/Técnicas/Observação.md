@@ -58,6 +58,8 @@ Depois das anotações do observador e com as ações do usuário dentro do apli
 | RF14  | O aplicativo deve permitir gerar o comprovante da aposta em "minhas apostas". | OBS14 |
 | RF15  | O aplicativo deve possibilitar logout do usuário.                             | OBS15 |
 | RF16  | O aplicativo deve permitir o cancelamento de apostas antes do sorteio.        | OBS16 |
+| RF17  | O aplicativo deve permitir pagamento de apostas utilizando carteiras digitais como Google Pay, Apple Pay | OBS26 |
+| RF18  | O aplicativo deve permitir mudar e remover foto de perfil. | OBS27 |
 
 *<p style="text-align: center;">Fonte: <a href="https://github.com/luannvi">Luan Vinícius.</a></p>*
 
@@ -95,3 +97,4 @@ Depois das anotações do observador e com as ações do usuário dentro do apli
 | ``1.0``    | 24/09/2025 | [Luan Vinícius](https://github.com/luannvi)  | Abertura da documentação | [Miquéias Ezequiel](https://github.com/Kael-web7) |
 | ``1.1``    | 29/09/2025 | [Luan Vinícius](https://github.com/luannvi)  | Adição de conteúdo       | [Miquéias Ezequiel](https://github.com/Kael-web7) |
 | ``2.0``     | 20/11/2025 | [Miquéias Ezequiel](https://github.com/Kael-web7)    | Especificação aprimorada RNF09 | [Luan Vinícius](https://github.com/luannvi) |
+| ``2.1``     | 22/11/2025 | [Luan Vinícius](https://github.com/luannvi) | Adição de conteúdo | [Miquéias Ezequiel](https://github.com/Kael-web7) |

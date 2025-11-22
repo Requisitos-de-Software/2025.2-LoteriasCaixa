@@ -47,7 +47,7 @@ Trata-se de um aplicativo de complexidade média a alta, que apresenta uma comb
 
 Outro ponto relevante é a viabilidade técnica e ética da análise, uma vez que o aplicativo é público, amplamente divulgado e possui informações disponíveis para observação, sem a necessidade de acesso a dados sigilosos. Dessa forma, o grupo pode realizar uma análise detalhada de suas funcionalidades e propor melhorias com base em requisitos não implementados ou passíveis de otimização.
 
-## Histórico de Versões
+## Versionamento
 
 | Data | Versão | Descrição | Autor | Revisor |
 | --- | --- | --- | --- | --- |

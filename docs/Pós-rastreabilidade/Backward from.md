@@ -51,7 +51,7 @@ A legenda para cada sigla:
 | **RF20** | O aplicativo deve permitir adicionar o jogo ao carrinho de apostas | Implementado | [OBS09](../Elicitação/Técnicas/Observação.md) |
 | **RF21** | O aplicativo deve calcular automaticamente o valor da aposta | Implementado | [OBS10](../Elicitação/Técnicas/Observação.md) |
 | **RF22** | O aplicativo deve possibilitar pagamento via cartão de crédito ou PIX | Implementado | [OBS11](../Elicitação/Técnicas/Observação.md) |
-| <a id="RF23"></a> **RF23** | O aplicativo deve permitir pagamento de apostas utilizando carteiras digitais como Google Pay, Apple Pay | Não Implementado | [OBS]() |
+| <a id="RF23"></a> **RF23** | O aplicativo deve permitir pagamento de apostas utilizando carteiras digitais como Google Pay, Apple Pay | Não Implementado | [OBS26](../Elicitação/Técnicas/Observação.md) |
 | **RF24** | O aplicativo deve mostrar se o pagamento foi confirmado | Implementado | [OBS12](../Elicitação/Técnicas/Observação.md) |
 | **RF25** | O aplicativo deve permitir visualizar sua aposta | Implementado | [OBS13](../Elicitação/Técnicas/Observação.md) |
 | **RF26** | O aplicativo deve permitir gerar o comprovante da aposta em "minhas apostas" | Implementado | [OBS14](../Elicitação/Técnicas/Observação.md) |
@@ -66,7 +66,7 @@ A legenda para cada sigla:
 | **RF35** | As apostas do aplicativo mais jogadas pelo usuário estão em destaque na tela | Não implementado | [ENT23](../Elicitação/Técnicas/Entrevista.md) |
 | <a id="RF36"></a> **RF36** | O sistema fornece avisos ao usuário sobre seu limite diário de apostas | Não Implementado | [ENT25](../Elicitação/Técnicas/Entrevista.md) |
 | <a id="RF37"></a> **RF37** | O sistema apresenta uma tela chamada "favoritos", onde o apostante consegue realizar jogos com base nas suas preferências de aposta; | Não Implementado | [AD05](./Técnicas/Análise%20de%20Documentos.md/#requisitos-não-funcionais) |
-| <a id="RF38"></a> **RF38** | O aplicativo deve permitir mudar e remover foto de perfil. | Não Implementado | [OBS18](../Elicitação/Técnicas/Observação.md #requisitos-não-funcionais) |
+| <a id="RF38"></a> **RF38** | O aplicativo deve permitir mudar e remover foto de perfil. | Não Implementado | [OBS27](../Elicitação/Técnicas/Observação.md) |
 | <a id="RF39"></a> **RF39** | O sistema notifica o apostante quando sua aposta foi premiada; | Não implementado | [AD12](../Elicitação/Técnicas/Análise%20de%20Documentos.md) |
 | <a id="RF40"></a> **RF40** | O aplicativo notifica o usuário dentro do próprio app quando sua aposta é premiada; | Não implementado | []() |
 
@@ -122,3 +122,4 @@ O grupo 7 agradece o apoio das ferramentas de inteligência artificial generativ
 | ``2.0``     | 20/11/2025 | [Miquéias Ezequiel](https://github.com/Kael-web7)    | Especificação aprimorada RNF09 e RNF30 | [Luan Vinícius](https://github.com/luannvi) |
 | ``2.1`` | 20/11/2025 | [Samuel Felipe](https://github.com/TerminaKng05) | atualização e modificação dos rfs e rnfs | [Heyttor Augusto](https://github.com/H3ytt0r62) |
 |``2.2``| 21/11/2015/ | [Heyttor Augusto](https://github.com/H3ytt0r62) | atualização dos requisitos RF04,RF35,RNF01 e NNF02 | [Samuel Felipe](https://github.com/TerminaKng05) |
+|``2.3``| 22/11/2015/ | [Luan Vinícius](https://github.com/luannvi) | atualização dos requisitos RF23, RF38 | [Samuel Felipe](https://github.com/TerminaKng05) |
