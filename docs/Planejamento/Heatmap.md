@@ -20,7 +20,7 @@ A construção desse **heatmap** foi feita pelo aluno  [Heyttor Augusto](https:/
 
 ## Bibliografia
 
-- Canva.Canva. Disponivel em: <https://www.canva.com> Acesso em: 07/09/2025
+> 1. Canva.Canva. Disponivel em: <https://www.canva.com> Acesso em: 07/09/2025
 
 ## 2. Versionamento 
 

@@ -103,9 +103,9 @@ Esta seção resume os principais artefatos produzidos na etapa final do projeto
 | Artefatos criados                            | Listagem e organização dos principais arquivos e documentos produzidos ao longo do projeto.                 | Heyttor      |
 | Considerações finais                         | Síntese geral do projeto, com destaque para aprendizados, limitações e possíveis trabalhos futuros.         | Todo o grupo |
 | Ferramentas utilizadas                       | Descrição das ferramentas empregadas (Figma, GitHub, MkDocs, etc.) e do papel de cada uma no projeto.      | Heyttor      |
-| Resultados alcançados                        | Apresentação dos principais resultados obtidos com o desenvolvimento do projeto.                            | Luan         |
+| Resultados alcançados                        | Apresentação dos principais resultados obtidos com o desenvolvimento do projeto.                            | Luan, João          |
 | Planejamento (heatmap, cronograma, metodologia) | Organização e registro do planejamento, incluindo heatmap, cronograma e resumo da metodologia adotada.   | Rivadalvo    |
-| Apresentações                                | Preparação e condução das apresentações do projeto.                                                         | Samuel       |
+| Apresentações                                | Preparação e condução das apresentações do projeto.                                                         | Samuel, João       |
 | Técnicas utilizadas                          | Descrição das técnicas de requisitos, verificação e validação utilizadas ao longo do projeto.               | João         |
 | Validação (prototipação e validação informal)| Documentação da prototipação e da validação informal por meio de e-mail com a equipe responsável pelo sistema. | Nayra         |
 | Verificação                                  | Atividades de verificação dos artefatos produzidos, garantindo consistência e conformidade.                 | Luan         |

@@ -250,4 +250,17 @@ Permitiu que a equipe entregasse todas as etapas com qualidade, dentro dos prazo
 **Período**: Setembro a Novembro de 2025
 
 **Disciplina**: Requisitos de Software - Universidade de Brasília
-```
+
+## Referências Bibliográficas
+
+> 1. CANVA. Plataforma de design gráfico colaborativo. Disponível em: <https://www.canva.com>. Acesso em: 07/09/2025.
+
+> 2. Repositório do Grupo Grasshopper da disciplina de Requisitos de Software da Universidade de Brasília, 2022. Disponível em: <https://requisitos-de-software.github.io/2022.2-Grasshopper/planejamento/metodologia/>. Acesso em: 22/11/2025.
+
+> 3. SALES, André Barros de. Plano de ensino - Requisitos de Software (2025.1). Disponível em: <https://aprender3.unb.br/pluginfile.php/3106711/mod_resource/content/55/Lista%20de%20Verifificac%CC%A7a%CC%83o%20-%20Plano_de_Ensino%20RE%20012025%20Turma%2003%20v1.pdf>. Acesso em: 22/11/2025.
+
+## Versionamento
+
+| Versão | Data       | Autor               | Descrição                                    | Revisor |
+|:--------:|:------------:|:---------------------:|:----------------------------------------------:|:---------:|
+| ``1.0``    | 22/11/2025 | [Rivadalvio Joaquim](https://github.com/RivaFilho)  | Adição das ferramentas do projeto |  [João Pedro](https://github.com/Jadequilin)  |
