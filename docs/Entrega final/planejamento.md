@@ -263,4 +263,6 @@ Permitiu que a equipe entregasse todas as etapas com qualidade, dentro dos prazo
 
 | Versão | Data       | Autor               | Descrição                                    | Revisor |
 |:--------:|:------------:|:---------------------:|:----------------------------------------------:|:---------:|
-| ``1.0``    | 22/11/2025 | [Rivadalvio Joaquim](https://github.com/RivaFilho)  | Adição das ferramentas do projeto |  [João Pedro](https://github.com/Jadequilin)  |
+| ``1.0``    | 22/11/2025 | [Rivadalvio Joaquim](https://github.com/RivaFilho)  | Adição do resumo do planejamento |  [João Pedro](https://github.com/Jadequilin)  |
+| ``1.1``    | 22/11/2025 | [João Pedro](https://github.com/Jadequilin) | Adição da bibliografia e versionamento
+| [Rivadalvio Joaquim](https://github.com/RivaFilho)   |
