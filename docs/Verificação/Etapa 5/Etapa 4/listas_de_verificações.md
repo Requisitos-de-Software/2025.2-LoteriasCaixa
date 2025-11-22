@@ -2,7 +2,8 @@
 |Aluno| Contribuição|
 |-----|-------------|
 |Heyttor| Revisão da Historias de usuario e inspeção do grupo 3 das respectiva listas |
-|João | Revisão da lista de backlog e NFR e inspeção do grupo 3 das respectivas listas |
+|João | Revisão da lista de  NFR e inspeção do grupo 3 das respectivas listas |
+|samuel| Revisão da lista de backlog e inspeção do grupo 3 das respectivas listas|
 
 ## Lista de verificação historias de usuário - etapa 5
 

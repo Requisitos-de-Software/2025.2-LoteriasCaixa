@@ -8,32 +8,35 @@
 
 ## Lista de Verificação - Casos de Uso
 
+Todos os itens dessa lista foram feitos pelo estudante Ezequiel Miqueias
+Todos os itens de verificação sairam do video "Tutorial de Caso de Uso UML" disponivel no link:https://youtu.be/ab6eDdwS3rA?si=w7c0pd3eX2ouLVvw 
+
 *<p style="text-align: center;">Tabela 1: Checklist Casos de Uso do grupo 7</p>*
 
-| ID | Descrição | Cumpriu? |
+| ID | Descrição | Referencia|
 | --- | --- | --- |
-| 1 | O sistema está claramente identificado e delimitado (ex.: "Aplicativo Bancário")? |  |
-| 2 | Todas as funcionalidades internas estão contidas dentro dos limites do sistema? |  |
-| 3 | Elementos externos não aparecem dentro do retângulo do sistema? |  |
-| 4 | Os atores principais foram definidos (ex.: Cliente)? |  |
-| 5 | Os atores secundários foram definidos (ex.: Banco)? |  |
-| 6 | Atores estão representados como classes/categorias e não como indivíduos específicos? |  |
-| 7 | Atores principais estão posicionados à esquerda do sistema? |  |
-| 8 | Atores secundários estão posicionados à direita do sistema? |  |
-| 9 | Cada caso de uso está nomeado com um verbo + ação? |  |
-| 10 | Casos de uso estão organizados em ordem lógica? |  |
-| 11 | Associações (linhas sólidas) conectam atores aos casos de uso relevantes? |  |
-| 12 | O diagrama não contém atores ou casos de uso redundantes? |  |
-| 13 | Cada caso de uso possui pelo menos um ator associado? |  |
-| 14 | O diagrama é compreensível para stakeholders não técnicos? |  |
-| 15 | O caso base possui um caso incluído para ser completo? |  |
-| 16 | O caso base está direcionando para um caso incluído por uma linha tracejada? |  |
-| 17 | Há uma linha tracejada com seta apontando do caso de uso estendido para o caso de uso base? |  |
-| 18 | O caso de uso incluído é executado sempre, de forma inevitável? |  |
-| 19 | Cada caso de uso especializado herda características do geral acrescentando novas funcionalidades? |  |
-| 20 | O caso de uso contém uma seção de pontos de extensão? |  |
-| 21 | Os pontos de extensão estão listados abaixo da linha do caso de uso? |  |
-| 22 | Existem condições claras que determinam quando o ponto de extensão será ativado? |  |
+| 1 | O sistema está claramente identificado e delimitado (ex.: "Aplicativo Bancário")? | [clique aqui](../../../images/inspecao-etapa5/cdu-1.png)  |
+| 2 | Todas as funcionalidades internas estão contidas dentro dos limites do sistema? |[clique aqui](../../../images/inspecao-etapa5/cdu2.png)   |
+| 3 | Elementos externos não aparecem dentro do retângulo do sistema? |[clique aqui](../../../images/inspecao-etapa5/cdu-3.png)   |
+| 4 | Os atores principais foram definidos (ex.: Cliente)? |[clique aqui](../../../images/inspecao-etapa5/cdu-4.png)   |
+| 5 | Os atores secundários foram definidos (ex.: Banco)? | [clique aqui](../../../images/inspecao-etapa5/cdu-5.png)  |
+| 6 | Atores estão representados como classes/categorias e não como indivíduos específicos? | [clique aqui](../../../images/inspecao-etapa5/cdu-6.png) |
+| 7 | Atores principais estão posicionados à esquerda do sistema? |[clique aqui](../../../images/inspecao-etapa5/cdu-7.png)  |
+| 8 | Atores secundários estão posicionados à direita do sistema? |[clique aqui](../../../images/inspecao-etapa5/cdu-8.png)  |
+| 9 | Cada caso de uso está nomeado com um verbo + ação? | [clique aqui](../../../images/inspecao-etapa5/cdu-9.png) |
+| 10 | Casos de uso estão organizados em ordem lógica? | [clique aqui](../../../images/inspecao-etapa5/cdu-10.png) |
+| 11 | Associações (linhas sólidas) conectam atores aos casos de uso relevantes? | [clique aqui](../../../images/inspecao-etapa5/cdu-11.png) |
+| 12 | O diagrama não contém atores ou casos de uso redundantes? | [clique aqui](../../../images/inspecao-etapa5/cdu-12.png) |
+| 13 | Cada caso de uso possui pelo menos um ator associado? | [clique aqui](../../../images/inspecao-etapa5/cdu-13.png) |
+| 14 | O diagrama é compreensível para stakeholders não técnicos? | [clique aqui](../../../images/inspecao-etapa5/cdu-14.png) |
+| 15 | O caso base possui um caso incluído para ser completo? |[clique aqui](../../../images/inspecao-etapa5/cdu-15.png)  |
+| 16 | O caso base está direcionando para um caso incluído por uma linha tracejada? | [clique aqui](../../../images/inspecao-etapa5/cdu-16.png) |
+| 17 | Há uma linha tracejada com seta apontando do caso de uso estendido para o caso de uso base? | [clique aqui](../../../images/inspecao-etapa5/cdu-17.png) |
+| 18 | O caso de uso incluído é executado sempre, de forma inevitável? | [clique aqui](../../../images/inspecao-etapa5/cdu-18.png) |
+| 19 | Cada caso de uso especializado herda características do geral acrescentando novas funcionalidades? | [clique aqui](../../../images/inspecao-etapa5/cdu-19.png) |
+| 20 | O caso de uso contém uma seção de pontos de extensão? | [clique aqui](../../../images/inspecao-etapa5/cdu-20.png)  |
+| 21 | Os pontos de extensão estão listados abaixo da linha do caso de uso? |[clique aqui](../../../images/inspecao-etapa5/cdu-21.png)  |
+| 22 | Existem condições claras que determinam quando o ponto de extensão será ativado? | [clique aqui](../../../images/inspecao-etapa5/cdu-22.png) |
 
 ## Lista de Verificação - Léxico (LAL)
 

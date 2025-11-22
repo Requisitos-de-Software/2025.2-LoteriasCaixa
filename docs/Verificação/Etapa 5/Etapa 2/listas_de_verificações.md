@@ -3,8 +3,8 @@
 |-----|-------------|
 |luan Vinicius| Revisão da lista de observação e inspeção do grupo 3 das respectivas listas |
 | Miqueias | Revisão da lista Glossario,Moscow e $100 dolares e inspeção do grupo 3 das respectivas listas |
-|João | Three level scale e inspeção do grupo 3 das respectivas listas |
-| Heyttor | REvisão da lista de perfil de usuário e inspeção do grupo 3 |
+|Samuel | Three level scale e inspeção do grupo 3 das respectivas listas |
+| Heyttor | Revisão da lista de perfil de usuário e inspeção do grupo 3 |
 | Nayra | Revisão da lista de valor custo e risco |
 
 
@@ -13,18 +13,23 @@
 
 *<p style="text-align: center;">Tabela 1: Checklist Perfil de Usuário do grupo 7</p>*
 
-| ID  | Descrição | Autor(es)   | Cumpriu? |
+Todas os itens de verificação foram tirados do livro  Organização do Espaço de Problema Livro IHC: Barbosa e Silva <a id="achor_4" href="#REF4">[1]</a>
+
+Todos os itens dessa lista foram feito pelo estudante Miqueias Ezequiel
+
+
+| ID  | Descrição  | Referencia|
 |-----|-----------|----------|
-| 1   | O perfil de usuário identifica claramente os objetivos do usuário? |  |
-| 2   | As características de interesse (cargo, função, experiência, nível de instrução etc.) foram coletadas e analisadas? | |
-| 3   | Os dados foram agrupados em faixas e categorias (ex.: idade, experiência) para facilitar priorização? | |
-| 4   | Foi calculada a proporção de usuários que se encaixam em cada perfil, permitindo priorizar grupos mais representativos? | |
-| 5   | O processo de elaboração do perfil de usuário foi iterativo, refinado ao longo do projeto? | |
-| 6   | As características do perfil de usuário foram priorizadas conforme a relevância para o produto e projeto? |  |
-| 7   | Os recursos foram direcionados para capturar as características-chave mais importantes para o projeto? |  |
-| 8   | Foram consideradas múltiplas dimensões do usuário (dados pessoais, relação com tecnologia, conhecimento do domínio, tarefas)? | |
-| 9   | Os usuários foram categorizados em grupos significativos (idade, experiência, atitudes, tarefas primárias)? | |
-| 10  | O perfil de usuário cobre a maioria dos grupos, evitando deixar uma porcentagem significativa de usuários sem representação? |  |   
+| 1   | O perfil de usuário identifica claramente os objetivos do usuário? | [clique aqui](../../../images/inspecao-etapa5/Perfil_1.png)  |
+| 2   | As características de interesse (cargo, função, experiência, nível de instrução etc.) foram coletadas e analisadas? | [clique aqui](../../../images/inspecao-etapa5/perfil_usuario_2.png)|
+| 3   | Os dados foram agrupados em faixas e categorias (ex.: idade, experiência) para facilitar priorização? |[clique aqui](../../../images/inspecao-etapa5/perfil%203.png) |
+| 4   | Foi calculada a proporção de usuários que se encaixam em cada perfil, permitindo priorizar grupos mais representativos? |[clique aqui](../../../images/inspecao-etapa5/perfil%204.png) |
+| 5   | O processo de elaboração do perfil de usuário foi iterativo, refinado ao longo do projeto? | [clique aqui](../../../images/inspecao-etapa5/perfil%205.png)|
+| 6   | As características do perfil de usuário foram priorizadas conforme a relevância para o produto e projeto? | [clique aqui](../../../images/inspecao-etapa5/perfil6.png) |
+| 7   | Os recursos foram direcionados para capturar as características-chave mais importantes para o projeto? |[clique aqui](../../../images/inspecao-etapa5/perfil7.png)  |
+| 8   | Foram consideradas múltiplas dimensões do usuário (dados pessoais, relação com tecnologia, conhecimento do domínio, tarefas)? |[clique aqui](../../../images/inspecao-etapa5/perfil%208.png) |
+| 9   | Os usuários foram categorizados em grupos significativos (idade, experiência, atitudes, tarefas primárias)? | [clique aqui](../../../images/inspecao-etapa5/perfil%209.png)|
+| 10  | O perfil de usuário cobre a maioria dos grupos, evitando deixar uma porcentagem significativa de usuários sem representação? |[clique aqui](../../../images/inspecao-etapa5/perfil%2010.png)  |   
 
 
 ## Lista de Verificação – Técnica dos 100 Dólares
@@ -146,9 +151,10 @@ Fonte: <https://docs.google.com/document/d/13GI1jPB-gPHaFYhGgmODryBbIc_GqqzV2BTK
 
 ## Referências Bibliográficas 
 
-> <a id="REF1" href="#anchor_1">1.</a> Wiegers, K. E., & Beatty, J. (2013). Software Requirements (3rd ed.). Redmond, WA: Microsoft Press. Acesso em: 11 Nov. 2025.
-> <a id="REF2" href="#anchor_2">2.</a> Wiegers, K. E., & Beatty, J. (2013). Software Requirements (3rd ed., p. 317-324). Redmond, WA: Microsoft Press. Acesso em: 11 Nov. 2025.
-> <a id="REF3" href="#anchor_3">3.</a> VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de Requisitos: Software Orientado ao Negócio. Rio de Janeiro: Brasport, 2016. Acesso em: 11 Nov. 2025.
+> - <a id="REF1" href="#anchor_1">1.</a> Wiegers, K. E., & Beatty, J. (2013). Software Requirements (3rd ed.). Redmond, WA: Microsoft Press. Acesso em: 11 Nov. 2025.
+> - <a id="REF2" href="#anchor_2">2.</a> Wiegers, K. E., & Beatty, J. (2013). Software Requirements (3rd ed., p. 317-324). Redmond, WA: Microsoft Press. Acesso em: 11 Nov. 2025.
+> - <a id="REF3" href="#anchor_3">3.</a> VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de Requisitos: Software Orientado ao Negócio. Rio de Janeiro: Brasport, 2016. Acesso em: 11 Nov. 2025.
+> - <a id="REF4" href="#anchor_4">4.</a> BARBOSA, Simone Diniz Junqueira et al. Identificação de Necessidades dos Usuários e Definição dos Requisitos de IHC. In: BARBOSA, Simone Diniz Junqueira et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Rio de Janeiro: Autopublicação, 2021. Cap. 7. Disponível em: <https://aprender3.unb.br/pluginfile.php/3210605/mod_resource/content/4/ihc-ux%20cap%207.pdf>. 
 
 ## Versionamento
 
