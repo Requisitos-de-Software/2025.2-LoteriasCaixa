@@ -22,8 +22,13 @@ E como no projeto a página é montada pelo programa do MKDocs, toda vez que um 
 
 Para que nenhum arquivo fique com alguma informação faltando ou errada, foi definido que a cada nova modificação feita nos arquivos, será escolhido pelo autor do commit um outro membro da equipe para ser o revisor e, assim, apontar os pontos que precisarão ser modificados, caso nescessário. 
 
+## Referência Bibliográfica 
+
+> 1. Repositório do Grupo Grasshopper da disciplina de Requisitos de Software da Universidade de Brasília, 2022. Disponível em: <https://requisitos-de-software.github.io/2022.2-Grasshopper/planejamento/metodologia/>. Acesso em: 22/11/2025.
+
 ## Versionamento 
 | Versão | Data       | Autor               | Descrição                  | Revisor |
 |:--------:|:------------:|:---------------------:|:---------------------:|:---------:|
 | ``1.0``    | 07/09/2025 | [Luan Vinícius](https://github.com/luannvi)   | Abertura do documento | - |
 | ``1.1``    | 07/09/2025 | [Luan Vinícius](https://github.com/luannvi)   | Adição de conteúdo | [Miquéias Ezequiel](https://github.com/Kael-web7) |
+| ``1.2``    | 07/09/2025 | [Luan Vinícius](https://github.com/luannvi)   | Adição de ref. bibliográfica | [Miquéias Ezequiel](https://github.com/Kael-web7) |  
