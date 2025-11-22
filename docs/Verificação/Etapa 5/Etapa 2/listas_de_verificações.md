@@ -2,7 +2,7 @@
 |Aluno| Contribuição|
 |-----|-------------|
 |luan Vinicius| Revisão da lista de observação e inspeção do grupo 3 das respectivas listas |
-| Miqueias | Revisão da lista Glossario,Moscow e $100 dolares e inspeção do grupo 3 das respectivas listas |
+| Miqueias | Criação da lista Glossario e revisão da lista de Moscow e $100 dolares e inspeção do grupo 3 das respectivas listas |
 |Samuel | Three level scale e inspeção do grupo 3 das respectivas listas |
 | Heyttor | Revisão da lista de perfil de usuário e inspeção do grupo 3 |
 | Nayra | Revisão da lista de valor custo e risco |

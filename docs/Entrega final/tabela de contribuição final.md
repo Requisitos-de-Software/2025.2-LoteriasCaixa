@@ -9,7 +9,7 @@ Este artefato foi construído pelo estudante heyttor augusto como lider do grupo
 
 Autor:Heyttor augusto
 
-| Atividade / Métrica                                              | Heyttor Augusto | João Pedro | Luan Viinicius | Miquéias Exequiel | Nayra Neyre | Rivadalvio | Samuel Felipe |
+| Atividade / Métrica                                              | Heyttor Augusto | João Pedro | Luan Vinicius | Miquéias Ezequiel | Nayra Neyre | Rivadalvio | Samuel Felipe |
 |------------------------------------------------------------------|------------------|------------|----------------|--------------------|-------------|------------|----------------|
 | **RichPicture**                                                  | [fez](../Pré-rastreabilidade/RichPicture.md)                | 0          | [fez](../Pré-rastreabilidade/RichPicture.md)            | 0                  | 0           | 0          | 0              |
 | **Validação com usuário do RichPicture com gravação online?**| 0                | 0          | [fez](../Pré-rastreabilidade/RichPicture.md)              | 0                  | 0           | 0          | 0              |
@@ -21,15 +21,14 @@ Autor:Heyttor augusto
 
 Autor:Heyttor augusto
 
-autor: Heyttor Augusto
 
-| Técnica / Métrica                                                                 | Heyttor Augusto | João Pedro | Luan viinicius | miqueias ezequiel| Nayra neyre | Rivadalvio | Samuel felipe |
+| Técnica / Métrica                                                                 | Heyttor Augusto | João Pedro | Luan vinicius | miqueias ezequiel| Nayra neyre | Rivadalvio | Samuel felipe |
 |-----------------------------------------------------------------------------------|-----------------|------------|----------------|------------------|-------------|------------|----------------|
 | Técnicas de elicitação sem a participação do usuário (analise de documentos, introspecção etc) | [Entrevista](../Elicitação/Técnicas/Entrevista.md)               | [Entrevista](../Elicitação/Técnicas/Entrevista.md)           | [Observação](../Elicitação/Técnicas/Observação.md)             | 0                | 0           | [Entrevista](../Elicitação/Técnicas/Entrevista.md)           | [Analise de documentos](../Elicitação/Técnicas/Análise%20de%20Documentos.md)              |
 | Técnicas de elicitação com a participação do usuário sem gravação (Questionario)  | 0               | 0          | 0              | [Glossario](../Elicitação/Técnicas/Observação.md)               | 0           | 0          | 0              |
 | Técnicas de elicitação que necessita a participação do usuário e com gravação com usuário presencial | [Entrevista](../Elicitação/Técnicas/Entrevista.md)              | [Entrevista](../Elicitação/Técnicas/Entrevista.md)            | [Observação](../Elicitação/Técnicas/Observação.md)              | 0                | 0           | [Entrevista](../Elicitação/Técnicas/Entrevista.md)          | 0              |
 | Técnicas de elicitação que necessita a participação do remota e com gravação com usuário | 0               | 0          | 0              | 0                | 0           | 0          | 0              |
-| Técnicas de Priorização presencial e com gravação com usuário                    | [escala de 3 niveis](../Elicitação/Priorização/Three%20level%20scale.md)               | [valor custo e risco](../Elicitação/Priorização/Three%20level%20scale.md)         | 0              | 0                | 0           | 0          | 0              |
+| Técnicas de Priorização presencial e com gravação com usuário                    | [escala de 3 niveis](../Elicitação/Priorização/Three%20level%20scale.md)               | [valor custo e risco](../Elicitação/Priorização/Three%20level%20scale.md)         | [$100](../Elicitação/Priorização/$100.md  )             | 0                | 0           | 0          | 0              |
 | Técnicas de Priorização presencial e sem gravação com usuário                    | [moscow](../Elicitação/Priorização/MoSCoW.md)               | 0          | 0              |  [moscow](../Elicitação/Priorização/MoSCoW.md)                | [moscow](../Elicitação/Priorização/MoSCoW.md)          |     0        |  [moscow](../Elicitação/Priorização/MoSCoW.md)               |
 | Técnicas de Priorização remota e com gravação com usuário                        | 0               | 0          | 0   | 0                | 0           | 0          | 0              |
 | Perfil de Usuário                                                                 | [Perfil de usuario](../Elicitação/Perfil%20de%20Usuário.md)          | 0          | 0              | 0                | 0           | 0          | 0           |
@@ -44,7 +43,7 @@ autor: Heyttor Augusto
 
 Autor:Heyttor augusto
 
-| Documento / Métrica                                                                                       | Heyttor Augusto | João Pedro | Luan viinicius | miqeias exequiel | Nayra neyre | Rivadalvio | Samuel felipe |
+| Documento / Métrica                                                                                       | Heyttor Augusto | João Pedro | Luan vinicius | miqueias ezequiel | Nayra neyre | Rivadalvio | Samuel felipe |
 |-----------------------------------------------------------------------------------------------------------|-----------------|------------|----------------|------------------|-------------|------------|----------------|
 | Especificação dos Cenários                                                                                |           [3](../Modelagem/Cenários.md)    | [2](../Modelagem/Cenários.md)           | [2](../Modelagem/Cenários.md)               | [2](../Modelagem/Cenários.md)                 | [2](../Modelagem/Cenários.md)            | [2](../Modelagem/Cenários.md)           | [2](../Modelagem/Cenários.md)               |
 | Validação com usuário da especificação dos cenários com gravação presencial?                              | [1](../Modelagem/Cenários.md)                | 0          | 0              | 0                | [1](../Modelagem/Cenários.md)            | 0          | 0              |
@@ -63,7 +62,7 @@ Autor:Heyttor augusto
 
 Autor:Heyttor augusto
 
-| Documento / Métrica                                                                                                                                         | Heyttor Augusto | João Pedro | Luan viinicius | miqeias exequiel | Nayra neyre | Rivadalvio | Samuel felipe |
+| Documento / Métrica                                                                                                                                         | Heyttor Augusto | João Pedro | Luan vinicius | miqueias ezequiel | Nayra neyre | Rivadalvio | Samuel felipe |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|------------|----------------|------------------|-------------|------------|----------------|
 | Histórias de Usuário (Quantidade de requisitos Funcionais especificado pelo estudante?) – (o estudante deveria especificar 6 requisitos funcionais sendo que 2 são requisitos não implementados?) | [6](../Modelagem/Ágil/História%20de%20usuário.md)               | [6](../Modelagem/Ágil/História%20de%20usuário.md)         | [6](../Modelagem/Ágil/História%20de%20usuário.md)              | [6](../Modelagem/Ágil/História%20de%20usuário.md)               | [6](../Modelagem/Ágil/História%20de%20usuário.md)           | [6](../Modelagem/Ágil/História%20de%20usuário.md)          | [6](../Modelagem/Ágil/História%20de%20usuário.md)             |
 | Validação com usuário da História do Usuário com gravação presencial?                                                                                       | [sim](../Modelagem/Ágil/História%20de%20usuário.md)             | não        | não            | [sim](../Modelagem/Ágil/História%20de%20usuário.md)              | [sim](../Modelagem/Ágil/História%20de%20usuário.md)        | Não        | [sim](../Modelagem/Ágil/História%20de%20usuário.md)          |
@@ -78,7 +77,7 @@ Autor:Heyttor augusto
 
 Autor:Heyttor augusto
 
-| Documento / Métrica                                                                                                                               | Heyttor Augusto | João Pedro | Luan viinicius | miqeias exequiel | Nayra neyre | Rivadalvio | Samuel felipe |
+| Documento / Métrica                                                                                                                               | Heyttor Augusto | João Pedro | Luan vinicius | miqueias ezequiel | Nayra neyre | Rivadalvio | Samuel felipe |
 |---------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|------------|----------------|------------------|-------------|------------|----------------|
 | Quantidade de Requisitos Funcionais não implementados criados no protótipo pelo estudante                                                        | [2](../Validação/Prototipação.md)               | [2](../Validação/Prototipação.md)          | [2](../Validação/Prototipação.md)              | [2](../Validação/Prototipação.md)                | [1](../Validação/Prototipação.md)           | [2](../Validação/Prototipação.md)         | [2](../Validação/Prototipação.md)              |
 | Quantidade de Validação dos Protótipos com o usuário com gravação presencial                                                                     | [2](../Validação/Prototipação.md)               | [2](../Validação/Prototipação.md)          | [2](../Validação/Prototipação.md)              | [2](../Validação/Prototipação.md)                | [1](../Validação/Prototipação.md)          | [2](../Validação/Prototipação.md)         | [2](../Validação/Prototipação.md)             |
@@ -104,7 +103,7 @@ Autor:Heyttor augusto
 
 Autor:Heyttor augusto
 
-| | Heytton Augusto | João Pedro | Luan Vinícius | Miqueias Emanuel | Nayra Neyre | Rivadalvio | Samuel Felipe |
+| | Heytton Augusto | João Pedro | Luan Vinícius | Miqueias ezequiel | Nayra Neyre | Rivadalvio | Samuel Felipe |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Quantidade de Élios (Especificação) | 10 | 10 | 10 | 10 | 10 | 10 | 10 |
 | Participação da Matriz de Rastreabilidade (requisitos com versionamento) | 10 | 10 | 10 | 10 | 10 | 10 | 10 |

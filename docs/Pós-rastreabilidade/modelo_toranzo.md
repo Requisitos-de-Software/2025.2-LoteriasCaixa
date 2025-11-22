@@ -477,7 +477,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 
 *<p style= "text-align: center;"> Fonte: <a href= "https://github.com/TerminaKng05">Samuel Felipe</a> </p>*
 
-## RNF01 
+## RNF01  O software deve ter telas simples com poucos elementos 
 
 | Artefato Analisado | Classificação do Artefato Analisado |
 | --- | --- |
@@ -489,7 +489,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 | Agregação | [CNFR01](../Modelagem/Ágil/NFR.md) |
 
 
-## RNF02 
+## RNF02 O software deve ter imagens explicativas que mostrem as funções principais do palicativo, em uma aba especial so para elas
 
 | Artefato Analisado | Classificação do Artefato Analisado |
 | --- | --- |
