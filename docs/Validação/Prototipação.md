@@ -181,6 +181,12 @@ Foi feita a validação com o usuário Matheus Queiroz, que aprovou o requisito 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m_0x1l_aEvA?si=FZEw1v2PD716ONmq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+### RF23 e RF40
+
+Foi feita a validação com o usuário Fernado samuel, que aprovou os requisitos prototipados.
+
+<iframe width="560" height="315" src="https://www.youtube.com/e/m_0x1l_aEvA?si=FZEw1v2PD716ONmq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ## Agradecimentos 
 
@@ -206,4 +212,5 @@ O grupo 7 agradece o apoio das ferramentas de inteligência artificial generativ
 | ``2.8`` | 19/11/2025 | Adição do RNF26 | [João Pedro](https://github.com/Jadequilin) | - |
 | `` 2.9 `` | 20/11/2025 | Adição da seção de validação com o usuário | [João Pedro](https://github.com/Jadequilin) | - |
 | ``3.0`` | 20/11/2025 | Atualização da numeração dos rfs | [Samuel Felipe](https://github.com/TerminaKng05) | [Heyttor Augusto](https://github.com/H3ytt0r62) |
-| ``3.1``     | 21/11/2025 | Adição das tabelas restantes do protótipo, adição dos GIFs restantes, correções ortográficas no texto, atualização da tabela de contribuição, formato em ordem crescente dos requisitos  | [Luan Vinícius](https://github.com/luannvi) | [Miquéias Ezequiel](https://github.com/Kael-web7), [Heyttor Augusto](https://github.com/H3ytt0r62) |
+| ``3.1``     | 21/11/2025 | Adição das tabelas restantes do protótipo, adição dos GIFs restantes, correções ortográficas no texto, atualização da tabela de contribuição, formato em ordem crescente dos requisitos  | [Luan Vinícius](https://github.com/luannvi) | [Miquéias Ezequiel]
+| ``3.2`` | 22/11/2025 | Adição do RF23 e RF40 | [Rivadalvio Joaquim](https://github.com/RivaFilho) | - |
