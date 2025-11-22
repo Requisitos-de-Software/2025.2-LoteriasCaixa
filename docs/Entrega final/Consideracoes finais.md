@@ -27,6 +27,10 @@ Ao decorrer do projeto, enfrentei algumas dificuldades relacionadas a gestão de
 
 De maneira individual, o projeto foi um dos mais trabalhosos como também o que mais me tirou da zona de conforto até o momento, o que não só me ajudou a melhorar nas áreas de estudo e habilidades como também a lidar em trabalhar em grupo, sendo uma experiência boa não só no ambiente universitário mas como preparatório para o ambiente de empresas dessa área. Por mais que ocorreram alguns problemas, o grupo como um todo se mostrou interessado em realizar o melhor que cada um poderia realizar, se apoiando um no outro e aprendendo bastante sobre os assuntos dessa área.
 
+## Rivadalvo Filho
+
+O desenvolvimento deste projeto foi uma jornada de significativo aprendizado. Apesar dos desafios iniciais com a adaptação às metodologias e ferramentas, percebo que evoluímos consideravelmente tanto no aspecto técnico quanto na dinâmica de trabalho em equipe. A colaboração entre os membros foi fundamental para superarmos obstáculos e entregarmos um trabalho que reflete nosso esforço coletivo. Esta experiência certamente contribuiu para minha formação profissional, destacando a importância de uma comunicação clara e de um planejamento bem estruturado em projetos de engenharia de software.
+
 ## Dificuldades gerais
 
 - falta de experiencia
@@ -45,3 +49,4 @@ De maneira individual, o projeto foi um dos mais trabalhosos como também o que 
 | ``1.1`` | 20/11/2025| [João Pedro](https://github.com/Jadequilin) | Adição da minha consideração final |-|
 | ``1.2`` | 21/11/2025| [Miquéias Ezequiel](https://github.com/Kael-web7)  | Adição da minha consideração final |-|
 | ``1.3`` | 21/11/2025 | [Samuel Felipe](https://github.com/TerminaKng05) | Adição da minha consideração final | - |
+| ``1.4`` | 21/11/2025 | [Rivadalvo Filho](https://github.com/RivaFilho) | Adição da minha consideração final | - |
