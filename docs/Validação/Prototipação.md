@@ -185,7 +185,7 @@ Foi feita a validação com o usuário Matheus Queiroz, que aprovou o requisito 
 
 Foi feita a validação com o usuário Fernado samuel, que aprovou os requisitos prototipados.
 
-<iframe width="560" height="315" src="https://www.youtube.com/e/m_0x1l_aEvA?si=FZEw1v2PD716ONmq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/e/m_0x1l_aEvA?si=F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## Agradecimentos 
