@@ -23,5 +23,5 @@
  
  | Versão | Data       | Descrição          | Autor(es)                                        | Revisor(es)                                    |
  | ------ | ---------- | ------------------ | ------------------------------------------------ | ---------------------------------------------- |
-| `1.0`  | 19/11/2025 | Criação e preenchimento do documento | [João Pedro](https://github.com/Jadequilin) | [Rivadalvio Joaquim](https://github.com/RivaFilho) |
-| `1.1`  | 20/11/2025 | Adição dos links dos vídeos das apresentações 4, 5 e 6 | [João Pedro](https://github.com/Jadequilin) | [Rivadalvio Joaquim](https://github.com/RivaFilho) |
+| `1.0`  | 19/11/2025 | Criação e preenchimento do documento | [João Pedro](https://github.com/Jadequilin), [Samuel Felipe](https://github.com/TerminaKng05) | [Rivadalvio Joaquim](https://github.com/RivaFilho) |
+| `1.1`  | 20/11/2025 | Adição dos links dos vídeos das apresentações 4, 5 e 6 | [João Pedro](https://github.com/Jadequilin), [Samuel Felipe](https://github.com/TerminaKng05) | [Rivadalvio Joaquim](https://github.com/RivaFilho) |

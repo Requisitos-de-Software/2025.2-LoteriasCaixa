@@ -23,6 +23,10 @@ O projeto em si é bem trabalhoso, diversas vezes durante o desenvolvimento do m
 
 Ao decorrer do projeto, enfrentei algumas dificuldades relacionadas a gestão de tempo e organização das tarefas. Contudo, acredito que não somente eu, mas todo o grupo conseguiu entregar tudo dentro do prazo realizando o melhor trabalho possível em nossas respecitivas situações.Aprendemos muito durante o curso, não somente do conteúdo, mas gestão de projetos e trabalho em equipe também.
 
+## Samuel Felipe
+
+De maneira individual, o projeto foi um dos mais trabalhosos como também o que mais me tirou da zona de conforto até o momento, o que não só me ajudou a melhorar nas áreas de estudo e habilidades como também a lidar em trabalhar em grupo, sendo uma experiência boa não só no ambiente universitário mas como preparatório para o ambiente de empresas dessa área. Por mais que ocorreram alguns problemas, o grupo como um todo se mostrou interessado em realizar o melhor que cada um poderia realizar, se apoiando um no outro e aprendendo bastante sobre os assuntos dessa área.
+
 ## Dificuldades gerais
 
 - falta de experiencia
@@ -40,3 +44,4 @@ Ao decorrer do projeto, enfrentei algumas dificuldades relacionadas a gestão de
 | ``1.0``    | 19/11/2025 | [Heyttor Augusto](https://github.com/H3ytt0r62)|  | Abertura do documento | |
 | ``1.1`` | 20/11/2025| [João Pedro](https://github.com/Jadequilin) | Adição da minha consideração final |-|
 | ``1.2`` | 21/11/2025| [Miquéias Ezequiel](https://github.com/Kael-web7)  | Adição da minha consideração final |-|
+| ``1.3`` | 21/11/2025 | [Samuel Felipe](https://github.com/TerminaKng05) | Adição da minha consideração final | - |
