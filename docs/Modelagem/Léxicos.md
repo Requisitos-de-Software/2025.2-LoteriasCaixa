@@ -4,25 +4,25 @@ Este documento apresenta a especificação dos léxicos do sistema Loterias Caix
 
 ## Metodologia
 
-O léxico funciona como uma notação que lista e define os símbolos (palavras ou expressões) usados em uma linguagem. Em Engenharia de Requisitos, seu papel central é identificar termos ou frases próprios do contexto social em que o sistema será aplicado <a id="anchor_1" href="#REF1">[1]</a> . Cada símbolo do léxico é caracterizado por:
+O léxico representa uma forma de organização que enumera e caracteriza os símbolos (termos ou locuções) presentes em determinada linguagem. Na Engenharia de Requisitos, sua função primordial consiste em capturar vocábulos e expressões característicos do ambiente social onde o sistema será inserido <a id="anchor_1" href="#REF1">[1]</a>. Todo símbolo léxico possui dois atributos essenciais:
 
-* **Noção**: o seu significado literal, aquilo que ele denota <a id="anchor_2" href="#REF2">[2]</a>.
-* **Impacto**: a sua conotação ou efeito prático, ou seja, a resposta gerada quando o símbolo é utilizado <a id="anchor_2" href="#REF2">[2]</a>.
+* **Noção**: seu sentido denotativo direto, isto é, aquilo que o termo representa <a id="anchor_2" href="#REF2">[2]</a>.
+* **Impacto**: sua dimensão conotativa ou consequência funcional, correspondendo à reação provocada pelo emprego do símbolo <a id="anchor_2" href="#REF2">[2]</a>.
 
-Para elaborar os léxicos do Loterias Caixa, adotamos a abordagem do **Léxico Ampliado da Linguagem (LAL)**, conforme proposta por Sayão e Carvalho. Nesse modelo, cada símbolo é classificado em uma das quatro categorias:
+Para construir os léxicos do sistema Loterias Caixa, aplicamos o método do **Léxico Ampliado da Linguagem (LAL)**, segundo a metodologia de Sayão e Carvalho. Nessa estrutura, os símbolos recebem classificação em quatro tipos fundamentais:
 
-* **Sujeito**: identifica quem é o agente ou entidade responsável pela ação, enquanto o impacto descreve quais operações esse agente executa sobre o sistema ou ambiente.
-* **Verbo**: detalha quem realiza determinada ação, em que momento ela ocorre e quais procedimentos a compõem; o impacto mapeia os efeitos dessa ação no contexto e os novos estados que podem emergir.
-* **Objeto**: define o elemento ou recurso do sistema e suas associações com outros objetos; o impacto especifica que tipos de operações podem ser aplicadas a esse objeto.
-* **Estado**: descreve a condição ou situação atual do sistema, indicando quais eventos o levaram a tal ponto, e o impacto projeta os estados seguintes possíveis a partir dessa condição.
+* **Sujeito**: especifica o ator ou componente que protagoniza a ação; o impacto relaciona as operações que esse ator desempenha no sistema ou em seu entorno.
+* **Verbo**: explicita quem executa certa ação, o contexto temporal de sua ocorrência e os passos que a constituem; o impacto registra as repercussões dessa ação no ambiente e os novos cenários que podem surgir.
+* **Objeto**: caracteriza um elemento ou recurso do sistema e seus vínculos com outros objetos; o impacto indica quais manipulações podem incidir sobre esse objeto.
+* **Estado**: retrata a circunstância ou fase em que se encontra o sistema, explicitando os acontecimentos que o conduziram até ali; o impacto projeta os estados subsequentes viáveis a partir dessa situação.
 
-Cada léxico é estruturado com os seguintes campos:
+Cada léxico segue uma estrutura composta pelos seguintes elementos:
 
-- **Símbolo**: Nome do termo/conceito do domínio
-- **Tipo**: Classificação em Verbo, Objeto ou Estado
-- **Noção**: Definição denotativa do termo
-- **Impacto**: Descrição conotativa dos efeitos no sistema
-- **Sinônimos**: Palavras ou expressões alternativas com significado similar
+- **Símbolo**: Nomenclatura do termo ou conceito do domínio
+- **Tipo**: Categoria atribuída — Verbo, Objeto ou Estado
+- **Noção**: Definição denotativa que expressa o significado direto do termo
+- **Impacto**: Descrição conotativa dos desdobramentos e efeitos provocados no sistema
+- **Sinônimos**: Termos ou expressões equivalentes de sentido aproximado
 
 ## Modelo Usado
 
