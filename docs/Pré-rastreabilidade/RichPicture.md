@@ -30,6 +30,12 @@ Os cinco elementos básicos que estão presentes nas RichPictures:
 
 - **Setas**: representando as interações dos usuários com as funções do software e também as respostas do software ao usuário, tendo também uma descrição breve junto a seta.
 
+## Validação com o usuário
+
+Foi feita a validação com o usuário Matheus Queiroz, que aprovou a RichPicture feita.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I4OcrkAW1WA?si=w9Bei0y-vHYdmeBK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Referências
 
 >Google Play Store - Loterias Caixa: Disponível em: <https://play.google.com/store/apps/details?id=br.gov.caixa.loterias.apostas&hl=pt&gl=BR&pli=1.> Acesso em: 18/09/2025. 
@@ -44,3 +50,4 @@ Os cinco elementos básicos que estão presentes nas RichPictures:
 | ``1.1``    | 08/09/2025 | [Luan Vinícius](https://github.com/luannvi)       | Modificações do richpicture| [Heyttor Augusto](https://github.com/H3ytt0r62)|
 | ``1.2``    | 09/09/2025 | [Heyttor Augusto](https://github.com/H3ytt0r62)     | Adição de conteúdo         | [Luan Vinícius](https://github.com/luannvi)   |
 | ``2.0``    | 18/09/2025 | [Luan Vinícius](https://github.com/luannvi)       | Adição da imagem da segunda versão do RichPicture | [Heyttor Augusto](https://github.com/H3ytt0r62) |
+| ``2.1``    | 23/11/2025 | [Luan Vinícius](https://github.com/luannvi)       | Adição da validação com usuário |  |

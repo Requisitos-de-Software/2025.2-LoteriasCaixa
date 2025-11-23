@@ -193,6 +193,11 @@ Foi feita a validação com a usuária Joelma de Almeida, que aprovou o requisit
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3uuHRnVb84c?si=VCnIxh0AbUZF1Cpd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+### RF28 e RNF11 
+
+Foi feita a validação com o usuário Matheus Queiroz, que aprovou o requisito prototipado.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QNivC4XFEGI?si=oXyoO_9DOPCWmlvR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Agradecimentos 
 
@@ -218,6 +223,7 @@ O grupo 7 agradece o apoio das ferramentas de inteligência artificial generativ
 | ``2.8`` | 19/11/2025 | Adição do RNF26 | [João Pedro](https://github.com/Jadequilin) | - |
 | `` 2.9 `` | 20/11/2025 | Adição da seção de validação com o usuário | [João Pedro](https://github.com/Jadequilin) | - |
 | ``3.0`` | 20/11/2025 | Atualização da numeração dos rfs | [Samuel Felipe](https://github.com/TerminaKng05) | [Heyttor Augusto](https://github.com/H3ytt0r62) |
-| ``3.1``     | 21/11/2025 | Adição das tabelas restantes do protótipo, adição dos GIFs restantes, correções ortográficas no texto, atualização da tabela de contribuição, formato em ordem crescente dos requisitos  | [Luan Vinícius](https://github.com/luannvi) | [Miquéias Ezequiel]
+| ``3.1``     | 21/11/2025 | Adição das tabelas restantes do protótipo, adição dos GIFs restantes, correções ortográficas no texto, atualização da tabela de contribuição, formato em ordem crescente dos requisitos  | [Luan Vinícius](https://github.com/luannvi) | [Miqueias Ezequiel](https://github.com/Kael-web7) |
 | ``3.2`` | 22/11/2025 | Adição do RF23 e RF40 | [Rivadalvio Joaquim](https://github.com/RivaFilho) | - |
 | ``3.3 `` | 23/11/2025 | Adição da validação com usuário (RF 37 e 39) | [Samuel Felipe](https://github.com/TerminaKng05) | [Heyttor Augusto](https://github.com/H3ytt0r62) |
+| ``3.4``     | 23/11/2025 | Adição da validação com usuário (RF28 E RNF11) | [Luan Vinícius](https://github.com/luannvi) | [Miqueias Ezequiel](https://github.com/Kael-web7) |

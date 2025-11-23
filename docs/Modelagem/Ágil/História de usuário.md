@@ -20,15 +20,15 @@ Fonte: Repositório Bilheteria Digital, disciplina de requisitos de software <a 
 
 ## Tabela de contribuições
 
-| Aluno | Descrição | Links|
-|-------|-----------|------|
-| [Heyttor Augusto](https://github.com/H3ytt0r62) | Criação das histórias de usuário HU01, HU02, HU03, HU04, HU05 e HU06 | [HU01](#HU01), [HU02](#HU02), [HU03](#HU03), [HU04](#HU04), [HU05](#HU05), [HU06](#HU06) |
-| [João Pedro](https://github.com/Jadequilin) | Criação das histórias de usuário HU07, HU08, HU09, HU10, HU11 e HU12 | [HU07](#HU07), [HU08](#HU08), [HU09](#HU09), [HU10](#HU10), [HU11](#HU11), [HU12](#HU12) |
-| [Nayra Nery](https://github.com/NayraNery127) | Criação das histórias de usuário HU13, HU14, HU15, HU16, HU17 e HU18 | [HU13](#HU13), [HU14](#HU14), [HU15](#HU15), [HU16](#HU16), [HU17](#HU17), [HU18](#HU18) |
-| [Miqueias Ezequiel](https://github.com/Kael-web7) | Criação das histórias de usuário HU19, HU20, HU21, HU22, HU23 e HU24 | [HU19](#HU19), [HU20](#HU20), [HU21](#HU21), [HU22](#HU22), [HU23](#HU23), [HU24](#HU24) |
-| [Rivadalvio Joaquim](https://github.com/RivaFilho) | Criação das histórias de usuário HU25,  HU26, HU27, HU28, HU29 e HU30 | [HU25](#HU25), [HU26](#HU26), [HU27](#HU27), [HU28](#HU28), [HU29](#HU29), [HU30](#HU30) |
-| [Luan Vinícius](https://github.com/luannvi) | Criação das histórias de usuário HU31, HU32, HU33, HU34, HU35, HU36 | [HU31](#HU31), [HU32](#HU32), [HU33](#HU33), [HU34](#HU34), [HU35](#HU35), [HU36](#HU36) |
-| [Samuel Felipe](https://github.com/TerminaKng05) | Criação das histórias de usuário HU37, HU38, HU39, HU40, HU41 e HU42 | [HU37](#HU37), [HU38](#HU38), [HU39](#HU39), [HU40](#HU40), [HU41](#HU41) e [HU42](#HU42) |
+| Aluno | Descrição |
+|-------|-----------|
+| [Heyttor Augusto](https://github.com/H3ytt0r62) | Criação das histórias de usuário [HU01](#HU01), [HU02](#HU02), [HU03](#HU03), [HU04](#HU04), [HU05](#HU05), [HU06](#HU06) |
+| [João Pedro](https://github.com/Jadequilin) | Criação das histórias de usuário [HU07](#HU07), [HU08](#HU08), [HU09](#HU09), [HU10](#HU10), [HU11](#HU11), [HU12](#HU12) |
+| [Nayra Nery](https://github.com/NayraNery127) | Criação das histórias de usuário [HU13](#HU13), [HU14](#HU14), [HU15](#HU15), [HU16](#HU16), [HU17](#HU17), [HU18](#HU18) |
+| [Miqueias Ezequiel](https://github.com/Kael-web7) | Criação das histórias de usuário [HU19](#HU19), [HU20](#HU20), [HU21](#HU21), [HU22](#HU22), [HU23](#HU23), [HU24](#HU24) |
+| [Rivadalvio Joaquim](https://github.com/RivaFilho) | Criação das histórias de usuário [HU25](#HU25), [HU26](#HU26), [HU27](#HU27), [HU28](#HU28), [HU29](#HU29), [HU30](#HU30) |
+| [Luan Vinícius](https://github.com/luannvi) | Criação das histórias de usuário [HU31](#HU31), [HU32](#HU32), [HU33](#HU33), [HU34](#HU34), [HU35](#HU35), [HU36](#HU36) |
+| [Samuel Felipe](https://github.com/TerminaKng05) | Criação das histórias de usuário [HU37](#HU37), [HU38](#HU38), [HU39](#HU39), [HU40](#HU40), [HU41](#HU41) e [HU42](#HU42) | 
 
 ## Validação com o usuário
 
@@ -681,3 +681,4 @@ O grupo 7 agradece o apoio das ferramentas de inteligencia artificial generativa
 | ``2.0`` | 21/10/2025 | [Luan Vinícius](https://github.com/luannvi) | Adição da validação com o usuário (HU31 - HU36) | [Miqueias Ezequiel](https://github.com/Kael-web7) |
 | ``2.1`` | 21/10/2025 | [Miqueias Ezequiel](https://github.com/Kael-web7) | adição links de validação historia de usuario (19-24)| [Luan Vinícius](https://github.com/luannvi) |
 | ``2.2``    | 21/10/2025 | [João Pedro](https://github.com/Jadequilin)   | Padronização do local dos vídeos |[Rivadalvio Joaquim](https://github.com/RivaFilho) |
+| ``2.3`` | 23/11/2025 | [Luan Vinícius](https://github.com/luannvi) | Correção dos links tabela de contribuição | [Miqueias Ezequiel](https://github.com/Kael-web7) |

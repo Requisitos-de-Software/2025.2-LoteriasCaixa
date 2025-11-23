@@ -116,9 +116,11 @@ Esses rótulos são ilustrados na Figura 5.
 
 O gerenciamento dos requisitos não-funcionais (RNFs) será padronizado pelo uso do cartão de especificação de Silva (2019, p. 45) <a id= "anchor_7" href="#REF7">[7]</a>, apresentado na Figura 6, visando garantir rigor e consistência. O modelo define que cada RNF seja decomposto em campos claros, como número sequencial, classificação hierárquica, descrição, justificativa, origem, critério de ajuste, dependências, prioridade, conflitos e histórico de alterações. Este método foi escolhido por facilitar diretamente as atividades de rastreabilidade e validação no decorrer do desenvolvimento.
 
+*<p style="text-align: center;">Figura 6: Modelo do cartão de especificação utilizado.</p>*
+
 ![Cartão](../../images/nfr-framework/cartao.png){.center}
 
-*<p style="text-align: center;">Figura 6: Modelo do cartão de especificação utilizado.</p>*
+*<p style="text-align: center;">Fonte: Silva (2019), adaptado de Robertson & Robertson (2012).</p>*
 
 <a id="CNFR01"></a>
 ## CNFR01 - O software deve ter telas simples com poucos textos
@@ -505,3 +507,4 @@ O grupo 7 agradece o apoio das ferramentas de inteligencia artificial generativa
 | ``2.1`` | 21/10/2025 | [Miqueias Ezequiel](https://github.com/Kael-web7) | adição link CNFR's 7-8  | [Luan Vinícius](https://github.com/luannvi) |
 | ``2.2``     | 20/11/2025 | [Miquéias Ezequiel](https://github.com/Kael-web7)    | Especificação aprimorada RNF09 | [Luan Vinícius](https://github.com/luannvi) |
 | ``2.3`` | 23/11/2025 | [Samuel Felipe](https://github.com/TerminaKng05) | Adição da validação com usuário (CNFR 14) | [Luan Vinícius](https://github.com/luannvi) |
+| ``2.3`` | 23/11/2025 | [Luan Vinícius](https://github.com/luannvi) | Correção cartão de especificação | |
