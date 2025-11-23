@@ -167,6 +167,17 @@ A usabilidade abrange aspectos relacionados à facilidade de uso, experiência d
 | [RF36](../../Pós-rastreabilidade/Backward%20from.md#rf36) | As páginas do aplicativo mais usadas pelo usuário devem estar em destaque na tela | Não Implementado | [ENT23](../Elicitação/Técnicas/Entrevista.md) |
 | [RNF29](../../Pós-rastreabilidade/Backward%20from.md#rnf29) | O aplicativo deve permitir que o usuário encontre qualquer modalidade de loteria ou resultado desejado em no máximo 2 toques e 3 segundos, com itens do menu claramente rotulados na tela inicial. | Implementado | [ENT24](../Elicitação/Técnicas/Entrevista.md) |
 
+### Validação com o Usuário (Usabilidade)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G98rq24DcHw?si=cB0ugEtGIuzD5nsP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+| Participante | Função | Data | Horário | Local |
+| ------------ | ------ | ---- | ------- | ----- |
+| [Nayra Nery](https://github.com/NayraNery127) | Integrante do grupo, responsável por conduzir e coordenar a entrevista de usabilidade com o usuário. | 12/10/2025 | 11:20 | Online(Teams) |
+| Diassis Nascimento | Jogador de Loterias Caixa, responsável por responder à entrevista de usabilidade e validar os cenários desenvolvidos para o artefato. | 12/10/2025 | 11:20 | Online(Teams) |
+
+
+
 
 ###  R - Confiabilidade
 
@@ -272,4 +283,5 @@ O grupo 7 agradece o apoio das ferramentas de inteligência artificial generativ
 | `2.0` | 12/10/2025 | [João Pedro](https://github.com/Jadequilin) | Adição de vídeos da validação | [Rivadalvio Joaquim](https://github.com/RivaFilho) |
 | `2.1` | 21/10/2025 | [João Pedro](https://github.com/Jadequilin) | Correção dos IDs de referência à requisitos | [Rivadalvio Joaquim](https://github.com/RivaFilho) |
 | `2.2` | 18/11/2025 | [João Pedro](https://github.com/Jadequilin) e [Rivadalvio Joaquim](https://github.com/RivaFilho) | Adição de explicação detalhada de FURPS+, correção de todas as referências, adição de hyperlinks e agradecimentos à IA | [Luan Vinícius](https://github.com/luannvi) |
+
 | ``2.3``     | 20/11/2025 | [Miquéias Ezequiel](https://github.com/Kael-web7)    | Especificação aprimorada RNF09 e RNF30 | [Luan Vinícius](https://github.com/luannvi) |
