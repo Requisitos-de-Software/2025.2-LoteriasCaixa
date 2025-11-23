@@ -95,18 +95,17 @@ Todos os itens dessa lista foram feito pelo estudante Miqueias Ezequiel
 
 *<p style="text-align: center;">Tabela 7: Checklist Three Level Scale do grupo 7</p>*
 
-| ID  | Descrição | Autor(res) |
-|-----|-----------|----------|
-| 1   | Os requisitos foram separados nos níveis de alta, média e baixa prioridade? | [Heyttor Augusto](https://github.com/H3ytt0r62) |
-| 2   | Os requisitos de alta prioridade são de extrema urgência e importância? | [Heyttor Augusto](https://github.com/H3ytt0r62) |
-| 3   | Os requisitos de alta prioridade podem ser implementados em outro momento? | [Heyttor Augusto](https://github.com/H3ytt0r62) |
-| 4   | Os requisitos de média prioridade podem ser feitos em outro momento? | [Heyttor Augusto](https://github.com/H3ytt0r62) |
-| 5   | Os requisitos considerados de baixa prioridade podem ser implementados em outro momento, além de não serem importantes para o cliente? | [Heyttor Augusto](https://github.com/H3ytt0r62) |
-| 6   | Foi incluída a prioridade do requisito junto ao próprio documento de requisitos de usuário? | [Heyttor Augusto](https://github.com/H3ytt0r62) |
-| 7   | Foram feitas subdivisões de requisitos por prioridade? | [Heyttor Augusto](https://github.com/H3ytt0r62) |
-| 8   | Os requisitos dependentes de outros estão em um nível igual ou inferior de prioridade? | [Heyttor Augusto](https://github.com/H3ytt0r62) |
+| ID  | Descrição | Autor(res) | Referências |
+|-----|-----------|----------| ------------- |
+| 1   | Os requisitos foram separados nos níveis de alta, média e baixa prioridade? <a id="anchor_5" href="#REF5">[5]</a> | [Heyttor Augusto](https://github.com/H3ytt0r62) | [Ver Imagem](/docs/images/inspecao-etapa5/tls1.png){ data-glightbox } |
+| 2   | Os requisitos de alta prioridade são de extrema urgência e importância? <a id="anchor_5" href="#REF5">[5]</a> | [Heyttor Augusto](https://github.com/H3ytt0r62) | [Ver Imagem](/docs/images/inspecao-etapa5/tls2.png){ data-glightbox } |
+| 3   | Os requisitos de alta prioridade podem ser implementados em outro momento? <a id="anchor_5" href="#REF5">[5]</a> | [Heyttor Augusto](https://github.com/H3ytt0r62) | [Ver Imagem](/docs/images/inspecao-etapa5/tls3.png){ data-glightbox } |
+| 4   | Os requisitos de média prioridade podem ser feitos em outro momento? <a id="anchor_5" href="#REF5">[5]</a> | [Heyttor Augusto](https://github.com/H3ytt0r62) | [Ver Imagem](/docs/images/inspecao-etapa5/tls4.png){ data-glightbox } |
+| 5   | Os requisitos considerados de baixa prioridade podem ser implementados em outro momento, além de não serem importantes para o cliente? <a id="anchor_5" href="#REF5">[5]</a> | [Heyttor Augusto](https://github.com/H3ytt0r62) | [Ver Imagem](/docs/images/inspecao-etapa5/tls5.png){ data-glightbox } |
+| 6   | Foi incluída a prioridade do requisito junto ao próprio documento de requisitos de usuário? <a id="anchor_5" href="#REF5">[5]</a> | [Heyttor Augusto](https://github.com/H3ytt0r62) | [Ver Imagem](/docs/images/inspecao-etapa5/tls6.png){ data-glightbox } |
+| 7   | Foram feitas subdivisões de requisitos por prioridade? <a id="anchor_5" href="#REF5">[5]</a> | [Heyttor Augusto](https://github.com/H3ytt0r62) | [Ver Imagem](/docs/images/inspecao-etapa5/tls7.png){ data-glightbox } |
+| 8   | Os requisitos dependentes de outros estão em um nível igual ou inferior de prioridade? <a id="anchor_5" href="#REF5">[5]</a> | [Heyttor Augusto](https://github.com/H3ytt0r62) | [Ver Imagem](/docs/images/inspecao-etapa5/tls8.png){ data-glightbox } |
 
-Fonte: <https://docs.google.com/document/d/13GI1jPB-gPHaFYhGgmODryBbIc_GqqzV2BTKWY5WUpY/edit?tab=t.0>
 
 ## Lista de Verificação - Observação 
 
@@ -154,7 +153,8 @@ Fonte: <https://docs.google.com/document/d/13GI1jPB-gPHaFYhGgmODryBbIc_GqqzV2BTK
 > - <a id="REF1" href="#anchor_1">1.</a> Wiegers, K. E., & Beatty, J. (2013). Software Requirements (3rd ed.). Redmond, WA: Microsoft Press. Acesso em: 11 Nov. 2025.
 > - <a id="REF2" href="#anchor_2">2.</a> Wiegers, K. E., & Beatty, J. (2013). Software Requirements (3rd ed., p. 317-324). Redmond, WA: Microsoft Press. Acesso em: 11 Nov. 2025.
 > - <a id="REF3" href="#anchor_3">3.</a> VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de Requisitos: Software Orientado ao Negócio. Rio de Janeiro: Brasport, 2016. Acesso em: 11 Nov. 2025.
-> - <a id="REF4" href="#anchor_4">4.</a> BARBOSA, Simone Diniz Junqueira et al. Identificação de Necessidades dos Usuários e Definição dos Requisitos de IHC. In: BARBOSA, Simone Diniz Junqueira et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Rio de Janeiro: Autopublicação, 2021. Cap. 7. Disponível em: <https://aprender3.unb.br/pluginfile.php/3210605/mod_resource/content/4/ihc-ux%20cap%207.pdf>. 
+> - <a id="REF4" href="#anchor_4">4.</a> BARBOSA, Simone Diniz Junqueira et al. Identificação de Necessidades dos Usuários e Definição dos Requisitos de IHC. In: BARBOSA, Simone Diniz Junqueira et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Rio de Janeiro: Autopublicação, 2021. Cap. 7. Disponível em: <https://aprender3.unb.br/pluginfile.php/3210605/mod_resource/content/4/ihc-ux%20cap%207.pdf>.
+> - <a id="REF5" href="#anchor_5">5.</a> Wiegers, K. E., & Beatty, J. (2013). Software Requirements (3rd ed., p. 319-320). Redmond, WA: Microsoft Press. Acesso em: 11 Nov. 2025.
 
 ## Versionamento
 

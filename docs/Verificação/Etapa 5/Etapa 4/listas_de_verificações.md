@@ -67,6 +67,60 @@ tabela 5: lista de verificação atuaizada
 | 18 | A representação gráfica das interdependências segue o padrão (Decomposição: seta sólida, Contribuição: seta sólida com AND ou OR)? <a id="anchor_7" href="#REF7">[7]</a>| [Heyttor Augusto](https://github.com/H3ytt0r62) | [Ver Imagem 1](../../../images/inspecao-etapa4/id18.1-nfr.png){ data-glightbox } [Ver Imagem 2](../../../images/inspecao-etapa4/id18.2-nfr.png){ data-glightbox } |
 | 19 | O grafo (SIG) possui uma legenda clara explicando os símbolos utilizados? <a id="anchor_8" href="#REF8">[8]</a> | [Heyttor Augusto](https://github.com/H3ytt0r62) | [Ver Imagem](../../../images/inspecao-etapa4/id19-nfr.png){ data-glightbox } |
 
+## Referências Bibliográficas 
+
+> <a id="REF1" href="#anchor_1">1.</a> SILVA, Reinaldo Antônio da. NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019. Tese
+(Doutorado) – Universidade Federal de Pernambuco, Recife, 2019. Cap. 2, p. 30. 
+
+> <a id="REF2" href="#anchor_2">2.</a> SILVA, Reinaldo Antônio da. NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019. Tese
+(Doutorado) – Universidade Federal de Pernambuco, Recife, 2019. Cap. 2, p. 31. 
+
+> <a id="REF3" href="#anchor_3">3.</a> Serrano milene, Requisitos - aula 17,UNB,Disponível
+em:<https://aprender3.unb.br/pluginfile.php/3210673/mod_resource/content/1/Requisitos%20-%20Aula%20019a.pdf>. 
+
+> <a id="REF4" href="#anchor_4">4.</a> SILVA, Reinaldo Antônio da. NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019. Tese
+(Doutorado) – Universidade Federal de Pernambuco, Recife, 2019. Cap. 2, p. 32. 
+
+> <a id="REF5" href="#anchor_5">5.</a> SILVA, Reinaldo Antônio da. NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019. Tese
+(Doutorado) – Universidade Federal de Pernambuco, Recife, 2019. Cap. 2, p. 34-35. 
+
+> <a id="REF6" href="#anchor_6">6.</a> SILVA, Reinaldo Antônio da. NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019. Tese
+(Doutorado) – Universidade Federal de Pernambuco, Recife, 2019. Cap. 2, p. 38. 
+
+> <a id="REF7" href="#anchor_7">7.</a> SILVA, Reinaldo Antônio da. NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019. Tese
+(Doutorado) – Universidade Federal de Pernambuco, Recife, 2019. Cap. 2, p. 33. 
+
+> <a id="REF8" href="#anchor_8">8.</a> SILVA, Reinaldo Antônio da. NFR4ES: um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019. Tese
+(Doutorado) – Universidade Federal de Pernambuco, Recife, 2019. Cap. 2, p. 36. 
+
+> <a id="REF9" href="#anchor_9">9.</a> PRESSMAN, Roger S. Desenvolvimento Ágil. In: ______. Engenharia de Software: uma abordagem profissional. 7. ed.
+Porto Alegre: AMGH, 2011. Cap. 3, p. 88.
+
+> <a id="REF10" href="#anchor_10">10.</a> Milene Serrano e Maurício Serrano, Requisitos - Aula 15.pdf, Requisitos, p. 10-12. Disponível em: <https://aprender3.unb.br/pluginfile.php/3210661/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf>.
+
+> <a id="REF11" href="#anchor_11">11.</a> PRESSMAN, Roger S. Desenvolvimento Ágil. In: ______. Engenharia de Software: uma abordagem profissional. 7. ed.
+Porto Alegre: AMGH, 2011. Cap. 3, p. 89.
+
+> <a id="REF12" href="#anchor_12">12.</a> PRESSMAN, Roger S. Desenvolvimento Ágil. In: ______. Engenharia de Software: uma abordagem profissional. 7. ed.
+Porto Alegre: AMGH, 2011. Cap. 3, p. 90.
+
+> <a id="REF13" href="#anchor_13">13.</a> Milene Serrano e Maurício Serrano, Requisitos - Aula 15.pdf, Requisitos, p. 36. Disponível em: <https://aprender3.unb.br/pluginfile.php/3210661/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf>.
+
+> <a id="REF14" href="#anchor_14">14.</a> PRESSMAN, Roger S. Desenvolvimento Ágil. In: ______. Engenharia de Software: uma abordagem profissional. 7. ed.
+Porto Alegre: AMGH, 2011. Cap. 3, p. 92.
+
+> <a id="REF15" href="#anchor_15">15.</a> PRESSMAN, Roger S. Desenvolvimento Ágil. In: ______. Engenharia de Software: uma abordagem profissional. 7. ed.
+Porto Alegre: AMGH, 2011. Cap. 3, p. 95.
+
+> <a id="REF16" href="#anchor_16">16.</a> Fonte: LuizTools, Product Backlog - Introdução, Youtube, 21/03/2020, Disponível em:
+https://youtu.be/z4ubaBwjCsU?si=wpgCIvgdgEw-SNh6 Acesso em: 04/10/2025 minutos
+6:30
+
+> <a id="REF17" href="#anchor_17">17.</a> PRESSMAN, Roger S. Desenvolvimento Ágil. In: ______. Engenharia de Software: uma abordagem profissional. 7. ed.
+Porto Alegre: AMGH, 2011. Cap. 3, p. 91.
+
+> <a id="REF18" href="#anchor_18">18.</a> PRESSMAN, Roger S. Desenvolvimento Ágil. In: ______. Engenharia de Software: uma abordagem profissional. 7. ed.
+Porto Alegre: AMGH, 2011. Cap. 3, p. 96.
 
 ## Versionamento
 

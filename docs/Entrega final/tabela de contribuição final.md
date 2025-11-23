@@ -1,4 +1,4 @@
- ## Introdução 
+## Introdução 
 
 Este artefato foi construído pelo estudante heyttor augusto como lider do grupo para pontuar a participação de si mesmo e dos outros membros do grupo durante todo o projeto de Requisitos
 
@@ -36,7 +36,7 @@ Autor:Heyttor augusto
 | Se utilizaram Personas, utilizaram a técnica encenação (role playing) com gravação? | 0               | 0          | 0              | 0                | 0           | 0          | 0              |
 | **Total de participação nas técnicas - presencial com gravação com usuário**     | **2**           | **2**      | **2**          | **0**            | **0**       | **1**      | **0**          |
 | **Total de participação nas técnicas - remotas com gravação com usuário**        | **0**           | **0**      | **0**          | **0**            | **0**       | **0**      | **0**          |
-| **Total de documentos elaborados:**                                              | **4**           | **3**      | **2**          | **2**            | **1**       | **2**      | **2**          |
+| **Total de artefatos elaborados:**                                              | **4**           | **4**      | **3**          | **2**            | **1**       | **2**      | **2**          |
 
 
 ## Etapa 3
@@ -55,7 +55,7 @@ Autor:Heyttor augusto
 | Validação com usuário da especificação suplementar com gravação presencial?                               | Não             | [sim](../Modelagem/Especificação%20Suplementar.md)            | [sim](../Modelagem/Especificação%20Suplementar.md)                | [Sim](../Modelagem/Especificação%20Suplementar.md)                  | Não         | [sim](../Modelagem/Especificação%20Suplementar.md)            | Não            |
 | **Total de Participação nos documentos Criados:**                                                         | **9**           | **6**      | **12**         | **12**           | **20**      | **7**      | **33**         |
 | **Participação de Gravação com o usuário presencial?**                                                    | **0**           | **1**      | **1**          | **1**            | **0**       | **0**      | **não**        |
-| **Total de documentos elaborados:**                                                                       | **9**           | **6**      | **12**         | **12**           | **20**      | **7**      | **33**         |
+| **Total de artefatos elaborados:**                                                                       | **9**           | **25**      | **12**         | **12**           | **20**      | **21**      | **33**         |
 
 
 ## Etapa 4
@@ -69,7 +69,7 @@ Autor:Heyttor augusto
 | NFR Framework (Pelo menos 1 por integrante)                                                                                                                 | [2](../Modelagem/Ágil/NFR.md)             | [2](../Modelagem/Ágil/NFR.md)             | [3](../Modelagem/Ágil/NFR.md)                | [2](../Modelagem/Ágil/NFR.md)                   | [2](../Modelagem/Ágil/NFR.md)              | [2](../Modelagem/Ágil/NFR.md)             | [1](../Modelagem/Ágil/NFR.md)                 |
 | Quantidade de Cartão de especificação do RNF?                                                                                                               | [2](../Modelagem/Ágil/NFR.md)                 | [2](../Modelagem/Ágil/NFR.md)            | 0              | 0                | 0           | 0          | [1](../Modelagem/Ágil/NFR.md)                 |
 | Validação com usuário do NFR com gravação presencial?                                                                                                       | [fez](../Modelagem/Ágil/NFR.md)              | [fez](../Modelagem/Ágil/NFR.md)           | [fez](../Modelagem/Ágil/NFR.md)               | [fez](../Modelagem/Ágil/NFR.md)                 | [fez](../Modelagem/Ágil/NFR.md)           | 0          | 0              |
-| **Total de documentos criados:**                                                                                                                            | **10**          | **9**      | **9**          | **8**            | **8**       | **8**      | **8'**         |
+| **Total de artefatos criados:**                                                                                                                            | **11**          | **11**      | **10**          | **9**            | **9**       | **8**      | **9**         |
 | **Total de documentos revisados:**                                                                                                                          | **2**           | **2**      | **2**          | **2**            | **2**       | **2**      | **2**          |
 
 

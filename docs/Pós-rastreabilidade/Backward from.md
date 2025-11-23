@@ -84,7 +84,7 @@ A legenda para cada sigla:
 | **RNF05** | O sistema deve proteger o acesso às funcionalidades transacionais exigindo a autenticação do usuário no início da sessão | Implementado | [OBS19](../Elicitação/Técnicas/Observação.md) |
 | **RNF06** | Os números selecionados no volante digital devem ser claramente diferenciados dos não selecionados, através de cor e contraste | Implementado | [OBS20](../Elicitação/Técnicas/Observação.md) |
 | **RNF07** | O aplicativo não deve apresentar erros ou fechar inesperadamente durante o processo de criação e pagamento de uma aposta | Implementado | [OBS21](../Elicitação/Técnicas/Observação.md) |
-| **RNF08** | A transição de telas durante o fluxo de aposta deve ser fluida e sem travamentos perceptíveis | Implementado | [OBS22](../Elicitação/Técnicas/Observação.md) |
+| **RNF08** | A transição de telas durante o fluxo de aposta nãp deve ter fluida perceptíveis | Implementado | [OBS22](../Elicitação/Técnicas/Observação.md) |
 | **RNF09** | O sistema deve exibir feedback visual em até 1 segundo, destacando o carrinho e mostrando uma confirmação na tela sempre que o usuário adicionar uma aposta. | Implementado | [OBS23](../Elicitação/Técnicas/Observação.md) |
 | **RNF10** | A sessão do usuário deve expirar automaticamente após 15 minutos de inatividade para proteger a conta | Implementado | [OBS24](../Elicitação/Técnicas/Observação.md) |
 | <a id="RNF11"></a> **RNF11** | O sistema deve garantir que o acesso a funcionalidades primárias seja feito através de componentes de interface autoexplicativos. Ícones de navegação, como o menu principal, devem ser acompanhados por um rótulo textual (ex: "Menu"). | Não Implementado | [OBS25](../Elicitação/Técnicas/Observação.md) |
@@ -105,7 +105,7 @@ A legenda para cada sigla:
 | <a id="RNF26"></a> **RNF26** | Há um termo de uso | Implementado | [ENT19](../Elicitação/Técnicas/Entrevista.md) |
 | **RNF27** | O termo de uso especifica os riscos para o usuário | Não Implementado | [ENT20](../Elicitação/Técnicas/Entrevista.md)|
 | **RNF28** | O termo de uso especifica a classificação indicativa para o usuário | Implementado | [ENT21](../Elicitação/Técnicas/Entrevista.md) |
-| **RNF29** | O termo de uso especifica o acesso aos dados do aplicativo para o usuário | Implementado |(../Elicitação/Técnicas/Entrevista.md) |[ENT22](../Elicitação/Técnicas/Entrevista.md) |
+| **RNF29** | O termo de uso especifica o acesso aos dados do aplicativo para o usuário | Implementado | [ENT22](../Elicitação/Técnicas/Entrevista.md) |
 | **RNF30** | O aplicativo deve permitir que o usuário encontre qualquer modalidade de loteria ou resultado desejado em no máximo 2 toques e 3 segundos, com itens do menu claramente rotulados na tela inicial. | Implementado | [ENT24](../Elicitação/Técnicas/Entrevista.md) |
 
 

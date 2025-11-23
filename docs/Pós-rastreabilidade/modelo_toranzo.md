@@ -21,7 +21,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 | Tipos de Elo | Artefatos Relacionados |
 | Satisfação | - |
 | Recurso | [CN03](../Modelagem/Cenários.md)|
-| Representação | - |
+| Representação | ![toranzo 1](../images/toranzo/toranzo%2002.jpeg)  |
 | Alocado | - |
 | Agregação | -|
 
@@ -32,7 +32,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 | Tipos de Elo | Artefatos Relacionados |
 | Satisfação | - |
 | Recurso | -|
-| Representação | - |
+| Representação | ![toranzo 3](../images/toranzo/toranzo%2003.jpeg) |
 | Alocado | - |
 | Agregação | -|
 
@@ -55,7 +55,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 | Tipos de Elo | Artefatos Relacionados |
 | Satisfação | - |
 | Recurso | -|
-| Representação | - |
+| Representação |![toranzo 5](../images/toranzo/toranzo%205.jpeg) |
 | Alocado | - |
 | Agregação | -|
 
@@ -66,7 +66,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 | Tipos de Elo | Artefatos Relacionados |
 | Satisfação | [suportabilidade](../Modelagem/Especificação%20Suplementar.md) |
 | Recurso | -|
-| Representação | - |
+| Representação | ![img rf06](../images/validação/RF06.gif) |
 | Alocado | - |
 | Agregação |  [HU01](../Modelagem/Ágil/História%20de%20usuário.md) |
 
@@ -77,7 +77,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 | Tipos de Elo | -|
 | Satisfação | - |
 | Recurso |- |
-| Representação | - |
+| Representação | ![toranzo 5](../images/toranzo/toranzo%205.jpeg) |
 | Alocado | - |
 | Agregação | [HU03](../Modelagem/Ágil/História%20de%20usuário.md) |
 
@@ -88,18 +88,18 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 | Tipos de Elo | -|
 | Satisfação | - |
 | Recurso | Cenario |
-| Representação | - |
+| Representação | ![toranzo 08](../images/toranzo/toranzo%2008.jpeg) |
 | Alocado | - |
 | Agregação | -|
 
-## RF09  O usuário deve poder acessar o próprio perfil
+## RF09  Deve haver uma verificação de identidade para login no aplicativo
 
 | Artefato Analisado | Classificação do Artefato Analisado |
 | --- | --- |
 | Tipos de Elo | - |
 | Satisfação | - |
 | Recurso | Cenario |
-| Representação | - |
+| Representação | ![toranzo 09](../images/toranzo/toranzo%2009.jpeg) |
 | Alocado | - |
 | Agregação | [HU02](../Modelagem/Ágil/História%20de%20usuário.md) |
 
@@ -110,7 +110,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 | Tipos de Elo | - |
 | Satisfação |- |
 | Recurso | - |
-| Representação | - |
+| Representação | ![toranzo 10](../images/toranzo/toranzo%2010.jpeg)|
 | Alocado | - |
 | Agregação | [HU23](../Modelagem/Ágil/História%20de%20usuário.md) |
 
@@ -121,7 +121,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 | Tipos de Elo | Artefatos Relacionados |
 | Satisfação |  |
 | Recurso | - |
-| Representação | - |
+| Representação |  ![toranzo 11](../images/toranzo/toranzo%2011.jpeg) |
 | Alocado | - |
 | Agregação | [HU28](../Modelagem/Ágil/História%20de%20usuário.md) |
 
@@ -132,7 +132,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 | Tipos de Elo | Artefatos Relacionados |
 | Satisfação | - |
 | Recurso | - |
-| Representação | - |
+| Representação | ![toranzo 10](../images/toranzo/toranzo%2010.jpeg) |
 | Alocado | - |
 | Agregação | [HU04](../Modelagem/Ágil/História%20de%20usuário.md) |
 
@@ -145,7 +145,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 | Tipos de Elo | Artefatos Relacionados |
 | Satisfação | - |
 | Recurso | - |
-| Representação | - |
+| Representação |  |
 | Alocado | - |
 | Agregação | [HU41](../Modelagem/Ágil/História%20de%20usuário.md) 
 
@@ -184,7 +184,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 | Tipos de Elo | Artefatos Relacionados |
 | Satisfação | - |
 | Recurso | - |
-| Representação | - |
+| Representação | ![RF16](../images/toranzo/16.jpg)  |
 | Alocado | **UC02** |
 | Agregação | [HU05](../Modelagem/Ágil/História%20de%20usuário.md) |
 
@@ -197,7 +197,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 | Tipos de Elo | Artefatos Relacionados |
 | Satisfação | - |
 | Recurso | - |
-| Representação | - |
+| Representação | ![RF17](../images/toranzo/17.gif)  |
 | Alocado | L05 |
 | Agregação | [HU33](../Modelagem/Ágil/História%20de%20usuário.md) |
 
@@ -210,7 +210,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 | Tipos de Elo | Artefatos Relacionados |
 | Satisfação | - |
 | Recurso | - |
-| Representação | - |
+| Representação | ![RF18](../images/toranzo/18.gif) |
 | Alocado | L11 |
 | Agregação | - |
 
@@ -223,7 +223,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 | Tipos de Elo | Artefatos Relacionados |
 | Satisfação | - |
 | Recurso | [CN01](../Modelagem/Cenários.md) |
-| Representação | - |
+| Representação | ![RF19](../images/toranzo/19.gif) |
 | Alocado | L09 |
 | Agregação | [HU34](../Modelagem/Ágil/História%20de%20usuário.md)
 
@@ -236,7 +236,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 | Tipos de Elo | Artefatos Relacionados |
 | Satisfação | - |
 | Recurso | [CN02](../Modelagem/Cenários.md#CN02) |
-| Representação | - |
+| Representação | ![RF20](../images/toranzo/20.gif) |
 | Alocado | [L17*](../Modelagem/Léxicos.md/#L17) |
 | Agregação | [HU35](../Modelagem/Ágil/História%20de%20usuário.md#HU35) |
 
@@ -249,7 +249,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 | Tipos de Elo | Artefatos Relacionados |
 | Satisfação | - |
 | Recurso | - |
-| Representação | - |
+| Representação | ![RF21](../images/toranzo/21.gif) |
 | Alocado | [UC04](../Modelagem/Casos%20de%20uso.md#UC04), [L17*](../Modelagem/Léxicos.md/#L17) |
 | Agregação | - |
 
@@ -262,7 +262,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 | Tipos de Elo | Artefatos Relacionados |
 | Satisfação | - |
 | Recurso | - |
-| Representação | - |
+| Representação | ![RF22](../images/toranzo/22.gif) |
 | Alocado | [UC05](../Modelagem/Casos%20de%20uso.md#UC05), [L18](../Modelagem/Léxicos.md/#L18) |
 | Agregação | - |
 
@@ -275,7 +275,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 | Tipos de Elo | Artefatos Relacionados |
 | Satisfação | - |
 | Recurso | [CN05](../Modelagem/Cenários.md#CN05) |
-| Representação | - |
+| Representação | ![RF23](../images/toranzo/23.gif) |
 | Alocado | [L18](../Modelagem/Léxicos.md/#L18) |
 | Agregação | [HU17](../Modelagem/Ágil/História%20de%20usuário.md#HU17) |
 
@@ -288,7 +288,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 | Tipos de Elo | Artefatos Relacionados |
 | Satisfação | - |
 | Recurso | - |
-| Representação | - |
+| Representação | ![RF24](../images/toranzo/24.gif) |
 | Alocado | - |
 | Agregação | - |
 
@@ -301,7 +301,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 | Tipos de Elo | Artefatos Relacionados |
 | Satisfação | - |
 | Recurso | [CN04](../Modelagem/Cenários.md#CN04) |
-| Representação | - |
+| Representação | ![RF25](../images/toranzo/25.gif) |
 | Alocado | [UC03](../Modelagem/Casos%20de%20uso.md#UC03) |
 | Agregação | - |
 
@@ -314,7 +314,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 | Tipos de Elo | Artefatos Relacionados |
 | Satisfação | - |
 | Recurso | - |
-| Representação | - |
+| Representação | ![RF26](../images/toranzo/26.gif) |
 | Alocado | - |
 | Agregação | - |
 
@@ -327,7 +327,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 | Tipos de Elo | Artefatos Relacionados |
 | Satisfação | - |
 | Recurso | - |
-| Representação | - |
+| Representação | ![RF27](../images/toranzo/27.gif) |
 | Alocado | [L14](../Modelagem/Léxicos.md/#L14) |
 | Agregação | - |
 
@@ -340,7 +340,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 | Tipos de Elo | Artefatos Relacionados |
 | Satisfação | - |
 | Recurso | [CN06](../Modelagem/Cenários.md#CN06) |
-| Representação | - |
+| Representação | ![RF28](../images/toranzo/28.gif) |
 | Alocado | [L19](../Modelagem/Léxicos.md/#L19) |
 | Agregação | [HU20](../Modelagem/Ágil/História%20de%20usuário.md#HU20) |
 
@@ -353,7 +353,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 | Tipos de Elo | Artefatos Relacionados |
 | Satisfação | - |
 | Recurso | [CN29](../Modelagem/Cenários.md) |
-| Representação | - |
+| Representação | ![RF29](../images/toranzo/29.gif) |
 | Alocado | [LX19](../Modelagem/Léxicos.md), [LX25](../Modelagem/Léxicos.md) |
 | Agregação | - |
 
@@ -367,7 +367,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 | Tipos de Elo | Artefatos Relacionados |
 | Satisfação |  |
 | Recurso | [CN12](../Modelagem/Cenários.md) |
-| Representação | - |
+| Representação | ![RF30](../images/toranzo/30.gif) |
 | Alocado | [LX27](../Modelagem/Léxicos.md) |
 | Agregação | - |
 
@@ -393,7 +393,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 | Tipos de Elo | Artefatos Relacionados |
 | Satisfação | [Usabilidade](../Modelagem/Especificação%20Suplementar.md#Usabilidade) |
 | Recurso | [CN09](../Modelagem/Cenários.md#CN09) |
-| Representação | - |
+| Representação | ![img rf32](../images/validação/RF32.gif) |
 | Alocado | [L02](../Modelagem/Léxicos.md#L02) |
 | Agregação | [HU08](../Modelagem/Ágil/História%20de%20usuário.md#HU08), [CNFR03](../Modelagem/Ágil/NFR.md#CNFR03) |
 
@@ -445,7 +445,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 | Tipos de Elo | Artefatos Relacionados |
 | Satisfação | [Confiabilidade](../Modelagem/Especificação%20Suplementar.md#Confiabilidade) |
 | Recurso | - |
-| Representação | - |
+| Representação | ![img rf36](../images/validação/RF36.gif) |
 | Alocado | [BKL17](../Modelagem/Ágil/Backlog.md#BKL17) |
 | Agregação | [HU10](../Modelagem/Ágil/História%20de%20usuário.md#HU10) |
 
@@ -458,7 +458,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 | Tipos de Elo | Artefatos Relacionados |
 | Satisfação | |
 | Recurso | - |
-| Representação | - |
+| Representação | ![img rf37](../images/validação/RF37.gif) |
 | Alocado | |
 | Agregação | |
 
@@ -496,7 +496,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 | Tipos de Elo | -  |
 | Satisfação | -  |
 | Recurso | [CN02](../Modelagem/Cenários.md) |
-| Representação | - |
+| Representação | ![img rnf02](../images/validação/RNF02.gif) |
 | Alocado | Caso de uso/lexico |
 | Agregação | [Hu13](../Modelagem/Ágil/História%20de%20usuário.md)|
 
@@ -546,7 +546,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 | Tipos de Elo | Artefatos Relacionados |
 | Satisfação | Usabilidade |
 | Recurso | - |
-| Representação | - |
+| Representação | ![rnf06](../images/toranzo/toranzo%20rnf%2006.jpeg) |
 | Alocado | - |
 | Agregação | [HU07](../Modelagem/Ágil/História%20de%20usuário.md), [HU33](../Modelagem/Ágil/História%20de%20usuário.md), [CNFR09](../Modelagem/Ágil/NFR.md) |
 
@@ -565,7 +565,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 
 *<p style= "text-align: center;"> Fonte: <a href= "https://github.com/Kael-web7">Miquéias Ezequiel</a> </p>*
 
-## RNF08 - A transição de telas durante o fluxo de aposta deve ser fluida e sem travamentos perceptíveis
+## RNF08 - A transição de telas durante o fluxo de aposta não deve ter travamentos perceptíveis
 
 | Artefato Analisado | Classificação do Artefato Analisado |
 | --- | --- |
@@ -611,7 +611,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 | Tipos de Elo | Artefatos Relacionados |
 | Satisfação | [Usabilidade](../Modelagem/Especificação%20Suplementar.md) |
 | Recurso | - |
-| Representação | - |
+| Representação | ![img rnf11](../images/validação/RNF11.gif) |
 | Alocado | - |
 | Agregação | [HU32](../Modelagem/Ágil/História%20de%20usuário.md#HU32), [CNFR11](../Modelagem/Ágil/NFR.md#CNFR11), [CNFR07](../Modelagem/Ágil/NFR.md#CNFR07) |
 
@@ -729,7 +729,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 | Tipos de Elo | Artefatos Relacionados |
 | Satisfação | [Implementação](../Modelagem/Especificação%20Suplementar.md)  |
 | Recurso | [CN10](../Modelagem/Cenários.md) |
-| Representação | - |
+| Representação | ![img rnf20](../images/validação/RNF20.gif) |
 | Alocado | [LX03](../Modelagem/Léxicos.md), [LX23](../Modelagem/Léxicos.md) |
 | Agregação | [HU31](../Modelagem/Ágil/História%20de%20usuário.md)|
 
@@ -768,7 +768,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 | Tipos de Elo | Artefatos Relacionados |
 | Satisfação | [Desempenho](../Modelagem/Especificação%20Suplementar.md) |
 | Recurso | - |
-| Representação | - |
+| Representação | ![img rf23](../images/validação/RF23.gif)|
 | Alocado | - |
 | Agregação | [HU42](../Modelagem/Ágil/História%20de%20usuário.md)|
 
@@ -807,7 +807,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 | Tipos de Elo | Artefatos Relacionados |
 | Satisfação | [Design](../Modelagem/Especificação%20Suplementar.md#Design) |
 | Recurso | [CN13](../Modelagem/Cenários.md#CN13) |
-| Representação | - |
+| Representação | ![img rnf26](../images/validação/RNF26.gif) |
 | Alocado | [CNFR10](../Modelagem/Ágil/NFR.md#CNFR10) |
 | Agregação | [HU07](../Modelagem/Ágil/História%20de%20usuário.md#HU07) |
 
@@ -833,7 +833,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 | Tipos de Elo | Artefatos Relacionados |
 | Satisfação | [Design](../Modelagem/Especificação%20Suplementar.md#Design) |
 | Recurso | [CN13](../Modelagem/Cenários.md#CN13) |
-| Representação | - |
+| Representação |  |
 | Alocado | [CNFR14](../Modelagem/Ágil/NFR.md#CNFR14) |
 | Agregação | [HU07](../Modelagem/Ágil/História%20de%20usuário.md#HU07) |
 
