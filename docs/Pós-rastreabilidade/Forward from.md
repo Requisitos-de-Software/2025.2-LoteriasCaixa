@@ -64,6 +64,7 @@ A rastreabilidade é capacidade de rastrear ou encontrar algo ou alguem baseado 
 | **RF35** | As apostas do aplicativo mais jogadas pelo usuário estão em destaque na tela | Não implementado | [ENT23](../Elicitação/Técnicas/Entrevista.md) |
 | **RF36** | O sistema fornece avisos ao usuário sobre seu limite diário de apostas | Não Implementado | [ENT25](../Elicitação/Técnicas/Entrevista.md) |
 | **RF37** | O sistema apresenta uma tela chamada "favoritos", onde o apostante consegue realizar jogos com base nas suas preferências de aposta; | Não Implementado | [AD05](./Técnicas/Análise%20de%20Documentos.md/#requisitos-não-funcionais) |
+| **RF38** | O aplicativo deve permitir mudar e remover foto de perfil. | Não Implementado | [OBS27](../Elicitação/Técnicas/Observação.md) |  |  |
 | **RF39** | O sistema notifica o apostante quando sua aposta foi premiada; | Não implementado | [AD12](../Elicitação/Técnicas/Análise%20de%20Documentos.md) |
 
 ### Requisitos Não-Funcionais
@@ -118,3 +119,4 @@ O grupo 7 agradece o apoio das ferramentas de inteligência artificial generativ
 | ``1.6``     | 20/11/2025 | [Miquéias Ezequiel](https://github.com/Kael-web7)    | Especificação aprimorada RNF09 e RNF30 | [Luan Vinícius](https://github.com/luannvi) |
 | ``1.7`` | 20/11/2025 | [Samuel Felipe](https://github.com/TerminaKng05) | atualização e modificação dos rfs e rnfs | [Heyttor Augusto](https://github.com/H3ytt0r62) |
 |``1.8``| 21/11/2015/ | [Heyttor Augusto](https://github.com/H3ytt0r62) | atualização dos requisitos RF04,RF35,RNF01 e NNF02 | [Samuel Felipe](https://github.com/TerminaKng05) |
+| ``2.0``     | 20/11/2025 | [Miquéias Ezequiel](https://github.com/Kael-web7)    | Adição RNF38 | [Luan Vinícius](https://github.com/luannvi) |

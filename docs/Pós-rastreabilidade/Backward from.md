@@ -105,7 +105,7 @@ A legenda para cada sigla:
 | <a id="RNF26"></a> **RNF26** | Há um termo de uso | Implementado | [ENT19](../Elicitação/Técnicas/Entrevista.md) |
 | **RNF27** | O termo de uso especifica os riscos para o usuário | Não Implementado | [ENT20](../Elicitação/Técnicas/Entrevista.md)|
 | **RNF28** | O termo de uso especifica a classificação indicativa para o usuário | Implementado | [ENT21](../Elicitação/Técnicas/Entrevista.md) |
-| **RNF29** | O termo de uso especifica o acesso aos dados do aplicativo para o usuário | Implementado |(../Elicitação/Técnicas/Entrevista.md) |
+| **RNF29** | O termo de uso especifica o acesso aos dados do aplicativo para o usuário | Implementado |(../Elicitação/Técnicas/Entrevista.md) |[ENT22](../Elicitação/Técnicas/Entrevista.md) |
 | **RNF30** | O aplicativo deve permitir que o usuário encontre qualquer modalidade de loteria ou resultado desejado em no máximo 2 toques e 3 segundos, com itens do menu claramente rotulados na tela inicial. | Implementado | [ENT24](../Elicitação/Técnicas/Entrevista.md) |
 
 
@@ -123,3 +123,4 @@ O grupo 7 agradece o apoio das ferramentas de inteligência artificial generativ
 | ``2.1`` | 20/11/2025 | [Samuel Felipe](https://github.com/TerminaKng05) | atualização e modificação dos rfs e rnfs | [Heyttor Augusto](https://github.com/H3ytt0r62) |
 |``2.2``| 21/11/2015/ | [Heyttor Augusto](https://github.com/H3ytt0r62) | atualização dos requisitos RF04,RF35,RNF01 e NNF02 | [Samuel Felipe](https://github.com/TerminaKng05) |
 |``2.3``| 22/11/2015/ | [Luan Vinícius](https://github.com/luannvi) | atualização dos requisitos RF23, RF38 | [Samuel Felipe](https://github.com/TerminaKng05) |
+| ``2.4``     | 20/11/2025 | [Miquéias Ezequiel](https://github.com/Kael-web7)    | Ajuste da RNF29 | [Luan Vinícius](https://github.com/luannvi) |
