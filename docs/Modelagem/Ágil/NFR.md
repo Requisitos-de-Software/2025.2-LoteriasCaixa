@@ -392,6 +392,15 @@ Autor: [Samuel Felipe](https://github.com/TerminaKng05)
 | **Conflitos**           | — |
 | **História** | Criado em 21/10/2025 |
 
+### Validação com o Usuário (CNFR 14)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MKWVTsglYeI?si=h6mRVNjEk9XInAFQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+| Participante | Função | Data | Horário | Local |
+| ------------ | ----- | ----- | ------ | -------|
+| [Samuel Felipe](https://github.com/luannvi) | Integrante do grupo, responsável por coordenar a validação com o usuário. | 23/11/2025 | 15:04 | Presencial
+| Joelma de Almeida | Usuária do app Loterias Caixa, responsável por validar os cartões desenvolvidos. | 21/10/2025 | 15:04 | Presencial |
+
 ## Graficos NFR 
 
 ## NFR Desempenho 
@@ -495,3 +504,4 @@ O grupo 7 agradece o apoio das ferramentas de inteligencia artificial generativa
 | ``2.0`` | 21/10/2025 | [Samuel Felipe](https://github.com/TerminaKng05) | Criação da CNFR 14 e do diagrama de confiabilidade | [Heyttor Augusto](https://github.com/H3ytt0r62)
 | ``2.1`` | 21/10/2025 | [Miqueias Ezequiel](https://github.com/Kael-web7) | adição link CNFR's 7-8  | [Luan Vinícius](https://github.com/luannvi) |
 | ``2.2``     | 20/11/2025 | [Miquéias Ezequiel](https://github.com/Kael-web7)    | Especificação aprimorada RNF09 | [Luan Vinícius](https://github.com/luannvi) |
+| ``2.3`` | 23/11/2025 | [Samuel Felipe](https://github.com/TerminaKng05) | Adição da validação com usuário (CNFR 14) | [Luan Vinícius](https://github.com/luannvi) |

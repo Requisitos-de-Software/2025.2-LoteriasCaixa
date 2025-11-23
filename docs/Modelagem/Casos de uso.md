@@ -103,6 +103,12 @@ As tabelas de 2 a 6 apresentam as especializações dos casos de uso mostrados n
 
 *<p style= "text-align: center;"> Fonte: <a href= "https://github.com/TerminaKng05">Samuel Felipe</a> </p>*
 
+## Validação com o usuário
+
+Foi feita a validação com a usuária Joelma de Almeida, que aprovou os casos de uso.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oJ6q6phPyBY?si=WAA08vYCPJKr1HY8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Referências Bibliográficas
 
 - SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 13. Disponível em: <https://aprender3.unb.br/pluginfile.php/3210637/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf>. Acesso em: 11/10/2025.
@@ -121,3 +127,4 @@ As tabelas de 2 a 6 apresentam as especializações dos casos de uso mostrados n
 | ``1.1`` | 11/10/2025 | [Samuel Felipe](https://github.com/TerminaKng05) | Adição da Introdução, Metodologia, Diagrama de caso de uso, Especialização, Referências Bibliográficas e Bibliografia. Alteração na legenda do diagrama | [Luan Vinícius](https://github.com/luannvi) |
 | ``1.2`` | 12/10/2025 | [Samuel Felipe](https://github.com/TerminaKng05) | Adição de informação nas tabelas de especialização dos casos de uso | [Heyttor Augusto](https://github.com/H3ytt0r62) |
 | ``1.3``    | 21/10/2025 | [João Pedro](https://github.com/Jadequilin)   | Correção dos IDs de referência à requisitos |[Rivadalvio Joaquim](https://github.com/RivaFilho)  |
+| ``1.4 `` | 23/11/2025 | [Samuel Felipe](https://github.com/TerminaKng05) | Adição da validação com usuário (UC01 a UC05) | [Heyttor Augusto](https://github.com/H3ytt0r62) |
