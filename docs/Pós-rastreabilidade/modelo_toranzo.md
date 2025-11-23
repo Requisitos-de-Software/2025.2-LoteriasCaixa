@@ -10,7 +10,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 | Tipos de Elo | Artefatos Relacionados |
 | Satisfação | - |
 | Recurso | - |
-| Representação | - |
+| Representação | ![rf01](../images/toranzo/RF01.gif) |
 | Alocado | - |
 | Agregação | -|
 
@@ -21,7 +21,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 | Tipos de Elo | Artefatos Relacionados |
 | Satisfação | - |
 | Recurso | [CN03](../Modelagem/Cenários.md)|
-| Representação | ![toranzo 1](../images/toranzo/toranzo%2002.jpeg)  |
+| Representação | ![toranzo 1](../images/toranzo/RF02.gif)  |
 | Alocado | - |
 | Agregação | -|
 
@@ -36,7 +36,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 | Alocado | - |
 | Agregação | -|
 
-## RF04 O software deve ter poucas telas 
+## RF04 O software deve ter poucas telas (menos que 20)	 
 
 | **RF04**  | Classificação do Artefato Analisado |
 | --- | --- |
@@ -145,9 +145,9 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 | Tipos de Elo | Artefatos Relacionados |
 | Satisfação | - |
 | Recurso | - |
-| Representação |  |
+| Representação | ![rf13](../images/toranzo/RF13.gif) |
 | Alocado | - |
-| Agregação | [HU41](../Modelagem/Ágil/História%20de%20usuário.md) 
+| Agregação | [HU41](../Modelagem/Ágil/História%20de%20usuário.md) |
 
 *<p style= "text-align: center;"> Fonte: <a href= "https://github.com/Kael-web7">Miquéias Ezequiel</a> </p>*
 
@@ -158,7 +158,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 | Tipos de Elo | Artefatos Relacionados |
 | Satisfação | - |
 | Recurso | - |
-| Representação | - |
+| Representação |  ![rf14](../images/toranzo/RF14.gif) |
 | Alocado | - |
 | Agregação | - |
 
@@ -171,7 +171,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 | Tipos de Elo | Artefatos Relacionados |
 | Satisfação | - |
 | Recurso | - |
-| Representação | - |
+| Representação |  ![rf15](../images/toranzo/RF02.gif) |
 | Alocado | **UC01, L12** |
 | Agregação | [HU15](../Modelagem/Ágil/História%20de%20usuário.md) |
 
@@ -268,14 +268,14 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 
 *<p style= "text-align: center;"> Fonte: <a href= "https://github.com/luannvi">Luan Vinícius</a> </p>*
 
-## RF23 - O aplicativo deve permitir pagamento de apostas utilizando carteiras digitais como Google Pay, Apple Pay e Mercado Pago
+## RF23 - O aplicativo deve permitir pagamento de apostas utilizando carteiras digitais como Google Pay, Apple Pay.
 
 | Artefato Analisado | Classificação do Artefato Analisado |
 | --- | --- |
 | Tipos de Elo | Artefatos Relacionados |
 | Satisfação | - |
 | Recurso | [CN05](../Modelagem/Cenários.md#CN05) |
-| Representação | ![RF23](../images/toranzo/23.gif) |
+| Representação | ![RF23](../images/validação/RF23.gif) |
 | Alocado | [L18](../Modelagem/Léxicos.md/#L18) |
 | Agregação | [HU17](../Modelagem/Ágil/História%20de%20usuário.md#HU17) |
 
@@ -333,14 +333,14 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 
 *<p style= "text-align: center;"> Fonte: <a href= "https://github.com/luannvi">Luan Vinícius</a> </p>*
 
-## RF28 - O aplicativo deve permitir o cancelamento de apostas antes do sorteio.
+## RF28 - O aplicativo deve permitir o cancelamento de apostas antes do sorteio
 
 | Artefato Analisado | Classificação do Artefato Analisado |
 | --- | --- |
 | Tipos de Elo | Artefatos Relacionados |
 | Satisfação | - |
 | Recurso | [CN06](../Modelagem/Cenários.md#CN06) |
-| Representação | ![RF28](../images/toranzo/28.gif) |
+| Representação | ![RF28](../images/validação/RF28.gif) |
 | Alocado | [L19](../Modelagem/Léxicos.md/#L19) |
 | Agregação | [HU20](../Modelagem/Ágil/História%20de%20usuário.md#HU20) |
 
@@ -380,7 +380,7 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 | Tipos de Elo | Artefatos Relacionados |
 | Satisfação |  |
 | Recurso | [CN13](../Modelagem/Cenários.md) |
-| Representação | - |
+| Representação | ![rf31](../images/toranzo/RF31.gif) |
 | Alocado | - |
 | Agregação | - |
 
@@ -399,14 +399,14 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 
 *<p style= "text-align: center;"> Fonte: <a href= "https://github.com/Jadequilin">João Pedro</a> </p>*
 
-## RF33 - As opções de ações dentro do aplicativo são acessíveis em 3 cliques para o apostante;
+## RF33 - As opções de ações dentro do aplicativo são acessíveis em 3 cliques para o apostante
 
 | Artefato Analisado | Classificação do Artefato Analisado |
 | --- | --- |
 | Tipos de Elo | Artefatos Relacionados |
 | Satisfação | [Usabilidade](../Modelagem/Especificação%20Suplementar.md#Usabilidade) |
 | Recurso | [CN11](../Modelagem/Cenários.md#CN11) |
-| Representação | - |
+| Representação | ![rf33](../images/toranzo/RF33.gif) |
 | Alocado | [L04](../Modelagem/Léxicos.md#L04) |
 | Agregação | - |
 
@@ -456,22 +456,35 @@ O Modelo de Toranzo organiza a rastreabilidade de requisitos de software ao long
 | Artefato Analisado | Classificação do Artefato Analisado |
 | --- | --- |
 | Tipos de Elo | Artefatos Relacionados |
-| Satisfação | |
+| Satisfação | - |
 | Recurso | - |
 | Representação | ![img rf37](../images/validação/RF37.gif) |
-| Alocado | |
-| Agregação | |
+| Alocado | - |
+| Agregação | - |
 
 *<p style= "text-align: center;"> Fonte: <a href= "https://github.com/TerminaKng05">Samuel Felipe</a> </p>*
 
-## RF39 - O aplicativo apresenta uma falta de alerta para o usuário sobre uma aposta premiada que ainda não foi resgatada
+## RF38 - O aplicativo deve permitir mudar e remover foto de perfil
+
+| Artefato Analisado | Classificação do Artefato Analisado |
+| --- | --- |
+| Tipos de Elo | Artefatos Relacionados |
+| Satisfação | -  |
+| Recurso | - |
+| Representação | ![img rf38](../images/validação/RF38.gif)  |
+| Alocado | - |
+| Agregação | - |
+
+*<p style= "text-align: center;"> Fonte: <a href= "https://github.com/Kael-web7">Miqueias Ezequiel</a> </p>*
+
+## RF39 - O sistema notifica o apostante quando sua aposta foi premiada
 
 | Artefato Analisado | Classificação do Artefato Analisado |
 | --- | --- |
 | Tipos de Elo | Artefatos Relacionados |
 | Satisfação | -  |
 | Recurso | [CN07](../Modelagem/Cenários.md) |
-| Representação | - |
+| Representação | ![img rf39](../images/validação/RF39.gif) |
 | Alocado | [LX20](../Modelagem/Léxicos.md), [LX24](../Modelagem/Léxicos.md) |
 | Agregação | - |
 
@@ -879,4 +892,5 @@ O grupo 7 agradece o apoio das ferramentas de inteligência artificial generativ
 | ``1.5``     | 28/10/2025 | [João Pedro](https://github.com/Jadequilin)    | Adição dos elos de RF33-37 e RNF24-30  | [Rivadalvio Joaquim](https://github.com/RivaFilho) |
 | ``1.6`` | 07/11/2025 | [Samuel Felipe](https://github.com/TerminaKng05) | Adição Modelo de Toranzo do RF38 de Análise de Documento | [Heyttor Augusto](https://github.com/H3ytt0r62) |
 | ``1.7``     | 20/11/2025 | [Miquéias Ezequiel](https://github.com/Kael-web7)    | Especificação aprimorada RNF09 e RNF30 | [Luan Vinícius](https://github.com/luannvi) |
-| ``1.8`` | 20/11/2025 | [Samuel Felipe](https://github.com/TerminaKng05) | atualização e modificação dos rfs e rnfs | [Heyttor Augusto](https://github.com/H3ytt0r62) |
+| ``1.8`` | 20/11/2025 | [Samuel Felipe](https://github.com/TerminaKng05) | Atualização e modificação dos rfs e rnfs | [Heyttor Augusto](https://github.com/H3ytt0r62) |
+| ``1.9`` | 23/11/2025 | [Luan Vinícius](https://github.com/luannvi) | Atualização da representação das tabelas | [Miquéias Ezequiel](https://github.com/Kael-web7) |
