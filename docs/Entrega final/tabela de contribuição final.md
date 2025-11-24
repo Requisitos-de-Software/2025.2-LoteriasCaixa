@@ -2,7 +2,7 @@
 
 Este artefato foi construído pelo estudante heyttor augusto como lider do grupo para pontuar a participação de si mesmo e dos outros membros do grupo durante todo o projeto de Requisitos
 
-[clique aqui](https://docs.google.com/spreadsheets/d/1Aj7UkyhdHqZ8FvcHJX9tAj0RuO0ADlhUNvy7pDBZFGo/edit?gid=2106857044#gid=2106857044) para ver o modelo usado de referencia pelo grupo (essa não a tabela definitiva)
+[clique aqui](https://docs.google.com/spreadsheets/d/1Aj7UkyhdHqZ8FvcHJX9tAj0RuO0ADlhUNvy7pDBZFGo/edit?gid=2106857044#gid=2106857044) para ver o modelo usado de referencia pelo grupo (essa não a tabela definitiva)8
 
 
 ## Etapa 1
