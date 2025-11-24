@@ -31,9 +31,17 @@ img.center {
 }
 
 img[src$=".gif"] {
-    width: 300px;      /* ajuste como quiser */
-    height: auto;      /* mantém proporção */
-    display: block;    /* permite centralizar */
-    margin: 0 auto;    /* centraliza horizontalmente */
+    width: 300px;     
+    height: auto;      
+    display: block;   
+    margin: 0 auto;  
 }
 
+/* Regras para imagens .jpg */
+img[src$=".jpg"],
+img[src$=".jpeg"] {
+    width: 300px;      
+    height: auto;
+    display: block;
+    margin: 0 auto;    
+}
