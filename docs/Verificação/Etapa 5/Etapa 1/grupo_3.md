@@ -25,9 +25,12 @@
 | 19 | O Rich Picture inclui exemplos de dados que fluem entre componentes?      | Sim |  |
 | 20 | As setas são orientadas por apenas uma cabeça?                            | Sim |  |
 
+*<p style="text-align: center;">Autor da inspeção: [Luan Vinícius](https://github.com/luannvi)</p>*
+
 ## Versionamento
 
 | Versão | Data       | Autor               | Descrição                       | Revisor |
 |:--------:|:------------:|:---------------:|:-------------------------------:|:---------:|
 | ``1.0``    | 12/11/2025 | [Luan Vinícius](https://github.com/luannvi)  | Abertura do documento | |
 | ``1.1``    | 12/11/2025 | [Luan Vinícius](https://github.com/luannvi)  | Adição da LV de RichPicture da etapa 1 atualizada | |
+| ``1.2``    | 12/11/2025 | [Luan Vinícius](https://github.com/luannvi)  | Adição do autor da inspeção de richpicture | |

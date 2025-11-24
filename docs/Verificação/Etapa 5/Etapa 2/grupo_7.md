@@ -17,7 +17,7 @@
 
 ## Lista de Verificação - 100$
 
-*<p style="text-align: center;">Tabela 1: Checklist preenchido - 100$ do grupo 3</p>*
+*<p style="text-align: center;">Tabela 2: Checklist preenchido - 100$ do grupo 3</p>*
 
 | ID | Item de Verificação | Cumpriu? |
 | :---: | :--- | :---: |
@@ -37,7 +37,7 @@
 
 ## Lista de Verificação - Moscow
 
-*<p style="text-align: center;">Tabela 1: Checklist preenchido - Moscow do grupo 3</p>*
+*<p style="text-align: center;">Tabela 3: Checklist preenchido - Moscow do grupo 3</p>*
 
 | ID | Item de Verificação | Cumpriu? |
 | :---: | :--- | :---: |
@@ -58,7 +58,7 @@
 
 ## Lista de Verificação - Glossário
 
-*<p style="text-align: center;">Tabela 1: Checklist preenchido - Glossário do grupo 3</p>*
+*<p style="text-align: center;">Tabela 4: Checklist preenchido - Glossário do grupo 3</p>*
 
 | ID | Item de Verificação | Cumpriu? |
 | :---: | :--- | :---: |
@@ -82,7 +82,7 @@
 *<p style="text-align: center;">Fonte: [Miquéias Ezequiel](https://github.com/Kael-web7). </p>*
 
 
-*<p style="text-align: center;">Tabela 1: Checklist preenchido - Three level scale do grupo 7</p>*
+*<p style="text-align: center;">Tabela 5: Checklist preenchido - Three level scale do grupo 7</p>*
 
 | ID  | Descrição | Cumpriu? |
 |-----|-----------|----------|
@@ -99,7 +99,7 @@
 
 ## Lista de Verificação - Observação
 
-*<p style="text-align: center;">Tabela 1: Checklist preenchido de Observação do grupo 7</p>*
+*<p style="text-align: center;">Tabela 6: Checklist preenchido de Observação do grupo 7</p>*
 
 | ID  | Descrição | Cumpriu? |
 |-----|-----------|----------|
@@ -116,7 +116,8 @@
 | 11  | Durante a observação, foram feitas anotações completas das tarefas e interações observadas? | Incompleto |
 | 12  | Os achados foram documentados, revisados e discutidos com os participantes para confirmação? | Sim |
 
-*<p style="text-align: center;">Fonte: [Luan Vinícius](https://github.com/luannvi) </p>*
+*<p style="text-align: center;">Autor da inspeção: [Luan Vinícius](https://github.com/luannvi)</p>*
+
 
 ### Tabela 8: Checklist Value, Cost and Risk do grupo 7
 
@@ -145,9 +146,11 @@
 | Versão | Data       | Autor               | Descrição                       | Revisor |
 |:--------:|:------------:|:---------------:|:-------------------------------:|:---------:|
 | ``1.0``    | 12/11/2025 | [Luan Vinícius](https://github.com/luannvi)  | Abertura do documento | |
-| ``2.0``    | 12/11/2025 | [Miquéias Ezequiel](https://github.com/Kael-web7)  | Listas Moscow,100$, Glossário preenchidas | |
-|``3.0``    | 12/11/2025 | [Samuel Felipe](https://github.com/Kael-web7)  | Lista Three Level Scale | |
-|``4.0``    | 12/11/2025 | [Luan Vinícius](https://github.com/luannvi)  | Lista Observação | |
-|``5.0``    | 12/11/2025 | [Nayra Nery](https://github.com/NayraNery127)  | Lista Value | |
-|``6.0``    | 22/11/2025 | [Nayra Nery](https://github.com/NayraNery127)  | Correção da lista Value| |
+| ``1.1``    | 12/11/2025 | [Miquéias Ezequiel](https://github.com/Kael-web7)  | Listas Moscow,100$, Glossário preenchidas | |
+|``1.2``    | 12/11/2025 | [Samuel Felipe](https://github.com/Kael-web7)  | Lista Three Level Scale | |
+|``1.3``    | 12/11/2025 | [Luan Vinícius](https://github.com/luannvi)  | Lista Observação | |
+|``1.4``    | 12/11/2025 | [Nayra Nery](https://github.com/NayraNery127)  | Lista Value | |
+|``1.5``    | 22/11/2025 | [Nayra Nery](https://github.com/NayraNery127)  | Correção da lista Value| |
+|``1.6``    | 22/11/2025 | [Nayra Nery](https://github.com/NayraNery127)  | Correção da lista Value| |
+|``1.7``    | 23/11/2025 | [Luan Vinícius](https://github.com/luannvi)  | Pequenas correções | |
 

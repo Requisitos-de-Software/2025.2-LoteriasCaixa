@@ -1,7 +1,7 @@
 
 |Aluno| Contribuição|
 |-----|-------------|
-|luan Vinicius| Revisão da lista de observação e inspeção do grupo 3 das respectivas listas |
+| Luan Vinícius | Revisão da lista de observação |
 | Miqueias | Criação da lista Glossario e revisão da lista de Moscow e $100 dolares e inspeção do grupo 3 das respectivas listas |
 |Samuel | Three level scale e inspeção do grupo 3 das respectivas listas |
 | Heyttor | Revisão da lista de perfil de usuário e inspeção do grupo 3 |
@@ -34,7 +34,7 @@ Todos os itens dessa lista foram feito pelo estudante Miqueias Ezequiel
 
 ## Lista de Verificação – Técnica dos 100 Dólares
 
-*<p style="text-align: center;">Tabela 1: Checklist de técnica de 100$ dólares para o grupo 1</p>*
+*<p style="text-align: center;">Tabela 2: Checklist de técnica de 100$ dólares para o grupo 1</p>*
 
 | ID | Descrição | Autor(es) | Referências |
 | :---: | :--- | :---: | :---: |
@@ -51,7 +51,7 @@ Todos os itens dessa lista foram feito pelo estudante Miqueias Ezequiel
 
 ## Lista de Verificação – Moscow
 
-*<p style="text-align: center;">Tabela 2: Checklist de Moscow para o grupo 1</p>*
+*<p style="text-align: center;">Tabela 3: Checklist de Moscow para o grupo 1</p>*
 
 | ID | Descrição | Autor(es) | Referências |
 | :---: | :--- | :---: | :---: |
@@ -70,7 +70,7 @@ Todos os itens dessa lista foram feito pelo estudante Miqueias Ezequiel
 
 ## Lista de Verificação – Glossário
 
-*<p style="text-align: center;">Tabela 2: Checklist de Glossário para o grupo 1</p>*
+*<p style="text-align: center;">Tabela 4: Checklist de Glossário para o grupo 1</p>*
 
 | ID | Descrição | Autor(es) | Referências |
 | :---: | :--- | :---: | :---: |
@@ -93,7 +93,7 @@ Todos os itens dessa lista foram feito pelo estudante Miqueias Ezequiel
 
 ## Técnica de Priorização - Three Level Scale
 
-*<p style="text-align: center;">Tabela 7: Checklist Three Level Scale do grupo 7</p>*
+*<p style="text-align: center;">Tabela 5: Checklist Three Level Scale do grupo 7</p>*
 
 | ID  | Descrição | Autor(res) | Referências |
 |-----|-----------|----------| ------------- |
@@ -109,9 +109,11 @@ Todos os itens dessa lista foram feito pelo estudante Miqueias Ezequiel
 
 ## Lista de Verificação - Observação 
 
-*<p style="text-align: center;">Tabela 1: Checklist de Observação do grupo 7</p>*
+Todos os itens de verificação foram elaborados do livro Engenharia de Requisitos: Software orientado ao négocio, cap. 7 <a id="anchor_3" href="#REF3">[3]</a>
 
-| ID | Descrição | Autor(es) | Referências |
+*<p style="text-align: center;">Tabela 6: Checklist de Observação do grupo 7</p>*
+
+| ID | Descrição | Autor(es) | Referência/descrição |
 | :---: | :--- | :---: | :---: |
 | 1 | Foram estabelecidos os objetivos da observação antes de iniciá-la? <a id="anchor_3" href="#REF3">[3]</a> | [Luan Vinícius](https://github.com/luannvi) | [Ver Imagem](../../../images/inspecao-etapa2/id01-obs.png) |
 | 2 | O grupo de pessoas e a janela de tempo para observação foram escolhidos com base nas necessidades de informação? <a id="anchor_3" href="#REF3">[3]</a> | [Luan Vinícius](https://github.com/luannvi) | [Ver Imagem](../../../images/inspecao-etapa2/id02-obs.png) |
@@ -128,7 +130,7 @@ Todos os itens dessa lista foram feito pelo estudante Miqueias Ezequiel
 
 ## Técnica de Priorização - Value, Cost and Risk
 
-*Tabela 8: Checklist Value, Cost and Risk do grupo 7*
+*<p style="text-align: center;">Tabela 7: Checklist Value, Cost and Risk do grupo 7</p>*
 
 | ID | Descrição | Cumpriu? |
 |----|-----------|----------|
@@ -161,7 +163,8 @@ Todos os itens dessa lista foram feito pelo estudante Miqueias Ezequiel
 | Versão | Data       | Autor               | Descrição                       | Revisor |
 |:--------:|:------------:|:---------------:|:-------------------------------:|:---------:|
 | ``1.0``    | 12/11/2025 | [Luan Vinícius](https://github.com/luannvi)  | Abertura do documento | |
-| ``2.0``    | 12/11/2025 | [Miquéias Ezequiel](https://github.com/Kael-web7)  | Listas Moscow,100$, Glossário | |
-| ``3.0``    | 12/11/2025 | [Samuel Felipe](https://github.com/Kael-web7)  | Lista Three Level Scale | |
-| ``4.0``    | 12/11/2025 | [Luan Vinícius](https://github.com/luannvi) | Lista Observação | |
-|``5.0``    | 12/11/2025 | [Heyttor augusto](https://github.com/Kael-web7)  | Lista Perfil de usuario | |
+| ``1.1``    | 12/11/2025 | [Miquéias Ezequiel](https://github.com/Kael-web7)  | Listas Moscow,100$, Glossário | |
+| ``1.2``    | 12/11/2025 | [Samuel Felipe](https://github.com/Kael-web7)  | Lista Three Level Scale | |
+| ``1.3``    | 12/11/2025 | [Luan Vinícius](https://github.com/luannvi) | Lista Observação | |
+|``1.4``    | 12/11/2025 | [Heyttor augusto](https://github.com/Kael-web7)  | Lista Perfil de usuario | |
+| ``1.5``    | 23/11/2025 | [Luan Vinícius](https://github.com/luannvi) | Atualização da referência/descrição de observação | |

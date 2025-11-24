@@ -1,7 +1,7 @@
 
 |Aluno| Contribuição|
 |-----|-------------|
-|luan Vinicius| Revisão da lista de Cenarios e inspeção do grupo 3 das respectivas listas |
+|Luan Vinícius| Revisão da lista de Cenários e inspeção do grupo 3 das respectivas listas |
 |João | Revisão da lista de léxicos e inspeção do grupo 3 das respectivas listas |
 |Heyttor |  Revisão da lista de Casos de uso e inspeção do grupo 3 das respectivas listas |
 
@@ -40,7 +40,7 @@ Todos os itens de verificação sairam do video "Tutorial de Caso de Uso UML" di
 
 ## Lista de Verificação - Léxico (LAL)
 
-*<p style="text-align: center;">Tabela 4: Checklist Léxico (LAL) do grupo 7</p>*
+*<p style="text-align: center;">Tabela 2: Checklist Léxico (LAL) do grupo 7</p>*
 
 | ID | Descrição | Autor(es) | Referência |
 |----|----------------------|----------|------------|
@@ -53,37 +53,39 @@ Todos os itens de verificação sairam do video "Tutorial de Caso de Uso UML" di
 | 7  | Símbolos do tipo OBJETO possuem descrição de ações que podem ser aplicadas ao objeto? <a id="anchor_7" href="#REF7">[7]</a> | [João Pedro](https://github.com/Jadequilin) | [ver imagem](../../../images/fotos%20para%20lexico/LEX6,7.jpeg) |
 | 8  | Símbolos do tipo ESTADO possuem descrição do que significa e quais ações levaram a esse estado? <a id="anchor_8" href="#REF8">[8]</a> | [João Pedro](https://github.com/Jadequilin) | [ver imagem](../../../images/fotos%20para%20lexico/LEX8,9.jpeg) |
 | 9  | Símbolos do tipo ESTADO possuem identificação de outros estados e ações que podem ocorrer a partir dele? <a id="anchor_9" href="#REF9">[9]</a> | [João Pedro](https://github.com/Jadequilin) | [ver imagem](../../../images/fotos%20para%20lexico/LEX8,9.jpeg) |
-| 10 | Cada símbolo possui zero ou mais sinônimos identificados? <a id="anchor_10" href="#REF10">[10]</a> | - | [ver imagem](../../../images/fotos%20para%20lexico/LEX10.jpeg) |
+| 10 | Cada símbolo possui zero ou mais sinônimos identificados? <a id="anchor_10" href="#REF10">[10]</a> | [João Pedro](https://github.com/Jadequilin) | [ver imagem](../../../images/fotos%20para%20lexico/LEX10.jpeg) |
 | 11 | Cada símbolo possui um ou mais hyperlinks para ocorrências na aplicação? <a id="anchor_11" href="#REF11">[11]</a> | [João Pedro](https://github.com/Jadequilin) | [ver imagem](../../../images/fotos%20para%20lexico/LEX11.jpeg) |
 | 12 | Os símbolos estão interligados com os cenários por meio de hyperlinks? <a id="anchor_12" href="#REF12">[12]</a> | [João Pedro](https://github.com/Jadequilin) | [ver imagem](../../../images/fotos%20para%20lexico/LEX12.jpeg) |
 
 ## Lista de Verificação - Cenários
 
-*<p style="text-align: center;">Tabela 2: Checklist Cenários do grupo 7</p>*
+Todos os itens de verificação foram elaborados do livro Interação Humano-Computador e Experiência do Usuário, cap. 8 <a id="anchor_13" href="#REF13">[5]</a>
 
-| ID | Descrição | Autor(es) | Referências |
+*<p style="text-align: center;">Tabela 3: Checklist Cenários do grupo 7</p>*
+
+| ID | Descrição | Autor(es) | Referência/descrição |
 | :---: | :--- | :---: | :---: |
-| 1 | Há identificação clara do ator principal e do objetivo principal no cenário? <a id="anchor_13" href="#REF13">[13]</a> | [Miquéias Ezequiel](https://github.com/Kael-web7) | [Ver Imagem](../../../images/inspecao-etapa3/id01-cn.png) |
-| 2 | O cenário inclui os elementos essenciais: ambiente/contexto, atores, objetivos, planejamento, ações, eventos e avaliação? <a id="anchor_13" href="#REF13">[13]</a> | [Miquéias Ezequiel](https://github.com/Kael-web7) | [Ver Imagem](../../../images/inspecao-etapa3/id02-cn.png) |
-| 3 | O título do cenário descreve brevemente a situação sem entrar em muitos detalhes? <a id="anchor_13" href="#REF13">[13]</a> | [Miquéias Ezequiel](https://github.com/Kael-web7) | [Ver Imagem](../../../images/inspecao-etapa3/id03-cn.png) |
-| 4 | O cenário cobre também exceções ou situações raras que possam gerar problemas de uso? <a id="anchor_13" href="#REF13">[13]</a> | [Miquéias Ezequiel](https://github.com/Kael-web7) | [Ver Imagem](../../../images/inspecao-etapa3/id04-cn.png) |
-| 5 | O conjunto de cenários cobre diferentes segmentos de público e experiências de usuários? <a id="anchor_13" href="#REF13">[13]</a> | [Miquéias Ezequiel](https://github.com/Kael-web7) | [Ver Imagem](../../../images/inspecao-etapa3/id05-cn.png) |
-| 6 | O conjunto de cenários contempla as principais funções do produto e suas variações de uso? <a id="anchor_13" href="#REF13">[13]</a> | [Miquéias Ezequiel](https://github.com/Kael-web7) | [Ver Imagem](../../../images/inspecao-etapa3/id06-cn.png) |
-| 7 | Há distinção entre cenários de uso diário (frequentes) e cenários de tarefas esporádicas (raras)? <a id="anchor_13" href="#REF13">[13]</a> | [Miquéias Ezequiel](https://github.com/Kael-web7) | [Ver Imagem](../../../images/inspecao-etapa3/id07-cn.png) |
-| 8 | Foram aplicadas perguntas sistemáticas (Por quê? Como? O que é? etc.) para identificar lacunas no cenário? <a id="anchor_13" href="#REF13">[13]</a> | [Miquéias Ezequiel](https://github.com/Kael-web7) | [Ver Imagem](../../../images/inspecao-etapa3/id08-cn.png) |
-| 9 | O cenário foi enriquecido com perguntas específicas relacionadas a cada elemento (objetivos, ambiente, atores, planejamento, ações, eventos, avaliação)? <a id="anchor_13" href="#REF13">[13]</a> | [Miquéias Ezequiel](https://github.com/Kael-web7) | [Ver Imagem](../../../images/inspecao-etapa3/id09-cn.png) |
+| 1 | Há identificação clara do ator principal e do objetivo principal no cenário? <a id="anchor_13" href="#REF13">[5]</a> | [Miquéias Ezequiel](https://github.com/Kael-web7) | [Ver Imagem](../../../images/inspecao-etapa3/id01-cn.png) |
+| 2 | O cenário inclui os elementos essenciais: ambiente/contexto, atores, objetivos, planejamento, ações, eventos e avaliação? <a id="anchor_13" href="#REF13">[5]</a> | [Miquéias Ezequiel](https://github.com/Kael-web7) | [Ver Imagem](../../../images/inspecao-etapa3/id02-cn.png) |
+| 3 | O título do cenário descreve brevemente a situação sem entrar em muitos detalhes? <a id="anchor_13" href="#REF13">[5]</a> | [Miquéias Ezequiel](https://github.com/Kael-web7) | [Ver Imagem](../../../images/inspecao-etapa3/id03-cn.png) |
+| 4 | O cenário cobre também exceções ou situações raras que possam gerar problemas de uso? <a id="anchor_13" href="#REF13">[5]</a> | [Miquéias Ezequiel](https://github.com/Kael-web7) | [Ver Imagem](../../../images/inspecao-etapa3/id04-cn.png) |
+| 5 | O conjunto de cenários cobre diferentes segmentos de público e experiências de usuários? <a id="anchor_13" href="#REF13">[5]</a> | [Miquéias Ezequiel](https://github.com/Kael-web7) | [Ver Imagem](../../../images/inspecao-etapa3/id05-cn.png) |
+| 6 | O conjunto de cenários contempla as principais funções do produto e suas variações de uso? <a id="anchor_13" href="#REF13">[5]</a> | [Miquéias Ezequiel](https://github.com/Kael-web7) | [Ver Imagem](../../../images/inspecao-etapa3/id06-cn.png) |
+| 7 | Há distinção entre cenários de uso diário (frequentes) e cenários de tarefas esporádicas (raras)? <a id="anchor_13" href="#REF13">[5]</a> | [Miquéias Ezequiel](https://github.com/Kael-web7) | [Ver Imagem](../../../images/inspecao-etapa3/id07-cn.png) |
+| 8 | Foram aplicadas perguntas sistemáticas (Por quê? Como? O que é? etc.) para identificar lacunas no cenário? <a id="anchor_13" href="#REF13">[5]</a> | [Miquéias Ezequiel](https://github.com/Kael-web7) | [Ver Imagem](../../../images/inspecao-etapa3/id08-cn.png) |
+| 9 | O cenário foi enriquecido com perguntas específicas relacionadas a cada elemento (objetivos, ambiente, atores, planejamento, ações, eventos, avaliação)? <a id="anchor_13" href="#REF13">[5]</a> | [Miquéias Ezequiel](https://github.com/Kael-web7) | [Ver Imagem](../../../images/inspecao-etapa3/id09-cn.png) |
 
 ## Bibliografia 
 
->  <a id="REF1" href="#anchor_1">, <a id="REF2" href="#anchor_2"> 1.</a> SILVEIRA, Milene Selbach. Análise de Requisitos: Aula 10. [S. l.: s. n., 2010]. Material de aula da disciplina Requisitos de Software. Pag. 14. Disponível em: <https://aprender3.unb.br/pluginfile.php/3210627/mod_resource/content/1/Aula%2010.pdf>. Acesso em: 13 out. 2025.
+>  <a id="REF1" href="#anchor_1"> <a id="REF2" href="#anchor_2"> 1.</a> SILVEIRA, Milene Selbach. Análise de Requisitos: Aula 10. [S. l.: s. n., 2010]. Material de aula da disciplina Requisitos de Software. Pag. 14. Disponível em: <https://aprender3.unb.br/pluginfile.php/3210627/mod_resource/content/1/Aula%2010.pdf>. Acesso em: 13 out. 2025.
 
->  <a id="REF3" href="#anchor_3">, <a id="REF4" href="#anchor_4">, <a id="REF5" href="#anchor_5">, <a id="REF6" href="#anchor_6">, <a id="REF7" href="#anchor_7">, <a id="REF8" href="#anchor_8">, <a id="REF9" href="#anchor_9"> 2.</a> SILVEIRA, Milene Selbach. Análise de Requisitos: Aula 10. [S. l.: s. n., 2010]. Material de aula da disciplina Requisitos de Software. Pag. 15. Disponível em: <https://aprender3.unb.br/pluginfile.php/3210627/mod_resource/content/1/Aula%2010.pdf>. Acesso em: 13 out. 2025.
+>  <a id="REF3" href="#anchor_3"> <a id="REF4" href="#anchor_4"> <a id="REF5" href="#anchor_5"> <a id="REF6" href="#anchor_6"> <a id="REF7" href="#anchor_7"> <a id="REF8" href="#anchor_8"> <a id="REF9" href="#anchor_9"> 2.</a> SILVEIRA, Milene Selbach. Análise de Requisitos: Aula 10. [S. l.: s. n., 2010]. Material de aula da disciplina Requisitos de Software. Pag. 15. Disponível em: <https://aprender3.unb.br/pluginfile.php/3210627/mod_resource/content/1/Aula%2010.pdf>. Acesso em: 13 out. 2025.
 
 >  <a id="REF10" href="#anchor_10"> 3.</a> SILVEIRA, Milene Selbach. Análise de Requisitos: Aula 10. [S. l.: s. n., 2010]. Material de aula da disciplina Requisitos de Software. Pag. 16. Disponível em: <https://aprender3.unb.br/pluginfile.php/3210627/mod_resource/content/1/Aula%2010.pdf>. Acesso em: 13 out. 2025.
 
->  <a id="REF11" href="#anchor_11">, <a id="REF12" href="#anchor_12"> 4.</a> SILVEIRA, Milene Selbach. Análise de Requisitos: Aula 10. [S. l.: s. n., 2010]. Material de aula da disciplina Requisitos de Software. Pag. 17. Disponível em: <https://aprender3.unb.br/pluginfile.php/3210627/mod_resource/content/1/Aula%2010.pdf>. Acesso em: 13 out. 2025.
+>  <a id="REF11" href="#anchor_11"> <a id="REF12" href="#anchor_12"> 4.</a> SILVEIRA, Milene Selbach. Análise de Requisitos: Aula 10. [S. l.: s. n., 2010]. Material de aula da disciplina Requisitos de Software. Pag. 17. Disponível em: <https://aprender3.unb.br/pluginfile.php/3210627/mod_resource/content/1/Aula%2010.pdf>. Acesso em: 13 out. 2025.
 
-> <a id="REF13" href="#anchor_13">13.</a> BARBOSA, Simone Diniz Junqueira et al. Organização do Espaço de Problema. In: BARBOSA, Simone Diniz Junqueira et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Rio de Janeiro: Autopublicação, 2021. Cap. 8. Disponível em: <https://aprender3.unb.br/pluginfile.php/3210628/mod_resource/content/2/ihc-ux-%20Personas.pdf>. Acesso em: 13 out. 2025.
+> <a id="REF13" href="#anchor_13">5.</a> BARBOSA, Simone Diniz Junqueira et al. Organização do Espaço de Problema. In: BARBOSA, Simone Diniz Junqueira et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Rio de Janeiro: Autopublicação, 2021. Cap. 8. Disponível em: <https://aprender3.unb.br/pluginfile.php/3210628/mod_resource/content/2/ihc-ux-%20Personas.pdf>. Acesso em: 13 out. 2025.
 
 ## Versionamento
 
@@ -92,3 +94,4 @@ Todos os itens de verificação sairam do video "Tutorial de Caso de Uso UML" di
 | ``1.0``    | 12/11/2025 | [Luan Vinícius](https://github.com/luannvi)  | Abertura do documento | |
 | ``1.1 `` | 12/11/2025 | [João Pedro](https://github.com/Jadequilin)| Adição da lista de léxicos | [Rivadalvio Joaquim](https://github.com/RivaFilho) |
 | ``1.2`` | 12/11/2025 | [Luan Vinícius](https://github.com/luannvi) | Adição da lista de cenários | |
+| ``1.3`` | 23/11/2025 | [Luan Vinícius](https://github.com/luannvi) | Pequenas correções | |

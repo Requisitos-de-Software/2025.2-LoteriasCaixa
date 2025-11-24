@@ -53,7 +53,7 @@
 
 ## Lista de Verificação - Cenários
 
-*<p style="text-align: center;">Tabela 1: Checklist preenchido - Cenários do grupo 7</p>*
+*<p style="text-align: center;">Tabela 2: Checklist preenchido - Cenários do grupo 7</p>*
 
 | ID | Descrição | Cumpriu? |
 | --- | --- | --- |
@@ -67,7 +67,7 @@
 | 8 | Foram aplicadas perguntas sistemáticas (Por quê? Como? O que é? etc.) para identificar lacunas no cenário? | Sim |
 | 9 | O cenário foi enriquecido com perguntas específicas relacionadas a cada elemento (objetivos, ambiente, atores, planejamento, ações, eventos, avaliação)? | Sim |
 
-*<p style="text-align: center;">Fonte: [Miquéias Ezequiel](https://github.com/Kael-web7) </p>*
+*<p style="text-align: center;">Autor da inspeção: [Luan Vinícius](https://github.com/luannvi)</p>*
 
 ## Versionamento
 
@@ -76,3 +76,4 @@
 | ``1.0``    | 12/11/2025 | [Luan Vinícius](https://github.com/luannvi)  | Abertura do documento | |
 | ``1.1``    | 12/11/2025 | [joão Pedro](https://github.com/Jadequilin)  | Adição léxicos | [Rivadalvio Joaquim](https://github.com/RivaFilho)  |
 | ``1.2``    | 12/11/2025 | [Luan Vinícius](https://github.com/luannvi)  | Adição cenários | |
+| ``1.3``    | 23/11/2025 | [Luan Vinícius](https://github.com/luannvi)  | pequenas correções | |

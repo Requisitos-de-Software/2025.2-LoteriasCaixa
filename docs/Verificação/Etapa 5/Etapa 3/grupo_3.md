@@ -31,7 +31,7 @@
 
 ## Lista de Verificação - Léxico (LAL)
 
-*<p style="text-align: center;">Tabela 1: Checklist preenchido - Léxico (LAL) do grupo 7</p>*
+*<p style="text-align: center;">Tabela 2: Checklist preenchido - Léxico (LAL) do grupo 7</p>*
 
 | ID | Item de Verificação | Cumpriu? |
 |----|----------------------|----------|
@@ -52,7 +52,7 @@
 
 ## Lista de Verificação - Cenários
 
-*<p style="text-align: center;">Tabela 1: Checklist preenchido - Cenários do grupo 3</p>*
+*<p style="text-align: center;">Tabela 3: Checklist preenchido - Cenários do grupo 3</p>*
 
 | ID | Descrição | Cumpriu? |
 | --- | --- | --- |
@@ -66,7 +66,7 @@
 | 8 | Foram aplicadas perguntas sistemáticas (Por quê? Como? O que é? etc.) para identificar lacunas no cenário? | Sim |
 | 9 | O cenário foi enriquecido com perguntas específicas relacionadas a cada elemento (objetivos, ambiente, atores, planejamento, ações, eventos, avaliação)? | Sim |
 
-*<p style="text-align: center;">Fonte: [Miquéias Ezequiel](https://github.com/Kael-web7) </p>*
+*<p style="text-align: center;">Autor da inspeção: [Luan Vinícius](https://github.com/luannvi)</p>*
 
 ## Versionamento
 
