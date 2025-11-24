@@ -13,22 +13,6 @@ Nossa equipe adotou o Scrum como metodologia principal para o desenvolvimento do
 - **Cerimônias**: Reuniões de sincronização semanais para acompanhamento
 - **Entregas**: 6 entregas principais conforme cronograma da disciplina
 
-## Políticas de Desenvolvimento
-
-### Política de Commits
-
-```bash
-# Padrão adotado:
-git commit -m "feat: adiciona casos de uso"
-git commit -m "fix: corrige diagrama de sequência" 
-git commit -m "docs: atualiza documentação"
-```
-
-### Política de Revisão
-
-- Revisor designado para cada alteração
-- Prazo de 24h para feedback
-- Aprovação necessária antes do merge
 
 ### Deploy Contínuo
 
