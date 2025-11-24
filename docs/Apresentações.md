@@ -58,6 +58,10 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FgkEPRMS_OQ?si=6bznhSsPvbyx5gzS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
+### Apresentação Entrega Final
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pqmRF3Xgqtg?si=V6WvG7vSBliVTQ7V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Versionamento
 
 | Versão | Data  | Descrição   | Autor |
@@ -66,4 +70,5 @@
 | 1.1 | 09/09/2025 | Upload vídeo de apresentação 1 | [Samuel Felipe](https://github.com/TerminaKng05)  |
 |1.2| 12/09/2025 | Upload vídeo de apresentação 2 e 3 | [Heyttor Augusto](https://github.com/H3ytt0r62) |
 |1.3| 20/11/2025 | Upload vídeo de apresentação 4, 5 e 6 |  [João Pedro](https://github.com/Jadequilin) |
+| 1.4 | 24/11/2025 | Upload vídeo de apresentação Entrega Final | [Samuel Felipe](https://github.com/TerminaKng05) |
 
