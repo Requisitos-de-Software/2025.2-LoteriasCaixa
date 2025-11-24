@@ -8,8 +8,9 @@ Os softwares escolhidos serviram como ferramentas de apoio para a equipe do proj
 
 ## Tabela de contribuição
 
-|Aluno| contribuição|
-|Heyttor augusto| Construção do artefato|
+|Aluno| Contribuição |
+|-----|------------|
+|Heyttor Augusto| Construção do artefato|
 
 ## Ferramentas utilizadas 
 <p style="text-align: center;">

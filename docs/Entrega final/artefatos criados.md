@@ -6,8 +6,9 @@ Ao todo, o projeto contou com a produção de 63 artefatos, distribuídos entre 
 
 ## Tabela de contribuição
 
-|Aluno| contribuição|
-|Heyttor augusto| Construção do artefato|
+|Aluno| Contribuição |
+|-----|------------|
+|Heyttor Augusto| Construção do artefato|
 
 
 ## Etapa 1
