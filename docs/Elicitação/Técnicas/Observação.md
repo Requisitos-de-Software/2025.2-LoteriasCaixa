@@ -69,7 +69,7 @@ Depois das anotações do observador e com as ações do usuário dentro do apli
 
 | Tipo  | Requisitos                                                                 |   ID   |
 |:-----:|---------------------------------------------------------------------------|:------:|
-| RNF01 | A navegação entre a seleção de jogos, o preenchimento do volante e o carrinho de compras deve ser intuitiva, exigindo no máximo 3 toques para ir de uma seção a outra. | OBS17 |
+| RNF01 | A navegação entre a seleção de jogos, o preenchimento do volante e o carrinho de compras deve ser intuitiva, exigindo no máximo 4 toques para ir de uma seção a outra. | OBS17 |
 | RNF02 | O resultado de uma loteria deve ser carregado e exibido na tela em menos de 3 segundos sob uma conexão 4G/5G padrão. | OBS18 |
 | RNF03 | O sistema deve proteger o acesso às funcionalidades transacionais exigindo a autenticação do usuário no início da sessão. | OBS19 |
 | RNF04 | Os números selecionados no volante digital devem ser claramente diferenciados dos não selecionados, através de cor e contraste. | OBS20 |

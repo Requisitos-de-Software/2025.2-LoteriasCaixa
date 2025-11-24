@@ -79,7 +79,7 @@ A legenda para cada sigla:
 |:---|:---|:---|:---|
 | **RNF01** | O software deve ter telas simples com poucos elementos| Implementado | [ENT01](../Elicitação/Técnicas/Entrevista.md) |
 | <a id="RNF02"></a> **RNF02** | O software deve ter imagens explicativas que mostrem as funções principais do palicativo, em uma aba especial so para elas  | Não Implementado | [ENT08](../Elicitação/Técnicas/Entrevista.md) |
-| **RNF03** | A navegação entre a seleção de jogos, o preenchimento do volante e o carrinho de compras deve ser intuitiva, exigindo no máximo 3 toques | Implementado | [OBS17](../Elicitação/Técnicas/Observação.md) |
+| **RNF03** | A navegação entre a seleção de jogos, o preenchimento do volante e o carrinho de compras deve ser intuitiva, exigindo no máximo 4 toques | Implementado | [OBS17](../Elicitação/Técnicas/Observação.md) |
 | **RNF04** | O resultado de uma loteria deve ser carregado e exibido na tela em menos de 3 segundos sob uma conexão 4G/5G padrão | Implementado | [OBS18](../Elicitação/Técnicas/Observação.md) |
 | **RNF05** | O sistema deve proteger o acesso às funcionalidades transacionais exigindo a autenticação do usuário no início da sessão | Implementado | [OBS19](../Elicitação/Técnicas/Observação.md) |
 | **RNF06** | Os números selecionados no volante digital devem ser claramente diferenciados dos não selecionados, através de cor e contraste | Implementado | [OBS20](../Elicitação/Técnicas/Observação.md) |
@@ -89,21 +89,21 @@ A legenda para cada sigla:
 | **RNF10** | A sessão do usuário deve expirar automaticamente após 15 minutos de inatividade para proteger a conta | Implementado | [OBS24](../Elicitação/Técnicas/Observação.md) |
 | <a id="RNF11"></a> **RNF11** | O sistema deve garantir que o acesso a funcionalidades primárias seja feito através de componentes de interface autoexplicativos. Ícones de navegação, como o menu principal, devem ser acompanhados por um rótulo textual (ex: "Menu"). | Não Implementado | [OBS25](../Elicitação/Técnicas/Observação.md) |
 | **RNF12** | As apostas são registradas dentro do app com base no CPF do usuário; | Implementado | [AD02](../Elicitação/Técnicas/Análise%20de%20Documentos.md) |
-| **RNF13** | O aplicativo segue a questão de disponibilidade em plataformas que os usuários tem acesso (IOS 15.1 ou superior/Apple Store, Android 5.1 ou superior/Play Store); | Implementado | [AD05](../Elicitação/Técnicas/Análise%20de%20Documentos.md) |
-| **RNF14** | O aplicativo utiliza o sistema da própria empresa para que o usuário consiga acessar os seus dados no sistema; | Implementado | [AD06](../Elicitação/Técnicas/Análise%20de%20Documentos.md) |
-| **RNF15** | O aplicativo entrega as facilidades para realizar as mesmas funções que o site ou ir pessoalmente a uma lotérica; | Implementado | [AD07](../Elicitação/Técnicas/Análise%20de%20Documentos.md) |
-| **RNF16** | O aplicativo segue a lei federal onde apenas maiores de 18 anos podem utilizar as funções que o mesmo oferece; | Implementado | [AD08](../Elicitação/Técnicas/Análise%20de%20Documentos.md) |
-| **RNF17** | O aplicativo apresenta uma funcionalidade chamada "rapidão", onde é montada uma aposta com base nas preferências do usuário; | Implementado | [AD09](../Elicitação/Técnicas/Análise%20de%20Documentos.md)|
-| **RNF18** | O resgate dos prêmios são apenas disponibilizados nos canais oficiais da empresa, como uma Unidade Lotérica ou Agência Caixa, e no Mercado Pago (Sendo o valor disponível na conta do usuário e ser transferido conforme as regras próprias do meio de pagamento); | Implementado | [AD10](../Elicitação/Técnicas/Análise%20de%20Documentos.md) |
-| **RNF19** | O aplicativo apresenta a opção de filtrar as apostas premiadas ou concursos não realizados; | Não implementado | [AD11](../Elicitação/Técnicas/Análise%20de%20Documentos.md) |
-| <a id="RNF20"></a> **RNF20** | O aplicativo permite que o apostante baixe o comprovante da compra dos jogos cadastrados; | Não implementado | [AD13](../Elicitação/Técnicas/Análise%20de%20Documentos.md) |
+| **RNF13** | O aplicativo segue a questão de disponibilidade em plataformas que os usuários tem acesso (IOS 15.1 ou superior/Apple Store, Android 5.1 ou superior/Play Store) | Implementado | [AD05](../Elicitação/Técnicas/Análise%20de%20Documentos.md) |
+| **RNF14** | O aplicativo utiliza o sistema da própria empresa para que o usuário consiga acessar os seus dados no sistema | Implementado | [AD06](../Elicitação/Técnicas/Análise%20de%20Documentos.md) |
+| **RNF15** | O aplicativo entrega as facilidades para realizar as mesmas funções que o site ou ir pessoalmente a uma lotérica | Implementado | [AD07](../Elicitação/Técnicas/Análise%20de%20Documentos.md) |
+| **RNF16** | O aplicativo segue a lei federal onde apenas maiores de 18 anos podem utilizar as funções que o mesmo oferece | Implementado | [AD08](../Elicitação/Técnicas/Análise%20de%20Documentos.md) |
+| **RNF17** | O aplicativo apresenta uma funcionalidade chamada "rapidão", onde é montada uma aposta com base nas preferências do usuário | Não Implementado | [AD09](../Elicitação/Técnicas/Análise%20de%20Documentos.md)|
+| **RNF18** | O resgate dos prêmios são apenas disponibilizados nos canais oficiais da empresa, como uma Unidade Lotérica ou Agência Caixa, e no Mercado Pago (Sendo o valor disponível na conta do usuário e ser transferido conforme as regras próprias do meio de pagamento) | Implementado | [AD10](../Elicitação/Técnicas/Análise%20de%20Documentos.md) |
+| **RNF19** | O aplicativo apresenta a opção de filtrar as apostas premiadas ou concursos não realizados | Não implementado | [AD11](../Elicitação/Técnicas/Análise%20de%20Documentos.md) |
+| <a id="RNF20"></a> **RNF20** | O aplicativo deve apresentar uma forma de mostrar os resultados em tempo real | Não implementado | [AD13](../Elicitação/Técnicas/Análise%20de%20Documentos.md) |
 | **RNF21** | O aplicativo mostra os resultado dos jogos realizados em "tempo real", com 5 segundos de atraso máximo; | Não implementado | [AD14](../Elicitação/Técnicas/Análise%20de%20Documentos.md) |
 | **RNF22** | Em dispositivos anteriores ao Android 5.1 e iOS 15.1, o aplicativo é estável para uso; | Não implementado | [AD15](../Elicitação/Técnicas/Análise%20de%20Documentos.md) |
 | **RNF23** | O aplicativo funciona ao utilizar conexão de internet 4G/5G; | Não implementado | [AD16](../Elicitação/Técnicas/Análise%20de%20Documentos.md) |
 | **RNF24** | O aplicativo é encontrado, pesquisado e utilizado de forma que o apostante sabe o que procura; | Implementado | [ENT14](../Elicitação/Técnicas/Entrevista.md) |
 | **RNF25** | O aplicativos é de uma fonte confiável para o usuário | Implementado | [ENT17](../Elicitação/Técnicas/Entrevista.md) |
-| <a id="RNF26"></a> **RNF26** | Há um termo de uso | Implementado | [ENT19](../Elicitação/Técnicas/Entrevista.md) |
-| **RNF27** | O termo de uso especifica os riscos para o usuário | Não Implementado | [ENT20](../Elicitação/Técnicas/Entrevista.md)|
+|  **RNF26** | Há um termo de uso | Implementado | [ENT19](../Elicitação/Técnicas/Entrevista.md) |
+| <a id="RNF27"></a> **RNF27** | O termo de uso especifica os riscos para o usuário | Não Implementado | [ENT20](../Elicitação/Técnicas/Entrevista.md)|
 | **RNF28** | O termo de uso especifica a classificação indicativa para o usuário | Implementado | [ENT21](../Elicitação/Técnicas/Entrevista.md) |
 | **RNF29** | O termo de uso especifica o acesso aos dados do aplicativo para o usuário | Implementado | [ENT22](../Elicitação/Técnicas/Entrevista.md) |
 | **RNF30** | O aplicativo deve permitir que o usuário encontre qualquer modalidade de loteria ou resultado desejado em no máximo 2 toques e 3 segundos, com itens do menu claramente rotulados na tela inicial. | Implementado | [ENT24](../Elicitação/Técnicas/Entrevista.md) |
@@ -123,4 +123,5 @@ O grupo 7 agradece o apoio das ferramentas de inteligência artificial generativ
 | ``2.1`` | 20/11/2025 | [Samuel Felipe](https://github.com/TerminaKng05) | atualização e modificação dos rfs e rnfs | [Heyttor Augusto](https://github.com/H3ytt0r62) |
 |``2.2``| 21/11/2015/ | [Heyttor Augusto](https://github.com/H3ytt0r62) | atualização dos requisitos RF04,RF35,RNF01 e NNF02 | [Samuel Felipe](https://github.com/TerminaKng05) |
 |``2.3``| 22/11/2015/ | [Luan Vinícius](https://github.com/luannvi) | atualização dos requisitos RF23, RF38 | [Samuel Felipe](https://github.com/TerminaKng05) |
-| ``2.4``     | 20/11/2025 | [Miquéias Ezequiel](https://github.com/Kael-web7)    | Ajuste da RNF29 | [Luan Vinícius](https://github.com/luannvi) |
+| ``2.4``  | 20/11/2025 | [Miquéias Ezequiel](https://github.com/Kael-web7)    | Ajuste da RNF29 | [Luan Vinícius](https://github.com/luannvi) |
+| ``2.5``  | 24/11/2025 | [Luan Vinícius](https://github.com/luannvi)    | Correções de requisitos | [Miquéias Ezequiel](https://github.com/Kael-web7) |

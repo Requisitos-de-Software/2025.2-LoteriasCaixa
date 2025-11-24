@@ -34,7 +34,7 @@ Os requisitos representados são:
 - RNF02 - O software deve ter imagens explicativas que mostrem as funções principais do aplicativo, em uma aba especial só para elas; 
 - RNF11 - O sistema deve garantir que o acesso a funcionalidades primárias seja feito através de componentes de interface autoexplicativos. Ícones de navegação, como o menu principal, devem ser acompanhados por um rótulo textual (ex: "Menu");
 - RNF20 - O aplicativo deve apresentar uma forma de mostrar os resultados em tempo real;
-- RNF26 - O termo de uso especifica os riscos para o usuário.
+- RNF27 - O termo de uso especifica os riscos para o usuário.
 
 ## Tabela de contribuição 
 
@@ -44,7 +44,7 @@ Os requisitos representados são:
 |Samuel Felipe| prototipação do [RF37](#rf37), [RF39](#rf39) |
 |Miqueias Ezequiel| prototipação do [RF32](#rf32), [RF38](#rf38) |
 | Luan Vinícius | prototipação do [RF28](#rf28), [RNF11](#rnf11) |
-| João Pedro | prototipação do [RNF20](#rnf20),  [RNF26](#rnf26) |
+| João Pedro | prototipação do [RNF20](#rnf20),  [RNF27](#rnf27) |
 | Rivadalvio Joaquim | prototipação do [RF23](#rf23), [RF40](#rf40) |
 | Nayra Silva | prototipação do [RF36](#rf36) |
 
@@ -146,13 +146,13 @@ Os requisitos representados são:
 | Descrição | O aplicativo deve apresentar uma forma de mostrar os resultados em tempo real. |
 | Representação | ![img rnf20](../images/validação/RNF20.gif) |
 
-## RNF26
+## RNF27
 
 | Item | Descrição |
 | ---- | --------- |
-| id Requisito | [RNF26](../Pós-rastreabilidade/Backward%20from.md#RNF26) |
+| id Requisito | [RNF27](../Pós-rastreabilidade/Backward%20from.md#RNF27) |
 | Descrição | O termo de uso especifica os riscos para o usuário. |
-| Representação | ![img rnf26](../images/validação/RNF26.gif) |
+| Representação | ![img rnf27](../images/validação/RNF26.gif) |
 
 
 ## Protótipo de alta fidelidade 
@@ -169,7 +169,7 @@ Foi feita a validação com o usuário Marcio Junior, que aprovou o requisito pr
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CZsvbXj02ow?si=x-n3-AK15ylOqrmv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### RNF20 e RNF26
+### RNF20 e RNF27
 
 Foi feita a validação com o usuário Janice José Araújo, que aprovou o requisito prototipado.
 
